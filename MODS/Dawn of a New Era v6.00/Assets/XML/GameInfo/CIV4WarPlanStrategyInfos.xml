@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!-- Startegy (WARPLAN_PREPARING_LIGHT_ATTACK_FROM_SEA_TO_DESTROY_CITIES_PLANTS, WARPLAN_PREPARING_ATTACK_FROM_SEA_TO_CAPTURE_CITY, WARPLAN_PREPARING_ATTACK_FROM_SEA_TO_DESTROY_CITY_PLANTS_BY_SURPRISE) -->
+<!-- NewEraType (NEW_ERA_DISCOVERY, NEW_ERA_EXPANSION, NEW_ERA_PATRIOTISM, NEW_ERA_INDEPENDENCE) -->
+<!-- Handicap Type  (HANDICAP_PILGRIM, HANDICAP_PIONEER, HANDICAP_EXPLORER, HANDICAP_CONQUISTADOR, HANDICAP_GOVERNOR, HANDICAP_PATRIOT, HANDICAP_REVOLUTIONARY) -->
+<Civ4WarPlanStrategyInfos xmlns="x-schema:CIV4GameInfoSchema.xml">
+	<WarPlanStrategyInfos>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_ATTACKED_RECENT</Type>
+			<Description>TXT_KEY_WARPLAN_ATTACKED_RECENT</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_ATTACKED</Type>
+			<Description>TXT_KEY_WARPLAN_ATTACKED</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_PREPARING_LIMITED</Type>
+			<Description>TXT_KEY_WARPLAN_PREPARING_LIMITED</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_PREPARING_TOTAL</Type>
+			<Description>TXT_KEY_WARPLAN_PREPARING_TOTAL</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_LIMITED</Type>
+			<Description>TXT_KEY_WARPLAN_LIMITED</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_TOTAL</Type>
+			<Description>TXT_KEY_WARPLAN_TOTAL</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_DOGPILE</Type>
+			<Description>TXT_KEY_WARPLAN_DOGPILE</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_EXTORTION</Type>
+			<Description>TXT_KEY_WARPLAN_EXTORTION</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_PREPARING_ATTACK_FROM_SEA_TO_CAPTURE_CITY</Type>
+			<Description>TXT_KEY_WARPLAN_PREPARING_ATTACK_FROM_SEA_TO_CAPTURE_CITY</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_PREPARING_ATTACK_FROM_SEA_TO_DESTROY_CITY_PLANTS_BY_SURPRISE</Type>
+			<Description>TXT_KEY_WARPLAN_PREPARING_ATTACK_FROM_SEA_TO_DESTROY_CITY_PLANTS_BY_SURPRISE</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_PREPARING_LIGHT_ATTACK_FROM_SEA_TO_DESTROY_CITIES_PLANTS</Type>
+			<Description>TXT_KEY_WARPLAN_PREPARING_LIGHT_ATTACK_FROM_SEA_TO_DESTROY_CITIES_PLANTS</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_ATTACK_FROM_SEA_TO_CAPTURE_CITY</Type>
+			<Description>TXT_KEY_WARPLAN_ATTACK_FROM_SEA_TO_CAPTURE_CITY</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_ATTACK_FROM_SEA_TO_DESTROY_CITY_PLANTS_BY_SURPRISE</Type>
+			<Description>TXT_KEY_WARPLAN_ATTACK_FROM_SEA_TO_DESTROY_CITY_PLANTS_BY_SURPRISE</Description>
+		</WarPlanStrategyInfo>
+		<WarPlanStrategyInfo>
+			<Type>WARPLAN_LIGHT_ATTACK_FROM_SEA_TO_DESTROY_CITIES_PLANTS</Type>
+			<Description>TXT_KEY_WARPLAN_LIGHT_ATTACK_FROM_SEA_TO_DESTROY_CITIES_PLANTS</Description>
+		</WarPlanStrategyInfo>
+	</WarPlanStrategyInfos>
+</Civ4WarPlanStrategyInfos>
+

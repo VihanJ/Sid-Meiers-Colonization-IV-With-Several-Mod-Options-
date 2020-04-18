@@ -1,0 +1,29 @@
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Global Defines Schema -->
+<Schema xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+	<ElementType name="DefineName" content="textOnly"/>
+	<ElementType name="iDefineIntVal" content="textOnly" dt:type="int"/>
+	<ElementType name="fDefineFloatVal" content="textOnly"/>
+	<ElementType name="DefineTextVal" content="textOnly"/>
+	<ElementType name="bDefineBoolVal" content="textOnly" dt:type="boolean"/>
+	<ElementType name="scDefineSCharVal" content="textOnly" dt:type="i1"/>
+	<ElementType name="ucDefineUCharVal" content="textOnly" dt:type="ui1"/>
+	<ElementType name="swDefineSWordVal" content="textOnly" dt:type="i2"/>
+	<ElementType name="uwDefineUWordVal" content="textOnly" dt:type="ui2"/>
+	<ElementType name="Define" content="eltOnly">
+		<element type="DefineName"/>
+		<element type="iDefineIntVal" minOccurs="0"/>
+		<element type="fDefineFloatVal" minOccurs="0"/>
+		<element type="DefineTextVal" minOccurs="0"/>
+		<element type="bDefineBoolVal" minOccurs="0"/>
+		<element type="scDefineSCharVal" minOccurs="0"/>
+		<element type="ucDefineUCharVal" minOccurs="0"/>
+		<element type="swDefineSWordVal" minOccurs="0"/>
+		<element type="uwDefineUWordVal" minOccurs="0"/>
+	</ElementType>
+	<ElementType name="Civ4Defines" content="eltOnly">
+		<element type="Define" minOccurs="0" maxOccurs="*"/>
+	</ElementType>
+</Schema>

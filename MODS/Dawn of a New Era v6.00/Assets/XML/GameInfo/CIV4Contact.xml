@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!-- Fratelli Marconi : M07 -->
+<!-- Processus Infos -->
+<Civ4ProcessusInfos xmlns="x-schema:CIV4ImmigrationInfosSchema.xml">
+	<ProcessusInfos>
+		<ProcessusInfo>
+			<Type>PROCESSUS_FOOD</Type>
+		</ProcessusInfo>
+		<ProcessusInfo>
+			<Type>PROCESSUS_RELIGION</Type>
+		</ProcessusInfo>
+		<ProcessusInfo>
+			<Type>PROCESSUS_ECONOMIC</Type>
+		</ProcessusInfo>
+		<ProcessusInfo>
+			<Type>PROCESSUS_MILITARY</Type>
+		</ProcessusInfo>
+		<ProcessusInfo>
+			<Type>PROCESSUS_POLITICS</Type>
+		</ProcessusInfo>
+	</ProcessusInfos>
+</Civ4ProcessusInfos>

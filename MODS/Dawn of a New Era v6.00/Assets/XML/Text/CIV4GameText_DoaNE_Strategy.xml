@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_WAGON_TRAIN_ARMY_STRATEGY</Tag>
+    <English>[COLOR_UNIT_TEXT]Convoys of military[COLOR_REVERT] are invaluable tools for transporting troops. [COLOR_UNIT_TEXT]Convoys of military[COLOR_REVERT] trucks can carry armed troops and goods throughout the territory, meaning that they can reach settlements that do not lie on the coast. They are the key to expansion into the continental interior.</English>
+    <French>Les [COLOR_UNIT_TEXT]Convois de chariots militaires[COLOR_REVERT] sont de pr&#xE9;cieux outils pour le transport de troupes. Les [COLOR_UNIT_TEXT]Convois de chariots militaires[COLOR_REVERT] peuvent transporter des troupes arm&#xE9;es ainsi que des marchandises &#xE0; travers tout le territoire, ce qui signifie qu'ils peuvent atteindre des colonies qui ne se trouvent pas sur la c&#xF4;te. Ils jouent donc un r&#xF4;le majeur dans le controle des terres continentales.</French>
+    <German>[COLOR_UNIT_TEXT]Planwagenkonvois[COLOR_REVERT] sind unsch&#xE4;tzbare Hilfen f&#xFC;r den Handel &#xFC;ber den Landweg. [COLOR_UNIT_TEXT]Planwagenkonvois[COLOR_REVERT] k&#xF6;nnen G&#xFC;ter quer durch das Land zu Siedlungen bringen und k&#xF6;nnen so auch Siedlungen erreichen, die nicht an der K&#xFC;ste liegen. Sie sind der Schl&#xFC;ssel zur Expansion ins Landesinnere.</German>
+    <Italian>Le [COLOR_UNIT_TEXT]colonne di carovane[COLOR_REVERT] sono preziosi strumenti per il commercio terrestre. Le [COLOR_UNIT_TEXT]colonne di carovane[COLOR_REVERT] possono trasportare i beni tra gli insediamenti via terra, il che significa che possono raggiungere gli insediamenti che non si trovano sulla costa. Sono la chiave per l'espansione verso l'interno del continente.</Italian>
+    <Spanish>Las [COLOR_UNIT_TEXT]Caravanas de carromatos[COLOR_REVERT] son unas herramientas para el comercio terrestre que no tienen precio. Las [COLOR_UNIT_TEXT]Caravanas de carromatos[COLOR_REVERT] pueden transportar mercanc&#xED;as de un asentamiento a otro por tierra, lo cual comporta que no pueden llegar a los que se encuentren en la costa. Son la clave para la expansi&#xF3;n hacia el interior del continente.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_AGRONOME_STRATEGY</Tag>
+    <English>This unit, available only in Europe, would be extremely useful if you want to build cities away from all kinds of bonuses. The agronomist can sow cotton, tobacco, and especially corn, but the unit is destroyed once its task has been accomplished.</English>
+    <French>Cette unit&#xE9;, uniquement disponible en Europe, sera d'une grande utilit&#xE9; si vous souhaitez construire des villes loin de toutes sortes de bonus. L'agonome pourra semer du coton, du tabac, et surtout du ma&#xEF;s; mais l'unit&#xE9; sera d&#xE9;truite d&#xE8;s que sa tache aura &#xE9;t&#xE9; accomplie.</French>
+    <German>This unit, available only in Europe, would be extremely useful if you want to build cities away from all kinds of bonuses. The agronomist can sow cotton, tobacco, and especially corn, but the unit is destroyed once its task has been accomplished.</German>
+    <Italian>This unit, available only in Europe, would be extremely useful if you want to build cities away from all kinds of bonuses. The agronomist can sow cotton, tobacco, and especially corn, but the unit is destroyed once its task has been accomplished.</Italian>
+    <Spanish>This unit, available only in Europe, would be extremely useful if you want to build cities away from all kinds of bonuses. The agronomist can sow cotton, tobacco, and especially corn, but the unit is destroyed once its task has been accomplished.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_BUILDER_WAGON_STRATEGY</Tag>
+    <English>The[COLOR_UNIT_TEXT]Convoys Builders[COLOR_REVERT] permitted to found the colonies (Now, the colonists or other units cannot to found). They are available on the European docks or are manufactured (such the wagon train or naval units) by the work provided by the sawmill. However manufacture claims wood addition and tools for the raw material equipment. When you found the colony, you will not see colonist to appear. He belongs to his structure.</English>
+    <French>Les [COLOR_UNIT_TEXT]Convois B&#xE2;tisseurs[COLOR_REVERT] permettent de fonder les colonies (Les colons ou autres unit&#xE9;s ne peuvent plus en fonder). Ils sont disponible sur les docks Europ&#xE9;ens ou se fabriquent, tels les chariots ou les unit&#xE9;s navales, par le travail fourni par la scierie. Cependant la fabrication r&#xE9;clame un ajout de bois et d'outils pour l'&#xE9;quipement en mati&#xE8;res premi&#xE8;res. Lorsque vous fonderez la colonie, vous ne verrez pas de colon appara&#xEE;tre. Il appartient &#xE0; sa structure.</French>
+    <German>The[COLOR_UNIT_TEXT]Convoys Builders[COLOR_REVERT] permitted to found the colonies (Now, the colonists or other units cannot to found). They are available on the European docks or are manufactured (such the wagon train or naval units) by the work provided by the sawmill. However manufacture claims wood addition and tools for the raw material equipment. When you found the colony, you will not see colonist to appear. He belongs to his structure.</German>
+    <Italian>I [COLOR_UNIT_TEXT]Convogli Costruttori[COLOR_REVERT] permettono di fondare le colonie (I coloni o altre unit&#xE0; non possono pi&#xF9; fondare). Sono disponibili sui docks europei o si fabbricano (come i colonne di carovane o le unit&#xE0; navali) per il lavoro fornito dalla segheria. Tuttavia la fabbricazione richiede un'aggiunta di boschi e di attrezzi per l'attrezzatura in materie prime. Quando fonderete la colonia, non vedrete di colono apparire. Appartiene alla sua struttura.</Italian>
+    <Spanish>The[COLOR_UNIT_TEXT]Convoys Builders[COLOR_REVERT] permitted to found the colonies (Now, the colonists or other units cannot to found). They are available on the European docks or are manufactured (such the wagon train or naval units) by the work provided by the sawmill. However manufacture claims wood addition and tools for the raw material equipment. When you found the colony, you will not see colonist to appear. He belongs to his structure.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_INDUSTRIAL_LUMBER_MILL_STRATEGY</Tag>
+    <English>The [COLOR_BUILDING_TEXT]industrial sawmill[COLOR_REVERT] allows to increase of 50 % the speed of construction.</English>
+    <French>La [COLOR_BUILDING_TEXT]scierie industrielle[COLOR_REVERT] permet de majorer de 50% la vitesse de construction.</French>
+    <German>Die [COLOR_BUILDING_TEXT]industrielle S&#xE4;gem&#xFC;hle[COLOR_REVERT] erlaubt, 50 % die Baugeschwindigkeit anzuheben.</German>
+    <Italian>La [COLOR_BUILDING_TEXT]segheria industriale[COLOR_REVERT] permette di aumentare del 50% la velocit&#xE0; di costruzione.</Italian>
+    <Spanish>El [COLOR_BUILDING_TEXT]aserradero industrial[COLOR_REVERT] permite sobreestimar del 50 % la velocidad de construcci&#xF3;n.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_INDIGO_PLANTER_STRATEGY</Tag>
+    <English>[COLOR_UNIT_TEXT]Expert Indigo Planters[COLOR_REVERT] are the finest workers available when it comes to creating bountiful [COLOR_HIGHLIGHT_TEXT]Indigo[COLOR_REVERT] crops. Any Indigo-producing tile they work will have its Indigo production doubled!</English>
+    <French>Il n'y a pas mieux qu'un [COLOR_UNIT_TEXT]Planteur d'indigo professionnel[COLOR_REVERT] pour produire d'abondantes cultures d'[COLOR_HIGHLIGHT_TEXT]Indigo[COLOR_REVERT]. Les Planteurs d'indigo professionnels doublent la production d'indigon dans la case qu'ils exploitent !</French>
+    <German>[COLOR_UNIT_TEXT]Erfahrene Indigopflanzer[COLOR_REVERT] sind die besten Arbeiter, wenn es darum geht, [COLOR_HIGHLIGHT_TEXT]Indigo[COLOR_REVERT] anzupflanzen. Die Indigoproduktion jedes Indigo produzierenden Gel&#xE4;ndefelds wird verdoppelt, wenn sie darauf arbeiten!</German>
+    <Italian>I [COLOR_UNIT_TEXT]coltivatori esperti di indicado[COLOR_REVERT] sono i migliori lavoratori disponibili, quando si tratta di ottenere grandi raccolti di [COLOR_HIGHLIGHT_TEXT]indicado[COLOR_REVERT]. Ogni casella produttrice di indicado in cui lavorano raddoppia la produzione!</Italian>
+    <Spanish>Los [COLOR_UNIT_TEXT]Plantadores de indigo expertos[COLOR_REVERT] son los mejores trabajadores disponibles cuando se trata de obtener una copiosa recolecta de [COLOR_HIGHLIGHT_TEXT]Indigo[COLOR_REVERT]. Cualquier casilla en la que trabajen y produzca indigo doblar&#xE1; su producci&#xF3;n de &#xE9;ste.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COFFEE_PLANTER_STRATEGY</Tag>
+    <English>[COLOR_UNIT_TEXT]Expert Coffee Planters[COLOR_REVERT] produce double the amount of [COLOR_HIGHLIGHT_TEXT]Coffee[COLOR_REVERT] from any tile they work.</English>
+    <French>Les [COLOR_UNIT_TEXT]Planteurs de Caf&#xE9; professionnels[COLOR_REVERT] doublent la production de [COLOR_HIGHLIGHT_TEXT]Caf&#xE9;[COLOR_REVERT] dans la case o&#xF9; ils travaillent.</French>
+    <German>[COLOR_UNIT_TEXT]Erfahrene Kaffeepflanzer[COLOR_REVERT] verdoppeln den [COLOR_HIGHLIGHT_TEXT]Kaffee[COLOR_REVERT]ertrag jedes Gel&#xE4;ndefelds, auf dem sie arbeiten.</German>
+    <Italian>I [COLOR_UNIT_TEXT]coltivatori esperti di Caff&#xE8;[COLOR_REVERT] Raddoppiano infatti la quantit&#xE0; di [COLOR_HIGHLIGHT_TEXT]Caff&#xE8;[COLOR_REVERT] prodotta dalla casella in cui lavorano.</Italian>
+    <Spanish>Los [COLOR_UNIT_TEXT]Plantadores de Caf&#xE9; expertos[COLOR_REVERT] produce el doble de cantidad de [COLOR_HIGHLIGHT_TEXT]Caf&#xE9;[COLOR_REVERT] en cualquier casilla en la que trabaje.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_SAILOR_EXPERT_STRATEGY</Tag>
+    <English>Identical unit than the sailor, it is the elite crew of ships. His expert status enables him to get faster experience in combat.</English>
+    <French>Unit&#xE9; identique au Marin, elle est l'&#xE9;lite des &#xE9;quipages de navire. Son rang d'expert lui permet d'obtenir plus rapidement de l'exp&#xE9;rience lors des combats.</French>
+    <German>Identical unit than the sailor, it is the elite crew of ships. His expert status enables him to get faster experience in combat.</German>
+    <Italian>Unit&#xE0; identica al Marinaio, &#xE8; l'&#xE9;lite degli equipaggi di nave. La sua riga di perito gli permette di ottenere pi&#xF9; velocemente dell'esperienza in seguito a combattimenti vittoriosi.</Italian>
+    <Spanish>Identical unit than the sailor, it is the elite crew of ships. His expert status enables him to get faster experience in combat.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_DOCTOR_STRATEGY</Tag>
+    <English>This unit heal your military troops on the battle field.</English>
+    <French>Cette unit&#xE9; soigne vos troupes militaires sur le champ de bataille.</French>
+    <German>Diese Einheit heilt ihre milit&#xE4;rischen Truppen auf dem Schlachtfeld.</German>
+    <Italian>Questa unit&#xE0; guarisce le vostre truppe militari sul campo di battaglia.</Italian>
+    <Spanish>Esta unidad cura sus tropas militares sobre el campo de batalla.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_DOCTOR_EXPERT_STRATEGY</Tag>
+    <English>This expert unit heal your military troops more effectively than the Military Doctor.</English>
+    <French>Cette unit&#xE9; experte soigne vos troupes militaires de mani&#xE8;re plus efficace que le m&#xE9;decin militaire.</French>
+    <German>Diese Einheit heilt Expertin ihre milit&#xE4;rischen Truppen wirksamer, als der Milit&#xE4;rarzt.</German>
+    <Italian>Questa unit&#xE0; esperta guarisce pi&#xF9; efficacemente del medico militare le vostre truppe militari.</Italian>
+    <Spanish>Esta unidad experta cura sus tropas militares mas eficazmente que el Medico Militar.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_SAILOR_STRATEGY</Tag>
+    <English>The sailor unit is designed to run a ship. Without it, a ship can't take the sea.[NEWLINE]Settlers, criminals or experienced sailors can receive the sailor profession and then they will be able to integrate a ship as a crew member.[NEWLINE]When victorious naval battle, it is the crew that gets the experience points instead of the ship.[NEWLINE]In case of damage, the crew and ship are affected equally.[NEWLINE]The crew embarkation can be done with an icon in the bottom of the game window, you can embark the crew whenever you want and disembark on another vessel using icons.[NEWLINE]You can swap two crews in selecting two ships involved and click on the icon of "swap".[NEWLINE]When a crew is embarked or swapped, the ship can leave port the next turn.NEWLINE]You can assign a General to a ship's crew.</English>
+    <French>Le Marin est l'unit&#xE9; destin&#xE9; &#xE0; diriger un navire. Sans lui, un navire ne peut pas prendre la mer.[NEWLINE]Un Colon Libre, un D&#xE9;linquant ou un Marin Exp&#xE9;riment&#xE9; peuvent recevoir la profession de Marin et ensuite int&#xE9;grer un navire en tant que membre d'&#xE9;quipage.[NEWLINE]Lors de combats navals victorieux, c'est l'&#xE9;quipage qui obtient les points d'exp&#xE9;rience et non plus le navire.[NEWLINE]En cas de d&#xE9;g&#xE1;ts, l'&#xE9;quipage et le navire sont touch&#xE9;s de la m&#xEA;me mani&#xE8;re.[NEWLINE]L'embarquement d'un &#xE9;quipage se fait &#xE0; l'aide d'une ic&#xF4;ne situ&#xE9;e dans le bas de la fen&#xEA;tre de jeu. Vous pouvez d&#xE9;barquer cet &#xE9;quipage quand bon vous semble et le r&#xE9;embarquer sur un autre navire &#xE0; l'aide des ic&#xF4;nes.[NEWLINE]Vous pouvez faire permuter deux &#xE9;quipages en s&#xE9;lectionnant les deux navires concern&#xE9;s et cliquer sur l'ic&#xF4;ne de "permutation".[NEWLINE]Lorsqu'un &#xE9;quipage est embarqu&#xE9; ou permut&#xE9;, le navire ne pourra quitter le port que le tour suivant.[NEWLINE]Vous pouvez affecter un G&#xE9;n&#xE9;ral Illustre &#xE0; un &#xE9;quipage de navire.</French>
+    <German>The sailor unit is designed to run a ship. Without it, a ship can't take the sea.[NEWLINE]Settlers, criminals or experienced sailors can receive the sailor profession and then they will be able to integrate a ship as a crew member.[NEWLINE]When victorious naval battle, it is the crew that gets the experience points instead of the ship.[NEWLINE]In case of damage, the crew and ship are affected equally.[NEWLINE]The crew embarkation can be done with an icon in the bottom of the game window, you can embark the crew whenever you want and disembark on another vessel using icons.[NEWLINE]You can swap two crews in selecting two ships involved and click on the icon of "swap".[NEWLINE]When a crew is embarked or swapped, the ship can leave port the next turn.NEWLINE]You can assign a General to a ship's crew.</German>
+    <Italian>Il Marinaio &#xE8; l'unit&#xE0; destinata a dirigere una nave. Senza lui, una nave non pu&#xF2; andare sul mare.[NEWLINE]Un Colono Libero, un Picolo Criminale o un Marinaio sperimentato pu&#xF2; ricevere la professione di Marinaio en cliquant sur "Cambia Professione" e poi integrare una nave in quanto membro di equipaggio.[NEWLINE]In seguito a combattimenti navali vittoriosi, &#xE8; l'equipaggio che ottiene i punti di esperienza e non la nave.[NEWLINE]In caso di danni, l'equipaggio e la nave sono toccati dallo stesso modo.[NEWLINE]L'imbarco di un equipaggio si fa con l'aiuto di un'icona localizzata nel basso della finestra di gioco. Potete sbarcare questo equipaggio quando buono vi sembra ed il reimbarcare su un'altra nave con l'aiuto delle icone. Potete fare cambiare due equipaggi selezionando le due navi riguardate e cliccare sull'icona di "permuta."[NEWLINE]Quando un equipaggio &#xE8; imbarcato cambiato o, la nave non potr&#xE0; uscire dal porto che il seguente giro.[NEWLINE]Potete affettare un Generale Illustri ad un equipaggio di nave.</Italian>
+    <Spanish>The sailor unit is designed to run a ship. Without it, a ship can't take the sea.[NEWLINE]Settlers, criminals or experienced sailors can receive the sailor profession and then they will be able to integrate a ship as a crew member.[NEWLINE]When victorious naval battle, it is the crew that gets the experience points instead of the ship.[NEWLINE]In case of damage, the crew and ship are affected equally.[NEWLINE]The crew embarkation can be done with an icon in the bottom of the game window, you can embark the crew whenever you want and disembark on another vessel using icons.[NEWLINE]You can swap two crews in selecting two ships involved and click on the icon of "swap".[NEWLINE]When a crew is embarked or swapped, the ship can leave port the next turn.NEWLINE]You can assign a General to a ship's crew.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_PATRIOTS_STRATEGY</Tag>
+    <English>You can create Patriots from the settlement screen. All one needs is an available colonist and the necessary number of weapons. One button push and VOILA! Self-defense is at your fingertips.</English>
+    <French>Vous pouvez cr&#xE9;er des Patriotes &#xE0; partir de l'&#xE9;cran de colonisation. Tout ce dont vous avez besoin, c'est d'un colon disponible et du nombre d'armes requis. Vous n'avez plus qu'&#xE0; cliquer et voil&#xE0; ! Vous &#xEA;tes d&#xE9;sormais en mesure de vous d&#xE9;fendre.</French>
+    <German>Sie k&#xF6;nnen im Siedlungsbildschirm Soldaten rekrutieren. Sie ben&#xF6;tigen nur einen verf&#xFC;gbaren Kolonisten und die erforderliche Menge an Waffen, und schon steht Ihnen ein Verteidiger zur Verf&#xFC;gung.</German>
+    <Italian>Puoi creare i soldati nella schermata dell'insediamento. Tutto ci&#xF2; di cui hai bisogno sono un colono disponibile e il necessario numero di armi. Poi premi un tasto e VOILA! Autodifesa pronta per essere usata.</Italian>
+    <Spanish>Desde la pantalla del asentamiento pod&#xE9;is crear Soldados. Todo lo que necesit&#xE1;is es tener un Colono disponible y el n&#xFA;mero de Mosquetes necesario. Puls&#xE1;is un bot&#xF3;n y, &#xA1;tach&#xE1;n!... La defensa propia al alcance de vuestra mano.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_DRYDOCK_IMPROVED_STRATEGY</Tag>
+    <English>The [COLOR_BUILDING_TEXT]improved Drydock[COLOR_REVERT], the upgrade to the [COLOR_BUILDING_TEXT]Drydock[COLOR_REVERT], allows its settlement to construct the [COLOR_UNIT_TEXT]Caravel[COLOR_REVERT], [COLOR_UNIT_TEXT]Merchantman[COLOR_REVERT], [COLOR_UNIT_TEXT]Privateer[COLOR_REVERT] and [COLOR_UNIT_TEXT]Galleon[COLOR_REVERT] ship units, along with all the other bonuses provided by the [COLOR_BUILDING_TEXT]Dock[COLOR_REVERT].</English>
+    <French>La [COLOR_BUILDING_TEXT]cale s&#xE8;che am&#xE9;lior&#xE9;[COLOR_REVERT], l'am&#xE9;lioration de la [COLOR_BUILDING_TEXT]cale s&#xE8;che[COLOR_REVERT], permet &#xE0; sa colonie la construction de [COLOR_UNIT_TEXT]caravelles[COLOR_REVERT], de [COLOR_UNIT_TEXT]navires marchands[COLOR_REVERT], de navires [COLOR_UNIT_TEXT]corsaires[COLOR_REVERT] et de [COLOR_UNIT_TEXT]galions[COLOR_REVERT], tout en conservant les bonus apport&#xE9;s par le [COLOR_BUILDING_TEXT]dock[COLOR_REVERT].</French>
+    <German>Das [COLOR_BUILDING_TEXT]Trockendock[COLOR_REVERT], die Verbesserung des [COLOR_BUILDING_TEXT]Docks[COLOR_REVERT], erm&#xF6;glicht den Bau der Schiffe [COLOR_UNIT_TEXT]Karavelle[COLOR_REVERT], [COLOR_UNIT_TEXT]Kauffahrer[COLOR_REVERT], [COLOR_UNIT_TEXT]Freibeuter[COLOR_REVERT] und [COLOR_UNIT_TEXT]Galeone[COLOR_REVERT], neben all den anderen Boni, die das [COLOR_BUILDING_TEXT]Dock[COLOR_REVERT] gew&#xE4;hrt.</German>
+    <Italian>Il [COLOR_BUILDING_TEXT]bacino di carenaggio[COLOR_REVERT], l'aggiornamento del [COLOR_BUILDING_TEXT]molo[COLOR_REVERT], permette di costruire [COLOR_UNIT_TEXT]caravelle[COLOR_REVERT], [COLOR_UNIT_TEXT]mercantili[COLOR_REVERT], [COLOR_UNIT_TEXT]navi corsare[COLOR_REVERT] e [COLOR_UNIT_TEXT]galeoni[COLOR_REVERT], oltre a tutti gli altri bonus forniti dal [COLOR_BUILDING_TEXT]molo[COLOR_REVERT].</Italian>
+    <Spanish>El [COLOR_BUILDING_TEXT]Dique seco[COLOR_REVERT], la modernizaci&#xF3;n del [COLOR_BUILDING_TEXT]Muelle[COLOR_REVERT], permite al asentamiento construir unidades de [COLOR_UNIT_TEXT]Carabela[COLOR_REVERT], [COLOR_UNIT_TEXT]Nav&#xED;o mercante[COLOR_REVERT], [COLOR_UNIT_TEXT]Corsario[COLOR_REVERT] y [COLOR_UNIT_TEXT]Gale&#xF3;n[COLOR_REVERT], aparte de las dem&#xE1;s bonificaciones que da el [COLOR_BUILDING_TEXT]Muelle[COLOR_REVERT].</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_INDUSTRIAL_LUMBER_MILL_STRATEGY</Tag>
+    <English>The [COLOR_BUILDING_TEXT]industrial sawmill[COLOR_REVERT] allows to increase of 50 % the speed of construction.</English>
+    <French>La [COLOR_BUILDING_TEXT]scierie industrielle[COLOR_REVERT] permet de majorer de 50% la vitesse de construction.</French>
+    <German>Die [COLOR_BUILDING_TEXT]industrielle S&#xE4;gem&#xFC;hle[COLOR_REVERT] erlaubt, 50 % die Baugeschwindigkeit anzuheben.</German>
+    <Italian>La [COLOR_BUILDING_TEXT]segheria industriale[COLOR_REVERT] permette di aumentare del 50% la velocit&#xE0; di costruzione.</Italian>
+    <Spanish>El [COLOR_BUILDING_TEXT]aserradero industrial[COLOR_REVERT] permite sobreestimar del 50 % la velocidad de construcci&#xF3;n.</Spanish>
+  </TEXT>
+</Civ4GameText>

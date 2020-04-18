@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!-- Fratelli Marconi : M07 -->
+<!-- Attitude Infos -->
+<Civ4AttitudeInfos xmlns="x-schema:CIV4GameInfoSchema.xml">
+	<AttitudeInfos>
+		<AttitudeInfo>
+			<Type>ATTITUDE_FURIOUS</Type>
+			<Description>TXT_KEY_ATTITUDE_FURIOUS</Description>
+			<ucNoWarProb>0</ucNoWarProb>
+		</AttitudeInfo>			
+		<AttitudeInfo>
+			<Type>ATTITUDE_ANNOYED</Type>
+			<Description>TXT_KEY_ATTITUDE_ANNOYED</Description>
+			<ucNoWarProb>20</ucNoWarProb>
+		</AttitudeInfo>
+		<AttitudeInfo>
+			<Type>ATTITUDE_CAUTIOUS</Type>
+			<Description>TXT_KEY_ATTITUDE_CAUTIOUS</Description>
+			<ucNoWarProb>50</ucNoWarProb>
+		</AttitudeInfo>
+		<AttitudeInfo>
+			<Type>ATTITUDE_PLEASED</Type>
+			<Description>TXT_KEY_ATTITUDE_PLEASED</Description>
+			<ucNoWarProb>90</ucNoWarProb>
+		</AttitudeInfo>
+		<AttitudeInfo>
+			<Type>ATTITUDE_FRIENDLY</Type>
+			<Description>TXT_KEY_ATTITUDE_FRIENDLY</Description>
+			<ucNoWarProb>100</ucNoWarProb>
+		</AttitudeInfo>
+	</AttitudeInfos>
+</Civ4AttitudeInfos>

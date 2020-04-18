@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_TITLE</Tag>
+    <English>Record</English>
+    <French>Registre</French>
+    <German>Record</German>
+    <Italian>Record</Italian>
+    <Spanish>Record</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_SUBTITLE</Tag>
+    <English>Income and Expenditures</English>
+    <French>Revenus et charges</French>
+    <German>Income and Expenditures</German>
+    <Italian>Income and Expenditures</Italian>
+    <Spanish>Income and Expenditures</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_SUBTITLE_THEME</Tag>
+    <English>~ Colonist ~</English>
+    <French>~ Colons ~</French>
+    <German>~ Colonist ~</German>
+    <Italian>~ Colonist ~</Italian>
+    <Spanish>~ Colonist ~</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_COLONY_NUMBER</Tag>
+    <English>Number of existing colonies: %d1</English>
+    <French>Nombre de colonies existantes : %d1</French>
+    <German>Number of existing colonies: %d1</German>
+    <Italian>Number of existing colonies: %d1</Italian>
+    <Spanish>Number of existing colonies: %d1</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_INCOME</Tag>
+    <English>Income:</English>
+    <French>Revenus :</French>
+    <German>Income:</German>
+    <Italian>Income:</Italian>
+    <Spanish>Income:</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_COLONISTS_INTO_COLONIES</Tag>
+    <English>- %d1 colonist(s) into colonies (%d2 gold/unit): %d3 gold/turn</English>
+    <French>- %d1 colon(s) dans les colonies (%d2 or/unit&#xE9;): %d3 or/tour</French>
+    <German>- %d1 colonist(s) into colonies (%d2 gold/unit): %d3 gold/turn</German>
+    <Italian>- %d1 colonist(s) into colonies (%d2 gold/unit): %d3 gold/turn</Italian>
+    <Spanish>- %d1 colonist(s) into colonies (%d2 gold/unit): %d3 gold/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_BONUS</Tag>
+    <English>- Bonus / improving overall productivity - %d1%% increase due to the presence of statesmen: %d2 gold/turn</English>
+    <French>- Bonus/am&#xE9;lioration productivit&#xE9; globale - %d1%% de majoration d&#xFB; &#xE0; la pr&#xE9;sence des hommes d'&#xE9;tat : %d2 or/tour</French>
+    <German>- Bonus / improving overall productivity - %d1%% increase due to the presence of statesmen: %d2 gold/turn</German>
+    <Italian>- Bonus / improving overall productivity - %d1%% increase due to the presence of statesmen: %d2 gold/turn</Italian>
+    <Spanish>- Bonus / improving overall productivity - %d1%% increase due to the presence of statesmen: %d2 gold/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_BONUS_HELP</Tag>
+    <English>Men state considerably increases the productivity of your colonies. The more you have, the more you increase the income received on the colonists.</English>
+    <French>Les hommes d'&#xE9;tat augmente consid&#xE9;rablement la productivit&#xE9; de vos colonies. Plus vous en aurez, plus vous majorerez les revenus per&#xE7;us sur les colons.[NEWLINE]</French>
+    <German>Men state considerably increases the productivity of your colonies. The more you have, the more you increase the income received on the colonists.</German>
+    <Italian>Men state considerably increases the productivity of your colonies. The more you have, the more you increase the income received on the colonists.</Italian>
+    <Spanish>Men state considerably increases the productivity of your colonies. The more you have, the more you increase the income received on the colonists.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_SUBTOTAL_INCOME</Tag>
+    <English>Subtotal income:</English>
+    <French>Sous-total revenus :</French>
+    <German>Subtotal income:</German>
+    <Italian>Subtotal income:</Italian>
+    <Spanish>Subtotal income:</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_POSITIVE_GOLD_PER_TURN</Tag>
+    <English>+%d1[ICON_GOLD]/turn</English>
+    <French>+%d1[ICON_GOLD]/tour</French>
+    <German>+%d1[ICON_GOLD]/turn</German>
+    <Italian>+%d1[ICON_GOLD]/turn</Italian>
+    <Spanish>+%d1[ICON_GOLD]/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_EXPENDITURES_TITLE</Tag>
+    <English>Expenditures:</English>
+    <French>Charges :</French>
+    <German>Expenditures:</German>
+    <Italian>Expenditures:</Italian>
+    <Spanish>Expenditures:</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_PIONEER</Tag>
+    <English>- %d1 pioneers (%d2 gold/unit): %d3 gold/turn</English>
+    <French>- %d1 pionniers (%d2 or/unit&#xE9;) : %d3 or/tour</French>
+    <German>- %d1 pioneers (%d2 gold/unit): %d3 gold/turn</German>
+    <Italian>- %d1 pioneers (%d2 gold/unit): %d3 gold/turn</Italian>
+    <Spanish>- %d1 pioneers (%d2 gold/unit): %d3 gold/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_AGRONOMIST</Tag>
+    <English>- %d1 agronomists (%d2 gold/unit): %d3 gold/turn</English>
+    <French>- %d1 agronomes (%d2 or/unit&#xE9;) : %d3 or/tour</French>
+    <German>- %d1 agronomists (%d2 gold/unit): %d3 gold/turn</German>
+    <Italian>- %d1 agronomists (%d2 gold/unit): %d3 gold/turn</Italian>
+    <Spanish>- %d1 agronomists (%d2 gold/unit): %d3 gold/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_SCOUT</Tag>
+    <English> - %d1 scouts (%d2 gold/unit): %d3 gold/turn</English>
+    <French>- %d1 explorateurs (%d2 or/unit&#xE9;) : %d3 or/tour</French>
+    <German> - %d1 scouts (%d2 gold/unit): %d3 gold/turn</German>
+    <Italian> - %d1 scouts (%d2 gold/unit): %d3 gold/turn</Italian>
+    <Spanish> - %d1 scouts (%d2 gold/unit): %d3 gold/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_LAND_FORCES_INSIDE_COLONIES</Tag>
+    <English>- %d1 land forces inside colonies (%d2 gold/unit): %d3 gold/turn</English>
+    <French>- %d1 unit&#xE9;s militaires &#xE0; l'int&#xE9;rieur des colonies (%d2 or/unit&#xE9;) : %d3 or/tour</French>
+    <German>- %d1 land forces inside colonies (%d2 gold/unit): %d3 gold/turn</German>
+    <Italian>- %d1 land forces inside colonies (%d2 gold/unit): %d3 gold/turn</Italian>
+    <Spanish>- %d1 land forces inside colonies (%d2 gold/unit): %d3 gold/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_LAND_FORCES_OUTSIDE_COLONIES</Tag>
+    <English>- %d1 land forces outside colonies (%d2 gold/unit): %d3 gold/turn</English>
+    <French>- %d1 unit&#xE9;s militaires &#xE0; l'ext&#xE9;rieur des colonies (%d2 or/unit&#xE9;) : %d3 or/tour</French>
+    <German>- %d1 land forces outside colonies (%d2 gold/unit): %d3 gold/turn</German>
+    <Italian>- %d1 land forces outside colonies (%d2 gold/unit): %d3 gold/turn</Italian>
+    <Spanish>- %d1 land forces outside colonies (%d2 gold/unit): %d3 gold/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_MERCHANT_CREWS</Tag>
+    <English>- %d1 merchant crews (%d2 gold/unit): %d3 gold/turn</English>
+    <French>- %d1 &#xE9;quipages marine marchande (%d2 or/unit&#xE9;) : %d3 or/tour</French>
+    <German>- %d1 merchant crews (%d2 gold/unit): %d3 gold/turn</German>
+    <Italian>- %d1 merchant crews (%d2 gold/unit): %d3 gold/turn</Italian>
+    <Spanish>- %d1 merchant crews (%d2 gold/unit): %d3 gold/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_MERCHANT_CREWS_HELP</Tag>
+    <English>This number takes into account all the onboard crews in merchant ships. [NEWLINE]Any crew outside a ship will be considered as unemployed.</English>
+    <French>Ce nombre prend en compte tous les &#xE9;quipages de navire embarqu&#xE9;s dans des navires marchands.[NEWLINE]Tout &#xE9;quipage en dehors d'un navire sera consid&#xE9;r&#xE9; comme &#xE9;tant sans activit&#xE9;.</French>
+    <German>This number takes into account all the onboard crews in merchant ships. [NEWLINE]Any crew outside a ship will be considered as unemployed.</German>
+    <Italian>This number takes into account all the onboard crews in merchant ships. [NEWLINE]Any crew outside a ship will be considered as unemployed.</Italian>
+    <Spanish>This number takes into account all the onboard crews in merchant ships. [NEWLINE]Any crew outside a ship will be considered as unemployed.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_MILITARY_CREWS</Tag>
+    <English>- %d1 military crews (%d2 gold/unit): %d3 gold/turn</English>
+    <French>- %d1 &#xE9;quipages marine militaire (%d2 or/unit&#xE9;) : %d3 or/tour</French>
+    <German>- %d1 military crews (%d2 gold/unit): %d3 gold/turn</German>
+    <Italian>- %d1 military crews (%d2 gold/unit): %d3 gold/turn</Italian>
+    <Spanish>- %d1 military crews (%d2 gold/unit): %d3 gold/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_MILITARY_CREWS_HELP</Tag>
+    <English>This number takes into account all the onboard crews in military ships. [NEWLINE]Any crew outside a ship will be considered as unemployed.</English>
+    <French>Ce nombre prend en compte tous les &#xE9;quipages de navire embarqu&#xE9;s dans des navires militaires.[NEWLINE]Tout &#xE9;quipage en dehors d'un navire sera consid&#xE9;r&#xE9; comme &#xE9;tant sans activit&#xE9;.</French>
+    <German>This number takes into account all the onboard crews in military ships. [NEWLINE]Any crew outside a ship will be considered as unemployed.</German>
+    <Italian>This number takes into account all the onboard crews in military ships. [NEWLINE]Any crew outside a ship will be considered as unemployed.</Italian>
+    <Spanish>This number takes into account all the onboard crews in military ships. [NEWLINE]Any crew outside a ship will be considered as unemployed.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_UNEMPLOYED</Tag>
+    <English>- %d1 unemployed (%d2 gold/unit): %d3 gold/turn</English>
+    <French>- %d1 unit&#xE9;s sans activit&#xE9; (%d2 or/unit&#xE9;) : %d3 or/tour</French>
+    <German>- %d1 unemployed (%d2 gold/unit): %d3 gold/turn</German>
+    <Italian>- %d1 unemployed (%d2 gold/unit): %d3 gold/turn</Italian>
+    <Spanish>- %d1 unemployed (%d2 gold/unit): %d3 gold/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_UNEMPLOYED_HELP</Tag>
+    <English>Do not let the units without activity. Each turn, they cost you money and can slow down European immigration.</English>
+    <French>Ne laissez pas des unit&#xE9;s sans activit&#xE9;. Chaque tour, elles vous co&#xFB;tent de l'or et elles peuvent ralentir l'immigration europ&#xE9;enne.</French>
+    <German>Do not let the units without activity. Each turn, they cost you money and can slow down European immigration.</German>
+    <Italian>Do not let the units without activity. Each turn, they cost you money and can slow down European immigration.</Italian>
+    <Spanish>Do not let the units without activity. Each turn, they cost you money and can slow down European immigration.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_SUBTOTAL_EXPENDITURES</Tag>
+    <English>Subtotal expenditures:</English>
+    <French>Sous-total charges :</French>
+    <German>Subtotal expenditures:</German>
+    <Italian>Subtotal expenditures:</Italian>
+    <Spanish>Subtotal expenditures:</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_TOTAL_INCOME_EXPENDITURES</Tag>
+    <English>Total income and expenditures:</English>
+    <French>Total revenus et charges :</French>
+    <German>Total income and expenditures:</German>
+    <Italian>Total income and expenditures:</Italian>
+    <Spanish>Total income and expenditures:</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_GOLD_PER_TURN</Tag>
+    <English>%d1 [ICON_GOLD]/turn</English>
+    <French>%d1 [ICON_GOLD]/tour</French>
+    <German>%d1 [ICON_GOLD]/turn</German>
+    <Italian>%d1 [ICON_GOLD]/turn</Italian>
+    <Spanish>%d1 [ICON_GOLD]/turn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_DEBT</Tag>
+    <English>Debt contracted with Europe - Total:</English>
+    <French>Dette contract&#xE9;e aupr&#xE8;s de l'Europe - Total :</French>
+    <German>Debt contracted with Europe - Total:</German>
+    <Italian>Debt contracted with Europe - Total:</Italian>
+    <Spanish>Debt contracted with Europe - Total:</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_DEBT_AMOUNT</Tag>
+    <English>%d1[ICON_GOLD]</English>
+    <French>%d1[ICON_GOLD]</French>
+    <German>%d1[ICON_GOLD]</German>
+    <Italian>%d1[ICON_GOLD]</Italian>
+    <Spanish>%d1[ICON_GOLD]</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_DEBT_HELP</Tag>
+    <English>This debt includes vessels purchased and the unpaid charges of previous turns</English>
+    <French>Cette dette englobe les achats de navires et les charges impay&#xE9;es des tours pr&#xE9;c&#xE9;dents</French>
+    <German>This debt includes vessels purchased and the unpaid charges of previous turns</German>
+    <Italian>This debt includes vessels purchased and the unpaid charges of previous turns</Italian>
+    <Spanish>This debt includes vessels purchased and the unpaid charges of previous turns</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_SCREEN_HELP</Tag>
+    <English>(This screen is for all units you have under your control (colonists, agronomists, pioneers, explorers, soldiers and sailors))</English>
+    <French>(Cet &#xE9;cran concerne toutes les unit&#xE9;s que vous avez sous votre contr&#xF4;le (colons, agronomes, pionniers, explorateurs, militaires et marins))</French>
+    <German>(This screen is for all units you have under your control (colonists, agronomists, pioneers, explorers, soldiers and sailors))</German>
+    <Italian>(This screen is for all units you have under your control (colonists, agronomists, pioneers, explorers, soldiers and sailors))</Italian>
+    <Spanish>(This screen is for all units you have under your control (colonists, agronomists, pioneers, explorers, soldiers and sailors))</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_GOLD_ICON_HELP</Tag>
+    <English>Click here to launch the popup "Record - Income and Expenditures".</English>
+    <French>Cliquez ici pour lancer le popup "Registre - Revenus et charges".</French>
+    <German>Click here to launch the popup "Record - Income and Expenditures".</German>
+    <Italian>Click here to launch the popup "Record - Income and Expenditures".</Italian>
+    <Spanish>Click here to launch the popup "Record - Income and Expenditures".</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_NO_COLONY</Tag>
+    <English>Without colony, you could not have any income or expenditures. [NEWLINE]You should have at least one colony to see statistics appear.</English>
+    <French>En absence de colonie, il ne peut y avoir de revenus et charges.[NEWLINE]Vous devez en d&#xE9;tenir au moins une pour voir apparaitre des statistiques.</French>
+    <German>Without colony, you could not have any income or expenditures. [NEWLINE]You should have at least one colony to see statistics appear.</German>
+    <Italian>Without colony, you could not have any income or expenditures. [NEWLINE]You should have at least one colony to see statistics appear.</Italian>
+    <Spanish>Without colony, you could not have any income or expenditures. [NEWLINE]You should have at least one colony to see statistics appear.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_INCOME_EXPENDITURES_INFORMATION</Tag>
+    <English>WARNING. [NEWLINE]Statistics, you have below, take into account the number of existing units in the previous turn. [NEWLINE]If you add a colonist or if you lose one, it will be visible and taken into account at the next turn.</English>
+    <French>ATTENTION.[NEWLINE]Les statistiques, que vous avez sous vos yeux, tiennent compte du nombre d'unit&#xE9;s existantes au tour pr&#xE9;c&#xE9;dent.[NEWLINE]Si vous ajoutez un colon ou si vous en perdez un, il ne sera visible et pris en compte qu'au tour suivant.</French>
+    <German>WARNING. [NEWLINE]Statistics, you have below, take into account the number of existing units in the previous turn. [NEWLINE]If you add a colonist or if you lose one, it will be visible and taken into account at the next turn.</German>
+    <Italian>WARNING. [NEWLINE]Statistics, you have below, take into account the number of existing units in the previous turn. [NEWLINE]If you add a colonist or if you lose one, it will be visible and taken into account at the next turn.</Italian>
+    <Spanish>WARNING. [NEWLINE]Statistics, you have below, take into account the number of existing units in the previous turn. [NEWLINE]If you add a colonist or if you lose one, it will be visible and taken into account at the next turn.</Spanish>
+  </TEXT>
+</Civ4GameText>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY</Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+
+
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_TRADE_ROUTES_ADVISOR_TOGGLE</Tag>
+		<English>[COLOR_CYAN]Trade Routes Advisor[COLOR_REVERT] [COLOR_GREEN]%s1_ModKey+%s2_Key[COLOR_REVERT]</English>
+		<French>[COLOR_CYAN]Trade Routes Advisor[COLOR_REVERT] [COLOR_GREEN]%s1_ModKey+%s2_Key[COLOR_REVERT]</French>
+		<German>[COLOR_CYAN]Trade Routes Advisor[COLOR_REVERT] [COLOR_GREEN]%s1_ModKey+%s2_Key[COLOR_REVERT]</German>
+		<Italian>[COLOR_CYAN]Trade Routes Advisor[COLOR_REVERT] [COLOR_GREEN]%s1_ModKey+%s2_Key[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_CYAN]Trade Routes Advisor[COLOR_REVERT] [COLOR_GREEN]%s1_ModKey+%s2_Key[COLOR_REVERT]</Spanish>
+	</TEXT>
+
+
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_BUTTON_HELP_EXIT</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Return to the[COLOR_REVERT] [COLOR_YELLOW]Main Interface[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]Return to the[COLOR_REVERT] [COLOR_YELLOW]Main Interface[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]Return to the[COLOR_REVERT] [COLOR_YELLOW]Main Interface[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]Return to the[COLOR_REVERT] [COLOR_YELLOW]Main Interface[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Return to the[COLOR_REVERT] [COLOR_YELLOW]Main Interface[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_BUTTON_HELP_BACK</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Return to the[COLOR_REVERT] [COLOR_YELLOW]Trade Routes Advisor[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]Return to the[COLOR_REVERT] [COLOR_YELLOW]Trade Routes Advisor[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]Return to the[COLOR_REVERT] [COLOR_YELLOW]Trade Routes Advisor[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]Return to the[COLOR_REVERT] [COLOR_YELLOW]Trade Routes Advisor[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Return to the[COLOR_REVERT] [COLOR_YELLOW]Trade Routes Advisor[COLOR_REVERT]</Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_BUTTON_HELP_TRADE_ROUTE_CREATE</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Create a New Trade Route[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]Create a New Trade Route[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]Create a New Trade Route[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]Create a New Trade Route[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Create a New Trade Route[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_BUTTON_HELP_TRADE_ROUTE_EDIT</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Edit the Selected Trade Route[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]Edit the Selected Trade Route[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]Edit the Selected Trade Route[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]Edit the Selected Trade Route[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Edit the Selected Trade Route[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_BUTTON_HELP_TRADE_ROUTE_DELETE</Tag>
+		<English>[COLOR_WARNING_TEXT]Delete the Selected Trade Route[COLOR_REVERT]</English>
+		<French>[COLOR_WARNING_TEXT]Delete the Selected Trade Route[COLOR_REVERT]</French>
+		<German>[COLOR_WARNING_TEXT]Delete the Selected Trade Route[COLOR_REVERT]</German>
+		<Italian>[COLOR_WARNING_TEXT]Delete the Selected Trade Route[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_WARNING_TEXT]Delete the Selected Trade Route[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_BUTTON_HELP_ASSIGN_UNITS_TO_TRADE_ROUTE</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Assign Transports to the Selected Trade Route[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]Assign Transports to the Selected Trade Route[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]Assign Transports to the Selected Trade Route[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]Assign Transports to the Selected Trade Route[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Assign Transports to the Selected Trade Route[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_BUTTON_HELP_ASSIGN_TRADE_ROUTES_TO_LAND_UNIT</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Assign Trade Routes to the Selected Land Transport[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]Assign Trade Routes to the Selected Land Transport[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]Assign Trade Routes to the Selected Land Transport[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]Assign Trade Routes to the Selected Land Transport[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Assign Trade Routes to the Selected Land Transport[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_BUTTON_HELP_ASSIGN_TRADE_ROUTES_TO_SEA_UNIT</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Assign Trade Routes to the Selected Sea Transport[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]Assign Trade Routes to the Selected Sea Transport[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]Assign Trade Routes to the Selected Sea Transport[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]Assign Trade Routes to the Selected Sea Transport[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Assign Trade Routes to the Selected Sea Transport[COLOR_REVERT]</Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_ASSIGNED_TRADE_ROUTES_HELP_TITLE</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Assigned Trade Routes[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]Assigned Trade Routes[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]Assigned Trade Routes[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]Assigned Trade Routes[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Assigned Trade Routes[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_NO_ASSIGNED_TRADE_ROUTES_HELP_TITLE</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]No Assigned Trade Routes[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]No Assigned Trade Routes[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]No Assigned Trade Routes[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]No Assigned Trade Routes[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]No Assigned Trade Routes[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_TRADE_ROUTE_HELP</Tag>
+		<English>[ICON_BULLET]%s1_TradeRouteName  %s2_YieldIcon</English>
+		<French>[ICON_BULLET]%s1_TradeRouteName  %s2_YieldIcon</French>
+		<German>[ICON_BULLET]%s1_TradeRouteName  %s2_YieldIcon</German>
+		<Italian>[ICON_BULLET]%s1_TradeRouteName  %s2_YieldIcon</Italian>
+		<Spanish>[ICON_BULLET]%s1_TradeRouteName  %s2_YieldIcon</Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_ASSIGNED_TRANSPORTS_HELP_TITLE</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]Assigned Transports[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]Assigned Transports[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]Assigned Transports[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]Assigned Transports[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]Assigned Transports[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_NO_ASSIGNED_TRANSPORTS_HELP_TITLE</Tag>
+		<English>[COLOR_HIGHLIGHT_TEXT]No Assigned Transports[COLOR_REVERT]</English>
+		<French>[COLOR_HIGHLIGHT_TEXT]No Assigned Transports[COLOR_REVERT]</French>
+		<German>[COLOR_HIGHLIGHT_TEXT]No Assigned Transports[COLOR_REVERT]</German>
+		<Italian>[COLOR_HIGHLIGHT_TEXT]No Assigned Transports[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_HIGHLIGHT_TEXT]No Assigned Transports[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_TRANSPORT_HELP</Tag>
+		<English>[ICON_BULLET]%s1_UnitHelp</English>
+		<French>[ICON_BULLET]%s1_UnitHelp</French>
+		<German>[ICON_BULLET]%s1_UnitHelp</German>
+		<Italian>[ICON_BULLET]%s1_UnitHelp</Italian>
+		<Spanish>[ICON_BULLET]%s1_UnitHelp</Spanish>
+	</TEXT>
+</Civ4GameText>

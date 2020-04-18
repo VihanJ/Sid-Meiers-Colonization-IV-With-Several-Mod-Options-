@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TRADE</Tag>
+		<English>Economic</English>
+		<French>Economic</French>
+		<German>Economic</German>
+		<Italian>Economic</Italian>
+		<Spanish>Economic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TRADE_PEDIA</Tag>
+		<English>Become a trading super power (total goods traded)</English>
+		<French>Become a trading super power (total goods traded)</French>
+		<German>Become a trading super power (total goods traded)</German>
+		<Italian>Become a trading super power (total goods traded)</Italian>
+		<Spanish>Become a trading super power (total goods traded)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TRADE_LOTS_GOODS</Tag>
+		<English>Become a trading super power (total goods traded)</English>
+		<French>Become a trading super power (total goods traded)</French>
+		<German>Become a trading super power (total goods traded)</German>
+		<Italian>Become a trading super power (total goods traded)</Italian>
+		<Spanish>Become a trading super power (total goods traded)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TOTAL_GOODS</Tag>
+		<English>Total goods traded:</English>
+		<French>Total goods traded:</French>
+		<German>Total goods traded:</German>
+		<Italian>Total goods traded:</Italian>
+		<Spanish>Total goods traded:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TRADE_OF</Tag>
+		<English>Target amount:</English>
+		<French>Target amount:</French>
+		<German>Target amount:</German>
+		<Italian>Target amount:</Italian>
+		<Spanish>Target amount:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PRODUCTION</Tag>
+		<English>Industrialisation</English>
+		<French>Industrialisation</French>
+		<German>Industrialisation</German>
+		<Italian>Industrialisation</Italian>
+		<Spanish>Industrialisation</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PRODUCTION_PEDIA</Tag>
+		<English>Start the Industrial Revolution (production rate per turn)</English>
+		<French>Start the Industrial Revolution (production rate per turn)</French>
+		<German>Start the Industrial Revolution (production rate per turn)</German>
+		<Italian>Start the Industrial Revolution (production rate per turn)</Italian>
+		<Spanish>Start the Industrial Revolution (production rate per turn)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PRODUCTION_RATE</Tag>
+		<English>Start the Industrial Revolution (production rate per turn)</English>
+		<French>Start the Industrial Revolution (production rate per turn)</French>
+		<German>Start the Industrial Revolution (production rate per turn)</German>
+		<Italian>Start the Industrial Revolution (production rate per turn)</Italian>
+		<Spanish>Start the Industrial Revolution (production rate per turn)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TOTAL_PROD_RATE</Tag>
+		<English>Total production rate:</English>
+		<French>Total production rate:</French>
+		<German>Total production rate:</German>
+		<Italian>Total production rate:</Italian>
+		<Spanish>Total production rate:</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PLUNDER</Tag>
+		<English>Pirate Plunder</English>
+		<French>Pirate Plunder</French>
+		<German>Pirate Plunder</German>
+		<Italian>Pirate Plunder</Italian>
+		<Spanish>Pirate Plunder</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PLUNDER_PEDIA</Tag>
+		<English>Plunder ships and towns</English>
+		<French>Plunder ships and towns</French>
+		<German>Plunder ships and towns</German>
+		<Italian>Plunder ships and towns</Italian>
+		<Spanish>Plunder ships and towns</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_PLUNDER_AMOUNT</Tag>
+		<English>Plunder ships and towns</English>
+		<French>Plunder ships and towns</French>
+		<German>Plunder ships and towns</German>
+		<Italian>Plunder ships and towns</Italian>
+		<Spanish>Plunder ships and towns</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_VICTORY_TOTAL_PLUNDER</Tag>
+		<English>Total pirate plunder:</English>
+		<French>Total pirate plunder:</French>
+		<German>Total pirate plunder:</German>
+		<Italian>Total pirate plunder:</Italian>
+		<Spanish>Total pirate plunder:</Spanish>
+	</TEXT>
+</Civ4GameText>

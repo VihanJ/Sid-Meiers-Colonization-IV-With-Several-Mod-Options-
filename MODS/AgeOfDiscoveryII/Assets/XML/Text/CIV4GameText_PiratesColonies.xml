@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES01</Tag>
+		<English>Port Royal</English>
+		<French>Port Royal</French>
+		<German>Port Royal</German>
+		<Italian>Port Royal</Italian>
+		<Spanish>Port Royal</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES02</Tag>
+		<English>Barataria</English>
+		<French>Barataria</French>
+		<German>Barataria</German>
+		<Italian>Barataria</Italian>
+		<Spanish>Barataria</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES03</Tag>
+		<English>La Vega</English>
+		<French>La Vega</French>
+		<German>La Vega</German>
+		<Italian>La Vega</Italian>
+		<Spanish>La Vega</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES04</Tag>
+		<English>Bragman's Bluff</English>
+		<French>Bragman's Bluff</French>
+		<German>Bragman's Bluff</German>
+		<Italian>Bragman's Bluff</Italian>
+		<Spanish>Bragman's Bluff</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES05</Tag>
+		<English>Skeleton Island</English>
+		<French>Skeleton Island</French>
+		<German>Skeleton Island</German>
+		<Italian>Skeleton Island</Italian>
+		<Spanish>Skeleton Island</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES06</Tag>
+		<English>Libertatia</English>
+		<French>Libertatia</French>
+		<German>Libertatia</German>
+		<Italian>Libertatia</Italian>
+		<Spanish>Libertatia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES07</Tag>
+		<English>Devil's Den</English>
+		<French>Devil's Den</French>
+		<German>Devil's Den</German>
+		<Italian>Devil's Den</Italian>
+		<Spanish>Devil's Den</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES08</Tag>
+		<English>Roche's Rest</English>
+		<French>Roche's Rest</French>
+		<German>Roche's Rest</German>
+		<Italian>Roche's Rest</Italian>
+		<Spanish>Roche's Rest</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES09</Tag>
+		<English>Duffer's Drift</English>
+		<French>Duffer's Drift</French>
+		<German>Duffer's Drift</German>
+		<Italian>Duffer's Drift</Italian>
+		<Spanish>Duffer's Drift</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES10</Tag>
+		<English>Buccaneer's Bay</English>
+		<French>Buccaneer's Bay</French>
+		<German>Buccaneer's Bay</German>
+		<Italian>Buccaneer's Bay</Italian>
+		<Spanish>Buccaneer's Bay</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES11</Tag>
+		<English>Tortuga</English>
+		<French>Tortuga</French>
+		<German>Tortuga</German>
+		<Italian>Tortuga</Italian>
+		<Spanish>Tortuga</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES12</Tag>
+		<English>Booty Bay</English>
+		<French>Booty Bay</French>
+		<German>Booty Bay</German>
+		<Italian>Booty Bay</Italian>
+		<Spanish>Booty Bay</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES13</Tag>
+		<English>Hispaniola</English>
+		<French>Hispaniola</French>
+		<German>Hispaniola</German>
+		<Italian>Hispaniola</Italian>
+		<Spanish>Hispaniola</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES14</Tag>
+		<English>Antigua</English>
+		<French>Antigua</French>
+		<German>Antigua</German>
+		<Italian>Antigua</Italian>
+		<Spanish>Antigua</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES15</Tag>
+		<English>Cartagena</English>
+		<French>Cartagena</French>
+		<German>Cartagena</German>
+		<Italian>Cartagena</Italian>
+		<Spanish>Cartagena</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES16</Tag>
+		<English>Porto Bello</English>
+		<French>Porto Bello</French>
+		<German>Porto Bello</German>
+		<Italian>Porto Bello</Italian>
+		<Spanish>Porto Bello</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PIRATES17</Tag>
+		<English>Petit Goave</English>
+		<French>Petit Goave</French>
+		<German>Petit Goave</German>
+		<Italian>Petit Goave</Italian>
+		<Spanish>Petit Goave</Spanish>
+	</TEXT>
+</Civ4GameText>

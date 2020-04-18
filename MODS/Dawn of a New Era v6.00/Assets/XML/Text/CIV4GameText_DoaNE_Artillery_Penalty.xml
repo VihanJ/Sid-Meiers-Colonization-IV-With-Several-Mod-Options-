@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_TO_FLAT</Tag>
+    <English>Your firing position (flat land) to a plot of the same level makes you lose efficiency</English>
+    <French>Votre position de tir (Terrain plat) vers un terrain plat de m&#xEA;me niveau vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your firing position (flat land) to a plot of the same level makes you lose efficiency</German>
+    <Italian>Your firing position (flat land) to a plot of the same level makes you lose efficiency</Italian>
+    <Spanish>Your firing position (flat land) to a plot of the same level makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_TO_FLAT_LFOREST</Tag>
+    <English>Your target on light forest makes you lose efficiency</English>
+    <French>Votre cible sur for&#xEA;t clairsem&#xE9;e vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your target on light forest makes you lose efficiency</German>
+    <Italian>Your target on light forest makes you lose efficiency</Italian>
+    <Spanish>Your target on light forest makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_TO_HILLS</Tag>
+    <English>Your target on hillst makes you lose efficiency</English>
+    <French>Votre cible sur une colline vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your target on hillst makes you lose efficiency</German>
+    <Italian>Your target on hillst makes you lose efficiency</Italian>
+    <Spanish>Your target on hillst makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_TO_HILLS_LFOREST</Tag>
+    <English>Your target on hillst/light forest makes you lose efficiency</English>
+    <French>Votre cible sur colline/for&#xEA;t clairsem&#xE9;e vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your target on hillst/light forest makes you lose efficiency</German>
+    <Italian>Your target on hillst/light forest makes you lose efficiency</Italian>
+    <Spanish>Your target on hillst/light forest makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_TO_CITY</Tag>
+    <English>Your firing position (flat land) to a colony on flat land makes you lose efficiency</English>
+    <French>Votre position de tir (Terrain plat) vers une colonie en terrain plat vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your firing position (flat land) to a colony on flat land makes you lose efficiency</German>
+    <Italian>Your firing position (flat land) to a colony on flat land makes you lose efficiency</Italian>
+    <Spanish>Your firing position (flat land) to a colony on flat land makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_TO_CITY_HILLS</Tag>
+    <English>Your firing position (Hill) to a hill makes you lose efficiency</English>
+    <French>Votre position de tir (Colline) vers une colline vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your firing position (Hill) to a hill makes you lose efficiency</German>
+    <Italian>Your firing position (Hill) to a hill makes you lose efficiency</Italian>
+    <Spanish>Your firing position (Hill) to a hill makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_LFOREST_TO_FLAT</Tag>
+    <English>Your unfavorable position shooting (light forest) to a light forest makes you lose efficiency</English>
+    <French>Votre position de tir d&#xE9;favorable (For&#xEA;t clairsem&#xE9;e) vers une for&#xEA;t clairsem&#xE9;e vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (light forest) to a light forest makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (light forest) to a light forest makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (light forest) to a light forest makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_LFOREST_TO_FLAT_LFOREST</Tag>
+    <English>Your unfavorable position shooting (flatland/light forest) to a flatland/light forest makes you lose efficiency</English>
+    <French>Votre position de tir d&#xE9;favorable (Terrain plat/For&#xEA;t clairsem&#xE9;e) vers un terrain plat/For&#xEA;t clairsem&#xE9;e vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (flatland/light forest) to a flatland/light forest makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (flatland/light forest) to a flatland/light forest makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (flatland/light forest) to a flatland/light forest makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_LFOREST_TO_HILLS</Tag>
+    <English>Your unfavorable position shooting (flatland/light forest) to a hill makes you lose efficiency</English>
+    <French>Votre position de tir d&#xE9;favorable (Terrain plat/For&#xEA;t clairsem&#xE9;e) vers une colline vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (flatland/light forest) to a hill makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (flatland/light forest) to a hill makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (flatland/light forest) to a hill makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_LFOREST_TO_HILLS_LFOREST</Tag>
+    <English>Impossible use of the artillery with this configuration field</English>
+    <French>Utilisation artillerie impossible avec cette configuration de terrain</French>
+    <German>Impossible use of the artillery with this configuration field</German>
+    <Italian>Impossible use of the artillery with this configuration field</Italian>
+    <Spanish>Impossible use of the artillery with this configuration field</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_LFOREST_TO_CITY</Tag>
+    <English>Your unfavorable position shooting (flatland/light forest) to a colony makes you lose efficiency</English>
+    <French>Votre position de tir d&#xE9;favorable (Terrain plat/For&#xEA;t clairsem&#xE9;e) vers une colonie vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (flatland/light forest) to a colony makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (flatland/light forest) to a colony makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (flatland/light forest) to a colony makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FLAT_LFOREST_TO_CITY_HILLS</Tag>
+    <English>Impossible use of the artillery with this configuration field</English>
+    <French>Utilisation artillerie impossible avec cette configuration de terrain</French>
+    <German>Impossible use of the artillery with this configuration field</German>
+    <Italian>Impossible use of the artillery with this configuration field</Italian>
+    <Spanish>Impossible use of the artillery with this configuration field</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_TO_FLAT</Tag>
+    <English>Your shooting position is perfectly adequate</English>
+    <French>Votre position de tir est parfaitement ad&#xE9;quate</French>
+    <German>Your shooting position is perfectly adequate</German>
+    <Italian>Your shooting position is perfectly adequate</Italian>
+    <Spanish>Your shooting position is perfectly adequate</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_TO_FLAT_LFOREST</Tag>
+    <English>Your unfavorable position shooting (hill) to a light forest makes you lose efficiency</English>
+    <French>Votre position de tir (Colline) vers une for&#xEA;t clairsem&#xE9;e vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (hill) to a light forest makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (hill) to a light forest makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (hill) to a light forest makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_TO_HILLS</Tag>
+    <English>Your unfavorable position shooting (hill) to a hill makes you lose efficiency</English>
+    <French>Votre position de tir (Colline) vers une colline vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (hill) to a hill makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (hill) to a hill makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (hill) to a hill makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_TO_HILLS_LFOREST</Tag>
+    <English>Your unfavorable position shooting (hill) to a hill/light forest makes you lose efficiency</English>
+    <French>Votre position de tir (Colline) vers une colline/for&#xEA;t clairsem&#xE9;e vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (hill) to a hill/light forest makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (hill) to a hill/light forest makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (hill) to a hill/light forest makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_TO_CITY</Tag>
+    <English>Your target (Colony) makes you lose efficiency</English>
+    <French>Votre cible (Colonie) vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your target (Colony) makes you lose efficiency</German>
+    <Italian>Your target (Colony) makes you lose efficiency</Italian>
+    <Spanish>Your target (Colony) makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_TO_CITY_HILLS</Tag>
+    <English>Your target (Colony) on a hill makes you lose efficiency...</English>
+    <French>Votre cible (Colonie) sur une colline vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your target (Colony) on a hill makes you lose efficiency...</German>
+    <Italian>Your target (Colony) on a hill makes you lose efficiency...</Italian>
+    <Spanish>Your target (Colony) on a hill makes you lose efficiency...</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_LFOREST_TO_FLAT</Tag>
+    <English>Your unfavorable position shooting (hill/light forest) makes you lose efficiency</English>
+    <French>Votre position de tir d&#xE9;favorable (Colline/For&#xEA;t clairsem&#xE9;e) vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (hill/light forest) makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (hill/light forest) makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (hill/light forest) makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_LFOREST_TO_FLAT_LFOREST</Tag>
+    <English>Your unfavorable position shooting (hill/light forest) to a light forest makes you lose efficiency</English>
+    <French>Votre position de tir d&#xE9;favorable (Colline/For&#xEA;t clairsem&#xE9;e) vers une for&#xEA;t clairsem&#xE9;e vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (hill/light forest) to a light forest makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (hill/light forest) to a light forest makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (hill/light forest) to a light forest makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_LFOREST_TO_HILLS</Tag>
+    <English>Your unfavorable position shooting (hill/light forest) to a hill makes you lose efficiency</English>
+    <French>Votre position de tir d&#xE9;favorable (Colline/For&#xEA;t clairsem&#xE9;e) vers une colline vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (hill/light forest) to a hill makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (hill/light forest) to a hill makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (hill/light forest) to a hill makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_LFOREST_TO_HILLS_LFOREST</Tag>
+    <English>Your unfavorable position shooting (hill/light forest) to a hill/light forest makes you lose efficiency</English>
+    <French>Votre position de tir d&#xE9;favorable (Colline/For&#xEA;t clairsem&#xE9;e) vers une colline/for&#xEA;t clairsem&#xE9;e vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (hill/light forest) to a hill/light forest makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (hill/light forest) to a hill/light forest makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (hill/light forest) to a hill/light forest makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_LFOREST_TO_CITY</Tag>
+    <English>Your unfavorable position shooting (hill/light forest) to a colony makes you lose efficiency</English>
+    <French>Votre position de tir d&#xE9;favorable (Colline/For&#xEA;t clairsem&#xE9;e) vers une colonie vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (hill/light forest) to a colony makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (hill/light forest) to a colony makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (hill/light forest) to a colony makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_HILLS_LFOREST_TO_CITY_HILLS</Tag>
+    <English>Your unfavorable position shooting (hill/light forest) to a colony on a hill  makes you lose efficiency</English>
+    <French>Votre position de tir d&#xE9;favorable (Colline/For&#xEA;t clairsem&#xE9;e) vers une colonie sur colline vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your unfavorable position shooting (hill/light forest) to a colony on a hill  makes you lose efficiency</German>
+    <Italian>Your unfavorable position shooting (hill/light forest) to a colony on a hill  makes you lose efficiency</Italian>
+    <Spanish>Your unfavorable position shooting (hill/light forest) to a colony on a hill  makes you lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_GRASS</Tag>
+    <English>Impossible use of the artillery to or from a marsh</English>
+    <French>Utilisation artillerie impossible vers ou &#xE0; partir d'un marais</French>
+    <German>Impossible use of the artillery to or from a marsh</German>
+    <Italian>Impossible use of the artillery to or from a marsh</Italian>
+    <Spanish>Impossible use of the artillery to or from a marsh</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_JUNGLE</Tag>
+    <English>Impossible use of the artillery to or from a jungle</English>
+    <French>Utilisation artillerie impossible vers ou &#xE0; partir d'une jungle</French>
+    <German>Impossible use of the artillery to or from a jungle</German>
+    <Italian>Impossible use of the artillery to or from a jungle</Italian>
+    <Spanish>Impossible use of the artillery to or from a jungle</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_PEAK</Tag>
+    <English>Impossible use of the artillery to or from a mountain</English>
+    <French>Utilisation artillerie impossible vers ou &#xE0; partir d'une montagne</French>
+    <German>Impossible use of the artillery to or from a mountain</German>
+    <Italian>Impossible use of the artillery to or from a mountain</Italian>
+    <Spanish>Impossible use of the artillery to or from a mountain</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_FOREST</Tag>
+    <English>Impossible use of the artillery to or from a forest</English>
+    <French>Utilisation artillerie impossible vers ou &#xE0; partir d'une for&#xEA;t</French>
+    <German>Impossible use of the artillery to or from a forest</German>
+    <Italian>Impossible use of the artillery to or from a forest</Italian>
+    <Spanish>Impossible use of the artillery to or from a forest</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_CITY</Tag>
+    <English>Impossible use of the artillery from a colony</English>
+    <French>Utilisation artillerie impossible &#xE0; partir d'une colonie</French>
+    <German>Impossible use of the artillery from a colony</German>
+    <Italian>Impossible use of the artillery from a colony</Italian>
+    <Spanish>Impossible use of the artillery from a colony</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_OCEAN_TO_CITY</Tag>
+    <English>Your firing position on sea makes you partially lose efficiency</English>
+    <French>Votre position de tir sur mer vous fait perdre partiellement de l'efficacit&#xE9;</French>
+    <German>Your firing position on sea makes you partially lose efficiency</German>
+    <Italian>Your firing position on sea makes you partially lose efficiency</Italian>
+    <Spanish>Your firing position on sea makes you partially lose efficiency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_ARTILLERY_PENALTY_OCEAN_TO_CITY_HILLS</Tag>
+    <English>Your firing position on sea to a colony/hill makes you partially lose efficiency</English>
+    <French>Votre position de tir sur mer vers une colonie/colline vous fait perdre de l'efficacit&#xE9;</French>
+    <German>Your firing position on sea to a colony/hill makes you partially lose efficiency</German>
+    <Italian>Your firing position on sea to a colony/hill makes you partially lose efficiency</Italian>
+    <Spanish>Your firing position on sea to a colony/hill makes you partially lose efficiency</Spanish>
+  </TEXT>
+</Civ4GameText>

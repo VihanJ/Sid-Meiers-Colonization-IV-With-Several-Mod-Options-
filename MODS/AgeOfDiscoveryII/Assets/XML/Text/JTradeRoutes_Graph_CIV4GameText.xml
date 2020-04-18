@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY</Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_GRAPH_ALL_YIELDS</Tag>
+		<English>All Yields</English>
+		<French>All Yields</French>
+		<German>All Yields</German>
+		<Italian>All Yields</Italian>
+		<Spanish>All Yields</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_GRAPH_NO_INFORMATION</Tag>
+		<English>No Information</English>
+		<French>No Information</French>
+		<German>No Information</German>
+		<Italian>No Information</Italian>
+		<Spanish>No Information</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_GRAPH_TURN_TOTALS</Tag>
+		<English>Turn Totals - May Lag</English>
+		<French>Turn Totals - May Lag</French>
+		<German>Turn Totals - May Lag</German>
+		<Italian>Turn Totals - May Lag</Italian>
+		<Spanish>Turn Totals - May Lag</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_GRAPH_YIELDS_STORED</Tag>
+		<English>Yields Stored</English>
+		<French>Yields Stored</French>
+		<German>Yields Stored</German>
+		<Italian>Yields Stored</Italian>
+		<Spanish>Yields Stored</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_GRAPH_YIELD_RATES</Tag>
+		<English>Yield Rates</English>
+		<French>Yield Rates</French>
+		<German>Yield Rates</German>
+		<Italian>Yield Rates</Italian>
+		<Spanish>Yield Rates</Spanish>
+	</TEXT>
+</Civ4GameText>

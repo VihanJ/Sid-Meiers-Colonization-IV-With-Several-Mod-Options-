@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_ADVISOR_TOGGLE</Tag>
+		<English>[COLOR_CYAN]Advisor Menu[COLOR_REVERT]</English>
+		<French>[COLOR_CYAN]Advisor Menu[COLOR_REVERT]</French>
+		<German>[COLOR_CYAN]Advisor Menu[COLOR_REVERT]</German>
+		<Italian>[COLOR_CYAN]Advisor Menu[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_CYAN]Advisor Menu[COLOR_REVERT]</Spanish>
+	</TEXT>
+</Civ4GameText>

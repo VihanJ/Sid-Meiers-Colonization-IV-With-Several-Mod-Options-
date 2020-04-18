@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Fratelli Marconi : M07 -->
+<!-- Achievement Infos -->
+<Civ4AchieveInfos xmlns="x-schema:CIV4AchieveInfosSchema.xml">
+	<AchieveInfo>
+		<Type>ACHIEVE_CHAPEL</Type>
+		<HeaderTextKey>TXT_KEY_ACHIEVE_CHAPEL_HEAD</HeaderTextKey>
+		<BodyTextKey>TXT_KEY_ACHIEVE_CHAPEL_BODY</BodyTextKey>
+		<PictureFileName>Art/Interface/Popups/Church.dds</PictureFileName>
+		<BuildingClassType>BUILDINGCLASS_CHAPEL</BuildingClassType>
+	</AchieveInfo>
+	<AchieveInfo>
+		<Type>ACHIEVE_ARMORY</Type>
+		<HeaderTextKey>TXT_KEY_ACHIEVE_ARMORY_HEAD</HeaderTextKey>
+		<BodyTextKey>TXT_KEY_ACHIEVE_ARMORY_BODY</BodyTextKey>
+		<PictureFileName>Art/Interface/Popups/Armory.dds</PictureFileName>
+		<BuildingClassType>BUILDINGCLASS_ARMORY</BuildingClassType>
+	</AchieveInfo>
+	<!--AchieveInfo>
+		<Type>ACHIEVE_TAVERN</Type>
+		<HeaderTextKey>TXT_KEY_ACHIEVE_TAVERN_HEAD</HeaderTextKey>
+		<BodyTextKey>TXT_KEY_ACHIEVE_TAVERN_BODY</BodyTextKey>
+		<PictureFileName>Art/Interface/Popups/TavernPopup.dds</PictureFileName>
+		<BuildingClassType>BUILDINGCLASS_TAVERN</BuildingClassType>
+	</AchieveInfo-->
+	<AchieveInfo>
+		<Type>ACHIEVE_CONGRES</Type>
+		<HeaderTextKey>TXT_KEY_ACHIEVE_CONGRES_HEAD</HeaderTextKey>
+		<BodyTextKey>TXT_KEY_ACHIEVE_CONGRES_BODY</BodyTextKey>
+		<PictureFileName>Art/Interface/Popups/CongressPalace.dds</PictureFileName>
+		<BuildingClassType>BUILDINGCLASS_CONGRES</BuildingClassType>
+	</AchieveInfo>
+	<AchieveInfo>
+		<Type>ACHIEVE_DRYDOCK</Type>
+		<HeaderTextKey>TXT_KEY_ACHIEVE_DRYDOCK_HEAD</HeaderTextKey>
+		<BodyTextKey>TXT_KEY_ACHIEVE_DRYDOCK_BODY</BodyTextKey>
+		<PictureFileName>Art/Interface/Popups/Drydock.dds</PictureFileName>
+		<BuildingClassType>BUILDINGCLASS_DRYDOCK</BuildingClassType>
+	</AchieveInfo>
+	<AchieveInfo>
+		<Type>ACHIEVE_HOSPITAL</Type>
+		<HeaderTextKey>TXT_KEY_ACHIEVE_HOSPITAL_HEAD</HeaderTextKey>
+		<BodyTextKey>TXT_KEY_ACHIEVE_HOSPITAL_BODY</BodyTextKey>
+		<PictureFileName/>
+		<BuildingClassType>BUILDINGCLASS_HOSPITAL</BuildingClassType>
+	</AchieveInfo>
+</Civ4AchieveInfos>

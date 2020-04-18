@@ -1,0 +1,29 @@
+1.09 Changelog:
+* Rebel Sentiment Fixes:
+	- New growth units in New World start with city's RS percentage
+	- Goods have originating city's RS percent
+	- All new units (eg: CvUnit::init(..)) now begin with the city's RS percent that they come from
+	- Any function using CvUnit::convert(..) now correctly transfer unit's RS (eg: education)
+	- Pirates no longer accumulate RS
+	- Revolution advisor only shows 1/3 of total population is RS spread (to cut down on processing for low-end PC's and large Empires)
+	- Diplomacy affects on RS doubled
+* Other Fixes:
+	- Cargo Holds promotion now requires at least 1 base cargo hold
+	- Industrial victory threshold tripled
+	- In scenarios, ships bought in Europe now leave for New World
+	- Western nation travel times fixed
+	- 30 turn Pirate amnesty only affects AI Pirates and NOT humans
+	- Fortress fire (cannons in fortress versus ship) is successful less often
+	- Cannons only perform fortress fire once per turn instead of once for every ship
+	- Mission success percent is returned when a mission is lost
+	- Kings now have relevant capital city names
+	- China no longer has "New Xyz" for every city
+* AI Changes:
+	- AI has a lot more immigrants based on handicap
+	- Small money assistance for AI based on handicap
+	- REF size increase cap now works correctly
+
+* Remaining Bugs:
+	- Trade route list doesn't work right after sorting
+	- Ermak leaderhead slightly too high in box
+	- REF disappears

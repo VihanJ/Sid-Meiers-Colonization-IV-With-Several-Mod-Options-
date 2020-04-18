@@ -1,0 +1,26 @@
+1.11 Changelog:
+*  EuropeScreen patch by Koma13.
+
+	* Turned off "Advisor Popup Menu" for MP to fix oos bug.
+	* Slowed down AI expansion.
+	* AI expansion speed determined by difficulty level.
+	* AI galleons appear later.
+	* AI is more willing to go to war.
+	* REF strength lowered for each difficulty.
+	* Fort/Fortress canon fire bug fixed.
+	* First colony now gets basic buildings.
+	* Turned off Pirates.
+	* Pasture now has 1 worker when it was 2.
+	* Blacksmith Shelter now has 1 worker output 2, not 2 workers output 3 (which is same as next level up).
+	* Turned off ship selling.
+	* Checked gun prices, all fine.
+	* Added Fountain of Youth event.  Only one goody hut per game will trigger it.  All nations receive immigrant boost.
+	* In school right profession now shows as training.
+	* Kings and Natives can no longer get the free galleons.
+	* Pirate victory disabled in XML.
+	* Small chance that the King will declare war on you as your rebel sentiment gets high (only on higher difficulty levels)
+	* Fixed education bug where students could graduate before choosing a profession to learn when in a Uni with Irving & Washington.
+	* Fixed OOS bug for shortfall purchasing.
+	* Fixed other MP OOS issues.
+	* Fixed bug: Telegraph now available with Newspaper, not Printing Press.
+	* Added code for Ekmek.

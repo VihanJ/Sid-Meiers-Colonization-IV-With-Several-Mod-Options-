@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_LISBON</Tag>
+		<English>Lisbon</English>
+		<French>Lisbon</French>
+		<German>Lisbon</German>
+		<Italian>Lisbon</Italian>
+		<Spanish>Lisbon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL01</Tag>
+		<English>Vila do Porto</English>
+		<French>Vila do Porto</French>
+		<German>Vila do Porto</German>
+		<Italian>Vila do Porto</Italian>
+		<Spanish>Vila do Porto</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL02</Tag>
+		<English>Cape Breton</English>
+		<French>Cape Breton</French>
+		<German>Cape Breton</German>
+		<Italian>Cape Breton</Italian>
+		<Spanish>Cape Breton</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL03</Tag>
+		<English>Sao Vicente</English>
+		<French>Sao Vicente</French>
+		<German>Sao Vicente</German>
+		<Italian>Sao Vicente</Italian>
+		<Spanish>Sao Vicente</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL04</Tag>
+		<English>Olinda</English>
+		<French>Olinda</French>
+		<German>Olinda</German>
+		<Italian>Olinda</Italian>
+		<Spanish>Olinda</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL05</Tag>
+		<English>Sao Salvador</English>
+		<French>Sao Salvador</French>
+		<German>Sao Salvador</German>
+		<Italian>Sao Salvador</Italian>
+		<Spanish>Sao Salvador</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL06</Tag>
+		<English>Sao Paulo</English>
+		<French>Sao Paulo</French>
+		<German>Sao Paulo</German>
+		<Italian>Sao Paulo</Italian>
+		<Spanish>Sao Paulo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL07</Tag>
+		<English>Rio de Janeiro</English>
+		<French>Rio de Janeiro</French>
+		<German>Rio de Janeiro</German>
+		<Italian>Rio de Janeiro</Italian>
+		<Spanish>Rio de Janeiro</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL08</Tag>
+		<English>Recife</English>
+		<French>Recife</French>
+		<German>Recife</German>
+		<Italian>Recife</Italian>
+		<Spanish>Recife</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL09</Tag>
+		<English>Curitiba</English>
+		<French>Curitiba</French>
+		<German>Curitiba</German>
+		<Italian>Curitiba</Italian>
+		<Spanish>Curitiba</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL10</Tag>
+		<English>Igarassu</English>
+		<French>Igarassu</French>
+		<German>Igarassu</German>
+		<Italian>Igarassu</Italian>
+		<Spanish>Igarassu</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL11</Tag>
+		<English>Porto Seguro</English>
+		<French>Porto Seguro</French>
+		<German>Porto Seguro</German>
+		<Italian>Porto Seguro</Italian>
+		<Spanish>Porto Seguro</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL12</Tag>
+		<English>Bahia</English>
+		<French>Bahia</French>
+		<German>Bahia</German>
+		<Italian>Bahia</Italian>
+		<Spanish>Bahia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL13</Tag>
+		<English>Ilheus</English>
+		<French>Ilheus</French>
+		<German>Ilheus</German>
+		<Italian>Ilheus</Italian>
+		<Spanish>Ilheus</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL14</Tag>
+		<English>Espirito Santo</English>
+		<French>Espirito Santo</French>
+		<German>Espirito Santo</German>
+		<Italian>Espirito Santo</Italian>
+		<Spanish>Espirito Santo</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL15</Tag>
+		<English>Sao Tome</English>
+		<French>Sao Tome</French>
+		<German>Sao Tome</German>
+		<Italian>Sao Tome</Italian>
+		<Spanish>Sao Tome</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL16</Tag>
+		<English>Santo Amaro</English>
+		<French>Santo Amaro</French>
+		<German>Santo Amaro</German>
+		<Italian>Santo Amaro</Italian>
+		<Spanish>Santo Amaro</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CITY_NAME_PORTUGAL17</Tag>
+		<English>Santa Anna</English>
+		<French>Santa Anna</French>
+		<German>Santa Anna</German>
+		<Italian>Santa Anna</Italian>
+		<Spanish>Santa Anna</Spanish>
+	</TEXT>
+</Civ4GameText>

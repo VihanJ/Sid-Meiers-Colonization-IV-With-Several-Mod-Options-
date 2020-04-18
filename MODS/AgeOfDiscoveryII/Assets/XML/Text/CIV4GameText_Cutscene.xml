@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_DEFAULT</Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_01</Tag>
+		<English>When the white man discovered this country Indians were running it. No taxes no debt, women did all the work. White man thought he could improve on a system like this. - Old Cherokee Saying</English>
+		<French>When the white man discovered this country Indians were running it. No taxes no debt, women did all the work. White man thought he could improve on a system like this. - Old Cherokee Saying</French>
+		<German>When the white man discovered this country Indians were running it. No taxes no debt, women did all the work. White man thought he could improve on a system like this. - Old Cherokee Saying</German>
+		<Italian>When the white man discovered this country Indians were running it. No taxes no debt, women did all the work. White man thought he could improve on a system like this. - Old Cherokee Saying</Italian>
+		<Spanish>When the white man discovered this country Indians were running it. No taxes no debt, women did all the work. White man thought he could improve on a system like this. - Old Cherokee Saying</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_02</Tag>
+		<English>We, the great mass of the people think only of the love we have for our land, we do love the land where we were brought up. We will never let our hold to this land go, to let it go it will be like throwing away (our) mother that gave (us) birth. - Letter from Aitooweyah to John Ross, Principal Chief of the Cherokees.</English>
+		<French>We, the great mass of the people think only of the love we have for our land, we do love the land where we were brought up. We will never let our hold to this land go, to let it go it will be like throwing away (our) mother that gave (us) birth. - Letter from Aitooweyah to John Ross, Principal Chief of the Cherokees.</French>
+		<German>We, the great mass of the people think only of the love we have for our land, we do love the land where we were brought up. We will never let our hold to this land go, to let it go it will be like throwing away (our) mother that gave (us) birth. - Letter from Aitooweyah to John Ross, Principal Chief of the Cherokees.</German>
+		<Italian>We, the great mass of the people think only of the love we have for our land, we do love the land where we were brought up. We will never let our hold to this land go, to let it go it will be like throwing away (our) mother that gave (us) birth. - Letter from Aitooweyah to John Ross, Principal Chief of the Cherokees.</Italian>
+		<Spanish>We, the great mass of the people think only of the love we have for our land, we do love the land where we were brought up. We will never let our hold to this land go, to let it go it will be like throwing away (our) mother that gave (us) birth. - Letter from Aitooweyah to John Ross, Principal Chief of the Cherokees.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_03</Tag>
+		<English>Grown men can learn from very little children for the hearts of the little children are pure. Therefore, the Great Spirit may show to them many things which older people miss. - Black Elk</English>
+		<French>Grown men can learn from very little children for the hearts of the little children are pure. Therefore, the Great Spirit may show to them many things which older people miss. - Black Elk</French>
+		<German>Grown men can learn from very little children for the hearts of the little children are pure. Therefore, the Great Spirit may show to them many things which older people miss. - Black Elk</German>
+		<Italian>Grown men can learn from very little children for the hearts of the little children are pure. Therefore, the Great Spirit may show to them many things which older people miss. - Black Elk</Italian>
+		<Spanish>Grown men can learn from very little children for the hearts of the little children are pure. Therefore, the Great Spirit may show to them many things which older people miss. - Black Elk</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_04</Tag>
+		<English>A very great vision is needed and the man who has it must follow it as the eagle seeks the deepest blue of the sky. - Crazy Horse</English>
+		<French>A very great vision is needed and the man who has it must follow it as the eagle seeks the deepest blue of the sky. - Crazy Horse</French>
+		<German>A very great vision is needed and the man who has it must follow it as the eagle seeks the deepest blue of the sky. - Crazy Horse</German>
+		<Italian>A very great vision is needed and the man who has it must follow it as the eagle seeks the deepest blue of the sky. - Crazy Horse</Italian>
+		<Spanish>A very great vision is needed and the man who has it must follow it as the eagle seeks the deepest blue of the sky. - Crazy Horse</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_05</Tag>
+		<English>I am tired of fighting...from where the sun now stands, I will fight no more. - Chief Joseph</English>
+		<French>I am tired of fighting...from where the sun now stands, I will fight no more. - Chief Joseph</French>
+		<German>I am tired of fighting...from where the sun now stands, I will fight no more. - Chief Joseph</German>
+		<Italian>I am tired of fighting...from where the sun now stands, I will fight no more. - Chief Joseph</Italian>
+		<Spanish>I am tired of fighting...from where the sun now stands, I will fight no more. - Chief Joseph</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_06</Tag>
+		<English>The Great Spirit Chief who rules above all will smile upon this land... and this time the Indian race is waiting and praying. - Chief Joseph</English>
+		<French>The Great Spirit Chief who rules above all will smile upon this land... and this time the Indian race is waiting and praying. - Chief Joseph</French>
+		<German>The Great Spirit Chief who rules above all will smile upon this land... and this time the Indian race is waiting and praying. - Chief Joseph</German>
+		<Italian>The Great Spirit Chief who rules above all will smile upon this land... and this time the Indian race is waiting and praying. - Chief Joseph</Italian>
+		<Spanish>The Great Spirit Chief who rules above all will smile upon this land... and this time the Indian race is waiting and praying. - Chief Joseph</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_07</Tag>
+		<English>Treat the earth well, It was not given to you by your parents, It was loaned to you by your children. - Indian Proverb</English>
+		<French>Treat the earth well, It was not given to you by your parents, It was loaned to you by your children. - Indian Proverb</French>
+		<German>Treat the earth well, It was not given to you by your parents, It was loaned to you by your children. - Indian Proverb</German>
+		<Italian>Treat the earth well, It was not given to you by your parents, It was loaned to you by your children. - Indian Proverb</Italian>
+		<Spanish>Treat the earth well, It was not given to you by your parents, It was loaned to you by your children. - Indian Proverb</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_08</Tag>
+		<English>All things share the same breath - the beast, the tree, the man, the air shares its spirit with all the life it supports. - Chief Seattle</English>
+		<French>All things share the same breath - the beast, the tree, the man, the air shares its spirit with all the life it supports. - Chief Seattle</French>
+		<German>All things share the same breath - the beast, the tree, the man, the air shares its spirit with all the life it supports. - Chief Seattle</German>
+		<Italian>All things share the same breath - the beast, the tree, the man, the air shares its spirit with all the life it supports. - Chief Seattle</Italian>
+		<Spanish>All things share the same breath - the beast, the tree, the man, the air shares its spirit with all the life it supports. - Chief Seattle</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_09</Tag>
+		<English>When a white army battles Indians and wins, it is called a great victory, but if they lose it is called a massacre. - Chiksika, Shawnee</English>
+		<French>When a white army battles Indians and wins, it is called a great victory, but if they lose it is called a massacre. - Chiksika, Shawnee</French>
+		<German>When a white army battles Indians and wins, it is called a great victory, but if they lose it is called a massacre. - Chiksika, Shawnee</German>
+		<Italian>When a white army battles Indians and wins, it is called a great victory, but if they lose it is called a massacre. - Chiksika, Shawnee</Italian>
+		<Spanish>When a white army battles Indians and wins, it is called a great victory, but if they lose it is called a massacre. - Chiksika, Shawnee</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_10</Tag>
+		<English>We are now about to take our leave and kind farewell to our native land, the country the Great Spirit gave our Fathers, we are on the eve of leaving that country that gave us birth, it is with sorrow we are forced by the white man to quit the scenes of our childhood...we bid farewell to it and all we hold dear. - Charles Hicks, Tsalagi (Cherokee) Vice Chief</English>
+		<French>We are now about to take our leave and kind farewell to our native land, the country the Great Spirit gave our Fathers, we are on the eve of leaving that country that gave us birth, it is with sorrow we are forced by the white man to quit the scenes of our childhood...we bid farewell to it and all we hold dear. - Charles Hicks, Tsalagi (Cherokee) Vice Chief</French>
+		<German>We are now about to take our leave and kind farewell to our native land, the country the Great Spirit gave our Fathers, we are on the eve of leaving that country that gave us birth, it is with sorrow we are forced by the white man to quit the scenes of our childhood...we bid farewell to it and all we hold dear. - Charles Hicks, Tsalagi (Cherokee) Vice Chief</German>
+		<Italian>We are now about to take our leave and kind farewell to our native land, the country the Great Spirit gave our Fathers, we are on the eve of leaving that country that gave us birth, it is with sorrow we are forced by the white man to quit the scenes of our childhood...we bid farewell to it and all we hold dear. - Charles Hicks, Tsalagi (Cherokee) Vice Chief</Italian>
+		<Spanish>We are now about to take our leave and kind farewell to our native land, the country the Great Spirit gave our Fathers, we are on the eve of leaving that country that gave us birth, it is with sorrow we are forced by the white man to quit the scenes of our childhood...we bid farewell to it and all we hold dear. - Charles Hicks, Tsalagi (Cherokee) Vice Chief</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_11</Tag>
+		<English>Cherokee Blessing[NEWLINE]May the warm winds of Heaven blow softly on your home, And the Great Spirit bless all who enter there. May your mocassins make happy tracks in many snows, And may the rainbow always touch your shoulder.</English>
+		<French>Cherokee Blessing[NEWLINE]May the warm winds of Heaven blow softly on your home, And the Great Spirit bless all who enter there. May your mocassins make happy tracks in many snows, And may the rainbow always touch your shoulder.</French>
+		<German>Cherokee Blessing[NEWLINE]May the warm winds of Heaven blow softly on your home, And the Great Spirit bless all who enter there. May your mocassins make happy tracks in many snows, And may the rainbow always touch your shoulder.</German>
+		<Italian>Cherokee Blessing[NEWLINE]May the warm winds of Heaven blow softly on your home, And the Great Spirit bless all who enter there. May your mocassins make happy tracks in many snows, And may the rainbow always touch your shoulder.</Italian>
+		<Spanish>Cherokee Blessing[NEWLINE]May the warm winds of Heaven blow softly on your home, And the Great Spirit bless all who enter there. May your mocassins make happy tracks in many snows, And may the rainbow always touch your shoulder.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_12</Tag>
+		<English>Indian Blessing[NEWLINE]Let us walk softly on the Earth with all living beings great and small remembering as we go, that one God kind and wise created all.</English>
+		<French>Indian Blessing[NEWLINE]Let us walk softly on the Earth with all living beings great and small remembering as we go, that one God kind and wise created all.</French>
+		<German>Indian Blessing[NEWLINE]Let us walk softly on the Earth with all living beings great and small remembering as we go, that one God kind and wise created all.</German>
+		<Italian>Indian Blessing[NEWLINE]Let us walk softly on the Earth with all living beings great and small remembering as we go, that one God kind and wise created all.</Italian>
+		<Spanish>Indian Blessing[NEWLINE]Let us walk softly on the Earth with all living beings great and small remembering as we go, that one God kind and wise created all.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_13</Tag>
+		<English>Navajo Blessing[NEWLINE]We walk in our moccasins upon the Earth And beneath the sky As we travel on life's path of beauty We will live a good life and reach old age.</English>
+		<French>Navajo Blessing[NEWLINE]We walk in our moccasins upon the Earth And beneath the sky As we travel on life's path of beauty We will live a good life and reach old age.</French>
+		<German>Navajo Blessing[NEWLINE]We walk in our moccasins upon the Earth And beneath the sky As we travel on life's path of beauty We will live a good life and reach old age.</German>
+		<Italian>Navajo Blessing[NEWLINE]We walk in our moccasins upon the Earth And beneath the sky As we travel on life's path of beauty We will live a good life and reach old age.</Italian>
+		<Spanish>Navajo Blessing[NEWLINE]We walk in our moccasins upon the Earth And beneath the sky As we travel on life's path of beauty We will live a good life and reach old age.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_14</Tag>
+		<English>One does not sell the land people walk on. - Crazy Horse</English>
+		<French>One does not sell the land people walk on. - Crazy Horse</French>
+		<German>One does not sell the land people walk on. - Crazy Horse</German>
+		<Italian>One does not sell the land people walk on. - Crazy Horse</Italian>
+		<Spanish>One does not sell the land people walk on. - Crazy Horse</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_15</Tag>
+		<English>The American Indian is of the soil, whether it be the region of forests, plains, pueblos, or mesas. He fits into the landscape, for the hand that fashioned the continent also fashioned the man for his surroundings. He once grew as naturally as the wild sunflowers, he belongs just as the buffalo belonged. - Luther Standing Bear</English>
+		<French>The American Indian is of the soil, whether it be the region of forests, plains, pueblos, or mesas. He fits into the landscape, for the hand that fashioned the continent also fashioned the man for his surroundings. He once grew as naturally as the wild sunflowers, he belongs just as the buffalo belonged. - Luther Standing Bear</French>
+		<German>The American Indian is of the soil, whether it be the region of forests, plains, pueblos, or mesas. He fits into the landscape, for the hand that fashioned the continent also fashioned the man for his surroundings. He once grew as naturally as the wild sunflowers, he belongs just as the buffalo belonged. - Luther Standing Bear</German>
+		<Italian>The American Indian is of the soil, whether it be the region of forests, plains, pueblos, or mesas. He fits into the landscape, for the hand that fashioned the continent also fashioned the man for his surroundings. He once grew as naturally as the wild sunflowers, he belongs just as the buffalo belonged. - Luther Standing Bear</Italian>
+		<Spanish>The American Indian is of the soil, whether it be the region of forests, plains, pueblos, or mesas. He fits into the landscape, for the hand that fashioned the continent also fashioned the man for his surroundings. He once grew as naturally as the wild sunflowers, he belongs just as the buffalo belonged. - Luther Standing Bear</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_16</Tag>
+		<English>What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset. - Crowfoot</English>
+		<French>What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset. - Crowfoot</French>
+		<German>What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset. - Crowfoot</German>
+		<Italian>What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset. - Crowfoot</Italian>
+		<Spanish>What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset. - Crowfoot</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_17</Tag>
+		<English>I have seen that in any great undertaking it is not enough for a man to depend simply upon himself. - Lone Man</English>
+		<French>I have seen that in any great undertaking it is not enough for a man to depend simply upon himself. - Lone Man</French>
+		<German>I have seen that in any great undertaking it is not enough for a man to depend simply upon himself. - Lone Man</German>
+		<Italian>I have seen that in any great undertaking it is not enough for a man to depend simply upon himself. - Lone Man</Italian>
+		<Spanish>I have seen that in any great undertaking it is not enough for a man to depend simply upon himself. - Lone Man</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_18</Tag>
+		<English>All birds, even those of the same species, are not alike, and it is the same with animals and with human beings. The reason WakanTanka does not make two birds, or animals, or human beings exactly alike is because each is placed here by WakanTanka to be an independent individuality and to rely upon itself. - Shooter</English>
+		<French>All birds, even those of the same species, are not alike, and it is the same with animals and with human beings. The reason WakanTanka does not make two birds, or animals, or human beings exactly alike is because each is placed here by WakanTanka to be an independent individuality and to rely upon itself. - Shooter</French>
+		<German>All birds, even those of the same species, are not alike, and it is the same with animals and with human beings. The reason WakanTanka does not make two birds, or animals, or human beings exactly alike is because each is placed here by WakanTanka to be an independent individuality and to rely upon itself. - Shooter</German>
+		<Italian>All birds, even those of the same species, are not alike, and it is the same with animals and with human beings. The reason WakanTanka does not make two birds, or animals, or human beings exactly alike is because each is placed here by WakanTanka to be an independent individuality and to rely upon itself. - Shooter</Italian>
+		<Spanish>All birds, even those of the same species, are not alike, and it is the same with animals and with human beings. The reason WakanTanka does not make two birds, or animals, or human beings exactly alike is because each is placed here by WakanTanka to be an independent individuality and to rely upon itself. - Shooter</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_19</Tag>
+		<English>The ground on which we stand is sacred ground. It is the blood of our ancestors. - Chief Plenty Coups</English>
+		<French>The ground on which we stand is sacred ground. It is the blood of our ancestors. - Chief Plenty Coups</French>
+		<German>The ground on which we stand is sacred ground. It is the blood of our ancestors. - Chief Plenty Coups</German>
+		<Italian>The ground on which we stand is sacred ground. It is the blood of our ancestors. - Chief Plenty Coups</Italian>
+		<Spanish>The ground on which we stand is sacred ground. It is the blood of our ancestors. - Chief Plenty Coups</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_20</Tag>
+		<English>Why are violence and the sacred so intertwined? Why is death seen as necessary to renew life? ... To us the Aztec universe may appear irrational, terrifying, murderous in its brutality; and yet it is a mirror held up to our humanity which we ignore at our cost. For in the name of other ideals and other gods Western culture has been no less addicted to killing, even in our own century. - Michael Wood</English>
+		<French>Why are violence and the sacred so intertwined? Why is death seen as necessary to renew life? ... To us the Aztec universe may appear irrational, terrifying, murderous in its brutality; and yet it is a mirror held up to our humanity which we ignore at our cost. For in the name of other ideals and other gods Western culture has been no less addicted to killing, even in our own century. - Michael Wood</French>
+		<German>Why are violence and the sacred so intertwined? Why is death seen as necessary to renew life? ... To us the Aztec universe may appear irrational, terrifying, murderous in its brutality; and yet it is a mirror held up to our humanity which we ignore at our cost. For in the name of other ideals and other gods Western culture has been no less addicted to killing, even in our own century. - Michael Wood</German>
+		<Italian>Why are violence and the sacred so intertwined? Why is death seen as necessary to renew life? ... To us the Aztec universe may appear irrational, terrifying, murderous in its brutality; and yet it is a mirror held up to our humanity which we ignore at our cost. For in the name of other ideals and other gods Western culture has been no less addicted to killing, even in our own century. - Michael Wood</Italian>
+		<Spanish>Why are violence and the sacred so intertwined? Why is death seen as necessary to renew life? ... To us the Aztec universe may appear irrational, terrifying, murderous in its brutality; and yet it is a mirror held up to our humanity which we ignore at our cost. For in the name of other ideals and other gods Western culture has been no less addicted to killing, even in our own century. - Michael Wood</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_21</Tag>
+		<English>Today we are at last beginning to understand the intricacies of the Aztec culture, which was the equal of any in Europe in moral refinement, artistic sensibility, social complexity, and political organization. - J. Jorge Klor de Alva</English>
+		<French>Today we are at last beginning to understand the intricacies of the Aztec culture, which was the equal of any in Europe in moral refinement, artistic sensibility, social complexity, and political organization. - J. Jorge Klor de Alva</French>
+		<German>Today we are at last beginning to understand the intricacies of the Aztec culture, which was the equal of any in Europe in moral refinement, artistic sensibility, social complexity, and political organization. - J. Jorge Klor de Alva</German>
+		<Italian>Today we are at last beginning to understand the intricacies of the Aztec culture, which was the equal of any in Europe in moral refinement, artistic sensibility, social complexity, and political organization. - J. Jorge Klor de Alva</Italian>
+		<Spanish>Today we are at last beginning to understand the intricacies of the Aztec culture, which was the equal of any in Europe in moral refinement, artistic sensibility, social complexity, and political organization. - J. Jorge Klor de Alva</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_22</Tag>
+		<English>The Spaniards gave beasts of burden to relieve the Aztec of drudgery... meat to eat which they lacked before. The Spaniards showed them the use of iron and oil lamps to improve their ways of living.... They taught them Latin and other subjects which are worth a lot more than all the silver taken from them... it was to their benefit to be conquered and, even more, to become Christians. - Francisco López de Gómara</English>
+		<French>The Spaniards gave beasts of burden to relieve the Aztec of drudgery... meat to eat which they lacked before. The Spaniards showed them the use of iron and oil lamps to improve their ways of living.... They taught them Latin and other subjects which are worth a lot more than all the silver taken from them... it was to their benefit to be conquered and, even more, to become Christians. - Francisco López de Gómara</French>
+		<German>The Spaniards gave beasts of burden to relieve the Aztec of drudgery... meat to eat which they lacked before. The Spaniards showed them the use of iron and oil lamps to improve their ways of living.... They taught them Latin and other subjects which are worth a lot more than all the silver taken from them... it was to their benefit to be conquered and, even more, to become Christians. - Francisco López de Gómara</German>
+		<Italian>The Spaniards gave beasts of burden to relieve the Aztec of drudgery... meat to eat which they lacked before. The Spaniards showed them the use of iron and oil lamps to improve their ways of living.... They taught them Latin and other subjects which are worth a lot more than all the silver taken from them... it was to their benefit to be conquered and, even more, to become Christians. - Francisco López de Gómara</Italian>
+		<Spanish>The Spaniards gave beasts of burden to relieve the Aztec of drudgery... meat to eat which they lacked before. The Spaniards showed them the use of iron and oil lamps to improve their ways of living.... They taught them Latin and other subjects which are worth a lot more than all the silver taken from them... it was to their benefit to be conquered and, even more, to become Christians. - Francisco López de Gómara</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_23</Tag>
+		<English>In this world, torn with hate and war, adrift without an anchor or a compass with which to chart our course, we may well consider the Aztecs' example. The Indians worked together for their common good, and no sacrifice was too great for their corporate well-being. - George C. Vaillant</English>
+		<French>In this world, torn with hate and war, adrift without an anchor or a compass with which to chart our course, we may well consider the Aztecs' example. The Indians worked together for their common good, and no sacrifice was too great for their corporate well-being. - George C. Vaillant</French>
+		<German>In this world, torn with hate and war, adrift without an anchor or a compass with which to chart our course, we may well consider the Aztecs' example. The Indians worked together for their common good, and no sacrifice was too great for their corporate well-being. - George C. Vaillant</German>
+		<Italian>In this world, torn with hate and war, adrift without an anchor or a compass with which to chart our course, we may well consider the Aztecs' example. The Indians worked together for their common good, and no sacrifice was too great for their corporate well-being. - George C. Vaillant</Italian>
+		<Spanish>In this world, torn with hate and war, adrift without an anchor or a compass with which to chart our course, we may well consider the Aztecs' example. The Indians worked together for their common good, and no sacrifice was too great for their corporate well-being. - George C. Vaillant</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_24</Tag>
+		<English>Nothing caused me so much admiration and seems to me more worthy of praise and remembering than the care and discipline with which the Mexicans raised their children. In effect, it would be quite difficult to find a nation which in its times of paganism gave more attention to this element of highest importance to the state. - Father Jose de Acosta</English>
+		<French>Nothing caused me so much admiration and seems to me more worthy of praise and remembering than the care and discipline with which the Mexicans raised their children. In effect, it would be quite difficult to find a nation which in its times of paganism gave more attention to this element of highest importance to the state. - Father Jose de Acosta</French>
+		<German>Nothing caused me so much admiration and seems to me more worthy of praise and remembering than the care and discipline with which the Mexicans raised their children. In effect, it would be quite difficult to find a nation which in its times of paganism gave more attention to this element of highest importance to the state. - Father Jose de Acosta</German>
+		<Italian>Nothing caused me so much admiration and seems to me more worthy of praise and remembering than the care and discipline with which the Mexicans raised their children. In effect, it would be quite difficult to find a nation which in its times of paganism gave more attention to this element of highest importance to the state. - Father Jose de Acosta</Italian>
+		<Spanish>Nothing caused me so much admiration and seems to me more worthy of praise and remembering than the care and discipline with which the Mexicans raised their children. In effect, it would be quite difficult to find a nation which in its times of paganism gave more attention to this element of highest importance to the state. - Father Jose de Acosta</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_25</Tag>
+		<English>We are not myths of the past, ruins in the jungle or zoos. We are people and we want to be respected, not to be victims of intolerance and racism. - Rigoberta Menchu Tum</English>
+		<French>We are not myths of the past, ruins in the jungle or zoos. We are people and we want to be respected, not to be victims of intolerance and racism. - Rigoberta Menchu Tum</French>
+		<German>We are not myths of the past, ruins in the jungle or zoos. We are people and we want to be respected, not to be victims of intolerance and racism. - Rigoberta Menchu Tum</German>
+		<Italian>We are not myths of the past, ruins in the jungle or zoos. We are people and we want to be respected, not to be victims of intolerance and racism. - Rigoberta Menchu Tum</Italian>
+		<Spanish>We are not myths of the past, ruins in the jungle or zoos. We are people and we want to be respected, not to be victims of intolerance and racism. - Rigoberta Menchu Tum</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_26</Tag>
+		<English>Although we are in different boats you in your boat and we in our canoe we share the same river of life. - Chief Oren Lyons</English>
+		<French>Although we are in different boats you in your boat and we in our canoe we share the same river of life. - Chief Oren Lyons</French>
+		<German>Although we are in different boats you in your boat and we in our canoe we share the same river of life. - Chief Oren Lyons</German>
+		<Italian>Although we are in different boats you in your boat and we in our canoe we share the same river of life. - Chief Oren Lyons</Italian>
+		<Spanish>Although we are in different boats you in your boat and we in our canoe we share the same river of life. - Chief Oren Lyons</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_27</Tag>
+		<English>Ama Sua, Ama Kjella, Ama Lllulla - Don't lie, don't cheat, don't be lazy. - Quechua greeting during Inca times</English>
+		<French>Ama Sua, Ama Kjella, Ama Lllulla - Don't lie, don't cheat, don't be lazy. - Quechua greeting during Inca times</French>
+		<German>Ama Sua, Ama Kjella, Ama Lllulla - Don't lie, don't cheat, don't be lazy. - Quechua greeting during Inca times</German>
+		<Italian>Ama Sua, Ama Kjella, Ama Lllulla - Don't lie, don't cheat, don't be lazy. - Quechua greeting during Inca times</Italian>
+		<Spanish>Ama Sua, Ama Kjella, Ama Lllulla - Don't lie, don't cheat, don't be lazy. - Quechua greeting during Inca times</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_28</Tag>
+		<English>A wee child toddling in a wonder world, I prefer to their dogma my excursions into the natural gardens where the voice of the Great Spirit is heard in the twittering of birds, the rippling of mighty waters, and the sweet breathing of flowers. If this is Paganism, then at present, at least, I am a Pagan. - Zitkala-Sa</English>
+		<French>A wee child toddling in a wonder world, I prefer to their dogma my excursions into the natural gardens where the voice of the Great Spirit is heard in the twittering of birds, the rippling of mighty waters, and the sweet breathing of flowers. If this is Paganism, then at present, at least, I am a Pagan. - Zitkala-Sa</French>
+		<German>A wee child toddling in a wonder world, I prefer to their dogma my excursions into the natural gardens where the voice of the Great Spirit is heard in the twittering of birds, the rippling of mighty waters, and the sweet breathing of flowers. If this is Paganism, then at present, at least, I am a Pagan. - Zitkala-Sa</German>
+		<Italian>A wee child toddling in a wonder world, I prefer to their dogma my excursions into the natural gardens where the voice of the Great Spirit is heard in the twittering of birds, the rippling of mighty waters, and the sweet breathing of flowers. If this is Paganism, then at present, at least, I am a Pagan. - Zitkala-Sa</Italian>
+		<Spanish>A wee child toddling in a wonder world, I prefer to their dogma my excursions into the natural gardens where the voice of the Great Spirit is heard in the twittering of birds, the rippling of mighty waters, and the sweet breathing of flowers. If this is Paganism, then at present, at least, I am a Pagan. - Zitkala-Sa</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_29</Tag>
+		<English>The death of fear is in doing what you fear to do. - Sequichie Comingdeer</English>
+		<French>The death of fear is in doing what you fear to do. - Sequichie Comingdeer</French>
+		<German>The death of fear is in doing what you fear to do. - Sequichie Comingdeer</German>
+		<Italian>The death of fear is in doing what you fear to do. - Sequichie Comingdeer</Italian>
+		<Spanish>The death of fear is in doing what you fear to do. - Sequichie Comingdeer</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_30</Tag>
+		<English>If you live on this land, and you have ancestors sleeping in this land, I believe that makes you a native to this land. It has nothing to do with the color of your skin. I was not raised to look at people racially. What I was taught is that we're flowers in the Great Spirit's garden. We share a common root, and the root is Mother Earth. - Oh Shinnah</English>
+		<French>If you live on this land, and you have ancestors sleeping in this land, I believe that makes you a native to this land. It has nothing to do with the color of your skin. I was not raised to look at people racially. What I was taught is that we're flowers in the Great Spirit's garden. We share a common root, and the root is Mother Earth. - Oh Shinnah</French>
+		<German>If you live on this land, and you have ancestors sleeping in this land, I believe that makes you a native to this land. It has nothing to do with the color of your skin. I was not raised to look at people racially. What I was taught is that we're flowers in the Great Spirit's garden. We share a common root, and the root is Mother Earth. - Oh Shinnah</German>
+		<Italian>If you live on this land, and you have ancestors sleeping in this land, I believe that makes you a native to this land. It has nothing to do with the color of your skin. I was not raised to look at people racially. What I was taught is that we're flowers in the Great Spirit's garden. We share a common root, and the root is Mother Earth. - Oh Shinnah</Italian>
+		<Spanish>If you live on this land, and you have ancestors sleeping in this land, I believe that makes you a native to this land. It has nothing to do with the color of your skin. I was not raised to look at people racially. What I was taught is that we're flowers in the Great Spirit's garden. We share a common root, and the root is Mother Earth. - Oh Shinnah</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_31</Tag>
+		<English>We know our lands have now become more valuable. The white people think we do not know their value; but we know that the land is everlasting, and the few goods we receive for it are soon worn out and gone. - Canassatego</English>
+		<French>We know our lands have now become more valuable. The white people think we do not know their value; but we know that the land is everlasting, and the few goods we receive for it are soon worn out and gone. - Canassatego</French>
+		<German>We know our lands have now become more valuable. The white people think we do not know their value; but we know that the land is everlasting, and the few goods we receive for it are soon worn out and gone. - Canassatego</German>
+		<Italian>We know our lands have now become more valuable. The white people think we do not know their value; but we know that the land is everlasting, and the few goods we receive for it are soon worn out and gone. - Canassatego</Italian>
+		<Spanish>We know our lands have now become more valuable. The white people think we do not know their value; but we know that the land is everlasting, and the few goods we receive for it are soon worn out and gone. - Canassatego</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CUTSCENE_32</Tag>
+		<English>Your emperor may be a great prince; I do not doubt it, seeing that he has sent his subjects so far across the waters; and I am willing to treat him as a brother. As for your pope of whom you speak, he must be mad to speak of giving away countries that do not belong to him. As for my faith, I will not change it. Your own God, as you tell me, was put to death by the very men He created. But my God still looks down on His children. - Atahualpa</English>
+		<French>Your emperor may be a great prince; I do not doubt it, seeing that he has sent his subjects so far across the waters; and I am willing to treat him as a brother. As for your pope of whom you speak, he must be mad to speak of giving away countries that do not belong to him. As for my faith, I will not change it. Your own God, as you tell me, was put to death by the very men He created. But my God still looks down on His children. - Atahualpa</French>
+		<German>Your emperor may be a great prince; I do not doubt it, seeing that he has sent his subjects so far across the waters; and I am willing to treat him as a brother. As for your pope of whom you speak, he must be mad to speak of giving away countries that do not belong to him. As for my faith, I will not change it. Your own God, as you tell me, was put to death by the very men He created. But my God still looks down on His children. - Atahualpa</German>
+		<Italian>Your emperor may be a great prince; I do not doubt it, seeing that he has sent his subjects so far across the waters; and I am willing to treat him as a brother. As for your pope of whom you speak, he must be mad to speak of giving away countries that do not belong to him. As for my faith, I will not change it. Your own God, as you tell me, was put to death by the very men He created. But my God still looks down on His children. - Atahualpa</Italian>
+		<Spanish>Your emperor may be a great prince; I do not doubt it, seeing that he has sent his subjects so far across the waters; and I am willing to treat him as a brother. As for your pope of whom you speak, he must be mad to speak of giving away countries that do not belong to him. As for my faith, I will not change it. Your own God, as you tell me, was put to death by the very men He created. But my God still looks down on His children. - Atahualpa</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,249 @@
+[219829.437] Loading XML file xml\BasicInfos/CIV4BasicInfos.xml
+[219829.437] Load XML file xml\BasicInfos/CIV4BasicInfos.xml SUCCEEDED
+[219829.437] SetGlobalClassInfo (Civ4BasicInfos/ConceptInfos/ConceptInfo)
+[219829.437] Loading XML file xml\BasicInfos/CIV4CalendarInfos.xml
+[219829.437] Load XML file xml\BasicInfos/CIV4CalendarInfos.xml SUCCEEDED
+[219829.437] SetGlobalClassInfo (Civ4CalendarInfos/CalendarInfos/CalendarInfo)
+[219829.437] Loading XML file xml\BasicInfos/CIV4SeasonInfos.xml
+[219829.437] Load XML file xml\BasicInfos/CIV4SeasonInfos.xml SUCCEEDED
+[219829.437] SetGlobalClassInfo (Civ4SeasonInfos/SeasonInfos/SeasonInfo)
+[219829.437] Loading XML file xml\BasicInfos/CIV4MonthInfos.xml
+[219829.437] Load XML file xml\BasicInfos/CIV4MonthInfos.xml SUCCEEDED
+[219829.437] SetGlobalClassInfo (Civ4MonthInfos/MonthInfos/MonthInfo)
+[219829.437] Loading XML file xml\BasicInfos/CIV4DenialInfos.xml
+[219829.437] Load XML file xml\BasicInfos/CIV4DenialInfos.xml SUCCEEDED
+[219829.437] SetGlobalClassInfo (Civ4DenialInfos/DenialInfos/DenialInfo)
+[219829.437] Loading XML file xml\BasicInfos/CIV4InvisibleInfos.xml
+[219829.437] Load XML file xml\BasicInfos/CIV4InvisibleInfos.xml SUCCEEDED
+[219829.437] SetGlobalClassInfo (Civ4InvisibleInfos/InvisibleInfos/InvisibleInfo)
+[219829.437] Loading XML file xml\BasicInfos/CIV4UnitCombatInfos.xml
+[219829.437] Load XML file xml\BasicInfos/CIV4UnitCombatInfos.xml SUCCEEDED
+[219829.437] SetGlobalClassInfo (Civ4UnitCombatInfos/UnitCombatInfos/UnitCombatInfo)
+[219829.437] Loading XML file xml\BasicInfos/CIV4DomainInfos.xml
+[219829.437] Load XML file xml\BasicInfos/CIV4DomainInfos.xml SUCCEEDED
+[219829.437] SetGlobalClassInfo (Civ4DomainInfos/DomainInfos/DomainInfo)
+[219829.437] Loading XML file xml\BasicInfos/CIV4UnitAIInfos.xml
+[219829.437] Load XML file xml\BasicInfos/CIV4UnitAIInfos.xml SUCCEEDED
+[219829.437] SetGlobalClassInfo (Civ4UnitAIInfos/UnitAIInfos/UnitAIInfo)
+[219829.437] Loading XML file xml\BasicInfos/CIV4AttitudeInfos.xml
+[219829.437] Load XML file xml\BasicInfos/CIV4AttitudeInfos.xml SUCCEEDED
+[219829.437] SetGlobalClassInfo (Civ4AttitudeInfos/AttitudeInfos/AttitudeInfo)
+[219829.437] Loading XML file xml\BasicInfos/CIV4MemoryInfos.xml
+[219829.453] Load XML file xml\BasicInfos/CIV4MemoryInfos.xml SUCCEEDED
+[219829.453] SetGlobalClassInfo (Civ4MemoryInfos/MemoryInfos/MemoryInfo)
+[219829.453] Loading XML file xml\BasicInfos/CIV4FatherCategoryInfos.xml
+[219829.453] Load XML file xml\BasicInfos/CIV4FatherCategoryInfos.xml SUCCEEDED
+[219829.453] SetGlobalClassInfo (Civ4FatherCategoryInfos/FatherCategoryInfos/FatherCategoryInfo)
+[219829.453] Loading XML file xml\Interface/CIV4ColorVals.xml
+[219829.453] Load XML file xml\Interface/CIV4ColorVals.xml SUCCEEDED
+[219829.453] SetGlobalClassInfo (Civ4ColorVals/ColorVals/ColorVal)
+[219829.453] Loading XML file xml\Units/CIV4UnitClassInfos.xml
+[219829.468] Load XML file xml\Units/CIV4UnitClassInfos.xml SUCCEEDED
+[219829.468] SetGlobalClassInfo (Civ4UnitClassInfos/UnitClassInfos/UnitClassInfo)
+[219829.468] Loading XML file xml\GameInfo/CIV4CultureLevelInfo.xml
+[219829.468] Load XML file xml\GameInfo/CIV4CultureLevelInfo.xml SUCCEEDED
+[219829.468] SetGlobalClassInfo (Civ4CultureLevelInfo/CultureLevelInfos/CultureLevelInfo)
+[219829.468] Loading XML file xml\GameInfo/CIV4VictoryInfo.xml
+[219829.468] Load XML file xml\GameInfo/CIV4VictoryInfo.xml SUCCEEDED
+[219829.468] SetGlobalClassInfo (Civ4VictoryInfo/VictoryInfos/VictoryInfo)
+[219829.468] Loading XML file xml\Buildings/CIV4BuildingClassInfos.xml
+[219829.484] Load XML file xml\Buildings/CIV4BuildingClassInfos.xml SUCCEEDED
+[219829.484] SetGlobalClassInfo (Civ4BuildingClassInfos/BuildingClassInfos/BuildingClassInfo)
+[219829.484] Loading XML file xml\Terrain/CIV4YieldInfos.xml
+[219829.500] Load XML file xml\Terrain/CIV4YieldInfos.xml SUCCEEDED
+[219829.500] SetGlobalClassInfo (Civ4YieldInfos/YieldInfos/YieldInfo)
+[219829.500] Loading XML file xml\Civilizations/CIV4AlarmInfos.xml
+[219829.500] Load XML file xml\Civilizations/CIV4AlarmInfos.xml SUCCEEDED
+[219829.500] SetGlobalClassInfo (Civ4AlarmInfos/AlarmInfos/AlarmInfo)
+[219829.500] Loading XML file xml\GameInfo/CIV4GameSpeedInfo.xml
+[219829.515] Load XML file xml\GameInfo/CIV4GameSpeedInfo.xml SUCCEEDED
+[219829.515] SetGlobalClassInfo (Civ4GameSpeedInfo/GameSpeedInfos/GameSpeedInfo)
+[219829.515] Loading XML file xml\GameInfo/CIV4TurnTimerInfo.xml
+[219829.515] Load XML file xml\GameInfo/CIV4TurnTimerInfo.xml SUCCEEDED
+[219829.515] SetGlobalClassInfo (Civ4TurnTimerInfo/TurnTimerInfos/TurnTimerInfo)
+[219829.515] Loading XML file xml\GameInfo/CIV4WorldInfo.xml
+[219829.515] Load XML file xml\GameInfo/CIV4WorldInfo.xml SUCCEEDED
+[219829.515] SetGlobalClassInfo (Civ4WorldInfo/WorldInfos/WorldInfo)
+[219829.515] Loading XML file xml\GameInfo/CIV4ClimateInfo.xml
+[219829.515] Load XML file xml\GameInfo/CIV4ClimateInfo.xml SUCCEEDED
+[219829.515] SetGlobalClassInfo (Civ4ClimateInfo/ClimateInfos/ClimateInfo)
+[219829.515] Loading XML file xml\GameInfo/CIV4SeaLevelInfo.xml
+[219829.515] Load XML file xml\GameInfo/CIV4SeaLevelInfo.xml SUCCEEDED
+[219829.515] SetGlobalClassInfo (Civ4SeaLevelInfo/SeaLevelInfos/SeaLevelInfo)
+[219829.515] Loading XML file xml\GameInfo/CIV4EuropeInfo.xml
+[219829.515] Load XML file xml\GameInfo/CIV4EuropeInfo.xml SUCCEEDED
+[219829.515] SetGlobalClassInfo (Civ4EuropeInfo/EuropeInfos/EuropeInfo)
+[219829.515] Loading XML file xml\Terrain/CIV4TerrainInfos.xml
+[219829.531] Load XML file xml\Terrain/CIV4TerrainInfos.xml SUCCEEDED
+[219829.531] SetGlobalClassInfo (Civ4TerrainInfos/TerrainInfos/TerrainInfo)
+[219829.531] Loading XML file xml\GameInfo/CIV4EraInfos.xml
+[219829.531] Load XML file xml\GameInfo/CIV4EraInfos.xml SUCCEEDED
+[219829.531] SetGlobalClassInfo (Civ4EraInfos/EraInfos/EraInfo)
+[219829.531] Loading XML file xml\Terrain/Civ4FeatureInfos.xml
+[219829.531] Load XML file xml\Terrain/Civ4FeatureInfos.xml SUCCEEDED
+[219829.531] SetGlobalClassInfo (Civ4FeatureInfos/FeatureInfos/FeatureInfo)
+[219829.531] Loading XML file xml\Units/CIV4PromotionInfos.xml
+[219829.546] Load XML file xml\Units/CIV4PromotionInfos.xml SUCCEEDED
+[219829.546] SetGlobalClassInfo (Civ4PromotionInfos/PromotionInfos/PromotionInfo)
+[219829.546] Loading XML file xml\Units/CIV4ProfessionInfos.xml
+[219829.562] Load XML file xml\Units/CIV4ProfessionInfos.xml SUCCEEDED
+[219829.562] SetGlobalClassInfo (Civ4ProfessionInfos/ProfessionInfos/ProfessionInfo)
+[219829.562] Loading XML file xml\GameInfo/CIV4GoodyInfo.xml
+[219829.562] Load XML file xml\GameInfo/CIV4GoodyInfo.xml SUCCEEDED
+[219829.562] SetGlobalClassInfo (Civ4GoodyInfo/GoodyInfos/GoodyInfo)
+[219829.562] Loading XML file xml\Civilizations/CIV4TraitInfos.xml
+[219829.578] Load XML file xml\Civilizations/CIV4TraitInfos.xml SUCCEEDED
+[219829.578] SetGlobalClassInfo (Civ4TraitInfos/TraitInfos/TraitInfo)
+[219829.593] Loading XML file xml\Buildings/CIV4SpecialBuildingInfos.xml
+[219829.593] Load XML file xml\Buildings/CIV4SpecialBuildingInfos.xml SUCCEEDED
+[219829.593] SetGlobalClassInfo (Civ4SpecialBuildingInfos/SpecialBuildingInfos/SpecialBuildingInfo)
+[219829.593] Loading XML file xml\Units/CIV4AnimationInfos.xml
+[219829.593] Load XML file xml\Units/CIV4AnimationInfos.xml SUCCEEDED
+[219829.593] SetGlobalClassInfo (Civ4AnimationInfos/AnimationCategories/AnimationCategory)
+[219829.593] Loading XML file xml\Units/CIV4AnimationPathInfos.xml
+[219829.593] Load XML file xml\Units/CIV4AnimationPathInfos.xml SUCCEEDED
+[219829.593] SetGlobalClassInfo (Civ4AnimationPathInfos/AnimationPaths/AnimationPath)
+[219829.593] Loading XML file xml\GameInfo/CIV4HandicapInfo.xml
+[219829.609] Load XML file xml\GameInfo/CIV4HandicapInfo.xml SUCCEEDED
+[219829.609] SetGlobalClassInfo (Civ4HandicapInfo/HandicapInfos/HandicapInfo)
+[219829.609] Loading XML file xml\GameInfo/CIV4CursorInfo.xml
+[219829.609] Load XML file xml\GameInfo/CIV4CursorInfo.xml SUCCEEDED
+[219829.609] SetGlobalClassInfo (Civ4CursorInfo/CursorInfos/CursorInfo)
+[219829.609] Loading XML file xml\GameInfo/CIV4CivicOptionInfos.xml
+[219829.609] Load XML file xml\GameInfo/CIV4CivicOptionInfos.xml SUCCEEDED
+[219829.609] SetGlobalClassInfo (Civ4CivicOptionInfos/CivicOptionInfos/CivicOptionInfo)
+[219829.609] Loading XML file xml\GameInfo/CIV4HurryInfo.xml
+[219829.609] Load XML file xml\GameInfo/CIV4HurryInfo.xml SUCCEEDED
+[219829.609] SetGlobalClassInfo (Civ4HurryInfo/HurryInfos/HurryInfo)
+[219829.609] Loading XML file xml\Buildings/CIV4BuildingInfos.xml
+[219829.625] Load XML file xml\Buildings/CIV4BuildingInfos.xml SUCCEEDED
+[219829.625] SetGlobalClassInfo (Civ4BuildingInfos/BuildingInfos/BuildingInfo)
+[219829.640] Loading XML file xml\Terrain/CIV4BonusInfos.xml
+[219829.656] Load XML file xml\Terrain/CIV4BonusInfos.xml SUCCEEDED
+[219829.656] SetGlobalClassInfo (Civ4BonusInfos/BonusInfos/BonusInfo)
+[219829.656] Loading XML file xml\Misc/Civ4RouteInfos.xml
+[219829.656] Load XML file xml\Misc/Civ4RouteInfos.xml SUCCEEDED
+[219829.656] SetGlobalClassInfo (Civ4RouteInfos/RouteInfos/RouteInfo)
+[219829.656] Loading XML file xml\Terrain/CIV4ImprovementInfos.xml
+[219829.656] Load XML file xml\Terrain/CIV4ImprovementInfos.xml SUCCEEDED
+[219829.656] SetGlobalClassInfo (Civ4ImprovementInfos/ImprovementInfos/ImprovementInfo)
+[219829.656] Loading XML file xml\GameInfo/CIV4FatherPointInfos.xml
+[219829.671] Load XML file xml\GameInfo/CIV4FatherPointInfos.xml SUCCEEDED
+[219829.671] SetGlobalClassInfo (Civ4FatherPointInfos/FatherPointInfos/FatherPointInfo)
+[219829.671] Loading XML file xml\GameInfo/CIV4FatherInfos.xml
+[219829.671] Load XML file xml\GameInfo/CIV4FatherInfos.xml SUCCEEDED
+[219829.671] SetGlobalClassInfo (Civ4FatherInfos/FatherInfos/FatherInfo)
+[219829.671] Loading XML file xml\Units/CIV4SpecialUnitInfos.xml
+[219829.671] Load XML file xml\Units/CIV4SpecialUnitInfos.xml SUCCEEDED
+[219829.671] SetGlobalClassInfo (Civ4SpecialUnitInfos/SpecialUnitInfos/SpecialUnitInfo)
+[219829.671] Loading XML file xml\GameInfo/CIV4CivicInfos.xml
+[219829.671] Load XML file xml\GameInfo/CIV4CivicInfos.xml SUCCEEDED
+[219829.671] SetGlobalClassInfo (Civ4CivicInfos/CivicInfos/CivicInfo)
+[219829.687] Loading XML file xml\Civilizations/CIV4LeaderHeadInfos.xml
+[219829.703] Load XML file xml\Civilizations/CIV4LeaderHeadInfos.xml SUCCEEDED
+[219829.703] SetGlobalClassInfo (Civ4LeaderHeadInfos/LeaderHeadInfos/LeaderHeadInfo)
+[219829.718] Loading XML file xml\Interface/CIV4PlayerColorInfos.xml
+[219829.718] Load XML file xml\Interface/CIV4PlayerColorInfos.xml SUCCEEDED
+[219829.718] SetGlobalClassInfo (Civ4PlayerColorInfos/PlayerColorInfos/PlayerColorInfo)
+[219829.718] Loading XML file xml\Misc/CIV4EffectInfos.xml
+[219829.718] Load XML file xml\Misc/CIV4EffectInfos.xml SUCCEEDED
+[219829.718] SetGlobalClassInfo (Civ4EffectInfos/EffectInfos/EffectInfo)
+[219829.718] Loading XML file xml\Units/CIV4EntityEventInfos.xml
+[219829.718] Load XML file xml\Units/CIV4EntityEventInfos.xml SUCCEEDED
+[219829.718] SetGlobalClassInfo (Civ4EntityEventInfos/EntityEventInfos/EntityEventInfo)
+[219829.718] Loading XML file xml\Units/CIV4BuildInfos.xml
+[219829.718] Load XML file xml\Units/CIV4BuildInfos.xml SUCCEEDED
+[219829.718] SetGlobalClassInfo (Civ4BuildInfos/BuildInfos/BuildInfo)
+[219829.718] Loading XML file xml\Units/CIV4UnitInfos.xml
+[219829.765] Load XML file xml\Units/CIV4UnitInfos.xml SUCCEEDED
+[219829.765] SetGlobalClassInfo (Civ4UnitInfos/UnitInfos/UnitInfo)
+[219829.812] Loading XML file xml\Civilizations/CIV4UnitArtStyleTypeInfos.xml
+[219829.812] Load XML file xml\Civilizations/CIV4UnitArtStyleTypeInfos.xml SUCCEEDED
+[219829.812] SetGlobalClassInfo (Civ4UnitArtStyleTypeInfos/UnitArtStyleTypeInfos/UnitArtStyleTypeInfo)
+[219829.812] Loading XML file xml\Civilizations/CIV4CivilizationInfos.xml
+[219829.843] Load XML file xml\Civilizations/CIV4CivilizationInfos.xml SUCCEEDED
+[219829.843] SetGlobalClassInfo (Civ4CivilizationInfos/CivilizationInfos/CivilizationInfo)
+[219829.859] Loading XML file xml\GameInfo/CIV4Hints.xml
+[219829.859] Load XML file xml\GameInfo/CIV4Hints.xml SUCCEEDED
+[219829.859] SetGlobalClassInfo (Civ4Hints/HintInfos/HintInfo)
+[219829.859] Loading XML file xml\Art/CIV4MainMenus.xml
+[219829.859] Load XML file xml\Art/CIV4MainMenus.xml SUCCEEDED
+[219829.859] SetGlobalClassInfo (Civ4MainMenus/MainMenus/MainMenu)
+[219829.859] Loading XML file xml\Interface/CIV4SlideShowInfos.xml
+[219829.859] Load XML file xml\Interface/CIV4SlideShowInfos.xml SUCCEEDED
+[219829.859] SetGlobalClassInfo (Civ4SlideShowInfos/SlideShowInfos/SlideShowInfo)
+[219829.859] Loading XML file xml\Interface/CIV4SlideShowRandomInfos.xml
+[219829.859] Load XML file xml\Interface/CIV4SlideShowRandomInfos.xml SUCCEEDED
+[219829.859] SetGlobalClassInfo (Civ4SlideShowRandomInfos/SlideShowRandomInfos/SlideShowRandomInfo)
+[219829.859] Loading XML file xml\Interface/CIV4WorldPickerInfos.xml
+[219829.859] Load XML file xml\Interface/CIV4WorldPickerInfos.xml SUCCEEDED
+[219829.859] SetGlobalClassInfo (Civ4WorldPickerInfos/WorldPickerInfos/WorldPickerInfo)
+[219829.859] Loading XML file xml\GameInfo/CIV4GameOptionInfos.xml
+[219829.875] Load XML file xml\GameInfo/CIV4GameOptionInfos.xml SUCCEEDED
+[219829.875] SetGlobalClassInfo (Civ4GameOptionInfos/GameOptionInfos/GameOptionInfo)
+[219829.875] Loading XML file xml\GameInfo/CIV4MPOptionInfos.xml
+[219829.875] Load XML file xml\GameInfo/CIV4MPOptionInfos.xml SUCCEEDED
+[219829.875] SetGlobalClassInfo (Civ4MPOptionInfos/MPOptionInfos/MPOptionInfo)
+[219829.875] Loading XML file xml\GameInfo/CIV4ForceControlInfos.xml
+[219829.875] Load XML file xml\GameInfo/CIV4ForceControlInfos.xml SUCCEEDED
+[219829.875] SetGlobalClassInfo (Civ4ForceControlInfos/ForceControlInfos/ForceControlInfo)
+[219829.875] Loading XML file xml\Events/CIV4AchieveInfos.xml
+[219829.875] Load XML file xml\Events/CIV4AchieveInfos.xml SUCCEEDED
+[219829.875] SetGlobalClassInfo (Civ4AchieveInfos/AchieveInfo)
+[219829.890] Loading XML file xml\Terrain/CIV4TerrainSettings.xml
+[219829.890] Load XML file xml\Terrain/CIV4TerrainSettings.xml SUCCEEDED
+[219829.890] SetGlobalClassInfo (Civ4TerrainSettings/LandscapeInfos/LandscapeInfo)
+[219829.890] Loading XML file xml\Events/CIV4EventInfos.xml
+[219829.921] Load XML file xml\Events/CIV4EventInfos.xml SUCCEEDED
+[219829.921] SetGlobalClassInfo (Civ4EventInfos/EventInfos/EventInfo)
+[219829.968] Loading XML file xml\Events/CIV4EventTriggerInfos.xml
+[219829.984] Load XML file xml\Events/CIV4EventTriggerInfos.xml SUCCEEDED
+[219829.984] SetGlobalClassInfo (Civ4EventTriggerInfos/EventTriggerInfos/EventTriggerInfo)
+[219830.000] Loading XML file xml\Art/Civ4RouteModelInfos.xml
+[219830.000] Load XML file xml\Art/Civ4RouteModelInfos.xml SUCCEEDED
+[219830.000] SetGlobalClassInfo (Civ4RouteModelInfos/RouteModelInfos/RouteModelInfo)
+[219830.015] Loading XML file xml\Art/CIV4RiverModelInfos.xml
+[219830.015] Load XML file xml\Art/CIV4RiverModelInfos.xml SUCCEEDED
+[219830.015] SetGlobalClassInfo (Civ4RiverModelInfos/RiverModelInfos/RiverModelInfo)
+[219830.015] Loading XML file xml\Misc/CIV4WaterPlaneInfos.xml
+[219830.015] Load XML file xml\Misc/CIV4WaterPlaneInfos.xml SUCCEEDED
+[219830.015] SetGlobalClassInfo (Civ4WaterPlaneInfos/WaterPlaneInfos/WaterPlaneInfo)
+[219830.015] Loading XML file xml\Misc/CIV4TerrainPlaneInfos.xml
+[219830.015] Load XML file xml\Misc/CIV4TerrainPlaneInfos.xml SUCCEEDED
+[219830.015] SetGlobalClassInfo (Civ4TerrainPlaneInfos/TerrainPlaneInfos/TerrainPlaneInfo)
+[219830.015] Loading XML file xml\Misc/CIV4CameraOverlayInfos.xml
+[219830.015] Load XML file xml\Misc/CIV4CameraOverlayInfos.xml SUCCEEDED
+[219830.015] SetGlobalClassInfo (Civ4CameraOverlayInfos/CameraOverlayInfos/CameraOverlayInfo)
+[219830.015] Loading XML file xml\GameInfo/CIV4EmphasizeInfo.xml
+[219830.015] Load XML file xml\GameInfo/CIV4EmphasizeInfo.xml SUCCEEDED
+[219830.015] SetGlobalClassInfo (Civ4EmphasizeInfo/EmphasizeInfos/EmphasizeInfo)
+[219830.015] Loading XML file xml\Units/CIV4MissionInfos.xml
+[219830.015] Load XML file xml\Units/CIV4MissionInfos.xml SUCCEEDED
+[219830.015] SetGlobalClassInfo (Civ4MissionInfos/MissionInfos/MissionInfo)
+[219830.015] Loading XML file xml\Units/CIV4ControlInfos.xml
+[219830.031] Load XML file xml\Units/CIV4ControlInfos.xml SUCCEEDED
+[219830.031] SetGlobalClassInfo (Civ4ControlInfos/ControlInfos/ControlInfo)
+[219830.031] Loading XML file xml\Units/CIV4CommandInfos.xml
+[219830.031] Load XML file xml\Units/CIV4CommandInfos.xml SUCCEEDED
+[219830.031] SetGlobalClassInfo (Civ4CommandInfos/CommandInfos/CommandInfo)
+[219830.031] Loading XML file xml\Units/CIV4AutomateInfos.xml
+[219830.031] Load XML file xml\Units/CIV4AutomateInfos.xml SUCCEEDED
+[219830.031] SetGlobalClassInfo (Civ4AutomateInfos/AutomateInfos/AutomateInfo)
+[219830.031] Loading XML file xml\Interface/CIV4InterfaceModeInfos.xml
+[219830.031] Load XML file xml\Interface/CIV4InterfaceModeInfos.xml SUCCEEDED
+[219830.031] SetGlobalClassInfo (Civ4InterfaceModeInfos/InterfaceModeInfos/InterfaceModeInfo)
+[219830.031] Loading XML file xml\Units/CIV4FormationInfos.xml
+[219830.031] Load XML file xml\Units/CIV4FormationInfos.xml SUCCEEDED
+[219830.031] SetGlobalClassInfo (UnitFormations/UnitFormation)
+[219830.031] Loading XML file xml\Misc/CIV4AttachableInfos.xml
+[219830.031] Load XML file xml\Misc/CIV4AttachableInfos.xml SUCCEEDED
+[219830.031] SetGlobalClassInfo (Civ4AttachableInfos/AttachableInfos/AttachableInfo)
+[219830.031] Loading XML file xml\GameInfo/CIV4DiplomacyInfos.xml
+[219830.046] Load XML file xml\GameInfo/CIV4DiplomacyInfos.xml SUCCEEDED
+[219830.046] SetGlobalClassInfo (Civ4DiplomacyInfos/DiplomacyInfos/DiplomacyInfo)
+[219830.046] Loading XML file xml\GameInfo/CIV4PlayerOptionInfos.xml
+[219830.046] Load XML file xml\GameInfo/CIV4PlayerOptionInfos.xml SUCCEEDED
+[219830.046] SetGlobalClassInfo (Civ4PlayerOptionInfos/PlayerOptionInfos/PlayerOptionInfo)
+[219830.046] Loading XML file xml\GameInfo/CIV4GraphicOptionInfos.xml
+[219830.046] Load XML file xml\GameInfo/CIV4GraphicOptionInfos.xml SUCCEEDED
+[219830.046] SetGlobalClassInfo (Civ4GraphicOptionInfos/GraphicOptionInfos/GraphicOptionInfo)

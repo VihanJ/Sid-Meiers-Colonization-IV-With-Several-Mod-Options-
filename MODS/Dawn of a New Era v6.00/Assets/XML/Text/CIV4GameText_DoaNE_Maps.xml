@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_MAP_DOANE_DESCR</Tag>
+    <English>FaireWeather Tweak map script adapted for DoaNE. The new version includes a new option for map regularity as well some global fine tuning.[\BOLD][NEWLINE]Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</English>
+    <French>Parfaite pour DoaNE, cette terre gigantesque vous promet un monde de conqu&#xEA;tes militaires et de rivalit&#xE9;s commerciales.</French>
+    <German>[BOLD]FaireWeather Tweak map script adapted for DoaNE. The new version includes a new option for map regularity as well some global fine tuning.[\BOLD][NEWLINE]Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</German>
+    <Italian>[BOLD]FaireWeather Tweak map script adapted for DoaNE. The new version includes a new option for map regularity as well some global fine tuning.[\BOLD][NEWLINE]Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</Italian>
+    <Spanish>[BOLD]FaireWeather Tweak map script adapted for DoaNE. The new version includes a new option for map regularity as well some global fine tuning.[\BOLD][NEWLINE]Random map that simulates earth-like plate tectonics, geostrophic and monsoon winds and rainfall.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_EARTH31_DESCR</Tag>
+    <English>TODO</English>
+    <French>TODO</French>
+    <German>TODO</German>
+    <Italian>TODO</Italian>
+    <Spanish>TODO</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_CONTINENTS_AND_ISLANDS_2_DESCR</Tag>
+    <English>TODO</English>
+    <French>TODO</French>
+    <German>TODO</German>
+    <Italian>TODO</Italian>
+    <Spanish>TODO</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_HEMISPHERES_DESCR</Tag>
+    <English>TODO</English>
+    <French>TODO</French>
+    <German>TODO</German>
+    <Italian>TODO</Italian>
+    <Spanish>TODO</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_EUROPE_DISTANCE</Tag>
+    <English>Europe Distance</English>
+    <French>Distance des cases "Europe"</French>
+    <German>Europe Distance</German>
+    <Italian>Europe Distance</Italian>
+    <Spanish>Europe Distance</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_LANDFORM</Tag>
+    <English>Landform</English>
+    <French>Relief</French>
+    <German>Landform</German>
+    <Italian>Landform</Italian>
+    <Spanish>Landform</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_REGULARITY</Tag>
+    <English>Regularity</English>
+    <French>R&#xE9;gularit&#xE9;</French>
+    <German>Regularity</German>
+    <Italian>Regularity</Italian>
+    <Spanish>Regularity</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_TILES</Tag>
+    <English>%d1 tiles</English>
+    <French>%d1 cases</French>
+    <German>%d1 tiles</German>
+    <Italian>%d1 tiles</Italian>
+    <Spanish>%d1 tiles</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_DEFAULTS</Tag>
+    <English>(Default)</English>
+    <French>(D&#xE9;faut)</French>
+    <German>(Default)</German>
+    <Italian>(Default)</Italian>
+    <Spanish>(Default)</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_VERY_IRREGULAR</Tag>
+    <English>Very Irregular</English>
+    <French>Tr&#xE8;s irr&#xE9;gulier</French>
+    <German>Very Irregular</German>
+    <Italian>Very Irregular</Italian>
+    <Spanish>Very Irregular</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_QUITE_IRREGULAR</Tag>
+    <English>Quite Irregular</English>
+    <French>Assez irr&#xE9;gulier</French>
+    <German>Quite Irregular</German>
+    <Italian>Quite Irregular</Italian>
+    <Spanish>Quite Irregular</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_REGULAR</Tag>
+    <English>Regular</English>
+    <French>R&#xE9;gulier</French>
+    <German>Regular</German>
+    <Italian>Regular</Italian>
+    <Spanish>Regular</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_LESS_ISLANDS</Tag>
+    <English>Less Islands (Default)</English>
+    <French>Moins d'&#xEE;les (D&#xE9;faut)</French>
+    <German>Less Islands (Default)</German>
+    <Italian>Less Islands (Default)</Italian>
+    <Spanish>Less Islands (Default)</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_MORE_ISLANDS</Tag>
+    <English>More Islands</English>
+    <French>Plus d'&#xEE;les</French>
+    <German>More Islands</German>
+    <Italian>More Islands</Italian>
+    <Spanish>More Islands</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_CONTINENTS_SIZE</Tag>
+    <English>Size of continents</English>
+    <French>Size of continents</French>
+    <German>Size of continents</German>
+    <Italian>Size of continents</Italian>
+    <Spanish>Size of continents</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_ISLANDS_SIZE</Tag>
+    <English>Size of islands</English>
+    <French>Size of islands</French>
+    <German>Size of islands</German>
+    <Italian>Size of islands</Italian>
+    <Spanish>Size of islands</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_NUMBER_OF_CONTINENTS</Tag>
+    <English>Number of continents</English>
+    <French>Number of continents</French>
+    <German>Number of continents</German>
+    <Italian>Number of continents</Italian>
+    <Spanish>Number of continents</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_MASSIVE_CONTINENTS</Tag>
+    <English>Massive continents</English>
+    <French>Massive continents</French>
+    <German>Massive continents</German>
+    <Italian>Massive continents</Italian>
+    <Spanish>Massive continents</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_NORMAL_CONTINENTS</Tag>
+    <English>Normal continents</English>
+    <French>Normal continents</French>
+    <German>Normal continents</German>
+    <Italian>Normal continents</Italian>
+    <Spanish>Normal continents</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_SNAKY_CONTINENTS</Tag>
+    <English>Snaky continents</English>
+    <French>Snaky continents</French>
+    <German>Snaky continents</German>
+    <Italian>Snaky continents</Italian>
+    <Spanish>Snaky continents</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_VARIED</Tag>
+    <English>Varied</English>
+    <French>Varied</French>
+    <German>Varied</German>
+    <Italian>Varied</Italian>
+    <Spanish>Varied</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_ISLANDS</Tag>
+    <English>Islands</English>
+    <French>Islands</French>
+    <German>Islands</German>
+    <Italian>Islands</Italian>
+    <Spanish>Islands</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_TINY_ISLANDS</Tag>
+    <English>Tiny islands</English>
+    <French>Tiny islands</French>
+    <German>Tiny islands</German>
+    <Italian>Tiny islands</Italian>
+    <Spanish>Tiny islands</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_FERTILE</Tag>
+    <English>Fertile</English>
+    <French>Fertile</French>
+    <German>Fruchtbar</German>
+    <Italian>Arabile</Italian>
+    <Spanish>F&#xE9;rtil</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_OCEAN_RIFTS</Tag>
+    <English>Ocean Rifts</English>
+    <French>Crevasses D'Oc&#xE9;an</French>
+    <German>Ozean Risse</German>
+    <Italian>Spaccature dell'oceano</Italian>
+    <Spanish>Grietas Del Oc&#xE9;ano</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_LANDMASS_TYPE</Tag>
+    <English>Landmass type</English>
+    <French>Landmass type</French>
+    <German>Landmass type</German>
+    <Italian>SLandmass type</Italian>
+    <Spanish>Landmass type</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_RIFTS_NORMAL</Tag>
+    <English>Normal</English>
+    <French>Normal</French>
+    <German>Einige</German>
+    <Italian>Vari</Italian>
+    <Spanish>Varios</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_RIFTS_SEVERAL</Tag>
+    <English>Several</English>
+    <French>Plusieurs</French>
+    <German>Einige</German>
+    <Italian>Vari</Italian>
+    <Spanish>Varios</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_RIFTS_MANY</Tag>
+    <English>Many</English>
+    <French>Beaucoup</French>
+    <German>Viele</German>
+    <Italian>Molti</Italian>
+    <Spanish>Muchos</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_RANDOM</Tag>
+    <English>Random</English>
+    <French>Random</French>
+    <German>Random</German>
+    <Italian>Random</Italian>
+    <Spanish>Random</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_ARCHIPELAGO</Tag>
+    <English>Archipelago</English>
+    <French>Archipelago</French>
+    <German>Archipelago</German>
+    <Italian>Archipelago</Italian>
+    <Spanish>Archipelago</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_SMALL_CONTINENTS</Tag>
+    <English>Small continents</English>
+    <French>Small continents</French>
+    <German>Small continents</German>
+    <Italian>Small continents</Italian>
+    <Spanish>Small continents</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_MAP_SCRIPT_MASSIVE_CONTINENTS</Tag>
+    <English>Massive continents</English>
+    <French>Massive continents</French>
+    <German>Massive continents</German>
+    <Italian>Massive continents</Italian>
+    <Spanish>Massive continents</Spanish>
+  </TEXT>
+</Civ4GameText>

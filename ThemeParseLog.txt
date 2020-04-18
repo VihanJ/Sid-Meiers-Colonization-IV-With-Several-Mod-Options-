@@ -1,0 +1,22 @@
+[Apr 18, 2020 - 15:42:48] Messages while processing 'Resource/Civ4.thm'
+
+Error   : Decl - ('Civ4Theme_Common.thm', Ln:401, Col:13) Assignment source propertyId 'SF_CtrlTheme_Civ4_Control_Font_Size3_Italic' not found
+Error   : Decl - ('Civ4Theme_Common.thm', Ln:402, Col:13) Assignment source propertyId 'SF_CtrlTheme_Civ4_Control_Font_Size3_BoldItalic' not found
+Error   : Decl - ('Civ4Theme_Common.thm', Ln:408, Col:13) Assignment source propertyId 'SF_CtrlTheme_Civ4_Control_Font_Size1_Bold' not found
+Error   : Decl - ('Civ4Theme_Window.thm', Ln:3048, Col:9) Assignment source propertyId 'SF_CtrlTheme_Civ4_Control_Font_Size1_Bold' not found
+Error   : File - ('Civ4Theme_HUD.thm', Ln:401, Col:47) Could not load bitmap 'Colonization/end_turn.dds'
+Error   : File - ('Civ4Theme_HUD.thm', Ln:884, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : File - ('Civ4Theme_HUD.thm', Ln:885, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : Syntax - ('Civ4Theme_HUD.thm', Ln:887, Col:13) Unexpected '.' in the identifier assignment statement
+Error   : File - ('Civ4Theme_HUD.thm', Ln:888, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : File - ('Civ4Theme_HUD.thm', Ln:889, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : File - ('Civ4Theme_HUD.thm', Ln:904, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : File - ('Civ4Theme_HUD.thm', Ln:905, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : File - ('Civ4Theme_HUD.thm', Ln:907, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : File - ('Civ4Theme_HUD.thm', Ln:908, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : File - ('Civ4Theme_HUD.thm', Ln:909, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : File - ('Civ4Theme_HUD.thm', Ln:924, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : File - ('Civ4Theme_HUD.thm', Ln:925, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : Syntax - ('Civ4Theme_HUD.thm', Ln:927, Col:13) Unexpected '.' in the identifier assignment statement
+Error   : File - ('Civ4Theme_HUD.thm', Ln:928, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'
+Error   : File - ('Civ4Theme_HUD.thm', Ln:929, Col:47) Could not load bitmap '../Beyond the Sword/Resource/Civ4/HUD/HUD_BTS_icons.tga'

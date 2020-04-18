@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRALIA_DESC</Tag>
+		<English>Australian Colonies</English>
+		<French>Australian Colonies</French>
+		<German>Australian Colonies</German>
+		<Italian>Australian Colonies</Italian>
+		<Spanish>Australian Colonies</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRALIA_SHORT_DESC</Tag>
+		<English>New Australia</English>
+		<French>New Australia</French>
+		<German>New Australia</German>
+		<Italian>New Australia</Italian>
+		<Spanish>New Australia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRALIA_ADJECTIVE</Tag>
+		<English>Australian</English>
+		<French>Australian</French>
+		<German>Australian</German>
+		<Italian>Australian</Italian>
+		<Spanish>Australian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRALIA_PEDIA</Tag>
+		<English>[TAB]Australia, officially the Commonwealth of Australia, is a country in the southern hemisphere comprising the mainland of the world's smallest continent, the major island of Tasmania, and numerous other islands in the Indian and Pacific Oceans. Neighbouring countries include Indonesia, East Timor, and Papua New Guinea to the north, the Solomon Islands, Vanuatu, and New Caledonia to the north-east, and New Zealand to the south-east.[PARAGRAPH:2]For around 40,000 years before European settlement commenced in the late 18th century, the Australian mainland and Tasmania were inhabited by around 250 individual nations of indigenous Australians. After sporadic visits by fishermen from the immediate north, and European discovery by Dutch explorers in 1606, the eastern half of Australia was claimed by the British in 1770 and initially settled through penal transportation to the colony of New South Wales, founded on 26 January 1788. The population grew steadily in the following years; the continent was explored, and during the 19th century another five largely self-governing Crown Colonies were established.[PARAGRAPH:2]On 1 January 1901, the six colonies became a federation, and the Commonwealth of Australia was formed. Since Federation, Australia has maintained a stable liberal democratic political system and remains a Commonwealth realm. The population is just over 21.3 million, with approximately 60% concentrated in and around the mainland state capitals of Sydney, Melbourne, Brisbane, Perth, and Adelaide. The nation's capital city is Canberra, located in the Australian Capital Territory (ACT).</English>
+		<French>[TAB]Australia, officially the Commonwealth of Australia, is a country in the southern hemisphere comprising the mainland of the world's smallest continent, the major island of Tasmania, and numerous other islands in the Indian and Pacific Oceans. Neighbouring countries include Indonesia, East Timor, and Papua New Guinea to the north, the Solomon Islands, Vanuatu, and New Caledonia to the north-east, and New Zealand to the south-east.[PARAGRAPH:2]For around 40,000 years before European settlement commenced in the late 18th century, the Australian mainland and Tasmania were inhabited by around 250 individual nations of indigenous Australians. After sporadic visits by fishermen from the immediate north, and European discovery by Dutch explorers in 1606, the eastern half of Australia was claimed by the British in 1770 and initially settled through penal transportation to the colony of New South Wales, founded on 26 January 1788. The population grew steadily in the following years; the continent was explored, and during the 19th century another five largely self-governing Crown Colonies were established.[PARAGRAPH:2]On 1 January 1901, the six colonies became a federation, and the Commonwealth of Australia was formed. Since Federation, Australia has maintained a stable liberal democratic political system and remains a Commonwealth realm. The population is just over 21.3 million, with approximately 60% concentrated in and around the mainland state capitals of Sydney, Melbourne, Brisbane, Perth, and Adelaide. The nation's capital city is Canberra, located in the Australian Capital Territory (ACT).</French>
+		<German>[TAB]Australia, officially the Commonwealth of Australia, is a country in the southern hemisphere comprising the mainland of the world's smallest continent, the major island of Tasmania, and numerous other islands in the Indian and Pacific Oceans. Neighbouring countries include Indonesia, East Timor, and Papua New Guinea to the north, the Solomon Islands, Vanuatu, and New Caledonia to the north-east, and New Zealand to the south-east.[PARAGRAPH:2]For around 40,000 years before European settlement commenced in the late 18th century, the Australian mainland and Tasmania were inhabited by around 250 individual nations of indigenous Australians. After sporadic visits by fishermen from the immediate north, and European discovery by Dutch explorers in 1606, the eastern half of Australia was claimed by the British in 1770 and initially settled through penal transportation to the colony of New South Wales, founded on 26 January 1788. The population grew steadily in the following years; the continent was explored, and during the 19th century another five largely self-governing Crown Colonies were established.[PARAGRAPH:2]On 1 January 1901, the six colonies became a federation, and the Commonwealth of Australia was formed. Since Federation, Australia has maintained a stable liberal democratic political system and remains a Commonwealth realm. The population is just over 21.3 million, with approximately 60% concentrated in and around the mainland state capitals of Sydney, Melbourne, Brisbane, Perth, and Adelaide. The nation's capital city is Canberra, located in the Australian Capital Territory (ACT).</German>
+		<Italian>[TAB]Australia, officially the Commonwealth of Australia, is a country in the southern hemisphere comprising the mainland of the world's smallest continent, the major island of Tasmania, and numerous other islands in the Indian and Pacific Oceans. Neighbouring countries include Indonesia, East Timor, and Papua New Guinea to the north, the Solomon Islands, Vanuatu, and New Caledonia to the north-east, and New Zealand to the south-east.[PARAGRAPH:2]For around 40,000 years before European settlement commenced in the late 18th century, the Australian mainland and Tasmania were inhabited by around 250 individual nations of indigenous Australians. After sporadic visits by fishermen from the immediate north, and European discovery by Dutch explorers in 1606, the eastern half of Australia was claimed by the British in 1770 and initially settled through penal transportation to the colony of New South Wales, founded on 26 January 1788. The population grew steadily in the following years; the continent was explored, and during the 19th century another five largely self-governing Crown Colonies were established.[PARAGRAPH:2]On 1 January 1901, the six colonies became a federation, and the Commonwealth of Australia was formed. Since Federation, Australia has maintained a stable liberal democratic political system and remains a Commonwealth realm. The population is just over 21.3 million, with approximately 60% concentrated in and around the mainland state capitals of Sydney, Melbourne, Brisbane, Perth, and Adelaide. The nation's capital city is Canberra, located in the Australian Capital Territory (ACT).</Italian>
+		<Spanish>[TAB]Australia, officially the Commonwealth of Australia, is a country in the southern hemisphere comprising the mainland of the world's smallest continent, the major island of Tasmania, and numerous other islands in the Indian and Pacific Oceans. Neighbouring countries include Indonesia, East Timor, and Papua New Guinea to the north, the Solomon Islands, Vanuatu, and New Caledonia to the north-east, and New Zealand to the south-east.[PARAGRAPH:2]For around 40,000 years before European settlement commenced in the late 18th century, the Australian mainland and Tasmania were inhabited by around 250 individual nations of indigenous Australians. After sporadic visits by fishermen from the immediate north, and European discovery by Dutch explorers in 1606, the eastern half of Australia was claimed by the British in 1770 and initially settled through penal transportation to the colony of New South Wales, founded on 26 January 1788. The population grew steadily in the following years; the continent was explored, and during the 19th century another five largely self-governing Crown Colonies were established.[PARAGRAPH:2]On 1 January 1901, the six colonies became a federation, and the Commonwealth of Australia was formed. Since Federation, Australia has maintained a stable liberal democratic political system and remains a Commonwealth realm. The population is just over 21.3 million, with approximately 60% concentrated in and around the mainland state capitals of Sydney, Melbourne, Brisbane, Perth, and Adelaide. The nation's capital city is Canberra, located in the Australian Capital Territory (ACT).</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRALIA_EUROPE_DESC</Tag>
+		<English>Australian Empire</English>
+		<French>Australian Empire</French>
+		<German>Australian Empire</German>
+		<Italian>Australian Empire</Italian>
+		<Spanish>Australian Empire</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRALIA_EUROPE_SHORT_DESC</Tag>
+		<English>Australia</English>
+		<French>Australia</French>
+		<German>Australia</German>
+		<Italian>Australia</Italian>
+		<Spanish>Australia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRALIA_EUROPE_ADJECTIVE</Tag>
+		<English>Australian</English>
+		<French>Australian</French>
+		<German>Australian</German>
+		<Italian>Australian</Italian>
+		<Spanish>Australian</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_AUSTRALIA_EUROPE_PEDIA</Tag>
+		<English>Australia</English>
+		<French>Australia</French>
+		<German>Australia</German>
+		<Italian>Australia</Italian>
+		<Spanish>Australia</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_LEADER_AUSTRALIA_QUEEN</Tag>
+		<English>Queen of Australia</English>
+		<French>Queen of Australia</French>
+		<German>Queen of Australia</German>
+		<Italian>Queen of Australia</Italian>
+		<Spanish>Queen of Australia</Spanish>
+	</TEXT>
+</Civ4GameText>

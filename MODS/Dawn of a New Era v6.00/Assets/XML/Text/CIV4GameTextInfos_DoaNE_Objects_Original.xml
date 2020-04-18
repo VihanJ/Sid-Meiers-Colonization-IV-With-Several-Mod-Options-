@@ -1,0 +1,1815 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_WORLD_CONTINENTAL</Tag>
+    <English>Continental</English>
+    <French>
+      <Text>Continentale</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>
+      <Text>Continental</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+    <Italian>
+      <Text>Continental</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Continental</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_WORLD_PLANETARY</Tag>
+    <English>Planetary</English>
+    <French>
+      <Text>Plan&#xE9;taire</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>
+      <Text>Planetary</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+    <Italian>
+      <Text>Planetary</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Planetary</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_SAILOR_EXPERT</Tag>
+    <English>Able Seaman</English>
+    <French>
+      <Text>Marin Exp&#xE9;riment&#xE9;</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Able Seaman</German>
+    <Italian>
+      <Text>Marino sperimentati:Marino sperimentati</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Able Seaman</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_MILITARY_ESCORT</Tag>
+    <English>Naval Escort:Naval Escorts</English>
+    <French>
+      <Text>Escorte Navale:Escortes Navales</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Naval Escort:Naval Escorts</German>
+    <Italian>
+      <Text>Naval Escort:Naval Escorts</Text>
+      <Gender>Female</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Naval Escort:Naval Escorts</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_WAGON_TRAIN_ARMY</Tag>
+    <English>Convoys of military:Convoys of military</English>
+    <French>
+      <Text>Convoi de chariots militaires:Convois de chariots militaires</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Planwagenkonvoi:Planwagenkonvois</German>
+    <Italian>
+      <Text>Colonna di carovane militari:Colonne di carovane militari</Text>
+      <Gender>Female</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Caravana de carromatos militares:Caravanas de carromatos militares</Text>
+      <Gender>Female</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_SCOUT</Tag>
+    <English>Seasoned Explorer:Seasoned Explorers</English>
+    <French>
+      <Text>Explorateur aguerri:Explorateurs aguerris</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Entdeckungsreisender:Entdeckungsreisender</German>
+    <Italian>
+      <Text>Esploratore:Esploratori</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Explorador:Exploradores</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_INDIGO_PLANTER</Tag>
+    <English>Expert Indigo Planter:Expert Indigo Planters</English>
+    <French>
+      <Text>Planteur d'Indigo :Planteurs d'Indigo</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Erf. Indigopflanzer:Erf. Indigopflanzer</German>
+    <Italian>
+      <Text>Coltivatore esp. di Indicado:Coltivatori esp. di Indicado</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Indigo exp.:Indigo exp.</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_COFFEE_PLANTER</Tag>
+    <English>Expert Coffee Planter:Expert Coffee Planters</English>
+    <French>
+      <Text>Planteur de Caf&#xE9;:Planteurs de Caf&#xE9;</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Erf. Kaffeepflanzer:Erf. Kaffeepflanzer</German>
+    <Italian>
+      <Text>Coltivatore esp. di Caff&#xE8;:Coltivatori esp. di Caff&#xE8;</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Caf&#xE9; exp.:Caf&#xE9; exp.</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARACHIDE_PLANTER</Tag>
+    <English>Expert Peanut Planter:Expert Peanut Planters</English>
+    <French>
+      <Text>Planteur d'arachide:Planteurs d'arachide</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Expert Peanut Planter:Expert Peanut Planters</German>
+    <Italian>
+      <Text>Expert Peanut Planter:Expert Peanut Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Expert Peanut Planter:Expert Peanut Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CACAO_PLANTER</Tag>
+    <English>Expert Cacao Planter:Expert Cacao Planters</English>
+    <French>
+      <Text>Planteur de Cacao:Planteurs de Cacao</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Expert Cacao Planter:Expert Cacao Planters</German>
+    <Italian>
+      <Text>Expert Cacao Planter:Expert Cacao Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Expert Cacao Planter:Expert Cacao Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_AGRONOME</Tag>
+    <English>
+      <Text>Agronomist:Agronomists</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Agronome:Agronomes</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Agronom:Agronom</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Agronomo:Agronomi</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Agr&#xF3;nomo:Agr&#xF3;nomos</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_ARTILLERYMAN_EXPERT</Tag>
+    <English>Veteran Artilleryman:Veteran Artillerymen</English>
+    <French>
+      <Text>Artilleur v&#xE9;t&#xE9;ran:Artilleurs v&#xE9;t&#xE9;rans</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Veteran Artilleryman:Veteran Artillerymen</German>
+    <Italian>
+      <Text>Veteran Artilleryman:Veteran Artillerymen</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Veteran Artilleryman:Veteran Artillerymen</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_BUILDER_WAGON</Tag>
+    <English>Settler Convoy</English>
+    <French>
+      <Text>Convoi B&#xE2;tisseur</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Settler Convoy</German>
+    <Italian>
+      <Text>Convogli Costruttori</Text>
+      <Gender>Female</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Settler Convoy</Text>
+      <Gender>Female</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_DOCTOR</Tag>
+    <English>
+      <Text>Military Doctor:Military Doctors</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>M&#xE9;decin Militaire:M&#xE9;decins Militaires</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Milit&#xE4;rarzt:Milit&#xE4;r&#xE4;rzte</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>medico militare:medici militari</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Medico Militar:Medicos Militares</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_DOCTOR_EXPERT</Tag>
+    <English>
+      <Text>Military Surgeon:Military Surgeons</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Chirugien Militaire:Chirugiens Militaires</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Milit&#xE4;r-Chirurgen:Milit&#xE4;rische Chirurgen</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Chirurgo Militare:Chirurghi Militari</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Cirujano Militar:Cirujanos Militares</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_PIRATE</Tag>
+    <English>Pirate:Pirates</English>
+    <French>
+      <Text>Pirate:Pirates</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Pirate:Pirates</German>
+    <Italian>
+      <Text>Pirate:Pirates</Text>
+      <Gender>Female</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Pirate:Pirates</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_SAILOR</Tag>
+    <English>
+      <Text>Sailor:Sailors</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Marin:Marins</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Sailor:Sailors</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Marino:Marini</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Sailor:Sailors</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_INDIGO_PLANTER</Tag>
+    <English>
+      <Text>Indigo Planter:Indigo Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Planteur d'indigo:Planteurs d'indigo</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Indigo Planter:Indigo Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Indigo Planter:Indigo Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Indigo Planter:Indigo Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_COFFEE_PLANTER</Tag>
+    <English>
+      <Text>Coffee Planter:Coffee Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Planteur de caf&#xE9;:Planteurs de caf&#xE9;</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Coffee Planter:Coffee Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Coffee Planter:Coffee Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Coffee Planter:Coffee Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_ARACHIDE_PLANTER</Tag>
+    <English>
+      <Text>Arachide Planter:Arachide Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Planteur d'arachide:Planteurs d'arachide</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Arachide Planter:Arachide Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Arachide Planter:Arachide Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Arachide Planter:Arachide Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_CACAO_PLANTER</Tag>
+    <English>
+      <Text>Cacao Planter:Cacao Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Planteur de cacao:Planteurs de cacao</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Cacao Planter:Cacao Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Cacao Planter:Cacao Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Cacao Planter:Cacao Planters</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_SOLDIER_I</Tag>
+    <English>
+      <Text>Arquebusier:Arquebusiers</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Arquebusier:Arquebusiers</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Arquebusier:Arquebusiers</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Arquebusier:Arquebusiers</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Arquebusier:Arquebusiers</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_SOLDIER_II</Tag>
+    <English>
+      <Text>Musketman:Musketmen</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Musketman:Musketmen</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Musketman:Musketmen</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Musketman:Musketmen</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Musketman:Musketmen</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_PATRIOTS</Tag>
+    <English>
+      <Text>Patriot:Patriots</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Patriote:Patriotes</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Soldat:Soldaten</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Soldato:Soldati</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Soldado:Soldados</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_DRAGOON_I</Tag>
+    <English>
+      <Text>Dragoon I:Dragoons I</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Dragon I:Dragons I</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Dragoner I:Dragoner I</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Dragone I:Dragoni I</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Drag&#xF3;n I:Dragones I</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_DRAGOON_II</Tag>
+    <English>
+      <Text>Dragoon II:Dragoons II</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Dragon II:Dragons II</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Dragoner II:Dragoner II</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Dragone II:Dragoni II</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Drag&#xF3;n II:Dragones II</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_BASECAMP</Tag>
+    <English>Base camp</English>
+    <French>
+      <Text>Camp de base</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Base camp</German>
+    <Italian>
+      <Text>Base camp</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Base camp</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_OFFICE</Tag>
+    <English>Office</English>
+    <French>
+      <Text>Bureau</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Office</German>
+    <Italian>
+      <Text>Office</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Office</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_ADMINISTRATIVE_HOUSE</Tag>
+    <English>Administrative house</English>
+    <French>
+      <Text>Maison administrative</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Administrative house</German>
+    <Italian>
+      <Text>Administrative house</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Administrative house</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_AVANCED_CARPENTER_SHOP</Tag>
+    <English>Carpentry</English>
+    <French>
+      <Text>Menuiserie:Menuiseries</Text>
+      <Gender>Female:Female</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Carpentry</German>
+    <Italian>
+      <Text>Carpentry</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Carpentry</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_STOPPED</Tag>
+    <English>Do nothing</English>
+    <French>Ne rien faire</French>
+    <German>Do nothing</German>
+    <Italian>Do nothing</Italian>
+    <Spanish>Do nothing</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_TAVERN</Tag>
+    <English>Tavern</English>
+    <French>
+      <Text>Taverne:Tavernes</Text>
+      <Gender>Female:Female</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Tavern</German>
+    <Italian>
+      <Text>Tavern</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Tavern</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_HOSPITAL</Tag>
+    <English>Hospital</English>
+    <French>
+      <Text>H&#xF4;pital</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Krankenhaus</German>
+    <Italian>
+      <Text>Ospedale</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Hospital</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_MEDICAL_OFFICE</Tag>
+    <English>Medical office</English>
+    <French>
+      <Text>Office m&#xE9;dical</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Medical office</German>
+    <Italian>
+      <Text>Medical office</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Medical office</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_CHAPEL</Tag>
+    <English>Chapel</English>
+    <French>
+      <Text>Chapelle:Chapelles</Text>
+      <Gender>Female</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Chapel</German>
+    <Italian>
+      <Text>Chapel</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Chapel</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_CONGRES</Tag>
+    <English>Congress Palace</English>
+    <French>
+      <Text>Palais du congr&#xE9;s </Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Congress Palace</German>
+    <Italian>
+      <Text>Palazzo di congresso</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Palacio congreso</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_DRYDOCK_IMPROVED</Tag>
+    <English>Improved Drydock</English>
+    <French>
+      <Text>Cale s&#xE8;che am&#xE9;lior&#xE9;e:Cales s&#xE8;ches am&#xE9;lior&#xE9;es</Text>
+      <Gender>Female</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Improved Drydock</German>
+    <Italian>
+      <Text>Improved Drydock</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Improved Drydock</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_INDUSTRIAL_LUMBER_MILL</Tag>
+    <English>Industrial Sawmill</English>
+    <French>
+      <Text>Scierie industrielle:Scieries industrielles</Text>
+      <Gender>Female:Female</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Industrielle S&#xE4;gem&#xFC;hle</German>
+    <Italian>
+      <Text>Segheria industriale</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Aserradero industrial:Aserraderos industriales</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_CHEVAUX_FRISE</Tag>
+    <English>Chevaux de Frise</English>
+    <French>
+      <Text>Chevaux de Frise</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Chevaux de Frise</German>
+    <Italian>
+      <Text>Chevaux de Frise</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Chevaux de Frise</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_WAREHOUSE_I</Tag>
+    <English>Warehouse I</English>
+    <French>
+      <Text>Entrep&#xF4;t I:Entrep&#xF4;ts I</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Lagerhaus I</German>
+    <Italian>
+      <Text>Magazzino I</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Almac&#xE9;n I:Almacenes I</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_WAREHOUSE_II</Tag>
+    <English>Warehouse II</English>
+    <French>
+      <Text>Entrep&#xF4;t II:Entrep&#xF4;ts II</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Lagerhaus II</German>
+    <Italian>
+      <Text>Magazzino II</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Almac&#xE9;n II:Almacenes II</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_WAREHOUSE_EXPANSION_I</Tag>
+    <English>Warehouse Expansion I</English>
+    <French>
+      <Text>Extension d'entrep&#xF4;t I:Extensions d'entrep&#xF4;t I</Text>
+      <Gender>Female:Female</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Lagerhauserweiterung I</German>
+    <Italian>
+      <Text>Espansione del magazzino I</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Almac&#xE9;n ampliado I:Almacenes ampliados I</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BUILDING_WAREHOUSE_EXPANSION_II</Tag>
+    <English>Warehouse Expansion II</English>
+    <French>
+      <Text>Extension d'entrep&#xF4;t II:Extensions d'entrep&#xF4;t II</Text>
+      <Gender>Female:Female</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Lagerhauserweiterung II</German>
+    <Italian>
+      <Text>Espansione del magazzino II</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Almac&#xE9;n ampliado II:Almacenes ampliados II</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BONUS_WHEAT</Tag>
+    <English>Wheat</English>
+    <French>
+      <Text>Bl&#xE9;</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>
+      <Text>Weizen</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+    <Italian>
+      <Text>Frumento</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Trigo</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BONUS_INDIGO</Tag>
+    <English>Indigo</English>
+    <French>
+      <Text>Indigo</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>
+      <Text>Indigo</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+    <Italian>
+      <Text>Indicado</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Indigo</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BONUS_COFFEE</Tag>
+    <English>Coffee</English>
+    <French>
+      <Text>Caf&#xE9;</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>
+      <Text>Kaffee</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+    <Italian>
+      <Text>Caff&#xE8;</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Caf&#xE9;</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BONUS_ARACHIDE</Tag>
+    <English>Peanut</English>
+    <French>
+      <Text>Arachide</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>
+      <Text>Peanut</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+    <Italian>
+      <Text>Peanut</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Peanut</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_BONUS_CACAO</Tag>
+    <English>Cacao</English>
+    <French>
+      <Text>Cacao</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>
+      <Text>Cacao</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+    <Italian>
+      <Text>Cacao</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Cacao</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_YIELD_INDIGO</Tag>
+    <English>Indigo</English>
+    <French>
+      <Text>Indigo</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>
+      <Text>Indigo</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+    <Italian>
+      <Text>Indicado</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Indigo</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_YIELD_COFFEE</Tag>
+    <English>Coffee</English>
+    <French>
+      <Text>Caf&#xE9;</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>
+      <Text>Kaffee</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+    <Italian>
+      <Text>Caff&#xE8;</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Caf&#xE9;</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_SWORDS</Tag>
+    <English>Swords</English>
+    <French>
+      <Text>Ep&#xE9;e:Ep&#xE9;es</Text>
+      <Gender>Female</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Swords</German>
+    <Italian>
+      <Text>Swords</Text>
+      <Gender>Male</Gender>
+      <Plural>1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Swords</Text>
+      <Gender>Female</Gender>
+      <Plural>1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_AMMUNITION</Tag>
+    <English>Ammunitions</English>
+    <French>
+      <Text>Munition:Munitions</Text>
+      <Gender>Female</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Ammunitions</German>
+    <Italian>
+      <Text>Ammunitions</Text>
+      <Gender>Male</Gender>
+      <Plural>1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Ammunitions</Text>
+      <Gender>Male</Gender>
+      <Plural>1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_CANNON_YIELD</Tag>
+    <English>Cannon:Cannons</English>
+    <French>
+      <Text>Canon:Canons</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>Kanone:Kanonen</German>
+    <Italian>
+      <Text>Cannone:Cannoni</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Ca&#xF1;&#xF3;n:Ca&#xF1;ones</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_SKIRMISHER1</Tag>
+    <English>Skirmisher I</English>
+    <French>
+      <Text>Tirailleur I</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Pl&#xE4;nkler I</German>
+    <Italian>
+      <Text>Avanguardia I</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Hostigador I</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_SKIRMISHER2</Tag>
+    <English>Skirmisher II</English>
+    <French>
+      <Text>Tirailleur II</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Pl&#xE4;nkler II</German>
+    <Italian>
+      <Text>Avanguardia II</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Hostigador II</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_SKIRMISHER3</Tag>
+    <English>Skirmisher III</English>
+    <French>
+      <Text>Tirailleur III</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Pl&#xE4;nkler III</German>
+    <Italian>
+      <Text>Avanguardia III</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Hostigador III</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_SKIRMISHER_NAVALE1</Tag>
+    <English>Naval Strategy I</English>
+    <French>
+      <Text>Strat&#xE9;gie Navale I</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Naval Strategy I</German>
+    <Italian>
+      <Text>Naval Strategy I</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Naval Strategy I</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_SKIRMISHER_NAVALE2</Tag>
+    <English>Naval Strategy II</English>
+    <French>
+      <Text>Strat&#xE9;gie Navale II</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Naval Strategy II</German>
+    <Italian>
+      <Text>Naval Strategy II</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Naval Strategy II</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_SKIRMISHER_NAVALE3</Tag>
+    <English>Naval Strategy III</English>
+    <French>
+      <Text>Strat&#xE9;gie Navale III</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Naval Strategy III</German>
+    <Italian>
+      <Text>Naval Strategy III</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Naval Strategy III</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_VETERAN_NAVALE1</Tag>
+    <English>Veteran Naval I</English>
+    <French>
+      <Text>V&#xE9;t&#xE9;ran Naval I</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Veteran Naval I</German>
+    <Italian>
+      <Text>Veterano Naval I</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Veterana Naval I</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_VETERAN_NAVALE2</Tag>
+    <English>Veteran Naval II</English>
+    <French>
+      <Text>V&#xE9;t&#xE9;ran Naval II</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Veteran Naval II</German>
+    <Italian>
+      <Text>Veterano Naval II</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Veterana Naval II</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_VETERAN_NAVALE3</Tag>
+    <English>Veteran Naval III</English>
+    <French>
+      <Text>V&#xE9;t&#xE9;ran Naval III</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Veteran Naval III</German>
+    <Italian>
+      <Text>Veterano Naval III</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Veterana Naval I</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_VETERAN_NAVALE4</Tag>
+    <English>Veteran Naval IV</English>
+    <French>
+      <Text>V&#xE9;t&#xE9;ran Naval IV</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Veteran Naval IV</German>
+    <Italian>
+      <Text>Veterano Naval IV</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Veterana Naval IV</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_VETERAN_NAVALE5</Tag>
+    <English>Veteran Naval V</English>
+    <French>
+      <Text>V&#xE9;t&#xE9;ran Naval V</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Veteran Naval V</German>
+    <Italian>
+      <Text>Veterano Naval V</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Veterana Naval V</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_VETERAN_NAVALE6</Tag>
+    <English>Veteran Naval VI</English>
+    <French>
+      <Text>V&#xE9;t&#xE9;ran Naval VI</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Veteran Naval VI</German>
+    <Italian>
+      <Text>Veterano Naval VI</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Veterana Naval VI</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_MINUTEMAN</Tag>
+    <English>Minuteman</English>
+    <French>
+      <Text>Patriote</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Minuteman</German>
+    <Italian>
+      <Text>Volontario rapido</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Miliciana</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_MINUTEMAN1</Tag>
+    <English>City Garrison I</English>
+    <French>
+      <Text>Garnison I</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Garnison I</German>
+    <Italian>
+      <Text>Guarnigione I</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Guarnici&#xF3;n de ciudad I</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_MINUTEMAN2</Tag>
+    <English>City Garrison II</English>
+    <French>
+      <Text>Garnison II</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Garnison II</German>
+    <Italian>
+      <Text>Guarnigione II</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Guarnici&#xF3;n de ciudad II</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_MINUTEMAN3</Tag>
+    <English>City Garrison III</English>
+    <French>
+      <Text>Garnison III</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Garnison III</German>
+    <Italian>
+      <Text>Guarnigione III</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Guarnici&#xF3;n de ciudad III</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_SURGEON</Tag>
+    <English>Surgeon</English>
+    <French>
+      <Text>Chirurgien</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Chirurg</German>
+    <Italian>
+      <Text>Chirurgo</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Cirujana</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_EXPERT_SURGEON</Tag>
+    <English>Expert surgeon</English>
+    <French>
+      <Text>Chirurgien expert</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Chirurg expert</German>
+    <Italian>
+      <Text>Chirurgo expert</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Cirujana expert</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_FIRST_AID</Tag>
+    <English>First Aid</English>
+    <French>
+      <Text>Premier soin</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>First Aid</German>
+    <Italian>
+      <Text>First Aid</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>First Aid</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_RECHARGE_ECLAIR</Tag>
+    <English>Blitz refill</English>
+    <French>
+      <Text>Recharge &#xE9;clair</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Blitz refill</German>
+    <Italian>
+      <Text>Blitz refill</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Blitz refill</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROMOTION_BRAVERY</Tag>
+    <English>Valour</English>
+    <French>
+      <Text>Vaillance</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Valour</German>
+    <Italian>
+      <Text>Valour</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Valour</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_LEADER_SPANISH_KING_ISABELLA_I</Tag>
+    <English>
+      <Text>Queen Isabella I of Spain</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </English>
+    <French>
+      <Text>Reine Isabella I d'Espagne</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>
+      <Text>Queen Isabella I of Spain</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </German>
+    <Italian>
+      <Text>Queen Isabella I of Spain</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Queen Isabella I of Spain</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CONCEPT_ERAS</Tag>
+    <English>Eras</English>
+    <French>
+      <Text>Les &#xE8;res</Text>
+      <Gender>Female</Gender>
+      <Plural>1</Plural>
+    </French>
+    <German>Eras</German>
+    <Italian>
+      <Text>Le ere</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Eras</Text>
+      <Gender>Female</Gender>
+      <Plural>1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CONCEPT_SHIPS</Tag>
+    <English>Ships</English>
+    <French>
+      <Text>Navires</Text>
+      <Gender>Male</Gender>
+      <Plural>1</Plural>
+    </French>
+    <German>Ships</German>
+    <Italian>
+      <Text>Navi</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Ships</Text>
+      <Gender>Female</Gender>
+      <Plural>1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CONCEPT_REPUTATION</Tag>
+    <English>Reputation</English>
+    <French>
+      <Text>R&#xE9;putation</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Reputation</German>
+    <Italian>
+      <Text>Reputation</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Reputation</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CONCEPT_RELIGION</Tag>
+    <English>Religion</English>
+    <French>
+      <Text>Religion</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Religion</German>
+    <Italian>
+      <Text>Religione</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Religi&#xF3;n</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CONCEPT_WORK</Tag>
+    <English>Work</English>
+    <French>
+      <Text>Travail</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>Work</German>
+    <Italian>
+      <Text>Work</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Work</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNITCOMBAT_SAILOR</Tag>
+    <English>Naval Crew</English>
+    <French>
+      <Text>Equipage Naval</Text>
+      <Gender>Male</Gender>
+      <Plural>1</Plural>
+    </French>
+    <German>
+      <Text>Naval Crew</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </German>
+    <Italian>
+      <Text>Equipaggio Navale</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Naval Crew</Text>
+      <Gender>Female</Gender>
+      <Plural>0</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PROFESSION_SCOUT</Tag>
+    <English>
+      <Text>Explorer:Explorers</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </English>
+    <French>
+      <Text>Explorateur:Explorateurs</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </French>
+    <German>
+      <Text>Entdeckungsreisender:Entdeckungsreisender</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </German>
+    <Italian>
+      <Text>Esploratore:Esploratori</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Explorador:Exploradores</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_UNIT_GREAT_ADMIRAL</Tag>
+    <English>Great Admiral</English>
+    <French>
+      <Text>Amiral illustre</Text>
+      <Gender>Male</Gender>
+      <Plural>0</Plural>
+    </French>
+    <German>
+      <Text>Gro&#xDF;er Admiral</Text>
+      <Gender>Male</Gender>
+      <Plural>1</Plural>
+    </German>
+    <Italian>
+      <Text>Grande Admiral:Grandi Admiral</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Italian>
+    <Spanish>
+      <Text>Gran Admiral:Grandes Admiral</Text>
+      <Gender>Male</Gender>
+      <Plural>0:1</Plural>
+    </Spanish>
+  </TEXT>
+</Civ4GameText>

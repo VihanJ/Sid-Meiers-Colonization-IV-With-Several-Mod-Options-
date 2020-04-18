@@ -1,0 +1,37 @@
+1.10 Changelog:
+* EuropeScreen 5.0 beta 2
+* Zuul's More Buildings mod added
+	- Base Camp & Carpenter's Shelter default buildings
+	- Warehouse, Expansion, Custom house sale percentage = 10%, 25%, 50%
+	- Warehouse buildings excess sale amounts from (CITY_YIELD_DECAY_PERCENT * excess) to (overflow sale percent * excess)
+* Unit Changes:
+	- New unit: War Galleon - unique unit for Kings
+	- Servant now 20-40 turns indenture
+	- Criminals now 40-80 turns sentence
+	- Indenture and sentence now scaled to GameSpeed
+	- Western Civs now start facing east
+* REF Changes:
+	- REF uses War Galleon instead of Galleon for transporting units
+	- REF land unit's strength is influenced by handicap level
+	- REF no longer disappears
+	- REF lands units MUCH better
+* Economics Changes:
+	- Silver YieldPriceChangePercent brought in line with all other yields (10 -> 1)
+	- YieldPriceChangePercent halved (2 -> 1)
+* Other Changes:
+	- AI more immigration scaled to handicap
+	- All players on huge map
+	- Western nations no longer start on top of each other
+	- King no longer able to win economic, production or pirate victory
+	- Pirate fortresses no longer bomb their own ships
+	- New XML tag in Civ4EuropeInfos.xml iWestTripLength to store trip times for western nations
+	- Exposed CvCivilizationInfo::isFromWest() to python
+	- Exposed CvEuropeInfo::getWestTripLength() to python
+	- Target values for trade, production & pirates no longer reset for saves
+	- "All Men are Free" now gives two free colonists
+	- Ermak leaderhead changed to remove height bug (thanks Deliverator)
+	- Colonists on Rev screen to only appear for single player
+	- Europe text change to Homeland
+
+* Remaining Bugs:
+	- Trade route list doesn't work right after sorting (Jeckel???)

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BASECAMP</Tag>
+		<English>Basecamp</English>
+		<French>Basecamp</French>
+		<German>Basecamp</German>
+		<Italian>Basecamp</Italian>
+		<Spanish>Basecamp</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_VILLAGEHALL</Tag>
+		<English>Village Hall</English>
+		<French>Village Hall</French>
+		<German>Village Hall</German>
+		<Italian>Village Hall</Italian>
+		<Spanish>Village Hall</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CITYHALL</Tag>
+		<English>City Hall</English>
+		<French>City Hall</French>
+		<German>City Hall</German>
+		<Italian>City Hall</Italian>
+		<Spanish>City Hall</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CARPENTER_SHELTER</Tag>
+		<English>Carpenter's Shelter</English>
+		<French>Carpenter's Shelter</French>
+		<German>Carpenter's Shelter</German>
+		<Italian>Carpenter's Shelter</Italian>
+		<Spanish>Carpenter's Shelter</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_SAWMILL</Tag>
+		<English>Sawmill</English>
+		<French>Sawmill</French>
+		<German>Sawmill</German>
+		<Italian>Sawmill</Italian>
+		<Spanish>Sawmill</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_STORAGE_HOUSE</Tag>
+		<English>Storage House</English>
+		<French>Storage House</French>
+		<German>Storage House</German>
+		<Italian>Storage House</Italian>
+		<Spanish>Storage House</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CUSTOM_HOUSE</Tag>
+		<English>Custom House</English>
+		<French>Custom House</French>
+		<German>Custom House</German>
+		<Italian>Custom House</Italian>
+		<Spanish>Custom House</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PALISADE</Tag>
+		<English>Palisade</English>
+		<French>Palisade</French>
+		<German>Palisade</German>
+		<Italian>Palisade</Italian>
+		<Spanish>Palisade</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LANDING_STAGE</Tag>
+		<English>Landing Stage</English>
+		<French>Landing Stage</French>
+		<German>Landing Stage</German>
+		<Italian>Landing Stage</Italian>
+		<Spanish>Landing Stage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WEAVERS_SHELTER</Tag>
+		<English>Weaver's Shelter</English>
+		<French>Weaver's Shelter</French>
+		<German>Weaver's Shelter</German>
+		<Italian>Weaver's Shelter</Italian>
+		<Spanish>Weaver's Shelter</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_FUR_TRADERS_SHELTER</Tag>
+		<English>Fur Trader's Shelter</English>
+		<French>Fur Trader's Shelter</French>
+		<German>Fur Trader's Shelter</German>
+		<Italian>Fur Trader's Shelter</Italian>
+		<Spanish>Fur Trader's Shelter</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_DISTILLERS_SHELTER</Tag>
+		<English>Distiller's Shelter</English>
+		<French>Distiller's Shelter</French>
+		<German>Distiller's Shelter</German>
+		<Italian>Distiller's Shelter</Italian>
+		<Spanish>Distiller's Shelter</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TOBACCONIST_SHELTER</Tag>
+		<English>Tobacconist's Shelter</English>
+		<French>Tobacconist's Shelter</French>
+		<German>Tobacconist's Shelter</German>
+		<Italian>Tobacconist's Shelter</Italian>
+		<Spanish>Tobacconist's Shelter</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_BLACKSMITH_SHELTER</Tag>
+		<English>Blacksmith's Shelter</English>
+		<French>Blacksmith's Shelter</French>
+		<German>Blacksmith's Shelter</German>
+		<Italian>Blacksmith's Shelter</Italian>
+		<Spanish>Blacksmith's Shelter</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_WEAPON_SHELTER</Tag>
+		<English>Weapon Shelter</English>
+		<French>Weapon Shelter</French>
+		<German>Weapon Shelter</German>
+		<Italian>Weapon Shelter</Italian>
+		<Spanish>Weapon Shelter</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_PASTURE</Tag>
+		<English>Pasture</English>
+		<French>Pasture</French>
+		<German>Pasture</German>
+		<Italian>Pasture</Italian>
+		<Spanish>Pasture</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LARGE_STABLE</Tag>
+		<English>Large Stable</English>
+		<French>Large Stable</French>
+		<German>Large Stable</German>
+		<Italian>Large Stable</Italian>
+		<Spanish>Large Stable</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_TELEGRAPH</Tag>
+		<English>Telegraph</English>
+		<French>Telegraph</French>
+		<German>Telegraph</German>
+		<Italian>Telegraph</Italian>
+		<Spanish>Telegraph</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_CHAPEL</Tag>
+		<English>Chapel</English>
+		<French>Chapel</French>
+		<German>Chapel</German>
+		<Italian>Chapel</Italian>
+		<Spanish>Chapel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LARGE_CHURCH</Tag>
+		<English>Large Church</English>
+		<French>Large Church</French>
+		<German>Large Church</German>
+		<Italian>Large Church</Italian>
+		<Spanish>Large Church</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_BUILDING_LARGE_SCHOOL</Tag>
+		<English>Large School</English>
+		<French>Large School</French>
+		<German>Large School</German>
+		<Italian>Large School</Italian>
+		<Spanish>Large School</Spanish>
+	</TEXT>
+</Civ4GameText>

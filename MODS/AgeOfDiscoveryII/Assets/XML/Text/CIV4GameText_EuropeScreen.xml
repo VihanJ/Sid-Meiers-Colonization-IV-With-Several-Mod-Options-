@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text Infos -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag></Tag>
+			<English></English>
+			<French></French>
+			<German></German>
+			<Italian></Italian>
+			<Spanish></Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_EU_VERSION</Tag>
+			<English>[COLOR_YELLOW]EuropeScreen[COLOR_REVERT] (Release [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT])[NEWLINE]by [COLOR_YELLOW]koma13[COLOR_REVERT], [COLOR_YELLOW]Fankman[COLOR_REVERT] and [COLOR_YELLOW]Dale[COLOR_REVERT]</English>
+			<French>[COLOR_YELLOW]Europe Screen[COLOR_REVERT] (Version [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT])[NEWLINE]par [COLOR_YELLOW]Koma13[COLOR_REVERT], [COLOR_YELLOW]Fankman[COLOR_REVERT] et [COLOR_YELLOW]Dale[COLOR_REVERT]</French>
+			<German>[COLOR_YELLOW]EuropeScreen[COLOR_REVERT] (Release [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT])[NEWLINE]von [COLOR_YELLOW]koma13[COLOR_REVERT] und [COLOR_YELLOW]Fankman[COLOR_REVERT]</German>
+			<Italian>[COLOR_YELLOW]EuropeScreen[COLOR_REVERT] (Release [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT])[NEWLINE]by [COLOR_YELLOW]koma13[COLOR_REVERT], [COLOR_YELLOW]Fankman[COLOR_REVERT] and [COLOR_YELLOW]Dale[COLOR_REVERT]</Italian>
+			<Spanish>[COLOR_YELLOW]EuropeScreen[COLOR_REVERT] (Release [COLOR_HIGHLIGHT_TEXT]%s1[COLOR_REVERT])[NEWLINE]by [COLOR_YELLOW]koma13[COLOR_REVERT], [COLOR_YELLOW]Fankman[COLOR_REVERT] and [COLOR_YELLOW]Dale[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_SAIL</Tag>
+			<English>Sail to the new world</English>
+			<French>Cap sur le nouveau monde</French>
+			<German>Setzt die Segel!</German>
+			<Italian>Sail to the new world</Italian>
+			<Spanish>Sail to the new world</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_SAIL_EAST</Tag>
+			<English>East</English>
+			<French>Atlantique</French>
+			<German>Atlantik</German>
+			<Italian>East</Italian>
+			<Spanish>East</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_SAIL_WEST</Tag>
+			<English>West</English>
+			<French>Pacifique</French>
+			<German>Pazifik</German>
+			<Italian>West</Italian>
+			<Spanish>West</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_SAIL_EAST_MESSAGE</Tag>
+			<English>New world - [COLOR_HIGHLIGHT_TEXT]east[COLOR_REVERT]</English>
+			<French>Nouveau monde - [COLOR_HIGHLIGHT_TEXT]Atlantique[COLOR_REVERT]</French>
+			<German>Kurs [COLOR_HIGHLIGHT_TEXT]Atlantik[COLOR_REVERT]</German>
+			<Italian>New world - [COLOR_HIGHLIGHT_TEXT]east[COLOR_REVERT]</Italian>
+			<Spanish>New world - [COLOR_HIGHLIGHT_TEXT]east[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_SAIL_WEST_MESSAGE</Tag>
+			<English>New world - [COLOR_HIGHLIGHT_TEXT]west[COLOR_REVERT]</English>
+			<French>Nouveau monde - [COLOR_HIGHLIGHT_TEXT]Pacifique[COLOR_REVERT]</French>
+			<German>Kurs [COLOR_HIGHLIGHT_TEXT]Pazifik[COLOR_REVERT]</German>
+			<Italian>New world - [COLOR_HIGHLIGHT_TEXT]west[COLOR_REVERT]</Italian>
+			<Spanish>New world - [COLOR_HIGHLIGHT_TEXT]west[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_SELL_LABEL</Tag>
+			<English>Sell your ship?</English>
+			<French>Vendre votre bateau ?</French>
+			<German>Schiff verkaufen?</German>
+			<Italian>Sell your ship?</Italian>
+			<Spanish>Sell your ship?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_SELL_MESSAGE</Tag>
+			<English>That floating coffin you call a %s1? Well, I'll give you %d2[ICON_GOLD].</English>
+			<French>Ce raffiot que vous appelez %s1? Et bien ... je vous en donne %d2[ICON_GOLD].</French>
+			<German>Diesen morschen Kahn nennt ihr %s1? Nun, %d2[ICON_GOLD] seien Euch gew&#228;hrt.</German>
+			<Italian>That floating coffin you call a %s1? Well, I'll give you %d2[ICON_GOLD].</Italian>
+			<Spanish>That floating coffin you call a %s1? Well, I'll give you %d2[ICON_GOLD].</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_SELL_SHORT</Tag>
+			<English>Sell your %s1 for [COLOR_YELLOW]%d2[COLOR_REVERT][ICON_GOLD]?</English>
+			<French>Vendre votre %s1 pour [COLOR_YELLOW]%d2[COLOR_REVERT][ICON_GOLD]?</French>
+			<German>%s1 f&#252;r [COLOR_YELLOW]%d2[COLOR_REVERT][ICON_GOLD] verkaufen?</German>
+			<Italian>Sell your %s1 for [COLOR_YELLOW]%d2[COLOR_REVERT][ICON_GOLD]?</Italian>
+			<Spanish>Sell your %s1 for [COLOR_YELLOW]%d2[COLOR_REVERT][ICON_GOLD]?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_WAREHOUSE_INFO</Tag>
+			<English>%s1 - warehouse (max %d2):</English>
+			<French>%s1 - entrepôt d'une capacité maximale de %d2:</French>
+			<German>%s1 - Warenlager (max %d2):</German>
+			<Italian>%s1 - warehouse (max %d2):</Italian>
+			<Spanish>%s1 - warehouse (max %d2):</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_SELECT_DESTINATION</Tag>
+			<English>Select your destination</English>
+			<French>Choisir votre destination</French>
+			<German>Ziel ausw&#228;hlen</German>
+			<Italian>Select your destination</Italian>
+			<Spanish>Select your destination</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_PREVIEW_MODE</Tag>
+			<English>Switch preview mode</English>
+			<French>Afficher la vue externe du port d'arrivée</French>
+			<German>Stadtvorschau wechseln</German>
+			<Italian>Switch preview mode</Italian>
+			<Spanish>Switch preview mode</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_DIALOG_ACCEPT</Tag>
+			<English>Great! Thank you.</English>
+			<French>Merveilleux! Merci.</French>
+			<German>Gro&#223;z&#252;gig! Habt Dank.</German>
+			<Italian>Great! Thank you.</Italian>
+			<Spanish>Great! Thank you.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_DIALOG_DECLINE</Tag>
+			<English>Maybe later.</English>
+			<French>Plus tard ...</French>
+			<German>Vorerst nicht.</German>
+			<Italian>Maybe later.</Italian>
+			<Spanish>Maybe later.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_NEAR_CITY</Tag>
+			<English>near %s1</English>
+			<French>aux abords de %s1</French>
+			<German>bei %s1</German>
+			<Italian>near %s1</Italian>
+			<Spanish>near %s1</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_TO_CITY</Tag>
+			<English>to [COLOR_YELLOW]%s1[COLOR_REVERT]</English>
+			<French>puis mouillage à [COLOR_YELLOW]%s1[COLOR_REVERT]</French>
+			<German>nach [COLOR_YELLOW]%s1[COLOR_REVERT]</German>
+			<Italian>to [COLOR_YELLOW]%s1[COLOR_REVERT]</Italian>
+			<Spanish>to [COLOR_YELLOW]%s1[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_EU_ROUTE</Tag>
+			<English>[NEWLINE]%s1 route %s2</English>
+			<French>[NEWLINE]%s1 %s2</French>
+			<German>[NEWLINE]%s1 Route %s2</German>
+			<Italian>[NEWLINE]%s1 route %s2</Italian>
+			<Spanish>[NEWLINE]%s1 route %s2</Spanish>
+	</TEXT>
+</Civ4GameText>

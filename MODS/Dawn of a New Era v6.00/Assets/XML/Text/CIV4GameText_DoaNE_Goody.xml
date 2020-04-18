@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_CHIEF_GOODY_NATIVE</Tag>
+    <English>One of my men want to follow you.</English>
+    <French>One of my men want to follow you.</French>
+    <German>One of my men want to follow you.</German>
+    <Italian>One of my men want to follow you.</Italian>
+    <Spanish>One of my men want to follow you.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GOODY_ANNOUNCE_NATIVE</Tag>
+    <English>You released a native from a trap. He is now in your debt.</English>
+    <French>You released a native from a trap. He is now in your debt.</French>
+    <German>You released a native from a trap. He is now in your debt.</German>
+    <Italian>You released a native from a trap. He is now in your debt.</Italian>
+    <Spanish>You released a native from a trap. He is now in your debt.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CHIEF_GOODY_BAD_RELATIONS</Tag>
+    <English>This affront will not be forgotten.</English>
+    <French>This affront will not be forgotten.</French>
+    <German>This affront will not be forgotten.</German>
+    <Italian>This affront will not be forgotten.</Italian>
+    <Spanish>This affront will not be forgotten</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GOODY_ANNOUNCE_NATIVE_SLAVE</Tag>
+    <English>You captured a native in a hostile encounter.</English>
+    <French>You captured a native in a hostile encounter.</French>
+    <German>You captured a native in a hostile encounter.</German>
+    <Italian>You captured a native in a hostile encounter.</Italian>
+    <Spanish>You captured a native in a hostile encounter.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CHIEF_GOODY_GOOD_RELATIONS</Tag>
+    <English>This act will strengthen our relations.</English>
+    <French>This act will strengthen our relations.</French>
+    <German>This act will strengthen our relations.</German>
+    <Italian>This act will strengthen our relations.</Italian>
+    <Spanish>This act will strengthen our relations.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GOODY_ANNOUNCE_EXILE</Tag>
+    <English>You helped an exile living amongst the natives. He is now in your debt.</English>
+    <French>You helped an exile living amongst the natives. He is now in your debt.</French>
+    <German>You helped an exile living amongst the natives. He is now in your debt.</German>
+    <Italian>You helped an exile living amongst the natives. He is now in your debt.</Italian>
+    <Spanish>You helped an exile living amongst the natives. He is now in your debt.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GOODY_ANNOUNCE_HELP_TO_NATIVES</Tag>
+    <English>You helped a native family that was being attacked by a group of wild animals.</English>
+    <French>You helped a native family that was being attacked by a group of wild animals.</French>
+    <German>You helped a native family that was being attacked by a group of wild animals.</German>
+    <Italian>You helped a native family that was being attacked by a group of wild animals.</Italian>
+    <Spanish>You helped a native family that was being attacked by a group of wild animals.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GOODY_ANNOUNCE_HELP_TO_NATIVES_VETERAN</Tag>
+    <English>You helped a native family that was being attacked by a group of wild animals. Warriors of their tribu have shared their wisdom with your soldiers; now your unit will combat as a veteran soldier.</English>
+    <French>You helped a native family that was being attacked by a group of wild animals. Warriors of their tribu have shared their wisdom with your soldiers; now your unit will combat as a veteran soldier.</French>
+    <German>You helped a native family that was being attacked by a group of wild animals. Warriors of their tribu have shared their wisdom with your soldiers; now your unit will combat as a veteran soldier.</German>
+    <Italian>You helped a native family that was being attacked by a group of wild animals. Warriors of their tribu have shared their wisdom with your soldiers; now your unit will combat as a veteran soldier.</Italian>
+    <Spanish>You helped a native family that was being attacked by a group of wild animals. Warriors of their tribu have shared their wisdom with your soldiers; now your unit will combat as a veteran soldier.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GOODY_ANNOUNCE_NATIVE_MASSIVE_CONVERSION</Tag>
+    <English>You "persuaded" a group of natives to embrace the true faith.</English>
+    <French>You "persuaded" a group of natives to embrace the true faith.</French>
+    <German>You "persuaded" a group of natives to embrace the true faith.</German>
+    <Italian>You "persuaded" a group of natives to embrace the true faith.</Italian>
+    <Spanish>You "persuaded" a group of natives to embrace the true faith.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CHIEF_GOODY_DOCTOR</Tag>
+    <English>Please share a peace pipe and we will tell you the secrets of the Nature.</English>
+    <French>Venez partager le calumet de la paix et nous vous parlerons des secrets de la Nature.</French>
+    <German>Please share a peace pipe and we will tell you the secrets of the Nature.</German>
+    <Italian>Please share a peace pipe and we will tell you the secrets of the Nature.</Italian>
+    <Spanish>Please share a peace pipe and we will tell you the secrets of the Nature.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GOODY_ANNOUNCE_GENERAL_EXPERIENCE</Tag>
+    <English>One of your explorers have reached legendary status; you obtain a great general.</English>
+    <French>One of your explorers have reached legendary status; you obtain a great general.</French>
+    <German>One of your explorers have reached legendary status; you obtain a great general.</German>
+    <Italian>One of your explorers have reached legendary status; you obtain a great general.</Italian>
+    <Spanish>One of your explorers have reached legendary status; you obtain a great general.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CHIEF_GOODY_GENERAL</Tag>
+    <English>The spirits of the Nature will follow you in your journey.</English>
+    <French>The spirits of the Nature will follow you in your journey.</French>
+    <German>The spirits of the Nature will follow you in your journey.</German>
+    <Italian>The spirits of the Nature will follow you in your journey.</Italian>
+    <Spanish>The spirits of the Nature will follow you in your journey.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CHIEF_GOODY_HOSTILE_MEDIUM</Tag>
+    <English>You have offended the spirits, get out of our land!</English>
+    <French>You have offended the spirits, get out of our land!</French>
+    <German>You have offended the spirits, get out of our land!</German>
+    <Italian>You have offended the spirits, get out of our land!</Italian>
+    <Spanish>You have offended the spirits, get out of our land!</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CHIEF_GOODY_HOSTILE_WEAK</Tag>
+    <English>You have offended the spirits, get out of our land!</English>
+    <French>You have offended the spirits, get out of our land!</French>
+    <German>You have offended the spirits, get out of our land!</German>
+    <Italian>You have offended the spirits, get out of our land!</Italian>
+    <Spanish>You have offended the spirits, get out of our land!</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_CHIEF_GOODY_HOSTILE_STRONG</Tag>
+    <English>You have offended the spirits, get out of our land!</English>
+    <French>You have offended the spirits, get out of our land!</French>
+    <German>You have offended the spirits, get out of our land!</German>
+    <Italian>You have offended the spirits, get out of our land!</Italian>
+    <Spanish>You have offended the spirits, get out of our land!</Spanish>
+  </TEXT>
+</Civ4GameText>

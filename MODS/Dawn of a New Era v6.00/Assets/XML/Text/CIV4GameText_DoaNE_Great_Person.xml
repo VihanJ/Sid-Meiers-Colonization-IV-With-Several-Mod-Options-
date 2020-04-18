@@ -1,0 +1,2275 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_MONTJEAN</Tag>
+    <English>Ren&#xE9; de Montjean</English>
+    <French>Ren&#xE9; de Montjean</French>
+    <German>Ren&#xE9; de Montjean</German>
+    <Italian>Ren&#xE9; de Montjean</Italian>
+    <Spanish>Ren&#xE9; de Montjean</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_CONDE</Tag>
+    <English>Fran&#xE7;ois de Bourbon-Cond&#xE9;</English>
+    <French>Fran&#xE7;ois de Bourbon-Cond&#xE9;</French>
+    <German>Fran&#xE7;ois de Bourbon-Cond&#xE9;</German>
+    <Italian>Fran&#xE7;ois de Bourbon-Cond&#xE9;</Italian>
+    <Spanish>Fran&#xE7;ois de Bourbon-Cond&#xE9;</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_LANGLADE</Tag>
+    <English>Charles Michel de Langlade</English>
+    <French>Charles Michel de Langlade</French>
+    <German>Charles Michel de Langlade</German>
+    <Italian>Charles Michel de Langlade</Italian>
+    <Spanish>Charles Michel de Langlade</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_VILLARS</Tag>
+    <English>Claude Louis Hector de Villars</English>
+    <French>Claude Louis Hector de Villars</French>
+    <German>Claude Louis Hector de Villars</German>
+    <Italian>Claude Louis Hector de Villars</Italian>
+    <Spanish>Claude Louis Hector de Villars</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_ALBON</Tag>
+    <English>Jacques d'Albon de Saint-Andr&#xE9;</English>
+    <French>Jacques d'Albon de Saint-Andr&#xE9;</French>
+    <German>Jacques d'Albon de Saint-Andr&#xE9;</German>
+    <Italian>Jacques d'Albon de Saint-Andr&#xE9;</Italian>
+    <Spanish>Jacques d'Albon de Saint-Andr&#xE9;</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_BARTHE</Tag>
+    <English>Paul de La Barthe</English>
+    <French>Paul de La Barthe</French>
+    <German>Paul de La Barthe</German>
+    <Italian>Paul de La Barthe</Italian>
+    <Spanish>Paul de La Barthe</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_PLATIERE</Tag>
+    <English>Imbert de La Pl&#xE2;ti&#xE8;re</English>
+    <French>Imbert de La Pl&#xE2;ti&#xE8;re</French>
+    <German>Imbert de La Pl&#xE2;ti&#xE8;re</German>
+    <Italian>Imbert de La Pl&#xE2;ti&#xE8;re</Italian>
+    <Spanish>Imbert de La Pl&#xE2;ti&#xE8;re</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_GONTAUT</Tag>
+    <English>Armand de Gontaut</English>
+    <French>Armand de Gontaut</French>
+    <German>Armand de Gontaut</German>
+    <Italian>Armand de Gontaut</Italian>
+    <Spanish>Armand de Gontaut</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_CHATRE</Tag>
+    <English>Claude de La Ch&#xE2;tre</English>
+    <French>Claude de La Ch&#xE2;tre</French>
+    <German>Claude de La Ch&#xE2;tre</German>
+    <Italian>Claude de La Ch&#xE2;tre</Italian>
+    <Spanish>Claude de La Ch&#xE2;tre</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_ARQUIAN</Tag>
+    <English>Fran&#xE7;ois de La Grange d'Arquian</English>
+    <French>Fran&#xE7;ois de La Grange d'Arquian</French>
+    <German>Fran&#xE7;ois de La Grange d'Arquian</German>
+    <Italian>Fran&#xE7;ois de La Grange d'Arquian</Italian>
+    <Spanish>Fran&#xE7;ois de La Grange d'Arquian</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_GUICHE</Tag>
+    <English>Jean Fran&#xE7;ois de La Guiche</English>
+    <French>Jean Fran&#xE7;ois de La Guiche</French>
+    <German>Jean Fran&#xE7;ois de La Guiche</German>
+    <Italian>Jean Fran&#xE7;ois de La Guiche</Italian>
+    <Spanish>Jean Fran&#xE7;ois de La Guiche</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_SCHOMBERG</Tag>
+    <English>Charles de Schomberg</English>
+    <French>Charles de Schomberg</French>
+    <German>Charles de Schomberg</German>
+    <Italian>Charles de Schomberg</Italian>
+    <Spanish>Charles de Schomberg</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_ROCHEBARON</Tag>
+    <English>Antoine d'Aumont de Rochebaron</English>
+    <French>Antoine d'Aumont de Rochebaron</French>
+    <German>Antoine d'Aumont de Rochebaron</German>
+    <Italian>Antoine d'Aumont de Rochebaron</Italian>
+    <Spanish>Antoine d'Aumont de Rochebaron</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_BAUME</Tag>
+    <English>Nicolas Auguste de La Baume</English>
+    <French>Nicolas Auguste de La Baume</French>
+    <German>Nicolas Auguste de La Baume</German>
+    <Italian>Nicolas Auguste de La Baume</Italian>
+    <Spanish>Nicolas Auguste de La Baume</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_DURFORT</Tag>
+    <English>Jean-Baptiste de Durfort</English>
+    <French>Jean-Baptiste de Durfort</French>
+    <German>Jean-Baptiste de Durfort</German>
+    <Italian>Jean-Baptiste de Durfort</Italian>
+    <Spanish>Jean-Baptiste de Durfort</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_PLESSIS</Tag>
+    <English>Louis du Plessis</English>
+    <French>Louis du Plessis</French>
+    <German>Louis du Plessis</German>
+    <Italian>Louis du Plessis</Italian>
+    <Spanish>Louis du Plessis</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_FERTE</Tag>
+    <English>Jean Charles de la Fert&#xE9;</English>
+    <French>Jean Charles de la Fert&#xE9;</French>
+    <German>Jean Charles de la Fert&#xE9;</German>
+    <Italian>Jean Charles de la Fert&#xE9;</Italian>
+    <Spanish>Jean Charles de la Fert&#xE9;</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_LORGE</Tag>
+    <English>Guy Michel de Durfort de Lorge</English>
+    <French>Guy Michel de Durfort de Lorge</French>
+    <German>Guy Michel de Durfort de Lorge</German>
+    <Italian>Guy Michel de Durfort de Lorge</Italian>
+    <Spanish>Guy Michel de Durfort de Lorge</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_MONTMORENCY</Tag>
+    <English>Guy de Montmorency</English>
+    <French>Guy de Montmorency</French>
+    <German>Guy de Montmorency</German>
+    <Italian>Guy de Montmorency</Italian>
+    <Spanish>Guy de Montmorency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_FR_CHOISEUL</Tag>
+    <English>Jacques de Choiseul-Stainville</English>
+    <French>Jacques de Choiseul-Stainville</French>
+    <German>Jacques de Choiseul-Stainville</German>
+    <Italian>Jacques de Choiseul-Stainville</Italian>
+    <Spanish>Jacques de Choiseul-Stainville</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_HOPTON</Tag>
+    <English>Ralph Hopton</English>
+    <French>Ralph Hopton</French>
+    <German>Ralph Hopton</German>
+    <Italian>Ralph Hopton</Italian>
+    <Spanish>Ralph Hopton</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_JOHNSON</Tag>
+    <English>William Johnson</English>
+    <French>William Johnson</French>
+    <German>William Johnson</German>
+    <Italian>William Johnson</Italian>
+    <Spanish>William Johnson</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_CAREY</Tag>
+    <English>Henry Carey</English>
+    <French>Henry Carey</French>
+    <German>Henry Carey</German>
+    <Italian>Henry Carey</Italian>
+    <Spanish>Henry Carey</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_IRETON</Tag>
+    <English>Henry Ireton</English>
+    <French>Henry Ireton</French>
+    <German>Henry Ireton</German>
+    <Italian>Henry Ireton</Italian>
+    <Spanish>Henry Ireton</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_BERKELEY</Tag>
+    <English>John Berkeley</English>
+    <French>John Berkeley</French>
+    <German>John Berkeley</German>
+    <Italian>John Berkeley</Italian>
+    <Spanish>John Berkeley</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_LIGONIER</Tag>
+    <English>John Ligonier</English>
+    <French>John Ligonier</French>
+    <German>John Ligonier</German>
+    <Italian>John Ligonier</Italian>
+    <Spanish>John Ligonier</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_MURRAY</Tag>
+    <English>George Murray</English>
+    <French>George Murray</French>
+    <German>George Murray</German>
+    <Italian>George Murray</Italian>
+    <Spanish>George Murray</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_NORREYS</Tag>
+    <English>John Norreys</English>
+    <French>John Norreys</French>
+    <German>John Norreys</German>
+    <Italian>John Norreys</Italian>
+    <Spanish>John Norreys</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_SCHOMBERG</Tag>
+    <English>M&#xE9;nard de Schomberg</English>
+    <French>M&#xE9;nard de Schomberg</French>
+    <German>M&#xE9;nard de Schomberg</German>
+    <Italian>M&#xE9;nard de Schomberg</Italian>
+    <Spanish>M&#xE9;nard de Schomberg</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_SMITH</Tag>
+    <English>Francis Smith</English>
+    <French>Francis Smith</French>
+    <German>Francis Smith</German>
+    <Italian>Francis Smith</Italian>
+    <Spanish>Francis Smith</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_STUART</Tag>
+    <English>James Stuart</English>
+    <French>James Stuart</French>
+    <German>James Stuart</German>
+    <Italian>James Stuart</Italian>
+    <Spanish>James Stuart</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_TOLLEMACHE</Tag>
+    <English>Thomas Tollemache</English>
+    <French>Thomas Tollemache</French>
+    <German>Thomas Tollemache</German>
+    <Italian>Thomas Tollemache</Italian>
+    <Spanish>Thomas Tollemache</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_TOWNSHEND</Tag>
+    <English>George Townshend</English>
+    <French>George Townshend</French>
+    <German>George Townshend</German>
+    <Italian>George Townshend</Italian>
+    <Spanish>George Townshend</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_VERE</Tag>
+    <English>Francis Vere</English>
+    <French>Francis Vere</French>
+    <German>Francis Vere</German>
+    <Italian>Francis Vere</Italian>
+    <Spanish>Francis Vere</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_BERTIE</Tag>
+    <English>Peregrine Bertie</English>
+    <French>Peregrine Bertie</French>
+    <German>Peregrine Bertie</German>
+    <Italian>Peregrine Bertie</Italian>
+    <Spanish>Peregrine Bertie</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_ABERCROMBIE</Tag>
+    <English>James Abercrombie</English>
+    <French>James Abercrombie</French>
+    <German>James Abercrombie</German>
+    <Italian>James Abercrombie</Italian>
+    <Spanish>James Abercrombie</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_AMHERST</Tag>
+    <English>Jeffery Amherst</English>
+    <French>Jeffery Amherst</French>
+    <German>Jeffery Amherst</German>
+    <Italian>Jeffery Amherst</Italian>
+    <Spanish>Jeffery Amherst</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_WOLFE</Tag>
+    <English>James Wolfe</English>
+    <French>James Wolfe</French>
+    <German>James Wolfe</German>
+    <Italian>James Wolfe</Italian>
+    <Spanish>James Wolfe</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_BLAKENEY</Tag>
+    <English>William Blakeney</English>
+    <French>William Blakeney</French>
+    <German>William Blakeney</German>
+    <Italian>William Blakeney</Italian>
+    <Spanish>William Blakeney</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_GLADWIN</Tag>
+    <English>Henry Gladwin</English>
+    <French>Henry Gladwin</French>
+    <German>Henry Gladwin</German>
+    <Italian>Henry Gladwin</Italian>
+    <Spanish>Henry Gladwin</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_ARNOLD</Tag>
+    <English>Benedict Arnold</English>
+    <French>Benedict Arnold</French>
+    <German>Benedict Arnold</German>
+    <Italian>Benedict Arnold</Italian>
+    <Spanish>Benedict Arnold</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_GB_KNOX</Tag>
+    <English>Henry Knox</English>
+    <French>Henry Knox</French>
+    <German>Henry Knox</German>
+    <Italian>Henry Knox</Italian>
+    <Spanish>Henry Knox</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_LOPES</Tag>
+    <English>Pero Lopes de Sousa</English>
+    <French>Pero Lopes de Sousa</French>
+    <German>Pero Lopes de Sousa</German>
+    <Italian>Pero Lopes de Sousa</Italian>
+    <Spanish>Pero Lopes de Sousa</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_SOUSA01</Tag>
+    <English>Tom&#xE9; de Sousa</English>
+    <French>Tom&#xE9; de Sousa</French>
+    <German>Tom&#xE9; de Sousa</German>
+    <Italian>Tom&#xE9; de Sousa</Italian>
+    <Spanish>Tom&#xE9; de Sousa</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_VILHENA</Tag>
+    <English>Sancho Manoel de Vilhena</English>
+    <French>Sancho Manoel de Vilhena</French>
+    <German>Sancho Manoel de Vilhena</German>
+    <Italian>Sancho Manoel de Vilhena</Italian>
+    <Spanish>Sancho Manoel de Vilhena</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_TEIXEIRA</Tag>
+    <English>Pedro Teixeira</English>
+    <French>Pedro Teixeira</French>
+    <German>Pedro Teixeira</German>
+    <Italian>Pedro Teixeira</Italian>
+    <Spanish>Pedro Teixeira</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_NORONA</Tag>
+    <English>Sancho de Noro&#xF1;a</English>
+    <French>Sancho de Noro&#xF1;a</French>
+    <German>Sancho de Noro&#xF1;a</German>
+    <Italian>Sancho de Noro&#xF1;a</Italian>
+    <Spanish>Sancho de Noro&#xF1;a</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_NORONHA</Tag>
+    <English>Afonso de Noronha</English>
+    <French>Afonso de Noronha</French>
+    <German>Afonso de Noronha</German>
+    <Italian>Afonso de Noronha</Italian>
+    <Spanish>Afonso de Noronha</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_JORGECABRAL</Tag>
+    <English>Dom Jorge Cabral</English>
+    <French>Dom Jorge Cabral</French>
+    <German>Dom Jorge Cabral</German>
+    <Italian>Dom Jorge Cabral</Italian>
+    <Spanish>Dom Jorge Cabral</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_ALVARESCABRAL</Tag>
+    <English>Pedro &#xE1;lvares Cabral</English>
+    <French>Pedro &#xE1;lvares Cabral</French>
+    <German>Pedro &#xE1;lvares Cabral</German>
+    <Italian>Pedro &#xE1;lvares Cabral</Italian>
+    <Spanish>Pedro &#xE1;lvares Cabral</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_ALBUQUERQUE01</Tag>
+    <English>Afonso de Albuquerque</English>
+    <French>Afonso de Albuquerque</French>
+    <German>Afonso de Albuquerque</German>
+    <Italian>Afonso de Albuquerque</Italian>
+    <Spanish>Afonso de Albuquerque</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_PACHECOPEREIRA</Tag>
+    <English>Duarte Pacheco Pereira</English>
+    <French>Duarte Pacheco Pereira</French>
+    <German>Duarte Pacheco Pereira</German>
+    <Italian>Duarte Pacheco Pereira</Italian>
+    <Spanish>Duarte Pacheco Pereira</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_FAGUNDES</Tag>
+    <English>Trist&#xE3;o Machado Fagundes</English>
+    <French>Trist&#xE3;o Machado Fagundes</French>
+    <German>Trist&#xE3;o Machado Fagundes</German>
+    <Italian>Trist&#xE3;o Machado Fagundes</Italian>
+    <Spanish>Trist&#xE3;o Machado Fagundes</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_ALVARESPEREIRA</Tag>
+    <English>Nuno &#xE1;lvares Pereira</English>
+    <French>Nuno &#xE1;lvares Pereira</French>
+    <German>Nuno &#xE1;lvares Pereira</German>
+    <Italian>Nuno &#xE1;lvares Pereira</Italian>
+    <Spanish>Nuno &#xE1;lvares Pereira</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_FURTADO</Tag>
+    <English>Jo&#xE3;o de Mendon&#xE7;a Furtado</English>
+    <French>Jo&#xE3;o de Mendon&#xE7;a Furtado</French>
+    <German>Jo&#xE3;o de Mendon&#xE7;a Furtado</German>
+    <Italian>Jo&#xE3;o de Mendon&#xE7;a Furtado</Italian>
+    <Spanish>Jo&#xE3;o de Mendon&#xE7;a Furtado</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_PINTO</Tag>
+    <English>Jo&#xE3;o de Castilho Pinto</English>
+    <French>Jo&#xE3;o de Castilho Pinto</French>
+    <German>Jo&#xE3;o de Castilho Pinto</German>
+    <Italian>Jo&#xE3;o de Castilho Pinto</Italian>
+    <Spanish>Jo&#xE3;o de Castilho Pinto</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_ANDRADE</Tag>
+    <English>Jos&#xE9; Freire de Andrade</English>
+    <French>Jos&#xE9; Freire de Andrade</French>
+    <German>Jos&#xE9; Freire de Andrade</German>
+    <Italian>Jos&#xE9; Freire de Andrade</Italian>
+    <Spanish>Jos&#xE9; Freire de Andrade</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_VASCONCELOS</Tag>
+    <English>Lu&#xED;s Mendes de Vasconcelos</English>
+    <French>Lu&#xED;s Mendes de Vasconcelos</French>
+    <German>Lu&#xED;s Mendes de Vasconcelos</German>
+    <Italian>Lu&#xED;s Mendes de Vasconcelos</Italian>
+    <Spanish>Lu&#xED;s Mendes de Vasconcelos</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_CARDOSO</Tag>
+    <English>Ant&#xF4;nio Dias Cardoso</English>
+    <French>Ant&#xF4;nio Dias Cardoso</French>
+    <German>Ant&#xF4;nio Dias Cardoso</German>
+    <Italian>Ant&#xF4;nio Dias Cardoso</Italian>
+    <Spanish>Ant&#xF4;nio Dias Cardoso</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_PARENTE</Tag>
+    <English>Bento Maciel Parente</English>
+    <French>Bento Maciel Parente</French>
+    <German>Bento Maciel Parente</German>
+    <Italian>Bento Maciel Parente</Italian>
+    <Spanish>Bento Maciel Parente</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_SALDANHA</Tag>
+    <English>Aires de Saldanha</English>
+    <French>Aires de Saldanha</French>
+    <German>Aires de Saldanha</German>
+    <Italian>Aires de Saldanha</Italian>
+    <Spanish>Aires de Saldanha</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_SARMENTO</Tag>
+    <English>J&#xE1;come de Morais Sarmento</English>
+    <French>J&#xE1;come de Morais Sarmento</French>
+    <German>J&#xE1;come de Morais Sarmento</German>
+    <Italian>J&#xE1;come de Morais Sarmento</Italian>
+    <Spanish>J&#xE1;come de Morais Sarmento</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_ALBUQUERQUE02</Tag>
+    <English>Dom Matias de Albuquerque</English>
+    <French>Dom Matias de Albuquerque</French>
+    <German>Dom Matias de Albuquerque</German>
+    <Italian>Dom Matias de Albuquerque</Italian>
+    <Spanish>Dom Matias de Albuquerque</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_POR_TANGER</Tag>
+    <English>Manuel Mendes de T&#xE2;nger</English>
+    <French>Manuel Mendes de T&#xE2;nger</French>
+    <German>Manuel Mendes de T&#xE2;nger</German>
+    <Italian>Manuel Mendes de T&#xE2;nger</Italian>
+    <Spanish>Manuel Mendes de T&#xE2;nger</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_EGMONT</Tag>
+    <English>Laamoral van Egmont</English>
+    <French>Laamoral van Egmont</French>
+    <German>Laamoral van Egmont</German>
+    <Italian>Laamoral van Egmont</Italian>
+    <Spanish>Laamoral van Egmont</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_KEPPEL</Tag>
+    <English>Arnold Joost van Keppel</English>
+    <French>Arnold Joost van Keppel</French>
+    <German>Arnold Joost van Keppel</German>
+    <Italian>Arnold Joost van Keppel</Italian>
+    <Spanish>Arnold Joost van Keppel</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_NOOT</Tag>
+    <English>Thomas van der Noot</English>
+    <French>Thomas van der Noot</French>
+    <German>Thomas van der Noot</German>
+    <Italian>Thomas van der Noot</Italian>
+    <Spanish>Thomas van der Noot</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_ROSSUM</Tag>
+    <English>Maarten van Rossum</English>
+    <French>Maarten van Rossum</French>
+    <German>Maarten van Rossum</German>
+    <Italian>Maarten van Rossum</Italian>
+    <Spanish>Maarten van Rossum</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_COEHOORN</Tag>
+    <English>Menno van Coehoorn</English>
+    <French>Menno van Coehoorn</French>
+    <German>Menno van Coehoorn</German>
+    <Italian>Menno van Coehoorn</Italian>
+    <Spanish>Menno van Coehoorn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_OUWERKERK</Tag>
+    <English>Hendrik van Nassau-Ouwerkerk</English>
+    <French>Hendrik van Nassau-Ouwerkerk</French>
+    <German>Hendrik van Nassau-Ouwerkerk</German>
+    <Italian>Hendrik van Nassau-Ouwerkerk</Italian>
+    <Spanish>Hendrik van Nassau-Ouwerkerk</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_KOCK</Tag>
+    <English>Hendrik Merkus de Kock</English>
+    <French>Hendrik Merkus de Kock</French>
+    <German>Hendrik Merkus de Kock</German>
+    <Italian>Hendrik Merkus de Kock</Italian>
+    <Spanish>Hendrik Merkus de Kock</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_HENDRIK</Tag>
+    <English>Frederik Hendrik</English>
+    <French>Frederik Hendrik</French>
+    <German>Frederik Hendrik</German>
+    <Italian>Frederik Hendrik</Italian>
+    <Spanish>Frederik Hendrik</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_ORANJE</Tag>
+    <English>Maurits van Oranje</English>
+    <French>Maurits van Oranje</French>
+    <German>Maurits van Oranje</German>
+    <Italian>Maurits van Oranje</Italian>
+    <Spanish>Maurits van Oranje</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_BERGH</Tag>
+    <English>Hendrik van den Bergh</English>
+    <French>Hendrik van den Bergh</French>
+    <German>Hendrik van den Bergh</German>
+    <Italian>Hendrik van den Bergh</Italian>
+    <Spanish>Hendrik van den Bergh</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_DIETZ</Tag>
+    <English>Ernst Casimir van Nassau-Dietz</English>
+    <French>Ernst Casimir van Nassau-Dietz</French>
+    <German>Ernst Casimir van Nassau-Dietz</German>
+    <Italian>Ernst Casimir van Nassau-Dietz</Italian>
+    <Spanish>Ernst Casimir van Nassau-Dietz</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_SIEGEN</Tag>
+    <English>Johan Maurits van Nassau-Siegen</English>
+    <French>Johan Maurits van Nassau-Siegen</French>
+    <German>Johan Maurits van Nassau-Siegen</German>
+    <Italian>Johan Maurits van Nassau-Siegen</Italian>
+    <Spanish>Johan Maurits van Nassau-Siegen</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_DILLENBURG</Tag>
+    <English>Willem Lodewijk van Nassau-Dillenburg</English>
+    <French>Willem Lodewijk van Nassau-Dillenburg</French>
+    <German>Willem Lodewijk van Nassau-Dillenburg</German>
+    <Italian>Willem Lodewijk van Nassau-Dillenburg</Italian>
+    <Spanish>Willem Lodewijk van Nassau-Dillenburg</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_MONTMORENCY</Tag>
+    <English>Filips van Montmorency</English>
+    <French>Filips van Montmorency</French>
+    <German>Filips van Montmorency</German>
+    <Italian>Filips van Montmorency</Italian>
+    <Spanish>Filips van Montmorency</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_HOL_MANSFELD</Tag>
+    <English>Peter Ernst van Mansfeld</English>
+    <French>Peter Ernst van Mansfeld</French>
+    <German>Peter Ernst van Mansfeld</German>
+    <Italian>Peter Ernst van Mansfeld</Italian>
+    <Spanish>Peter Ernst van Mansfeld</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_BASTA</Tag>
+    <English>Giorgio Basta</English>
+    <French>Giorgio Basta</French>
+    <German>Giorgio Basta</German>
+    <Italian>Giorgio Basta</Italian>
+    <Spanish>Giorgio Basta</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_AQUILA</Tag>
+    <English>Francesco Caetani dell'Aquila</English>
+    <French>Francesco Caetani dell'Aquila</French>
+    <German>Francesco Caetani dell'Aquila</German>
+    <Italian>Francesco Caetani dell'Aquila</Italian>
+    <Spanish>Francesco Caetani dell'Aquila</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_ALDOBRANDINI</Tag>
+    <English>Giovanni Francesco Aldobrandini</English>
+    <French>Giovanni Francesco Aldobrandini</French>
+    <German>Giovanni Francesco Aldobrandini</German>
+    <Italian>Giovanni Francesco Aldobrandini</Italian>
+    <Spanish>Giovanni Francesco Aldobrandini</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_CARRETTO</Tag>
+    <English>Ottone Enrico del Carretto</English>
+    <French>Ottone Enrico del Carretto</French>
+    <German>Ottone Enrico del Carretto</German>
+    <Italian>Ottone Enrico del Carretto</Italian>
+    <Spanish>Ottone Enrico del Carretto</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_TAGLIAVIA</Tag>
+    <English>Carlo d'Aragona Tagliavia</English>
+    <French>Carlo d'Aragona Tagliavia</French>
+    <German>Carlo d'Aragona Tagliavia</German>
+    <Italian>Carlo d'Aragona Tagliavia</Italian>
+    <Spanish>Carlo d'Aragona Tagliavia</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_ALANDO</Tag>
+    <English>Sambucuccio d'Alando</English>
+    <French>Sambucuccio d'Alando</French>
+    <German>Sambucuccio d'Alando</German>
+    <Italian>Sambucuccio d'Alando</Italian>
+    <Spanish>Sambucuccio d'Alando</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_FARNESE</Tag>
+    <English>Alessandro Farnese</English>
+    <French>Alessandro Farnese</French>
+    <German>Alessandro Farnese</German>
+    <Italian>Alessandro Farnese</Italian>
+    <Spanish>Alessandro Farnese</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_SANFRONT</Tag>
+    <English>Ercole Negro di Sanfront</English>
+    <French>Ercole Negro di Sanfront</French>
+    <German>Ercole Negro di Sanfront</German>
+    <Italian>Ercole Negro di Sanfront</Italian>
+    <Spanish>Ercole Negro di Sanfront</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_CARAFA</Tag>
+    <English>Antonio Carafa</English>
+    <French>Antonio Carafa</French>
+    <German>Antonio Carafa</German>
+    <Italian>Antonio Carafa</Italian>
+    <Spanish>Antonio Carafa</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_FREGOSO</Tag>
+    <English>Federigo Fregoso</English>
+    <French>Federigo Fregoso</French>
+    <German>Federigo Fregoso</German>
+    <Italian>Federigo Fregoso</Italian>
+    <Spanish>Federigo Fregoso</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_GUASCO01</Tag>
+    <English>Giovanni Francesco Guasco</English>
+    <French>Giovanni Francesco Guasco</French>
+    <German>Giovanni Francesco Guasco</German>
+    <Italian>Giovanni Francesco Guasco</Italian>
+    <Spanish>Giovanni Francesco Guasco</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_GUASCO02</Tag>
+    <English>Pier Alessandro Guasco</English>
+    <French>Pier Alessandro Guasco</French>
+    <German>Pier Alessandro Guasco</German>
+    <Italian>Pier Alessandro Guasco</Italian>
+    <Spanish>Pier Alessandro Guasco</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_ISOLANI</Tag>
+    <English>Giovanni Lodovico Isolani</English>
+    <French>Giovanni Lodovico Isolani</French>
+    <German>Giovanni Lodovico Isolani</German>
+    <Italian>Giovanni Lodovico Isolani</Italian>
+    <Spanish>Giovanni Lodovico Isolani</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_SALIMBENI</Tag>
+    <English>Giovanni Salimbeni</English>
+    <French>Giovanni Salimbeni</French>
+    <German>Giovanni Salimbeni</German>
+    <Italian>Giovanni Salimbeni</Italian>
+    <Spanish>Giovanni Salimbeni</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_MAFFEI01</Tag>
+    <English>Alessandro Maffei</English>
+    <French>Alessandro Maffei</French>
+    <German>Alessandro Maffei</German>
+    <Italian>Alessandro Maffei</Italian>
+    <Spanish>Alessandro Maffei</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_TORNAFORTE</Tag>
+    <English>Francesco Bruno di Tornaforte</English>
+    <French>Francesco Bruno di Tornaforte</French>
+    <German>Francesco Bruno di Tornaforte</German>
+    <Italian>Francesco Bruno di Tornaforte</Italian>
+    <Spanish>Francesco Bruno di Tornaforte</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_MAFFEI02</Tag>
+    <English>Annibale Maffei</English>
+    <French>Annibale Maffei</French>
+    <German>Annibale Maffei</German>
+    <Italian>Annibale Maffei</Italian>
+    <Spanish>Annibale Maffei</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_PIGNATELLI</Tag>
+    <English>Francesco Pignatelli</English>
+    <French>Francesco Pignatelli</French>
+    <German>Francesco Pignatelli</German>
+    <Italian>Francesco Pignatelli</Italian>
+    <Spanish>Francesco Pignatelli</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_ROSSI</Tag>
+    <English>Pier Maria III de' Rossi</English>
+    <French>Pier Maria III de' Rossi</French>
+    <German>Pier Maria III de' Rossi</German>
+    <Italian>Pier Maria III de' Rossi</Italian>
+    <Spanish>Pier Maria III de' Rossi</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_MARGARITA</Tag>
+    <English>Giuseppe Maria Solaro della Margarita</English>
+    <French>Giuseppe Maria Solaro della Margarita</French>
+    <German>Giuseppe Maria Solaro della Margarita</German>
+    <Italian>Giuseppe Maria Solaro della Margarita</Italian>
+    <Spanish>Giuseppe Maria Solaro della Margarita</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_DORIA</Tag>
+    <English>Ambrogio Spinola Doria</English>
+    <French>Ambrogio Spinola Doria</French>
+    <German>Ambrogio Spinola Doria</German>
+    <Italian>Ambrogio Spinola Doria</Italian>
+    <Spanish>Ambrogio Spinola Doria</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_SPINOLA</Tag>
+    <English>Paolo Spinola</English>
+    <French>Paolo Spinola</French>
+    <German>Paolo Spinola</German>
+    <Italian>Paolo Spinola</Italian>
+    <Spanish>Paolo Spinola</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_GENERAL_ITA_MONESIGLIO</Tag>
+    <English>Giuseppe Angelo Saluzzo di Monesiglio</English>
+    <French>Giuseppe Angelo Saluzzo di Monesiglio</French>
+    <German>Giuseppe Angelo Saluzzo di Monesiglio</German>
+    <Italian>Giuseppe Angelo Saluzzo di Monesiglio</Italian>
+    <Spanish>Giuseppe Angelo Saluzzo di Monesiglio</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_BART</Tag>
+    <English>Jean Bart</English>
+    <French>Jean Bart</French>
+    <German>Jean Bart</German>
+    <Italian>Jean Bart</Italian>
+    <Spanish>Jean Bart</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_CHALARD</Tag>
+    <English>Priam-Pierre du Chalard</English>
+    <French>Priam-Pierre du Chalard</French>
+    <German>Priam-Pierre du Chalard</German>
+    <Italian>Priam-Pierre du Chalard</Italian>
+    <Spanish>Priam-Pierre du Chalard</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_ROCHE</Tag>
+    <English>Gilles de La Roche-Saint-Andr&#xE9;</English>
+    <French>Gilles de La Roche-Saint-Andr&#xE9;</French>
+    <German>Gilles de La Roche-Saint-Andr&#xE9;</German>
+    <Italian>Gilles de La Roche-Saint-Andr&#xE9;</Italian>
+    <Spanish>Gilles de La Roche-Saint-Andr&#xE9;</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_RAZILLY1</Tag>
+    <English>Isaac de Razilly</English>
+    <French>Isaac de Razilly</French>
+    <German>Isaac de Razilly</German>
+    <Italian>Isaac de Razilly</Italian>
+    <Spanish>Isaac de Razilly</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_POINCY</Tag>
+    <English>Philippe de Longvilliers de Poincy</English>
+    <French>Philippe de Longvilliers de Poincy</French>
+    <German>Philippe de Longvilliers de Poincy</German>
+    <Italian>Philippe de Longvilliers de Poincy</Italian>
+    <Spanish>Philippe de Longvilliers de Poincy</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_LEROY</Tag>
+    <English>Nicolas Leroy du M&#xE9;</English>
+    <French>Nicolas Leroy du M&#xE9;</French>
+    <German>Nicolas Leroy du M&#xE9;</German>
+    <Italian>Nicolas Leroy du M&#xE9;</Italian>
+    <Spanish>Nicolas Leroy du M&#xE9;</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_SUFFREN</Tag>
+    <English>Pierre Andr&#xE9; de Suffren</English>
+    <French>Pierre Andr&#xE9; de Suffren</French>
+    <German>Pierre Andr&#xE9; de Suffren</German>
+    <Italian>Pierre Andr&#xE9; de Suffren</Italian>
+    <Spanish>Pierre Andr&#xE9; de Suffren</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_GRIMALDI</Tag>
+    <English>Maurice de Grimaldi de Bueil</English>
+    <French>Maurice de Grimaldi de Bueil</French>
+    <German>Maurice de Grimaldi de Bueil</German>
+    <Italian>Maurice de Grimaldi de Bueil</Italian>
+    <Spanish>Maurice de Grimaldi de Bueil</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_RAZILLY2</Tag>
+    <English>Fran&#xE7;ois de Razilly</English>
+    <French>Fran&#xE7;ois de Razilly</French>
+    <German>Fran&#xE7;ois de Razilly</German>
+    <Italian>Fran&#xE7;ois de Razilly</Italian>
+    <Spanish>Fran&#xE7;ois de Razilly</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_ROUXEL</Tag>
+    <English>Fran&#xE7;ois-B&#xE9;n&#xE9;dict de Rouxel</English>
+    <French>Fran&#xE7;ois-B&#xE9;n&#xE9;dict de Rouxel</French>
+    <German>Fran&#xE7;ois-B&#xE9;n&#xE9;dict de Rouxel</German>
+    <Italian>Fran&#xE7;ois-B&#xE9;n&#xE9;dict de Rouxel</Italian>
+    <Spanish>Fran&#xE7;ois-B&#xE9;n&#xE9;dict de Rouxel</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_POINTIS</Tag>
+    <English>Jean-Bernard de Pointis</English>
+    <French>Jean-Bernard de Pointis</French>
+    <German>Jean-Bernard de Pointis</German>
+    <Italian>Jean-Bernard de Pointis</Italian>
+    <Spanish>Jean-Bernard de Pointis</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_VALOIS</Tag>
+    <English>Philippe Le Valois</English>
+    <French>Philippe Le Valois</French>
+    <German>Philippe Le Valois</German>
+    <Italian>Philippe Le Valois</Italian>
+    <Spanish>Philippe Le Valois</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_SOURDIS</Tag>
+    <English>Henri d'Escoubleau de Sourdis</English>
+    <French>Henri d'Escoubleau de Sourdis</French>
+    <German>Henri d'Escoubleau de Sourdis</German>
+    <Italian>Henri d'Escoubleau de Sourdis</Italian>
+    <Spanish>Henri d'Escoubleau de Sourdis</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_NESMOND</Tag>
+    <English>Andr&#xE9; de Nesmond</English>
+    <French>Andr&#xE9; de Nesmond</French>
+    <German>Andr&#xE9; de Nesmond</German>
+    <Italian>Andr&#xE9; de Nesmond</Italian>
+    <Spanish>Andr&#xE9; de Nesmond</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_THIBALLIER</Tag>
+    <English>Fran&#xE7;ois de Thiballier</English>
+    <French>Fran&#xE7;ois de Thiballier</French>
+    <German>Fran&#xE7;ois de Thiballier</German>
+    <Italian>Fran&#xE7;ois de Thiballier</Italian>
+    <Spanish>Fran&#xE7;ois de Thiballier</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_ARDENS</Tag>
+    <English>Hector des Ardens</English>
+    <French>Hector des Ardens</French>
+    <German>Hector des Ardens</German>
+    <Italian>Hector des Ardens</Italian>
+    <Spanish>Hector des Ardens</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_DUQUESNE</Tag>
+    <English>Abraham Duquesne</English>
+    <French>Abraham Duquesne</French>
+    <German>Abraham Duquesne</German>
+    <Italian>Abraham Duquesne</Italian>
+    <Spanish>Abraham Duquesne</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_FLACOURT</Tag>
+    <English>Pierre Le Bret de Flacourt</English>
+    <French>Pierre Le Bret de Flacourt</French>
+    <German>Pierre Le Bret de Flacourt</German>
+    <Italian>Pierre Le Bret de Flacourt</Italian>
+    <Spanish>Pierre Le Bret de Flacourt</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_ROUX</Tag>
+    <English>Louis Le Roux</English>
+    <French>Louis Le Roux</French>
+    <German>Louis Le Roux</German>
+    <Italian>Louis Le Roux</Italian>
+    <Spanish>Louis Le Roux</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_FR_COSTENTIN</Tag>
+    <English>Anne Hilarion de Costentin</English>
+    <French>Anne Hilarion de Costentin</French>
+    <German>Anne Hilarion de Costentin</German>
+    <Italian>Anne Hilarion de Costentin</Italian>
+    <Spanish>Anne Hilarion de Costentin</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_SAUNDERS</Tag>
+    <English>Charles Saunders</English>
+    <French>Charles Saunders</French>
+    <German>Charles Saunders</German>
+    <Italian>Charles Saunders</Italian>
+    <Spanish>Charles Saunders</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_ROWLEY</Tag>
+    <English>Sir William Rowley</English>
+    <French>Sir William Rowley</French>
+    <German>Sir William Rowley</German>
+    <Italian>Sir William Rowley</Italian>
+    <Spanish>Sir William Rowley</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_OSBORN</Tag>
+    <English>Henry Osborn</English>
+    <French>Henry Osborn</French>
+    <German>Henry Osborn</German>
+    <Italian>Henry Osborn</Italian>
+    <Spanish>Henry Osborn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_ASHBY</Tag>
+    <English>Sir John Ashby</English>
+    <French>Sir John Ashby</French>
+    <German>Sir John Ashby</German>
+    <Italian>Sir John Ashby</Italian>
+    <Spanish>Sir John Ashby</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_HOWARD1</Tag>
+    <English>Charles Howard</English>
+    <French>Charles Howard</French>
+    <German>Charles Howard</German>
+    <Italian>Charles Howard</Italian>
+    <Spanish>Charles Howard</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_RODNEY</Tag>
+    <English>George Brydges Rodney</English>
+    <French>George Brydges Rodney</French>
+    <German>George Brydges Rodney</German>
+    <Italian>George Brydges Rodney</Italian>
+    <Spanish>George Brydges Rodney</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_TEDDIMAN</Tag>
+    <English>Thomas Teddiman</English>
+    <French>Thomas Teddiman</French>
+    <German>Thomas Teddiman</German>
+    <Italian>Thomas Teddiman</Italian>
+    <Spanish>Thomas Teddiman</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_BERKELEY</Tag>
+    <English>James Berkeley</English>
+    <French>James Berkeley</French>
+    <German>James Berkeley</German>
+    <Italian>James Berkeley</Italian>
+    <Spanish>James Berkeley</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_PENN</Tag>
+    <English>William Penn</English>
+    <French>William Penn</French>
+    <German>William Penn</German>
+    <Italian>William Penn</Italian>
+    <Spanish>William Penn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_VENABLES</Tag>
+    <English>Robert Venables</English>
+    <French>Robert Venables</French>
+    <German>Robert Venables</German>
+    <Italian>Robert Venables</Italian>
+    <Spanish>Robert Venables</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_BLAKE</Tag>
+    <English>Robert Blake</English>
+    <French>Robert Blake</French>
+    <German>Robert Blake</German>
+    <Italian>Robert Blake</Italian>
+    <Spanish>Robert Blake</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_MONTAGU</Tag>
+    <English>Edouard Montagu</English>
+    <French>Edouard Montagu</French>
+    <German>Edouard Montagu</German>
+    <Italian>Edouard Montagu</Italian>
+    <Spanish>Edouard Montagu</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_HOWE</Tag>
+    <English>Richard Howe</English>
+    <French>Richard Howe</French>
+    <German>Richard Howe</German>
+    <Italian>Richard Howe</Italian>
+    <Spanish>Richard Howe</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_RUSSELL</Tag>
+    <English>Edward Russell</English>
+    <French>Edward Russell</French>
+    <German>Edward Russell</German>
+    <Italian>Edward Russell</Italian>
+    <Spanish>Edward Russell</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_NELSON</Tag>
+    <English>Horatio Nelson</English>
+    <French>Horatio Nelson</French>
+    <German>Horatio Nelson</German>
+    <Italian>Horatio Nelson</Italian>
+    <Spanish>Horatio Nelson</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_MONCK</Tag>
+    <English>George Monck</English>
+    <French>George Monck</French>
+    <German>George Monck</German>
+    <Italian>George Monck</Italian>
+    <Spanish>George Monck</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_WALKER</Tag>
+    <English>Hovenden Walker</English>
+    <French>Hovenden Walker</French>
+    <German>Hovenden Walker</German>
+    <Italian>Hovenden Walker</Italian>
+    <Spanish>Hovenden Walker</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_HOWARD2</Tag>
+    <English>Thomas Howard</English>
+    <French>Thomas Howard</French>
+    <German>Thomas Howard</German>
+    <Italian>Thomas Howard</Italian>
+    <Spanish>Thomas Howard</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_ROOKE</Tag>
+    <English>George Rooke</English>
+    <French>George Rooke</French>
+    <German>George Rooke</German>
+    <Italian>George Rooke</Italian>
+    <Spanish>George Rooke</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_GB_VERNON</Tag>
+    <English>Edward Vernon</English>
+    <French>Edward Vernon</French>
+    <German>Edward Vernon</German>
+    <Italian>Edward Vernon</Italian>
+    <Spanish>Edward Vernon</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_PIZARRO</Tag>
+    <English>Jos&#xE9; Alfonso Pizarro</English>
+    <French>Jos&#xE9; Alfonso Pizarro</French>
+    <German>Jos&#xE9; Alfonso Pizarro</German>
+    <Italian>Jos&#xE9; Alfonso Pizarro</Italian>
+    <Spanish>Jos&#xE9; Alfonso Pizarro</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_PEZ</Tag>
+    <English>Andr&#xE9;s de Pez y Malzarraga</English>
+    <French>Andr&#xE9;s de Pez y Malzarraga</French>
+    <German>Andr&#xE9;s de Pez y Malzarraga</German>
+    <Italian>Andr&#xE9;s de Pez y Malzarraga</Italian>
+    <Spanish>Andr&#xE9;s de Pez y Malzarraga</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_IBARRA</Tag>
+    <English>Don Diego de Ibarra</English>
+    <French>Don Diego de Ibarra</French>
+    <German>Don Diego de Ibarra</German>
+    <Italian>Don Diego de Ibarra</Italian>
+    <Spanish>Don Diego de Ibarra</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_BAZAN</Tag>
+    <English>&#xE1;lvaro de Baz&#xE1;n y Guzm&#xE1;n</English>
+    <French>&#xE1;lvaro de Baz&#xE1;n y Guzm&#xE1;n</French>
+    <German>&#xE1;lvaro de Baz&#xE1;n y Guzm&#xE1;n</German>
+    <Italian>&#xE1;lvaro de Baz&#xE1;n y Guzm&#xE1;n</Italian>
+    <Spanish>&#xE1;lvaro de Baz&#xE1;n y Guzm&#xE1;n</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_CORDOVA</Tag>
+    <English>Luis de C&#xF3;rdova</English>
+    <French>Luis de C&#xF3;rdova</French>
+    <German>Luis de C&#xF3;rdova</German>
+    <Italian>Luis de C&#xF3;rdova</Italian>
+    <Spanish>Luis de C&#xF3;rdova</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_VELASCO</Tag>
+    <English>Manuel de Velasco y Tejada</English>
+    <French>Manuel de Velasco y Tejada</French>
+    <German>Manuel de Velasco y Tejada</German>
+    <Italian>Manuel de Velasco y Tejada</Italian>
+    <Spanish>Manuel de Velasco y Tejada</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_GRAVINA</Tag>
+    <English>Federico Carlos Gravina</English>
+    <French>Federico Carlos Gravina</French>
+    <German>Federico Carlos Gravina</German>
+    <Italian>Federico Carlos Gravina</Italian>
+    <Spanish>Federico Carlos Gravina</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_MENENDEZ</Tag>
+    <English>Pedro Men&#xE9;ndez de Avil&#xE9;s</English>
+    <French>Pedro Men&#xE9;ndez de Avil&#xE9;s</French>
+    <German>Pedro Men&#xE9;ndez de Avil&#xE9;s</German>
+    <Italian>Pedro Men&#xE9;ndez de Avil&#xE9;s</Italian>
+    <Spanish>Pedro Men&#xE9;ndez de Avil&#xE9;s</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_GALIANO</Tag>
+    <English>Dionisio Alcal&#xE1; Galiano</English>
+    <French>Dionisio Alcal&#xE1; Galiano</French>
+    <German>Dionisio Alcal&#xE1; Galiano</German>
+    <Italian>Dionisio Alcal&#xE1; Galiano</Italian>
+    <Spanish>Dionisio Alcal&#xE1; Galiano</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_RAMOS</Tag>
+    <English>Jos&#xE9; de C&#xF3;rdoba y Ramos</English>
+    <French>Jos&#xE9; de C&#xF3;rdoba y Ramos</French>
+    <German>Jos&#xE9; de C&#xF3;rdoba y Ramos</German>
+    <Italian>Jos&#xE9; de C&#xF3;rdoba y Ramos</Italian>
+    <Spanish>Jos&#xE9; de C&#xF3;rdoba y Ramos</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_SOLANO</Tag>
+    <English>Jos&#xE9; Solano y Bote</English>
+    <French>Jos&#xE9; Solano y Bote</French>
+    <German>Jos&#xE9; Solano y Bote</German>
+    <Italian>Jos&#xE9; Solano y Bote</Italian>
+    <Spanish>Jos&#xE9; Solano y Bote</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_MAZARREDO</Tag>
+    <English>Jose de Mazarredo y Salazar</English>
+    <French>Jose de Mazarredo y Salazar</French>
+    <German>Jose de Mazarredo y Salazar</German>
+    <Italian>Jose de Mazarredo y Salazar</Italian>
+    <Spanish>Jose de Mazarredo y Salazar</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_OQUENDO1</Tag>
+    <English>Antonio de Oquendo</English>
+    <French>Antonio de Oquendo</French>
+    <German>Antonio de Oquendo</German>
+    <Italian>Antonio de Oquendo</Italian>
+    <Spanish>Antonio de Oquendo</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_TOLEDO</Tag>
+    <English>Fadrique &#xE1;lvarez de Toledo</English>
+    <French>Fadrique &#xE1;lvarez de Toledo</French>
+    <German>Fadrique &#xE1;lvarez de Toledo</German>
+    <Italian>Fadrique &#xE1;lvarez de Toledo</Italian>
+    <Spanish>Fadrique &#xE1;lvarez de Toledo</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_LEZO</Tag>
+    <English>Blas de Lezo</English>
+    <French>Blas de Lezo</French>
+    <German>Blas de Lezo</German>
+    <Italian>Blas de Lezo</Italian>
+    <Spanish>Blas de Lezo</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_HEVIA</Tag>
+    <English>Gutierre de Hevia</English>
+    <French>Gutierre de Hevia</French>
+    <German>Gutierre de Hevia</German>
+    <Italian>Gutierre de Hevia</Italian>
+    <Spanish>Gutierre de Hevia</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_COLAERT</Tag>
+    <English>Jacques Colaert</English>
+    <French>Jacques Colaert</French>
+    <German>Jacques Colaert</German>
+    <Italian>Jacques Colaert</Italian>
+    <Spanish>Jacques Colaert</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_ROMBOUT</Tag>
+    <English>Matthieu Rombout</English>
+    <French>Matthieu Rombout</French>
+    <German>Matthieu Rombout</German>
+    <Italian>Matthieu Rombout</Italian>
+    <Spanish>Matthieu Rombout</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_GUZMAN</Tag>
+    <English>Alonso P&#xE9;rez de Guzm&#xE1;n y Sotomayor</English>
+    <French>Alonso P&#xE9;rez de Guzm&#xE1;n y Sotomayor</French>
+    <German>Alonso P&#xE9;rez de Guzm&#xE1;n y Sotomayor</German>
+    <Italian>Alonso P&#xE9;rez de Guzm&#xE1;n y Sotomayor</Italian>
+    <Spanish>Alonso P&#xE9;rez de Guzm&#xE1;n y Sotomayor</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_PADILLA</Tag>
+    <English>Mart&#xED;n de Padilla</English>
+    <French>Mart&#xED;n de Padilla</French>
+    <German>Mart&#xED;n de Padilla</German>
+    <Italian>Mart&#xED;n de Padilla</Italian>
+    <Spanish>Mart&#xED;n de Padilla</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ESP_OQUENDO</Tag>
+    <English>Miguel de Oquendo</English>
+    <French>Miguel de Oquendo</French>
+    <German>Miguel de Oquendo</German>
+    <Italian>Miguel de Oquendo</Italian>
+    <Spanish>Miguel de Oquendo</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_RUYTER</Tag>
+    <English>Michiel de Ruyter</English>
+    <French>Michiel de Ruyter</French>
+    <German>Michiel de Ruyter</German>
+    <Italian>Michiel de Ruyter</Italian>
+    <Spanish>Michiel de Ruyter</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_TROMP1</Tag>
+    <English>Maarten Tromp</English>
+    <French>Maarten Tromp</French>
+    <German>Maarten Tromp</German>
+    <Italian>Maarten Tromp</Italian>
+    <Spanish>Maarten Tromp</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_TROMP2</Tag>
+    <English>Cornelis Tromp</English>
+    <French>Cornelis Tromp</French>
+    <German>Cornelis Tromp</German>
+    <Italian>Cornelis Tromp</Italian>
+    <Spanish>Cornelis Tromp</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_ORANGE</Tag>
+    <English>Frederik Hendrik van Oranje</English>
+    <French>Frederik Hendrik van Oranje</French>
+    <German>Frederik Hendrik van Oranje</German>
+    <Italian>Frederik Hendrik van Oranje</Italian>
+    <Spanish>Frederik Hendrik van Oranje</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_HEYN</Tag>
+    <English>Piet Heyn</English>
+    <French>Piet Heyn</French>
+    <German>Piet Heyn</German>
+    <Italian>Piet Heyn</Italian>
+    <Spanish>Piet Heyn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_TRAPPEN</Tag>
+    <English>Adriaen van Trappen Banckert</English>
+    <French>Adriaen van Trappen Banckert</French>
+    <German>Adriaen van Trappen Banckert</German>
+    <Italian>Adriaen van Trappen Banckert</Italian>
+    <Spanish>Adriaen van Trappen Banckert</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_BRAKEL</Tag>
+    <English>Jan van Brakel</English>
+    <French>Jan van Brakel</French>
+    <German>Jan van Brakel</German>
+    <Italian>Jan van Brakel</Italian>
+    <Spanish>Jan van Brakel</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_GOES</Tag>
+    <English>Philips van der Goes</English>
+    <French>Philips van der Goes</French>
+    <German>Philips van der Goes</German>
+    <Italian>Philips van der Goes</Italian>
+    <Spanish>Philips van der Goes</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_WASSENAER</Tag>
+    <English>Jacob van Wassenaer Obdam</English>
+    <French>Jacob van Wassenaer Obdam</French>
+    <German>Jacob van Wassenaer Obdam</German>
+    <Italian>Jacob van Wassenaer Obdam</Italian>
+    <Spanish>Jacob van Wassenaer Obdam</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_HIDDES</Tag>
+    <English>Tjerk Hiddes de Vries</English>
+    <French>Tjerk Hiddes de Vries</French>
+    <German>Tjerk Hiddes de Vries</German>
+    <Italian>Tjerk Hiddes de Vries</Italian>
+    <Spanish>Tjerk Hiddes de Vries</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_CALLENBURGH</Tag>
+    <English>Gerard Callenburgh</English>
+    <French>Gerard Callenburgh</French>
+    <German>Gerard Callenburgh</German>
+    <Italian>Gerard Callenburgh</Italian>
+    <Spanish>Gerard Callenburgh</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_HAEN</Tag>
+    <English>Jan den Haen</English>
+    <French>Jan den Haen</French>
+    <German>Jan den Haen</German>
+    <Italian>Jan den Haen</Italian>
+    <Spanish>Jan den Haen</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_SJOERDS</Tag>
+    <English>Hidde Sjoerds de Vries</English>
+    <French>Hidde Sjoerds de Vries</French>
+    <German>Hidde Sjoerds de Vries</German>
+    <Italian>Hidde Sjoerds de Vries</Italian>
+    <Spanish>Hidde Sjoerds de Vries</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_JOL</Tag>
+    <English>Cornelis Jol</English>
+    <French>Cornelis Jol</French>
+    <German>Cornelis Jol</German>
+    <Italian>Cornelis Jol</Italian>
+    <Spanish>Cornelis Jol</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_KORTENAER</Tag>
+    <English>Egbert Bartholomeuszoon Kortenaer</English>
+    <French>Egbert Bartholomeuszoon Kortenaer</French>
+    <German>Egbert Bartholomeuszoon Kortenaer</German>
+    <Italian>Egbert Bartholomeuszoon Kortenaer</Italian>
+    <Spanish>Egbert Bartholomeuszoon Kortenaer</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_WITH</Tag>
+    <English>Witte Corneliszoon de With</English>
+    <French>Witte Corneliszoon de With</French>
+    <German>Witte Corneliszoon de With</German>
+    <Italian>Witte Corneliszoon de With</Italian>
+    <Spanish>Witte Corneliszoon de With</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_BOURGONDIE</Tag>
+    <English>Adolf van Bourgondi&#xEB;</English>
+    <French>Adolf van Bourgondi&#xEB;</French>
+    <German>Adolf van Bourgondi&#xEB;</German>
+    <Italian>Adolf van Bourgondi&#xEB;</Italian>
+    <Spanish>Adolf van Bourgondi&#xEB;</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_BERGEN</Tag>
+    <English>Cornelis van Bergen</English>
+    <French>Cornelis van Bergen</French>
+    <German>Cornelis van Bergen</German>
+    <Italian>Cornelis van Bergen</Italian>
+    <Spanish>Cornelis van Bergen</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_AYLVA</Tag>
+    <English>Hans Willem van Aylva</English>
+    <French>Hans Willem van Aylva</French>
+    <German>Hans Willem van Aylva</German>
+    <Italian>Hans Willem van Aylva</Italian>
+    <Spanish>Hans Willem van Aylva</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_SCHRAM</Tag>
+    <English>Volckert Adriaanszoon Schram</English>
+    <French>Volckert Adriaanszoon Schram</French>
+    <German>Volckert Adriaanszoon Schram</German>
+    <Italian>Volckert Adriaanszoon Schram</Italian>
+    <Spanish>Volckert Adriaanszoon Schram</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_REIJNST</Tag>
+    <English>Jacob Reijnst</English>
+    <French>Jacob Reijnst</French>
+    <German>Jacob Reijnst</German>
+    <Italian>Jacob Reijnst</Italian>
+    <Spanish>Jacob Reijnst</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_GALEN</Tag>
+    <English>Johan van Galen</English>
+    <French>Johan van Galen</French>
+    <German>Johan van Galen</German>
+    <Italian>Johan van Galen</Italian>
+    <Spanish>Johan van Galen</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_HOL_EVERTSEN</Tag>
+    <English>Johan Evertsen</English>
+    <French>Johan Evertsen</French>
+    <German>Johan Evertsen</German>
+    <Italian>Johan Evertsen</Italian>
+    <Spanish>Johan Evertsen</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_BENEVIDES</Tag>
+    <English>Salvador Correia de S&#xE1; e Benevides</English>
+    <French>Salvador Correia de S&#xE1; e Benevides</French>
+    <German>Salvador Correia de S&#xE1; e Benevides</German>
+    <Italian>Salvador Correia de S&#xE1; e Benevides</Italian>
+    <Spanish>Salvador Correia de S&#xE1; e Benevides</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_CASTRO1</Tag>
+    <English>Ant&#xF3;nio Jos&#xE9; de Castro</English>
+    <French>Ant&#xF3;nio Jos&#xE9; de Castro</French>
+    <German>Ant&#xF3;nio Jos&#xE9; de Castro</German>
+    <Italian>Ant&#xF3;nio Jos&#xE9; de Castro</Italian>
+    <Spanish>Ant&#xF3;nio Jos&#xE9; de Castro</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_NORONHA</Tag>
+    <English>Ant&#xF3;nio Manuel de Noronha</English>
+    <French>Ant&#xF3;nio Manuel de Noronha</French>
+    <German>Ant&#xF3;nio Manuel de Noronha</German>
+    <Italian>Ant&#xF3;nio Manuel de Noronha</Italian>
+    <Spanish>Ant&#xF3;nio Manuel de Noronha</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_SALDANHA</Tag>
+    <English>Ant&#xF3;nio de Saldanha</English>
+    <French>Ant&#xF3;nio de Saldanha</French>
+    <German>Ant&#xF3;nio de Saldanha</German>
+    <Italian>Ant&#xF3;nio de Saldanha</Italian>
+    <Spanish>Ant&#xF3;nio de Saldanha</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_LIMA</Tag>
+    <English>Domingos Xavier de Lima</English>
+    <French>Domingos Xavier de Lima</French>
+    <German>Domingos Xavier de Lima</German>
+    <Italian>Domingos Xavier de Lima</Italian>
+    <Spanish>Domingos Xavier de Lima</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_ALMEIDA</Tag>
+    <English>Francisco de Almeida</English>
+    <French>Francisco de Almeida</French>
+    <German>Francisco de Almeida</German>
+    <Italian>Francisco de Almeida</Italian>
+    <Spanish>Francisco de Almeida</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_MENDONCA</Tag>
+    <English>Lopo Furtado de Mendon&#xE7;a</English>
+    <French>Lopo Furtado de Mendon&#xE7;a</French>
+    <German>Lopo Furtado de Mendon&#xE7;a</German>
+    <Italian>Lopo Furtado de Mendon&#xE7;a</Italian>
+    <Spanish>Lopo Furtado de Mendon&#xE7;a</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_MENDES</Tag>
+    <English>Lopo Mendes do Rio</English>
+    <French>Lopo Mendes do Rio</French>
+    <German>Lopo Mendes do Rio</German>
+    <Italian>Lopo Mendes do Rio</Italian>
+    <Spanish>Lopo Mendes do Rio</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_AZEVEDO</Tag>
+    <English>Lopo Vaz de Azevedo</English>
+    <French>Lopo Vaz de Azevedo</French>
+    <German>Lopo Vaz de Azevedo</German>
+    <Italian>Lopo Vaz de Azevedo</Italian>
+    <Spanish>Lopo Vaz de Azevedo</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_CASTRO2</Tag>
+    <English>Jo&#xE3;o Jos&#xE9; de Castro</English>
+    <French>Jo&#xE3;o Jos&#xE9; de Castro</French>
+    <German>Jo&#xE3;o Jos&#xE9; de Castro</German>
+    <Italian>Jo&#xE3;o Jos&#xE9; de Castro</Italian>
+    <Spanish>Jo&#xE3;o Jos&#xE9; de Castro</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_CASTRO3</Tag>
+    <English>Francisco de Castro</English>
+    <French>Francisco de Castro</French>
+    <German>Francisco de Castro</German>
+    <Italian>Francisco de Castro</Italian>
+    <Spanish>Francisco de Castro</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_CASTRO4</Tag>
+    <English>Lu&#xED;s Inoc&#xEA;ncio de Castro</English>
+    <French>Lu&#xED;s Inoc&#xEA;ncio de Castro</French>
+    <German>Lu&#xED;s Inoc&#xEA;ncio de Castro</German>
+    <Italian>Lu&#xED;s Inoc&#xEA;ncio de Castro</Italian>
+    <Spanish>Lu&#xED;s Inoc&#xEA;ncio de Castro</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_MENEZES</Tag>
+    <English>Pedro de Menezes</English>
+    <French>Pedro de Menezes</French>
+    <German>Pedro de Menezes</German>
+    <Italian>Pedro de Menezes</Italian>
+    <Spanish>Pedro de Menezes</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_POR_CUNHA</Tag>
+    <English>Trist&#xE3;o da Cunha</English>
+    <French>Trist&#xE3;o da Cunha</French>
+    <German>Trist&#xE3;o da Cunha</German>
+    <Italian>Trist&#xE3;o da Cunha</Italian>
+    <Spanish>Trist&#xE3;o da Cunha</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_DORIA1</Tag>
+    <English>Lamba Doria</English>
+    <French>Lamba Doria</French>
+    <German>Lamba Doria</German>
+    <Italian>Lamba Doria</Italian>
+    <Spanish>Lamba Doria</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_BOCCANEGRA</Tag>
+    <English>Ambroisio Boccanegra</English>
+    <French>Ambroisio Boccanegra</French>
+    <German>Ambroisio Boccanegra</German>
+    <Italian>Ambroisio Boccanegra</Italian>
+    <Spanish>Ambroisio Boccanegra</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_CARACCIOLO</Tag>
+    <English>Francesco Caracciolo</English>
+    <French>Francesco Caracciolo</French>
+    <German>Francesco Caracciolo</German>
+    <Italian>Francesco Caracciolo</Italian>
+    <Spanish>Francesco Caracciolo</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_COLONNA</Tag>
+    <English>Marcantonio Colonna</English>
+    <French>Marcantonio Colonna</French>
+    <German>Marcantonio Colonna</German>
+    <Italian>Marcantonio Colonna</Italian>
+    <Spanish>Marcantonio Colonna</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_DIEDO</Tag>
+    <English>Alviso Diedo</English>
+    <French>Alviso Diedo</French>
+    <German>Alviso Diedo</German>
+    <Italian>Alviso Diedo</Italian>
+    <Spanish>Alviso Diedo</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_DORIA2</Tag>
+    <English>Giovanni Andrea Doria</English>
+    <French>Giovanni Andrea Doria</French>
+    <German>Giovanni Andrea Doria</German>
+    <Italian>Giovanni Andrea Doria</Italian>
+    <Spanish>Giovanni Andrea Doria</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_LAURIA</Tag>
+    <English>Ruggero di Lauria</English>
+    <French>Ruggero di Lauria</French>
+    <German>Ruggero di Lauria</German>
+    <Italian>Ruggero di Lauria</Italian>
+    <Spanish>Ruggero di Lauria</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_PROVANA</Tag>
+    <English>Andrea II Provana di Leyn&#xEC;</English>
+    <French>Andrea II Provana di Leyn&#xEC;</French>
+    <German>Andrea II Provana di Leyn&#xEC;</German>
+    <Italian>Andrea II Provana di Leyn&#xEC;</Italian>
+    <Spanish>Andrea II Provana di Leyn&#xEC;</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_SANSEVERINO</Tag>
+    <English>Antonello Sanseverino</English>
+    <French>Antonello Sanseverino</French>
+    <German>Antonello Sanseverino</German>
+    <Italian>Antonello Sanseverino</Italian>
+    <Spanish>Antonello Sanseverino</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_TREVISANO</Tag>
+    <English>Gabriele Trevisano</English>
+    <French>Gabriele Trevisano</French>
+    <German>Gabriele Trevisano</German>
+    <Italian>Gabriele Trevisano</Italian>
+    <Spanish>Gabriele Trevisano</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_ZENO</Tag>
+    <English>Carlo Zeno</English>
+    <French>Carlo Zeno</French>
+    <German>Carlo Zeno</German>
+    <Italian>Carlo Zeno</Italian>
+    <Spanish>Carlo Zeno</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_PAPACHINO</Tag>
+    <English>Onorato Bonifazio Papachino</English>
+    <French>Onorato Bonifazio Papachino</French>
+    <German>Onorato Bonifazio Papachino</German>
+    <Italian>Onorato Bonifazio Papachino</Italian>
+    <Spanish>Onorato Bonifazio Papachino</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_ADMIRAL_ITA_STROZZI</Tag>
+    <English>Leone Strozzi</English>
+    <French>Leone Strozzi</French>
+    <German>Leone Strozzi</German>
+    <Italian>Leone Strozzi</Italian>
+    <Spanish>Leone Strozzi</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_DONNACONA</Tag>
+    <English>Donnacona</English>
+    <French>Donnacona</French>
+    <German>Donnacona</German>
+    <Italian>Donnacona</Italian>
+    <Spanish>Donnacona</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_AUITZOTL</Tag>
+    <English>Auitzotl</English>
+    <French>Auitzotl</French>
+    <German>Auitzotl</German>
+    <Italian>Auitzotl</Italian>
+    <Spanish>Auitzotl</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_TANACHARISON</Tag>
+    <English>Tanacharison</English>
+    <French>Tanacharison</French>
+    <German>Tanacharison</German>
+    <Italian>Tanacharison</Italian>
+    <Spanish>Tanacharison</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_PONTIAC</Tag>
+    <English>Obwandiyag</English>
+    <French>Obwandiyag</French>
+    <German>Obwandiyag</German>
+    <Italian>Obwandiyag</Italian>
+    <Spanish>Obwandiyag</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_BLACKHAWK</Tag>
+    <English>Makataimeshekiakiak</English>
+    <French>Makataimeshekiakiak</French>
+    <German>Makataimeshekiakiak</German>
+    <Italian>Makataimeshekiakiak</Italian>
+    <Spanish>Makataimeshekiakiak</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_SEATTLE</Tag>
+    <English>Seattle</English>
+    <French>Seattle</French>
+    <German>Seattle</German>
+    <Italian>Seattle</Italian>
+    <Spanish>Seattle</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_COCHISE</Tag>
+    <English>K'uu-ch'ish</English>
+    <French>K'uu-ch'ish</French>
+    <German>K'uu-ch'ish</German>
+    <Italian>K'uu-ch'ish</Italian>
+    <Spanish>K'uu-ch'ish</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_GALL</Tag>
+    <English>Pizi</English>
+    <French>Pizi</French>
+    <German>Pizi</German>
+    <Italian>Pizi</Italian>
+    <Spanish>Pizi</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_OITI</Tag>
+    <English>Oiti</English>
+    <French>Oiti</French>
+    <German>Oiti</German>
+    <Italian>Oiti</Italian>
+    <Spanish>Oiti</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_DULLKNIFE</Tag>
+    <English>Tam&#xED;lap&#xE9;sni</English>
+    <French>Tam&#xED;lap&#xE9;sni</French>
+    <German>Tam&#xED;lap&#xE9;sni</German>
+    <Italian>Tam&#xED;lap&#xE9;sni</Italian>
+    <Spanish>Tam&#xED;lap&#xE9;sni</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_CRAZYHORSE</Tag>
+    <English>Thasunka Witko</English>
+    <French>Thasunka Witko</French>
+    <German>Thasunka Witko</German>
+    <Italian>Thasunka Witko</Italian>
+    <Spanish>Thasunka Witko</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_BIGBEAR</Tag>
+    <English>Mistahimaskwa</English>
+    <French>Mistahimaskwa</French>
+    <German>Mistahimaskwa</German>
+    <Italian>Mistahimaskwa</Italian>
+    <Spanish>Mistahimaskwa</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_SITTINGBULL</Tag>
+    <English>Tatanka Yotanka</English>
+    <French>Tatanka Yotanka</French>
+    <German>Tatanka Yotanka</German>
+    <Italian>Tatanka Yotanka</Italian>
+    <Spanish>Tatanka Yotanka</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_BIGFOOT</Tag>
+    <English>Si Thanka</English>
+    <French>Si Thanka</French>
+    <German>Si Thanka</German>
+    <Italian>Si Thanka</Italian>
+    <Spanish>Si Thanka</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_REDCLOUD</Tag>
+    <English>Mahp&#xED;ya L&#xFA;ta</English>
+    <French>Mahp&#xED;ya L&#xFA;ta</French>
+    <German>Mahp&#xED;ya L&#xFA;ta</German>
+    <Italian>Mahp&#xED;ya L&#xFA;ta</Italian>
+    <Spanish>Mahp&#xED;ya L&#xFA;ta</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_JOSEPH</Tag>
+    <English>Hinmat&#xF3;owyalahtqit</English>
+    <French>Hinmat&#xF3;owyalahtqit</French>
+    <German>Hinmat&#xF3;owyalahtqit</German>
+    <Italian>Hinmat&#xF3;owyalahtqit</Italian>
+    <Spanish>Hinmat&#xF3;owyalahtqit</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_GERONIMO</Tag>
+    <English>Go Khla Yeh</English>
+    <French>Go Khla Yeh</French>
+    <German>Go Khla Yeh</German>
+    <Italian>Go Khla Yeh</Italian>
+    <Spanish>Go Khla Yeh</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_BLACKKETTLE</Tag>
+    <English>Moke'tav'a'to</English>
+    <French>Moke'tav'a'to</French>
+    <German>Moke'tav'a'to</German>
+    <Italian>Moke'tav'a'to</Italian>
+    <Spanish>Moke'tav'a'to</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_CROWFOOT</Tag>
+    <English>Issap&#xF3;&#xF3;mahksika</English>
+    <French>Issap&#xF3;&#xF3;mahksika</French>
+    <German>Issap&#xF3;&#xF3;mahksika</German>
+    <Italian>Issap&#xF3;&#xF3;mahksika</Italian>
+    <Spanish>Issap&#xF3;&#xF3;mahksika</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_RAININTHEFACE</Tag>
+    <English>Iromagaja</English>
+    <French>Iromagaja</French>
+    <German>Iromagaja</German>
+    <Italian>Iromagaja</Italian>
+    <Spanish>Iromagaja</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_PETALESHARRO</Tag>
+    <English>Petalesharro</English>
+    <French>Petalesharro</French>
+    <German>Petalesharro</German>
+    <Italian>Petalesharro</Italian>
+    <Spanish>Petalesharro</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_TWOMOONS</Tag>
+    <English>Ishaynishus</English>
+    <French>Ishaynishus</French>
+    <German>Ishaynishus</German>
+    <Italian>Ishaynishus</Italian>
+    <Spanish>Ishaynishus</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_LITTLEWOLF</Tag>
+    <English>&#xF3;'k&#xF4;h&#xF3;m&#xF4;xh&#xE1;ahketa</English>
+    <French>&#xF3;'k&#xF4;h&#xF3;m&#xF4;xh&#xE1;ahketa</French>
+    <German>&#xF3;'k&#xF4;h&#xF3;m&#xF4;xh&#xE1;ahketa</German>
+    <Italian>&#xF3;'k&#xF4;h&#xF3;m&#xF4;xh&#xE1;ahketa</Italian>
+    <Spanish>&#xF3;'k&#xF4;h&#xF3;m&#xF4;xh&#xE1;ahketa</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_SITTINGBEAR</Tag>
+    <English>Set-ankeah</English>
+    <French>Set-ankeah</French>
+    <German>Set-ankeah</German>
+    <Italian>Set-ankeah</Italian>
+    <Spanish>Set-ankeah</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_GREAT_CHIEF_CROWKING</Tag>
+    <English>K h ang&#xED; Y&#xE1;tapi</English>
+    <French>K h ang&#xED; Y&#xE1;tapi</French>
+    <German>K h ang&#xED; Y&#xE1;tapi</German>
+    <Italian>K h ang&#xED; Y&#xE1;tapi</Italian>
+    <Spanish>K h ang&#xED; Y&#xE1;tapi</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_BLACKBEARD</Tag>
+    <English>Edward Teach "Blackbeard"</English>
+    <French>Edward Teach "Blackbeard"</French>
+    <German>Edward Teach "Blackbeard"</German>
+    <Italian>Edward Teach "Blackbeard"</Italian>
+    <Spanish>Edward Teach "Blackbeard"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_BROWN</Tag>
+    <English>Nicholas Brown</English>
+    <French>Nicholas Brown</French>
+    <German>Nicholas Brown</German>
+    <Italian>Nicholas Brown</Italian>
+    <Spanish>Nicholas Brown</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_BONNY</Tag>
+    <English>Anne Bonny</English>
+    <French>Anne Bonny</French>
+    <German>Anne Bonny</German>
+    <Italian>Anne Bonny</Italian>
+    <Spanish>Anne Bonny</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_SURCOUF</Tag>
+    <English>Robert Surcouf "Bloody pervert"</English>
+    <French>Robert Surcouf "Bloody pervert"</French>
+    <German>Robert Surcouf "Bloody pervert"</German>
+    <Italian>Robert Surcouf "Bloody pervert"</Italian>
+    <Spanish>Robert Surcouf "Bloody pervert"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_LOW</Tag>
+    <English>Edward Low</English>
+    <French>Edward Low</French>
+    <German>Edward Low</German>
+    <Italian>Edward Low</Italian>
+    <Spanish>Edward Low</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_RACKHAM</Tag>
+    <English>Jack Rackham "Calico Jack"</English>
+    <French>Jack Rackham "Calico Jack"</French>
+    <German>Jack Rackham "Calico Jack"</German>
+    <Italian>Jack Rackham "Calico Jack"</Italian>
+    <Spanish>Jack Rackham "Calico Jack"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_READ</Tag>
+    <English>Mary Read</English>
+    <French>Mary Read</French>
+    <German>Mary Read</German>
+    <Italian>Mary Read</Italian>
+    <Spanish>Mary Read</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_QUELCH</Tag>
+    <English>John Quelch</English>
+    <French>John Quelch</French>
+    <German>John Quelch</German>
+    <Italian>John Quelch</Italian>
+    <Spanish>John Quelch</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_KIDD</Tag>
+    <English>Captain William Kidd</English>
+    <French>Capitaine William Kidd</French>
+    <German>Captain William Kidd</German>
+    <Italian>Captain William Kidd</Italian>
+    <Spanish>Captain William Kidd</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_BELLAMY</Tag>
+    <English>Samuel Bellamy "Black Sam"</English>
+    <French>Samuel Bellamy "Black Sam"</French>
+    <German>Samuel Bellamy "Black Sam"</German>
+    <Italian>Samuel Bellamy "Black Sam"</Italian>
+    <Spanish>Samuel Bellamy "Black Sam"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_ROBERTS</Tag>
+    <English>Bartholomew Roberts "Black Bart"</English>
+    <French>Bartholomew Roberts "Black Bart"</French>
+    <German>Bartholomew Roberts "Black Bart"</German>
+    <Italian>Bartholomew Roberts "Black Bart"</Italian>
+    <Spanish>Bartholomew Roberts "Black Bart"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_ANSTIS</Tag>
+    <English>Thomas Anstis</English>
+    <French>Thomas Anstis</French>
+    <German>Thomas Anstis</German>
+    <Italian>Thomas Anstis</Italian>
+    <Spanish>Thomas Anstis</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_MORGAN</Tag>
+    <English>Henry Morgan</English>
+    <French>Henry Morgan</French>
+    <German>Henry Morgan</German>
+    <Italian>Henry Morgan</Italian>
+    <Spanish>Henry Morgan</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_BRASILIANO</Tag>
+    <English>Roche Braziliano</English>
+    <French>Roche Braziliano</French>
+    <German>Roche Braziliano</German>
+    <Italian>Roche Braziliano</Italian>
+    <Spanish>Roche Braziliano</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_NAU</Tag>
+    <English>Jean-David Nau "l'Olonnais"</English>
+    <French>Jean-David Nau "l'Olonnais"</French>
+    <German>Jean-David Nau "l'Olonnais"</German>
+    <Italian>Jean-David Nau "l'Olonnais"</Italian>
+    <Spanish>Jean-David Nau "l'Olonnais"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_DRAKE</Tag>
+    <English>Francis Drake "El Draque"</English>
+    <French>Francis Drake "El Draque"</French>
+    <German>Francis Drake "El Draque"</German>
+    <Italian>Francis Drake "El Draque"</Italian>
+    <Spanish>Francis Drake "El Draque"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_DE_CORDES</Tag>
+    <English>Baltazar de Cordes</English>
+    <French>Baltazar de Cordes</French>
+    <German>Baltazar de Cordes</German>
+    <Italian>Baltazar de Cordes</Italian>
+    <Spanish>Baltazar de Cordes</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_DE_SORES</Tag>
+    <English>Jacques de Sores</English>
+    <French>Jacques de Sores</French>
+    <German>Jacques de Sores</German>
+    <Italian>Jacques de Sores</Italian>
+    <Spanish>Jacques de Sores</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_COXON</Tag>
+    <English>John Coxon</English>
+    <French>John Coxon</French>
+    <German>John Coxon</German>
+    <Italian>John Coxon</Italian>
+    <Spanish>John Coxon</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_SILVER</Tag>
+    <English>Long John Silver</English>
+    <French>Long John Silver</French>
+    <German>Long John Silver</German>
+    <Italian>Long John Silver</Italian>
+    <Spanish>Long John Silver</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_MONBARS</Tag>
+    <English>Daniel Monbars "l'Exterminateur"</English>
+    <French>Daniel Monbars "l'Exterminateur"</French>
+    <German>Daniel Monbars "l'Exterminateur"</German>
+    <Italian>Daniel Monbars "l'Exterminateur"</Italian>
+    <Spanish>Daniel Monbars "l'Exterminateur"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_FLY</Tag>
+    <English>Captain William Fly</English>
+    <French>Captain William Fly</French>
+    <German>Captain William Fly</German>
+    <Italian>Captain William Fly</Italian>
+    <Spanish>Captain William Fly</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_SHARP</Tag>
+    <English>Bartholomew Sharp</English>
+    <French>Bartholomew Sharp</French>
+    <German>Bartholomew Sharp</German>
+    <Italian>Bartholomew Sharp</Italian>
+    <Spanish>Bartholomew Sharp</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_SAWKINS</Tag>
+    <English>Richard Sawkins</English>
+    <French>Richard Sawkins</French>
+    <German>Richard Sawkins</German>
+    <Italian>Richard Sawkins</Italian>
+    <Spanish>Richard Sawkins</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_RAS</Tag>
+    <English>Philip Ras</English>
+    <French>Philip Ras</French>
+    <German>Philip Ras</German>
+    <Italian>Philip Ras</Italian>
+    <Spanish>Philip Ras</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_PORTUGUES</Tag>
+    <English>Bartolomeo Portugu&#xEA;s</English>
+    <French>Bartolomeo Portugu&#xEA;s</French>
+    <German>Bartolomeo Portugu&#xEA;s</German>
+    <Italian>Bartolomeo Portugu&#xEA;s</Italian>
+    <Spanish>Bartolomeo Portugu&#xEA;s</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_CAVENDISH</Tag>
+    <English>Thomas Cavendish "le Navigateur"</English>
+    <French>Thomas Cavendish "le Navigateur"</French>
+    <German>Thomas Cavendish "le Navigateur"</German>
+    <Italian>Thomas Cavendish "le Navigateur"</Italian>
+    <Spanish>Thomas Cavendish "le Navigateur"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_VAN_NOORT</Tag>
+    <English>Olivier van Noort</English>
+    <French>Olivier van Noort</French>
+    <German>Olivier van Noort</German>
+    <Italian>Olivier van Noort</Italian>
+    <Spanish>Olivier van Noort</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_DE_BERRY</Tag>
+    <English>Charlotte de Berry</English>
+    <French>Charlotte de Berry</French>
+    <German>Charlotte de Berry</German>
+    <Italian>Charlotte de Berry</Italian>
+    <Spanish>Charlotte de Berry</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_TAVERNIER</Tag>
+    <English>Jacques Tavernier "Le Lyonnais"</English>
+    <French>Jacques Tavernier "Le Lyonnais"</French>
+    <German>Jacques Tavernier "Le Lyonnais"</German>
+    <Italian>Jacques Tavernier "Le Lyonnais"</Italian>
+    <Spanish>Jacques Tavernier "Le Lyonnais"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_WYNN</Tag>
+    <English>Emanuel Wynn</English>
+    <French>Emanuel Wynn</French>
+    <German>Emanuel Wynn</German>
+    <Italian>Emanuel Wynn</Italian>
+    <Spanish>Emanuel Wynn</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_WORLEY</Tag>
+    <English>Richard Worley</English>
+    <French>Richard Worley</French>
+    <German>Richard Worley</German>
+    <Italian>Richard Worley</Italian>
+    <Spanish>Richard Worley</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_VANE</Tag>
+    <English>Charles Vane</English>
+    <French>Charles Vane</French>
+    <German>Charles Vane</German>
+    <Italian>Charles Vane</Italian>
+    <Spanish>Charles Vane</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_MOODY</Tag>
+    <English>Christopher Moody</English>
+    <French>Christopher Moody</French>
+    <German>Christopher Moody</German>
+    <Italian>Christopher Moody</Italian>
+    <Spanish>Christopher Moody</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_LOWTHER</Tag>
+    <English>George Lowther</English>
+    <French>George Lowther</French>
+    <German>George Lowther</German>
+    <Italian>George Lowther</Italian>
+    <Spanish>George Lowther</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_HORNIGOLD</Tag>
+    <English>Benjamin Hornigold</English>
+    <French>Benjamin Hornigold</French>
+    <German>Benjamin Hornigold</German>
+    <Italian>Benjamin Hornigold</Italian>
+    <Spanish>Benjamin Hornigold</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_ENGLAND</Tag>
+    <English>Edward England</English>
+    <French>Edward England</French>
+    <German>Edward England</German>
+    <Italian>Edward England</Italian>
+    <Spanish>Edward England</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_CULLIFORD</Tag>
+    <English>Robert Culliford</English>
+    <French>Robert Culliford</French>
+    <German>Robert Culliford</German>
+    <Italian>Robert Culliford</Italian>
+    <Spanish>Robert Culliford</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_BONNET</Tag>
+    <English>Major Stede Bonnet "the Gentleman Pirate"</English>
+    <French>Major Stede Bonnet "the Gentleman Pirate"</French>
+    <German>Major Stede Bonnet "the Gentleman Pirate"</German>
+    <Italian>Major Stede Bonnet "the Gentleman Pirate"</Italian>
+    <Spanish>Major Stede Bonnet "the Gentleman Pirate"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_MONTAUBAN</Tag>
+    <English>Captain Montauban</English>
+    <French>Captain Montauban</French>
+    <German>Captain Montauban</German>
+    <Italian>Captain Montauban</Italian>
+    <Spanish>Captain Montauban</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_LUSSAC</Tag>
+    <English>Eline De Lussac</English>
+    <French>Eline De Lussac</French>
+    <German>Eline De Lussac</German>
+    <Italian>Eline De Lussac</Italian>
+    <Spanish>Eline De Lussac</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_HENRIQUEZ</Tag>
+    <English>Miguel Henr&#xED;quez</English>
+    <French>Miguel Henr&#xED;quez</French>
+    <German>Miguel Henr&#xED;quez</German>
+    <Italian>Miguel Henr&#xED;quez</Italian>
+    <Spanish>Miguel Henr&#xED;quez</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_EASTON</Tag>
+    <English>Peter Easton</English>
+    <French>Peter Easton</French>
+    <German>Peter Easton</German>
+    <Italian>Peter Easton</Italian>
+    <Spanish>Peter Easton</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_MANSVELDT</Tag>
+    <English>Edward Mansveldt</English>
+    <French>Edward Mansveldt</French>
+    <German>Edward Mansveldt</German>
+    <Italian>Edward Mansveldt</Italian>
+    <Spanish>Edward Mansveldt</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_VASSEUR</Tag>
+    <English>Olivier Le Vasseur "La Buse"</English>
+    <French>Olivier Le Vasseur "La Buse"</French>
+    <German>Olivier Le Vasseur "La Buse"</German>
+    <Italian>Olivier Le Vasseur "La Buse"</Italian>
+    <Spanish>Olivier Le Vasseur "La Buse"</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_PIRATE_TAYLOR</Tag>
+    <English>John Taylor</English>
+    <French>John Taylor</French>
+    <German>John Taylor</German>
+    <Italian>John Taylor</Italian>
+    <Spanish>John Taylor</Spanish>
+  </TEXT>
+</Civ4GameText>

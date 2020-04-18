@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_INTERFACE_ACHIEVE_ADVISOR</Tag>
+		<English>[COLOR_CYAN]Achievement Advisor[COLOR_REVERT] [COLOR_GREEN]%s1_ModKey[COLOR_REVERT]</English>
+		<French>[COLOR_CYAN]Achievement Advisor[COLOR_REVERT] [COLOR_GREEN]%s1_ModKey[COLOR_REVERT]</French>
+		<German>[COLOR_CYAN]Achievement Advisor[COLOR_REVERT] [COLOR_GREEN]%s1_ModKey[COLOR_REVERT]</German>
+		<Italian>[COLOR_CYAN]Achievement Advisor[COLOR_REVERT] [COLOR_GREEN]%s1_ModKey[COLOR_REVERT]</Italian>
+		<Spanish>[COLOR_CYAN]Achievement Advisor[COLOR_REVERT] [COLOR_GREEN]%s1_ModKey[COLOR_REVERT]</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_ADVISOR_TITLE</Tag>
+		<English>Achievement Advisor</English>
+		<French>Achievement Advisor</French>
+		<German>Achievement Advisor</German>
+		<Italian>Achievement Advisor</Italian>
+		<Spanish>Achievement Advisor</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVES</Tag>
+		<English>%s1 - %d2 [NUM2:Achievement:Achievements] / 47</English>
+		<French>%s1 - %d2 [NUM2:Achievement:Achievements] / 47</French>
+		<German>%s1 - %d2 [NUM2:Achievement:Achievements] / 47</German>
+		<Italian>%s1 - %d2 [NUM2:Achievement:Achievements] / 47</Italian>
+		<Spanish>%s1 - %d2 [NUM2:Achievement:Achievements] / 47</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_DEFAULT</Tag>
+		<English>Default Achievement</English>
+		<French>Default Achievement</French>
+		<German>Default Achievement</German>
+		<Italian>Default Achievement</Italian>
+		<Spanish>Default Achievement</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_DEFAULT_HEAD</Tag>
+		<English>Default Achievement Head</English>
+		<French>Default Achievement Head</French>
+		<German>Default Achievement Head</German>
+		<Italian>Default Achievement Head</Italian>
+		<Spanish>Default Achievement Head</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_DEFAULT_TEXT</Tag>
+		<English>Default Achievement Text</English>
+		<French>Default Achievement Text</French>
+		<German>Default Achievement Text</German>
+		<Italian>Default Achievement Text</Italian>
+		<Spanish>Default Achievement Text</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_PACIFIC</Tag>
+		<English>Discovered Pacific</English>
+		<French>Discovered Pacific</French>
+		<German>Discovered Pacific</German>
+		<Italian>Discovered Pacific</Italian>
+		<Spanish>Discovered Pacific</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_PACIFIC_HEAD</Tag>
+		<English>You have discovered the Pacific</English>
+		<French>You have discovered the Pacific</French>
+		<German>You have discovered the Pacific</German>
+		<Italian>You have discovered the Pacific</Italian>
+		<Spanish>You have discovered the Pacific</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_ATLANTIC</Tag>
+		<English>Discovered Atlantic</English>
+		<French>Discovered Atlantic</French>
+		<German>Discovered Atlantic</German>
+		<Italian>Discovered Atlantic</Italian>
+		<Spanish>Discovered Atlantic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_ATLANTIC_HEAD</Tag>
+		<English>You have discovered the Atlantic</English>
+		<French>You have discovered the Atlantic</French>
+		<German>You have discovered the Atlantic</German>
+		<Italian>You have discovered the Atlantic</Italian>
+		<Spanish>You have discovered the Atlantic</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_LANDFALL</Tag>
+		<English>Found the New World</English>
+		<French>Found the New World</French>
+		<German>Found the New World</German>
+		<Italian>Found the New World</Italian>
+		<Spanish>Found the New World</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_LANDFALL_HEAD</Tag>
+		<English>You have discovered the New World</English>
+		<French>You have discovered the New World</French>
+		<German>You have discovered the New World</German>
+		<Italian>You have discovered the New World</Italian>
+		<Spanish>You have discovered the New World</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FOUNDING</Tag>
+		<English>Founded a Colony</English>
+		<French>Founded a Colony</French>
+		<German>Founded a Colony</German>
+		<Italian>Founded a Colony</Italian>
+		<Spanish>Founded a Colony</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FOUNDING_HEAD</Tag>
+		<English>You have settled in the New World</English>
+		<French>You have settled in the New World</French>
+		<German>You have settled in the New World</German>
+		<Italian>You have settled in the New World</Italian>
+		<Spanish>You have settled in the New World</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIVE_COLONIES</Tag>
+		<English>Founded fifth Colony</English>
+		<French>Founded fifth Colony</French>
+		<German>Founded fifth Colony</German>
+		<Italian>Founded fifth Colony</Italian>
+		<Spanish>Founded fifth Colony</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIVE_COLONIES_HEAD</Tag>
+		<English>You have five settlements in the New World</English>
+		<French>You have five settlements in the New World</French>
+		<German>You have five settlements in the New World</German>
+		<Italian>You have five settlements in the New World</Italian>
+		<Spanish>You have five settlements in the New World</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTEEN_COLONIES</Tag>
+		<English>Founded fifteenth Colony</English>
+		<French>Founded fifteenth Colony</French>
+		<German>Founded fifteenth Colony</German>
+		<Italian>Founded fifteenth Colony</Italian>
+		<Spanish>Founded fifteenth Colony</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTEEN_COLONIES_HEAD</Tag>
+		<English>You have fifteen settlements in the New World</English>
+		<French>You have fifteen settlements in the New World</French>
+		<German>You have fifteen settlements in the New World</German>
+		<Italian>You have fifteen settlements in the New World</Italian>
+		<Spanish>You have fifteen settlements in the New World</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_CHURCH</Tag>
+		<English>Built first Church</English>
+		<French>Built first Church</French>
+		<German>Built first Church</German>
+		<Italian>Built first Church</Italian>
+		<Spanish>Built first Church</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_CHURCH_HEAD</Tag>
+		<English>You have built your first church</English>
+		<French>You have built your first church</French>
+		<German>You have built your first church</German>
+		<Italian>You have built your first church</Italian>
+		<Spanish>You have built your first church</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIVE_CHURCH</Tag>
+		<English>Built fifth Church</English>
+		<French>Built fifth Church</French>
+		<German>Built fifth Church</German>
+		<Italian>Built fifth Church</Italian>
+		<Spanish>Built fifth Church</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIVE_CHURCH_HEAD</Tag>
+		<English>You have built your fifth church</English>
+		<French>You have built your fifth church</French>
+		<German>You have built your fifth church</German>
+		<Italian>You have built your fifth church</Italian>
+		<Spanish>You have built your fifth church</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTEEN_CHURCH</Tag>
+		<English>Built fifteenth Church</English>
+		<French>Built fifteenth Church</French>
+		<German>Built fifteenth Church</German>
+		<Italian>Built fifteenth Church</Italian>
+		<Spanish>Built fifteenth Church</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTEEN_CHURCH_HEAD</Tag>
+		<English>You have built your fifteenth church</English>
+		<French>You have built your fifteenth church</French>
+		<German>You have built your fifteenth church</German>
+		<Italian>You have built your fifteenth church</Italian>
+		<Spanish>You have built your fifteenth church</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_STOCKADE</Tag>
+		<English>Built first Stockade</English>
+		<French>Built first Stockade</French>
+		<German>Built first Stockade</German>
+		<Italian>Built first Stockade</Italian>
+		<Spanish>Built first Stockade</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_STOCKADE_HEAD</Tag>
+		<English>You have built your first stockade</English>
+		<French>You have built your first stockade</French>
+		<German>You have built your first stockade</German>
+		<Italian>You have built your first stockade</Italian>
+		<Spanish>You have built your first stockade</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIVE_STOCKADE</Tag>
+		<English>Built fifth Stockade</English>
+		<French>Built fifth Stockade</French>
+		<German>Built fifth Stockade</German>
+		<Italian>Built fifth Stockade</Italian>
+		<Spanish>Built fifth Stockade</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIVE_STOCKADE_HEAD</Tag>
+		<English>You have built your fifth stockade</English>
+		<French>You have built your fifth stockade</French>
+		<German>You have built your fifth stockade</German>
+		<Italian>You have built your fifth stockade</Italian>
+		<Spanish>You have built your fifth stockade</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTEEN_STOCKADE</Tag>
+		<English>Built fifteenth Stockade</English>
+		<French>Built fifteenth Stockade</French>
+		<German>Built fifteenth Stockade</German>
+		<Italian>Built fifteenth Stockade</Italian>
+		<Spanish>Built fifteenth Stockade</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTEEN_STOCKADE_HEAD</Tag>
+		<English>You have built your fifteenth stockade</English>
+		<French>You have built your fifteenth stockade</French>
+		<German>You have built your fifteenth stockade</German>
+		<Italian>You have built your fifteenth stockade</Italian>
+		<Spanish>You have built your fifteenth stockade</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_VETERAN</Tag>
+		<English>First Veteran</English>
+		<French>First Veteran</French>
+		<German>First Veteran</German>
+		<Italian>First Veteran</Italian>
+		<Spanish>First Veteran</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_VETERAN_HEAD</Tag>
+		<English>You have your first veteran</English>
+		<French>You have your first veteran</French>
+		<German>You have your first veteran</German>
+		<Italian>You have your first veteran</Italian>
+		<Spanish>You have your first veteran</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TWENTYFIVE_VETERAN</Tag>
+		<English>Twenty fifth Veteran</English>
+		<French>Twenty fifth Veteran</French>
+		<German>Twenty fifth Veteran</German>
+		<Italian>Twenty fifth Veteran</Italian>
+		<Spanish>Twenty fifth Veteran</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TWENTYFIVE_VETERAN_HEAD</Tag>
+		<English>You have your twenty fifth veteran</English>
+		<French>You have your twenty fifth veteran</French>
+		<German>You have your twenty fifth veteran</German>
+		<Italian>You have your twenty fifth veteran</Italian>
+		<Spanish>You have your twenty fifth veteran</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_VETERAN</Tag>
+		<English>Fiftieth Veteran</English>
+		<French>Fiftieth Veteran</French>
+		<German>Fiftieth Veteran</German>
+		<Italian>Fiftieth Veteran</Italian>
+		<Spanish>Fiftieth Veteran</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_VETERAN_HEAD</Tag>
+		<English>You have your fiftieth veteran</English>
+		<French>You have your fiftieth veteran</French>
+		<German>You have your fiftieth veteran</German>
+		<Italian>You have your fiftieth veteran</Italian>
+		<Spanish>You have your fiftieth veteran</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_SOLDIER</Tag>
+		<English>First Soldier</English>
+		<French>First Soldier</French>
+		<German>First Soldier</German>
+		<Italian>First Soldier</Italian>
+		<Spanish>First Soldier</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_SOLDIER_HEAD</Tag>
+		<English>You have your first soldier</English>
+		<French>You have your first soldier</French>
+		<German>You have your first soldier</German>
+		<Italian>You have your first soldier</Italian>
+		<Spanish>You have your first soldier</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_SOLDIER</Tag>
+		<English>Fiftieth Soldier</English>
+		<French>Fiftieth Soldier</French>
+		<German>Fiftieth Soldier</German>
+		<Italian>Fiftieth Soldier</Italian>
+		<Spanish>Fiftieth Soldier</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_SOLDIER_HEAD</Tag>
+		<English>You have your fiftieth soldier</English>
+		<French>You have your fiftieth soldier</French>
+		<German>You have your fiftieth soldier</German>
+		<Italian>You have your fiftieth soldier</Italian>
+		<Spanish>You have your fiftieth soldier</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_HUNDRED_SOLDIER</Tag>
+		<English>Hundredth Soldier</English>
+		<French>Hundredth Soldier</French>
+		<German>Hundredth Soldier</German>
+		<Italian>Hundredth Soldier</Italian>
+		<Spanish>Hundredth Soldier</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_HUNDRED_SOLDIER_HEAD</Tag>
+		<English>You have your hundredth soldier</English>
+		<French>You have your hundredth soldier</French>
+		<German>You have your hundredth soldier</German>
+		<Italian>You have your hundredth soldier</Italian>
+		<Spanish>You have your hundredth soldier</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_DRAGOON</Tag>
+		<English>First Dragoon</English>
+		<French>First Dragoon</French>
+		<German>First Dragoon</German>
+		<Italian>First Dragoon</Italian>
+		<Spanish>First Dragoon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_DRAGOON_HEAD</Tag>
+		<English>You have your first dragoon</English>
+		<French>You have your first dragoon</French>
+		<German>You have your first dragoon</German>
+		<Italian>You have your first dragoon</Italian>
+		<Spanish>You have your first dragoon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_DRAGOON</Tag>
+		<English>Fiftieth Dragoon</English>
+		<French>Fiftieth Dragoon</French>
+		<German>Fiftieth Dragoon</German>
+		<Italian>Fiftieth Dragoon</Italian>
+		<Spanish>Fiftieth Dragoon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_DRAGOON_HEAD</Tag>
+		<English>You have your fiftieth dragoon</English>
+		<French>You have your fiftieth dragoon</French>
+		<German>You have your fiftieth dragoon</German>
+		<Italian>You have your fiftieth dragoon</Italian>
+		<Spanish>You have your fiftieth dragoon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_HUNDRED_DRAGOON</Tag>
+		<English>Hundredth Dragoon</English>
+		<French>Hundredth Dragoon</French>
+		<German>Hundredth Dragoon</German>
+		<Italian>Hundredth Dragoon</Italian>
+		<Spanish>Hundredth Dragoon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_HUNDRED_DRAGOON_HEAD</Tag>
+		<English>You have your hundredth dragoon</English>
+		<French>You have your hundredth dragoon</French>
+		<German>You have your hundredth dragoon</German>
+		<Italian>You have your hundredth dragoon</Italian>
+		<Spanish>You have your hundredth dragoon</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_BELLS</Tag>
+		<English>Built first Bell</English>
+		<French>Built first Bell</French>
+		<German>Built first Bell</German>
+		<Italian>Built first Bell</Italian>
+		<Spanish>Built first Bell</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_BELLS_HEAD</Tag>
+		<English>You have built your first bell</English>
+		<French>You have built your first bell</French>
+		<German>You have built your first bell</German>
+		<Italian>You have built your first bell</Italian>
+		<Spanish>You have built your first bell</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TEN_BELLS</Tag>
+		<English>Built ten Bells</English>
+		<French>Built ten Bells</French>
+		<German>Built ten Bells</German>
+		<Italian>Built ten Bells</Italian>
+		<Spanish>Built ten Bells</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TEN_BELLS_HEAD</Tag>
+		<English>You have built ten bells per turn</English>
+		<French>You have built ten bells per turn</French>
+		<German>You have built ten bells per turn</German>
+		<Italian>You have built ten bells per turn</Italian>
+		<Spanish>You have built ten bells per turn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_BELLS</Tag>
+		<English>Built fifty Bells</English>
+		<French>Built fifty Bells</French>
+		<German>Built fifty Bells</German>
+		<Italian>Built fifty Bells</Italian>
+		<Spanish>Built fifty Bells</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_BELLS_HEAD</Tag>
+		<English>You have built fifty bells per turn</English>
+		<French>You have built fifty bells per turn</French>
+		<German>You have built fifty bells per turn</German>
+		<Italian>You have built fifty bells per turn</Italian>
+		<Spanish>You have built fifty bells per turn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_CROSSES</Tag>
+		<English>Built first Cross</English>
+		<French>Built first Cross</French>
+		<German>Built first Cross</German>
+		<Italian>Built first Cross</Italian>
+		<Spanish>Built first Cross</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_CROSSES_HEAD</Tag>
+		<English>You have built your first Cross</English>
+		<French>You have built your first Cross</French>
+		<German>You have built your first Cross</German>
+		<Italian>You have built your first Cross</Italian>
+		<Spanish>You have built your first Cross</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TEN_CROSSES</Tag>
+		<English>Built ten Crosses</English>
+		<French>Built ten Crosses</French>
+		<German>Built ten Crosses</German>
+		<Italian>Built ten Crosses</Italian>
+		<Spanish>Built ten Crosses</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TEN_CROSSES_HEAD</Tag>
+		<English>You have built ten Crosses per turn</English>
+		<French>You have built ten Crosses per turn</French>
+		<German>You have built ten Crosses per turn</German>
+		<Italian>You have built ten Crosses per turn</Italian>
+		<Spanish>You have built ten Crosses per turn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_CROSSES</Tag>
+		<English>Built fifty Crosses</English>
+		<French>Built fifty Crosses</French>
+		<German>Built fifty Crosses</German>
+		<Italian>Built fifty Crosses</Italian>
+		<Spanish>Built fifty Crosses</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_CROSSES_HEAD</Tag>
+		<English>You have built fifty Crosses per turn</English>
+		<French>You have built fifty Crosses per turn</French>
+		<German>You have built fifty Crosses per turn</German>
+		<Italian>You have built fifty Crosses per turn</Italian>
+		<Spanish>You have built fifty Crosses per turn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_TOOLS</Tag>
+		<English>Built first Tool</English>
+		<French>Built first Tool</French>
+		<German>Built first Tool</German>
+		<Italian>Built first Tool</Italian>
+		<Spanish>Built first Tool</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_TOOLS_HEAD</Tag>
+		<English>You have built your first Tool</English>
+		<French>You have built your first Tool</French>
+		<German>You have built your first Tool</German>
+		<Italian>You have built your first Tool</Italian>
+		<Spanish>You have built your first Tool</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TEN_TOOLS</Tag>
+		<English>Built ten Tools</English>
+		<French>Built ten Tools</French>
+		<German>Built ten Tools</German>
+		<Italian>Built ten Tools</Italian>
+		<Spanish>Built ten Tools</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TEN_TOOLS_HEAD</Tag>
+		<English>You have built ten Tools per turn</English>
+		<French>You have built ten Tools per turn</French>
+		<German>You have built ten Tools per turn</German>
+		<Italian>You have built ten Tools per turn</Italian>
+		<Spanish>You have built ten Tools per turn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_TOOLS</Tag>
+		<English>Built fifty Tools</English>
+		<French>Built fifty Tools</French>
+		<German>Built fifty Tools</German>
+		<Italian>Built fifty Tools</Italian>
+		<Spanish>Built fifty Tools</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_TOOLS_HEAD</Tag>
+		<English>You have built fifty Tools per turn</English>
+		<French>You have built fifty Tools per turn</French>
+		<German>You have built fifty Tools per turn</German>
+		<Italian>You have built fifty Tools per turn</Italian>
+		<Spanish>You have built fifty Tools per turn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_GUNS</Tag>
+		<English>Built first Musket</English>
+		<French>Built first Musket</French>
+		<German>Built first Musket</German>
+		<Italian>Built first Musket</Italian>
+		<Spanish>Built first Musket</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_GUNS_HEAD</Tag>
+		<English>You have built your first Musket</English>
+		<French>You have built your first Musket</French>
+		<German>You have built your first Musket</German>
+		<Italian>You have built your first Musket</Italian>
+		<Spanish>You have built your first Musket</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TEN_GUNS</Tag>
+		<English>Built ten Muskets</English>
+		<French>Built ten Muskets</French>
+		<German>Built ten Muskets</German>
+		<Italian>Built ten Muskets</Italian>
+		<Spanish>Built ten Muskets</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TEN_GUNS_HEAD</Tag>
+		<English>You have built ten Muskets per turn</English>
+		<French>You have built ten Muskets per turn</French>
+		<German>You have built ten Muskets per turn</German>
+		<Italian>You have built ten Muskets per turn</Italian>
+		<Spanish>You have built ten Muskets per turn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_GUNS</Tag>
+		<English>Built fifty Muskets</English>
+		<French>Built fifty Muskets</French>
+		<German>Built fifty Muskets</German>
+		<Italian>Built fifty Muskets</Italian>
+		<Spanish>Built fifty Muskets</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_GUNS_HEAD</Tag>
+		<English>You have built fifty Muskets per turn</English>
+		<French>You have built fifty Muskets per turn</French>
+		<German>You have built fifty Muskets per turn</German>
+		<Italian>You have built fifty Muskets per turn</Italian>
+		<Spanish>You have built fifty Muskets per turn</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_EURO_CONTACT</Tag>
+		<English>Met another European</English>
+		<French>Met another European</French>
+		<German>Met another European</German>
+		<Italian>Met another European</Italian>
+		<Spanish>Met another European</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_EURO_CONTACT_HEAD</Tag>
+		<English>You have met another European</English>
+		<French>You have met another European</French>
+		<German>You have met another European</German>
+		<Italian>You have met another European</Italian>
+		<Spanish>You have met another European</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_THREE_EURO_CONTACT</Tag>
+		<English>Met three Europeans</English>
+		<French>Met three Europeans</French>
+		<German>Met three Europeans</German>
+		<Italian>Met three Europeans</Italian>
+		<Spanish>Met three Europeans</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_THREE_EURO_CONTACT_HEAD</Tag>
+		<English>You have met three Europeans</English>
+		<French>You have met three Europeans</French>
+		<German>You have met three Europeans</German>
+		<Italian>You have met three Europeans</Italian>
+		<Spanish>You have met three Europeans</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_NATIVE_CONTACT</Tag>
+		<English>Met a Native Tribe</English>
+		<French>Met a Native Tribe</French>
+		<German>Met a Native Tribe</German>
+		<Italian>Met a Native Tribe</Italian>
+		<Spanish>Met a Native Tribe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_NATIVE_CONTACT_HEAD</Tag>
+		<English>You have met a Native tribe</English>
+		<French>You have met a Native tribe</French>
+		<German>You have met a Native tribe</German>
+		<Italian>You have met a Native tribe</Italian>
+		<Spanish>You have met a Native tribe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIVE_NATIVE_CONTACT</Tag>
+		<English>Met a fifth Native Tribe</English>
+		<French>Met a fifth Native Tribe</French>
+		<German>Met a fifth Native Tribe</German>
+		<Italian>Met a fifth Native Tribe</Italian>
+		<Spanish>Met a fifth Native Tribe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIVE_NATIVE_CONTACT_HEAD</Tag>
+		<English>You have met a fifth Native tribe</English>
+		<French>You have met a fifth Native tribe</French>
+		<German>You have met a fifth Native tribe</German>
+		<Italian>You have met a fifth Native tribe</Italian>
+		<Spanish>You have met a fifth Native tribe</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_TRADE</Tag>
+		<English>Traded first Good</English>
+		<French>Traded first Good</French>
+		<German>Traded first Good</German>
+		<Italian>Traded first Good</Italian>
+		<Spanish>Traded first Good</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_TRADE_HEAD</Tag>
+		<English>You have traded your first good</English>
+		<French>You have traded your first good</French>
+		<German>You have traded your first good</German>
+		<Italian>You have traded your first good</Italian>
+		<Spanish>You have traded your first good</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_THOUSAND_TRADE</Tag>
+		<English>Traded 1,000 goods</English>
+		<French>Traded 1,000 goods</French>
+		<German>Traded 1,000 goods</German>
+		<Italian>Traded 1,000 goods</Italian>
+		<Spanish>Traded 1,000 goods</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_THOUSAND_TRADE_HEAD</Tag>
+		<English>You have traded 1,000 goods</English>
+		<French>You have traded 1,000 goods</French>
+		<German>You have traded 1,000 goods</German>
+		<Italian>You have traded 1,000 goods</Italian>
+		<Spanish>You have traded 1,000 goods</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TENTHOUSAND_TRADE</Tag>
+		<English>Traded 10,000 goods</English>
+		<French>Traded 10,000 goods</French>
+		<German>Traded 10,000 goods</German>
+		<Italian>Traded 10,000 goods</Italian>
+		<Spanish>Traded 10,000 goods</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TENTHOUSAND_TRADE_HEAD</Tag>
+		<English>You have traded 10,000 goods</English>
+		<French>You have traded 10,000 goods</French>
+		<German>You have traded 10,000 goods</German>
+		<Italian>You have traded 10,000 goods</Italian>
+		<Spanish>You have traded 10,000 goods</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_HUNDREDTHOUSAND_TRADE</Tag>
+		<English>Traded 100,000 goods</English>
+		<French>Traded 100,000 goods</French>
+		<German>Traded 100,000 goods</German>
+		<Italian>Traded 100,000 goods</Italian>
+		<Spanish>Traded 100,000 goods</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_HUNDREDTHOUSAND_TRADE_HEAD</Tag>
+		<English>You have traded 100,000 goods</English>
+		<French>You have traded 100,000 goods</French>
+		<German>You have traded 100,000 goods</German>
+		<Italian>You have traded 100,000 goods</Italian>
+		<Spanish>You have traded 100,000 goods</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_VICTORY</Tag>
+		<English>Won first military victory</English>
+		<French>Won first military victory</French>
+		<German>Won first military victory</German>
+		<Italian>Won first military victory</Italian>
+		<Spanish>Won first military victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIRST_VICTORY_HEAD</Tag>
+		<English>You have Won your first military victory</English>
+		<French>You have Won your first military victory</French>
+		<German>You have Won your first military victory</German>
+		<Italian>You have Won your first military victory</Italian>
+		<Spanish>You have Won your first military victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TEN_VICTORY</Tag>
+		<English>Won tenth military victory</English>
+		<French>Won tenth military victory</French>
+		<German>Won tenth military victory</German>
+		<Italian>Won tenth military victory</Italian>
+		<Spanish>Won tenth military victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TEN_VICTORY_HEAD</Tag>
+		<English>You have Won your tenth military victory</English>
+		<French>You have Won your tenth military victory</French>
+		<German>You have Won your tenth military victory</German>
+		<Italian>You have Won your tenth military victory</Italian>
+		<Spanish>You have Won your tenth military victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_VICTORY</Tag>
+		<English>Won fiftieth military victory</English>
+		<French>Won fiftieth military victory</French>
+		<German>Won fiftieth military victory</German>
+		<Italian>Won fiftieth military victory</Italian>
+		<Spanish>Won fiftieth military victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIFTY_VICTORY_HEAD</Tag>
+		<English>You have Won your fiftieth military victory</English>
+		<French>You have Won your fiftieth military victory</French>
+		<German>You have Won your fiftieth military victory</German>
+		<Italian>You have Won your fiftieth military victory</Italian>
+		<Spanish>You have Won your fiftieth military victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_HUNDRED_VICTORY</Tag>
+		<English>Won hundredth military victory</English>
+		<French>Won hundredth military victory</French>
+		<German>Won hundredth military victory</German>
+		<Italian>Won hundredth military victory</Italian>
+		<Spanish>Won hundredth military victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_HUNDRED_VICTORY_HEAD</Tag>
+		<English>You have Won your hundredth military victory</English>
+		<French>You have Won your hundredth military victory</French>
+		<German>You have Won your hundredth military victory</German>
+		<Italian>You have Won your hundredth military victory</Italian>
+		<Spanish>You have Won your hundredth military victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TWOHUNDRED_VICTORY</Tag>
+		<English>Won two-hundredth military victory</English>
+		<French>Won two-hundredth military victory</French>
+		<German>Won two-hundredth military victory</German>
+		<Italian>Won two-hundredth military victory</Italian>
+		<Spanish>Won two-hundredth military victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_TWOHUNDRED_VICTORY_HEAD</Tag>
+		<English>You have Won your two-hundredth military victory</English>
+		<French>You have Won your two-hundredth military victory</French>
+		<German>You have Won your two-hundredth military victory</German>
+		<Italian>You have Won your two-hundredth military victory</Italian>
+		<Spanish>You have Won your two-hundredth military victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIVEHUNDRED_VICTORY</Tag>
+		<English>Won five-hundredth military victory</English>
+		<French>Won five-hundredth military victory</French>
+		<German>Won five-hundredth military victory</German>
+		<Italian>Won five-hundredth military victory</Italian>
+		<Spanish>Won five-hundredth military victory</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_ACHIEVE_FIVEHUNDRED_VICTORY_HEAD</Tag>
+		<English>You have Won your five-hundredth military victory</English>
+		<French>You have Won your five-hundredth military victory</French>
+		<German>You have Won your five-hundredth military victory</German>
+		<Italian>You have Won your five-hundredth military victory</Italian>
+		<Spanish>You have Won your five-hundredth military victory</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,253 @@
+[SIZE=4][b]Welcome to the Age of Discovery II![/b][/SIZE]
+
+[b]NEW VERSION!  1.12 released 20-August-2009[/b]
+
+[img]http://rtw.apolyton.net/images/aod2.jpg[/img]
+
+Welcome to the age of conquistadors, colonisation, puffy European Kings, Indian wars and buccaneers!
+
+As an expansion to Civ4: Colonization the Age of Discovery II aims to enhance, add to and complete the game.
+
+[b]Summary:[/b]
+AoD2 hopes to take the C4C experience to new heights by adding new playable nations, complete with unique traits and units as well as introducing new strategic concepts to expand the game and take the player in multiple directions. A major focus has been to change the game's influence from small nations to large Empires (an initial fault in the release version of C4C is that it is easier to win with only two tiny colonies than with 20 large established colonies).
+
+New victory conditions have been added, including Economic and Industrialisation victories. These victories are for players who wish to play a builder-style of game and concentrate on trade or infrastructure with their colonies.
+
+New maps have been included. The Colonization I map is a direct copy of the original games map (with random natives, goods and ruins). The second map is the Columbus Dream map. What if Columbus was right? When you hold the Declaration of Independance, your flag will change from the European flag to a new flag (eg: from England to Betsy Ross). The PatchMod has also been added to eliminate bugs from the game, rebalance and expand certain core concepts.
+
+[b]Installation:[/b]
+1. Download AoDII from [url=http://www.weplayciv.com/forums/downloads.php?do=file&id=110]here[/url].
+2. Unzip to your C4C \Mods\ folder.  A new folder called \AgeOfDiscoveryII\ will be created.
+3. Run C4C and load AoDII from the ADVANCED --> MODS menu.
+4. After the game restarts you will be playing AoDII (Main menu will display "AgeOfDiscoveryII" top-right hand corner).
+
+[b]Version Notes:[/b]
+This is version 1.12 and is complete.  This version is the FINAL version.
+
+[b]Intro Movie:[/b]
+
+[url]http://au.youtube.com/watch?v=NE9DKUEAKIQ[/url]
+
+[b]Changelog:[/b]
+[code]
+v1.12
+
+[b]REQUIRES:[/b]
+* Firaxis Official Patch 1.01f (Please download and install before attempting to install AoD2).
+
+[b]INCLUDES:[/b]
+* PatchMod
+* Player Achievements
+* Advisor Menus
+* Jeckels Trade Screens
+* Some of Col-classic's music
+* Koma's revised Europe Screen
+* Jenks Land of Our Fathers
+* PiMan's New Australia & Australia Civs
+* NeverMind's New Russia & Russia Civs
+	* Ermak leaderhead changed to remove height bug (thanks Deliverator)
+* Younflancy's New China & China Civs
+* Zuul's More Buildings mod
+
+[b]NEW:[/b]
+* Aesthetics:
+	* Intro movie (Vengelis - Titans; Pirates of the Burning Seas)
+	* Main menu and loading screens
+	* New main menu music (Trailerhead - Age of Discovery)
+	* 40 new songs from the period (Hesperus - Colonial America & Early American Roots)
+* Cheat Menu (CTRL-SHIFT-Z):
+	* AI Autoplay options
+	* Add gold options
+* Traits:
+	* Devout: +25% Cross production
+	* Exporter: Free Cargo Hold promotion (naval) (LooF)
+	* Seafarer: Free Navigation I promotion (naval) (LooF)
+	* Explorer: -50% scout equipment required, Seasoned Scout starts with Explorer I & II (LooF)
+* Units:
+	* Added Carrack (replace caravel): 3 move, 3 strength, 3 cargo - unique unit for Portuguese
+	* Added Fluyt (replace caravel): 3 move, 3 strength, 3 cargo - unique unit for Dutch
+	* Added Pirate Brig (replace caravel): - unique unit for Pirates
+	* Added Pirate Ship (replace Privateer): 4 move, 3 strength, 3 cargo - unique unit for Pirates & Pirate Council
+	* Added Pirate colonist: 1 move, 0 strength, SOLDIER default profession
+	* Added colony fortress auto bombard enemy ships in adjacent waters when cannon in colony (50% chance hit/5% chance to sink).
+	* Added new promotion: Cargo Holds - +1 cargo bay (LooF)
+	* Added ability to change cargo bays by profession
+	* Added War Galleon (new unit): unique unit for Kings (same specs as Galleon)
+* Buildings:
+	* Added ability to define a building as single instance (only one allowed for nation)
+	* Added ability to define obsoleting building classes
+	* Added Zuul's More Buildings mod
+		* First colony built by each player receives a small set of buildings
+		* Base Camp & Carpenter's Shelter default buildings
+		* Warehouse, Expansion, Custom house sale percentage = 10%, 25%, 50%
+		* Warehouse buildings excess sale amounts from (CITY_YIELD_DECAY_PERCENT * excess) to (overflow sale percent * excess)
+* Nations:
+	* Added New Portugal - colour DARK PURPLE
+		* Prince Henry Aviz: Seafarer (Thanks Ekmek for LH)
+		* Martim de Sousa: Exporter (Thanks C.Roland for LH)
+		* Civ trait: Explorer
+		* Portuguese Leader Diplomacy texts
+	* Added Portugal Europe - colour PURPLE (Portugal LH from Civ4)
+	* Added Tortuga - colour GREY
+		* Pirate King Captain Lowther (Thanks Ekmek for LH)
+		* New "Tortuga" screen which replaces the Europe screen
+	* Added Pirates - colour BLACK (NOTE: You have to modify Civ4CivilizationInfos.xml to activate them)
+		* Henry Morgan: Resourceful (Thanks Amra for LH)
+		* Bartholomew Roberts: Industrious (Thanks The Capo for LH)
+		* Civ trait: Militaristic
+		* Added new tag in Civ4CivilizationInfos.xml: bPirates - indicates this Civ is a Pirate Civ (for specific processing)
+		* Pirates don't pay taxes (or get tax rises).
+		* Pirate Soldier graphics fixed (thanks BioHazard).
+		* No Pirates till after turn 30 (if AI controlled)
+	* Added new tag in Civ4CivilizationInfos.xml: RevArtDefineTage - what the Civs art definition is changed to on revolution
+	* Added revolution flags for all Civs (England - BetsyRoss, France - Quebec, Spain - Argentina, Netherlands - Netherlands Antilles, Portugal - Brazil)
+	* Added new tag: bFromWest to indicate Civ begins on the west of the map
+* Maps:
+	* Added Colonization I map (random bonuses and Indian placement)
+	* Added Columbus Dream map (random bonuses and Indian placement)
+	* Added ability to sail to the east or west coast (if known) from Europe.
+	* Added Regenerate Map button to Main Menu popup (like Civ4)
+* Fountain of Youth:
+	* Added the Fountain of Youth event
+	* Triggered by the popping of one goody hut per game
+	* New screen with re-mixed original music from FoY of Colonization 1
+	* All nations receive a random boost (5-15) of immigrants on someone finding the FoY
+* Religion/Immigration:
+	* Establishing missions now have an increasing failure chance based on success missions and difficulty.
+	* Failed missions will have a negative impact on the Natives.
+* Regional Natives:
+	* Added new region tags in Civ4CivilizationInfos.xml
+		* bAsianNative - indicates this Civ is a Asian Native (for specific processing)
+		* bNAmericanNative - indicates this Civ is a North American Native (for specific processing)
+		* bSAmericanNative - indicates this Civ is a South American Native (for specific processing)
+		* bAfricanNative - indicates this Civ is a African Native (for specific processing)
+		* bPacificNative - indicates this Civ is a Pacific Native (for specific processing)
+	* Added new region tags in WBS files
+		* bWBAsianNative
+		* bWBNAmericanNative
+		* bWBSAmericanNative
+		* bWBAfricanNative
+		* bWBPacificNative
+	* Added ability to define world regions in the map and which Natives appear in those regions
+* Production:
+	* Added ability to hurry yield shortages on build menu.
+* Victory Conditions (not available to Kings):
+	* Added ECONOMIC victory based on total goods traded (all trading methods, buy and sell).
+	* Added INDUSTRIALISATION victory based on total yield rate per turn (all yield types including bells, crosses and books).
+	* Added PIRATE PLUNDER victory based on total amount plundered from ships and towns (for Pirates).
+
+[b]CHANGE:[/b]
+* Nation changes:
+	* Dutch Europe colour to ORANGE
+	* Changed Dutch start unit to Fluyt (from Merchantman)
+* Map changes:
+	* Changed number of nations on all World sizes.
+	* World dimensions increased (effective 2 times playing area).
+	* World Map now called New World Map.
+	* New XML tag in Civ4EuropeInfos.xml iWestTripLength to store trip times for western nations
+	* Exposed CvCivilizationInfo::isFromWest() to python
+	* Exposed CvEuropeInfo::getWestTripLength() to python
+	* All players on huge map
+* Religion/Immigration changes:
+	* Immigration threshold increase percent 10% (from 25%).  This slows down cross requirement growth.
+	* Converted natives can no longer become missionaries.
+	* AI will now hurry immigrants on the docks.
+	* The speed of AI immigration is determined by difficulty.
+* REF changes:
+	* Tripled size of starting REF.
+	* REF threshold start 150 (from 75).
+	* REF increase cap based on handicap.
+	* REF uses War Galleon instead of Galleon for transporting units
+	* REF land unit's strength is influenced by handicap level
+	* REF lands units MUCH better
+* Rebel Sentiment changes
+	* Each colonist has their own RS on a percentage scale
+	* Each colony's CRS is based on each colonist's RS in the colony
+	* Global GRS is based on the RS of all units except those on the docks in Europe
+	* Producing bells has an upward effect on all colonist's RS, the more bells the more upwards movement
+	* Statemen in colonies raise the RS of units on the colony's plot on the map (eg: soldiers)
+	* RS generation takes into account gameSpeed & handicap
+	* Colonist's RS is now shown on the scale in the Revolution Advisor screen
+	* What affects colonist RS:
+		* City bell production (raises)
+		* Accepting tax rises (lowers)
+		* Not accepting tax rises (raises)
+		* Kissing pinky (lowers)
+		* Refusing to kiss pinky (raises)
+	* On higher difficulty levels, as Rebel Sentiment gets high there is a small chance the King will declare war on you first.
+* Education changes:
+	* Education threshold does not increase.  Static education costs throughout game.
+	* Education gold cost more static.  Defined by education level.
+	* Multiple colonists can graduate each turn.
+	* Education buildings now define city's education level (schoolhouse level 1, college level 2, university level 3).
+	* Professions now have a minimum education level to learn.  For example stateman requires level 3 building.
+	* Can only train specialists that exist in that city, and have the correct education level building.
+	* Profession chosen and paid for at start of education.
+	* Petty Criminal and Indentured Servant cannot be educated in either education buildings or tribes.
+	* Governor won't place automated citizens in education buildings if human player.
+* Unit changes:
+	* Changed caravel: 4 move (from 3)
+	* Colonists can now join cities after moving (like founding cities).  Does not include outside jobs such as scout, military, pioneer, missionary.
+	* Can now set profession after moving (like clear profession).
+	* Converted native can no longer be educated at Indian settlements (can be trained at school as normal).
+	* Wagon trains can no longer be loaded onto ships.
+	* Cannon no longer has +100% colony attack.
+	* Veteran Soldier +50% colony attack and defense.
+	* Upped Looter promotion from +50% to +100% gold from pillaging (LooF)
+	* Attack crossing river modifier now -20% (was -10%) (LooF)
+	* Amphibious promotion now requires Veteran4 (up from Veteran2) (LooF)
+	* Trade ships (caravel, carrack, fluyt, merchantman, galleon, pirate brig) can trade in European colony ports without open border agreement.
+	* Units with no profession (eg: ships) can now "Speak with Chief"
+	* Must speak with chief before trading with natives.
+	* Indentured Servant can no longer be a soldier, dragoon or missionary.
+	* Petty Criminal can no longer be a soldier, dragoon or missionary.
+	* Indentured Servants become Free Colonists after 20-40 turns (gain their freedom).  This is scaled to GameSpeed.
+	* Petty Criminals become Free Colonists after 40-80 turns (serve their term).  This is scaled to GameSpeed.
+	* Frigate now starts with Navigation I.
+	* Can buy Free Colonist in Europe for 750.
+	* Privateers, Pirate brig, and Pirate Ship start with Skirmisher I
+	* Canister Shot I, II & III gives +10%, +15% & +25% versus gunpowder units
+	* Minuteman III gives +30% settlement defense, +10% vs Melee units & +10% vs Gunpowder units
+	* Western Civs now start facing east
+* Founding Father changes (on top of LoOF):
+	* Pedro Alvarez Cabral switched positions in the Exploration FF tree with Jacques Marquette
+	* Washington Irving moved forwards to be the 3rd father in the Political FF tree
+	* Washington Irving gives +25% education in all settlements
+	* Sor Juana switched positions with Thomas Hooker in the Religion FF tree
+	* Sor Juana gives +1 cross per Town Hall, +2 crosses per church, +4 crosses per Cathedral
+	* Ethan Allen gives +2 Cannons and Mountaineer I & Ranger I for gunpowerder units
+	* William Penn gives +1 cross per Town Hall, free church all settlements
+	* Alexander von Humboldt gives +50% production of schools, colleges & universities
+	* Peter Minuit gives -50% price of Indian lands
+	* Pocahontas gives +2 Indian relations and 1 convert
+	* Chief Powhatan gives -20% price of Indian lands, as well as +50% Indian convert str, and +1 movement converts
+	* Hernando de Soto gives +100% production of Stables and Ranch, +1 Rancher
+	* Ben Franklin gives +4 soldiers, +4 cannons, +1 Frigate & +1 ship of the line
+	* William Brewster gives +25% production of churches and cathedrals, and -10% crosses required for immigration 
+	* "All Men are Free" now gives two free colonists
+* Interface changes:
+	* Europe screen now represents an actual dock.
+	* Colonist's RS is now shown on the scale in the Revolution Advisor screen (only in SP games).
+* Yield changes:
+	* European horses tripled in price.
+	* European tools tripled in price.
+	* European muskets very expensive (but still able to profit from natives early in game).
+	* Stable produces 3 horse per colonist, ranch 6 horse per colonist
+	* Silver YieldPriceChangePercent brought in line with all other yields (10 -> 1)
+	* YieldPriceChangePercent halved (2 -> 1)
+	* Tax Trade Theshold doubled (can trade more before a tax rise)
+* AI changes:
+	* AI will buy a better navy
+	* AI will have more money based on handicap.
+	* AI will rush immigration now.
+	* AI more immigration scaled to handicap
+* Other changes:
+	* Changed text "Reveals all Tiles with [x]" ... to "Reveals all [x]" to increase on screen space [English only] (LooF)
+	* Changed text "2x as likely chance to get Treasure from Ancient ruins" (LooF)
+	* Increased gold from capturing enemy colonies up to 20 gold, +20 gold per population (was +10gold per pop) (LooF)
+	* Increased growth of native villages (reduced threshold for growth by 20%, from 100 to 80) (LooF)
+	* In line with bigger maps and faster immigration, number of game turns for each game speed increased (300/450/900/1200).
+	* Disciplined trait also gives -50% equipment needed for dragoons.
+	* Co-operative trait now gives -50% equipment needed for pioneers.
+	* Europe text change to Homeland
+[/code]

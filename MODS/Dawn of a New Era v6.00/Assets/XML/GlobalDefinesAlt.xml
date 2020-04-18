@@ -1,0 +1,393 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Bart Muzzin (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Global Defines -->
+<Civ4Defines xmlns="x-schema:CIV4GlobalDefinesSchema.xml">
+	<Define>
+		<DefineName>MODS_SHOULD_OVERRIDE_GLOBAL_DEFINES_HERE</DefineName>
+		<iDefineIntVal>1</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>CHEAT_MENU_AI_AUTOPLAY_FIRST</DefineName>
+		<!--Cheat Menu: AI Autoplay Turns for button 1-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>CHEAT_MENU_AI_AUTOPLAY_SECOND</DefineName>
+		<!--Cheat Menu: AI Autoplay Turns for button 2-->
+		<iDefineIntVal>50</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>CHEAT_MENU_MONEYTREE_FIRST</DefineName>
+		<!--Cheat Menu: Moeny ammount for button 1-->
+		<iDefineIntVal>25000</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>CHEAT_MENU_MONEYTREE_SECOND</DefineName>
+		<!--Cheat Menu: Moeny ammount for button 2-->
+		<iDefineIntVal>100000</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>HOSPITAL_BUILDINGCLASS</DefineName>
+		<!--TODO-->
+		<DefineTextVal>BUILDINGCLASS_HOSPITAL</DefineTextVal>
+	</Define>
+	<!--Define>
+		<DefineName>TAVERN_BUILDINGCLASS</DefineName>
+		<DefineTextVal>BUILDINGCLASS_TAVERN</DefineTextVal>
+	</Define-->
+	<Define>
+		<DefineName>TAVERN_POINTS_TO_RECUIT</DefineName>
+		<!--Specifies the number of tavern points required to recruit a new unit in the tavern-->
+		<iDefineIntVal>150</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>TAVERN_MAX_CONSUMPTION</DefineName>
+		<!--TODO -->
+		<iDefineIntVal>5</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>CREW_FORMATION_TURN</DefineName>
+		<!--TODO-->
+		<iDefineIntVal>2</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>CREW_FORMATION_PRICE</DefineName>
+		<!--TODO-->
+		<iDefineIntVal>300</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>MERCHANT_CREW_FORMATION_PRICE</DefineName>
+		<!--TODO-->
+		<iDefineIntVal>1000</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>MERCHANT_CREW_FORMATION_TURN</DefineName>
+		<!--TODO-->
+		<iDefineIntVal>3</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>MILITARY_CREW_FORMATION_TURN</DefineName>
+		<!--TODO-->
+		<iDefineIntVal>6</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>MILITARY_CREW_FORMATION_PRICE</DefineName>
+		<!--TODO-->
+		<iDefineIntVal>3000</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>NUM_HIST_TURN</DefineName>
+		<!--TODO Turns of the economic, religious and politic historial used for inmigration status-->
+		<iDefineIntVal>15</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>GREAT_GENERALS_DISTRIBUTED_POINTS</DefineName>
+		<!--XP that can be distributed amongst the units in the same plot than the great general-->
+		<iDefineIntVal>20</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>TREASURE_UNITS_ONLY_SELECT_COASTAL</DefineName>
+		<!--Return to home mission for Treasures only lets you select Coastal Cities -->
+		<bDefineBoolVal>1</bDefineBoolVal>
+	</Define>
+	<Define>
+		<DefineName>PROBABILITY_NATURAL_IMMIGRATION_START</DefineName>
+		<!--Natural Inmigration Probability Limit at the start of the game (40)-->
+		<ucDefineUCharVal>7</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>PROBABILITY_NATURAL_IMMIGRATION_LATE</DefineName>
+		<!--Natural Inmigration Probability Limit after reached an specific turn (TURN_NATURAL_IMMIGRATION_CHANGE)(10)-->
+		<ucDefineUCharVal>25</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>PROBABILITY_NATURAL_IMMIGRATION_PERCENT</DefineName>
+		<!--This modifies the probability calculated from the limit, multiplied to game turn. )-->
+		<ucDefineUCharVal>14</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>TURN_NATURAL_IMMIGRATION_CHANGE</DefineName>
+		<!--Turn in wich the Natural Inmigration Probability Limit changes from the the start limit to the late limit-->
+		<iDefineIntVal>200</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>GENERAL_IMMIGRATION_PERCENT_MODIFY</DefineName>
+		<!-- Allow a global variation of immigration percent for each unit type. Negative values decrease probability, positive val. increase it-->
+		<iDefineIntVal>-7</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>MIN_TURN_TO_DELETE_IMMIGRANT_EUROPE_DOCK</DefineName>
+		<!--Turns you can safely have an inmigrant waiting in European docks without being removed; after these turns, unit removing is done via a probability which increases with time-->
+		<ucDefineUCharVal>2</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>MIN_TURN_TO_DELETE_IMMIGRANT_EUROPE_AVAILABLE</DefineName>
+		<!--Turns an inmigrant  will be available to offer a contract before being removed; after these turns, unit removing is done via a probability which increases with time-->
+		<ucDefineUCharVal>1</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>MIN_TURN_TO_DELETE_IMMIGRANT_EUROPE_CARGO</DefineName>
+		<!--Turns you can safely have an inmigrant loaded in one of your ships as cargo without being removed. ( Works in addition to MIN_TURN_TO_DELETE_IMMIGRANT_EUROPE_DOCK)-->
+		<ucDefineUCharVal>1</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>PIRATES_HEAL_RATE</DefineName>
+		<!--Pirate units heal rate-->
+		<iDefineIntVal>15</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>EUROPE_SHIP_HEAL_RATE</DefineName>
+		<!--Ships heal rate in Europe not being repaired: zero value forces to repair the unit  in drydock spending some gold-->
+		<iDefineIntVal>0</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>EUROPE_SHIP_IN_DRYDOCK_HEAL_RATE</DefineName>
+		<!--Ships heal rate in Europe when being repaired in  the drydock-->
+		<iDefineIntVal>35</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>EUROPE_LAND_UNITS_HEAL_RATE</DefineName>
+		<!--Land Units heal rate in Europe-->
+		<iDefineIntVal>100</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>MAX_ENROL_UNIT</DefineName>
+		<!--Max enrol unit in Europe (0 to 255)-->
+		<ucDefineUCharVal>3</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>MAX_MILITARY_PROFESSION_TURN</DefineName>
+		<!--Max military profession turn (0 to 255)-->
+		<ucDefineUCharVal>10</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>START_MILITARY_PROFESSION_PENALTY</DefineName>
+		<!-- start military profession penalty (0 to 255)-->
+		<ucDefineUCharVal>75</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>FORTIFICATION_BREAK_DAMAGE</DefineName>
+		<!--Max enrol unit in Europe (0 to 255)-->
+		<iDefineIntVal>40</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>POWERFUL_FORTIFICATION_PENALTY</DefineName>
+		<!--Max enrol unit in Europe (0 to 255)-->
+		<iDefineIntVal>30</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>BUILDER_PACK_YIELD_COST_PERCENT</DefineName>
+		<!--Percent of the yield costs to load a builder pack into a ship. A value of 100 would make builder packs cost the same than builder wagons (0 to 255)-->
+		<ucDefineUCharVal>75</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>SURVIVORS_ON_TRANSPORT_SINKING_PROBABILITY</DefineName>
+		<!--Probability of sea cargo units to survive the sinking of their transport in a coast plot (0 to 100)-->
+		<ucDefineUCharVal>25</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>NUM_TRADE_ROUTE_HIST_TURN</DefineName>
+		<!-- num history turn for trade routes stats (0 to 255)-->
+		<ucDefineUCharVal>5</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>BASE_CONQUEST_PRODUCTION_PERCENT</DefineName>
+		<!--Min percent of production captured on city conquest (0 to 100)-->
+		<ucDefineUCharVal>50</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>DIFFERENT_PRODUCTION_TYPE_CONQUEST_MODIFIER</DefineName>
+		<!--Modifier to the production points captured when city has different production type than city captured production(0 to 255)-->
+		<ucDefineUCharVal>25</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>NATIVES_ESCAPE_FROM_CONQUEST_CITY_PROBABILITY</DefineName>
+		<!--Probability of native player receiving free units (up to population/2)  when you capture a native city which was producing soldiers (0 to 255)-->
+		<ucDefineUCharVal>25</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>AVANCED_NEW_ERA_BOOST_FOR_CONSTRUCTION</DefineName>
+		<!-- Percentage of boost building construction if current era is above of required era for building (0 to 255)-->
+		<ucDefineUCharVal>50</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>PILLAGE_GOLD_MIN_PERCENTAGE</DefineName>
+		<!--Min gold percentage of iPillageGold the player receives after pillaging. A value of 100  would always give the max. gold possible-->
+		<iDefineIntVal>60</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>PILLAGE_GOLD_ROUTE</DefineName>
+		<!--Base Gold obtained from pillaging a route-->
+		<iDefineIntVal>20</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_VALUE_ROUTE</DefineName>
+		<!--AI value added to pillage target selection if the plot contains a route-->
+		<iDefineIntVal>1</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_VALUE_ROUTE_BONUS</DefineName>
+		<!--AI value added to pillage target selection if the plot contains a route with a bonus-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_VALUE_ROUTE_LONELY_BONUS</DefineName>
+		<!--AI value added to pillage target selection if the plot forms part of a route  which connects a citty to a bonus-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_VALUE_ROUTE_CRUMBS</DefineName>
+		<!--TODO AI value added to pillage target selection if the plot is in native lands and crumbs value > 0. (accumulative, counts all adjacent plots in native lands and crumbs value > 0)-->
+		<iDefineIntVal>5</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_VALUE_ROUTE_LONELY</DefineName>
+		<!--AI value added to pillage target selection which measures how lonely is the target plot with a route, that's said: adjacent plot does't contain a route. (accumulative, counts all adjacent plots without route)-->
+		<iDefineIntVal>2</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_VALUE_ROUTE_CITY</DefineName>
+		<!--AI value added to pillage target selection if the plot contains a route adjacent to a city (accumulative, counts all adjacent plots with city)-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_IMPROVEMENT_WATER_DURATION_MIN</DefineName>
+		<!--TODO-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_IMPROVEMENT_LAND_DURATION_MIN</DefineName>
+		<!--TODO-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_MODIFIER_IMPROVEMENT_FOOD</DefineName>
+		<!--AI value added to pillage target selection if the plot contains an improvement which modifies the food obtained by the city. This reduces the city growth-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_MODIFIER_IMPROVEMENT_ORE</DefineName>
+		<!--AI value added to pillage target selection if the plot contains an improvement which modifies the food obtained by the city. This reduces the city tools production-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_MODIFIER_IMPROVEMENT_LUMBER</DefineName>
+		<!--AI value added to pillage target selection if the plot contains an improvement which modifies the food obtained by the city-. This reduces the city unit and building production-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_MODIFIER_IMPROVEMENT_YIELD_PRICE_</DefineName>
+		<!--AI value added to pillage target selection if the plot contains a route adjacent to a city (accumulative, counts all adjacent plots with city)-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_MODIFIER_IMPROVEMENT_GOLD</DefineName>
+		<!--Modifier to AI value added to pillage target selection depending on the improvement pillage gold that can be obtained -->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_VALUE_FARM_FIRST_LEVEL</DefineName>
+		<!--AI value added to pillage target selection if the plot contains a farm plantation of 1st level. This forces the AI to destroy the weakest farms because the owner doesn't get any yield at all if there is no plantation...-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_VALUE_FARM_YIELD_MODIFIER</DefineName>
+		<!--TODO-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_PILLAGE_PRIORITY_FARM_YIELD_PRICE</DefineName>
+		<!--TODO-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>IDEAL_FOREST_FEATURE</DefineName>
+		<!-- Useful for agronomist -->
+		<DefineTextVal>FEATURE_FOREST</DefineTextVal>
+	</Define>	
+	<Define>
+		<DefineName>MAX_EXPERIENCE_FOR_ARTILLERY_PER_COMBAT</DefineName>
+		<!-- Exp for artillery men per combat-->
+		<iDefineIntVal>10</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>MIN_BOMBARD_DEFENSE_PERCENT</DefineName>
+		<!-- min bombard def for city-->
+		<iDefineIntVal>20</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>MIN_BOMBARD_UNIT_HEALTH_PERCENT</DefineName>
+		<!-- units in borbarded cities can't lose less percent that this number -->
+		<iDefineIntVal>70</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>AI_GOLD_BY_POPULATION_BY_TURN</DefineName>
+		<!-- Gold received by IA each turn by population in colonies -->
+		<iDefineIntVal>200</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>NUM_DISCOVERED_MAP_TILES_BEFORE_DELIVERING</DefineName>
+		<!-- The number of map tiles a scout should discovered before delivering his map to one of the colony -->
+		<iDefineIntVal>150</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>MAX_MANUFACTURED_YIELD_AMOUNT</DefineName>
+		<!-- The manufactured yields will be create with raw ressources provided by the player. Europe will not have higher stock in Europe that this value. -->
+		<iDefineIntVal>600</iDefineIntVal>
+	</Define>
+	<Define>
+		<DefineName>NAVAL_TRANSPORT_DISTURBATION_FOR_ENEMY_CLOSE_TO_COLONY</DefineName>
+		<!-- Add points of disturbation each time a transport ship has been seen close to a colony (10 is the maximum). AI will react more seriously if this factor is high (0 to 255)-->
+		<ucDefineUCharVal>2</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>NAVAL_MILITARY_DISTURBATION_FOR_ENEMY_CLOSE_TO_COLONY</DefineName>
+		<!-- Add points of disturbation each time a military ship has been seen close to a colony (10 is the maximum). AI will react more seriously if this factor is high (0 to 255)-->
+		<ucDefineUCharVal>5</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>NAVAL_DISTURBATION_FOR_TRADE_ROUTE</DefineName>
+		<!-- Add points of disturbation each time a trade route is disturb by ships (10 is the maximum). AI will react more seriously if this factor is high (0 to 255)-->
+		<ucDefineUCharVal>3</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>NAVAL_DISTURBATION_FOR_MILITARY_SHIP_KILLED_PROTECTING_A_CITY</DefineName>
+		<!-- Add points of disturbation each time a military ship is killed when is protecting a city (10 is the maximum). AI will react more seriously if this factor is high (0 to 255)-->
+		<ucDefineUCharVal>5</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>EXPENDITURE_BY_LAND_FORCE_INSIDE_COLONIES</DefineName>
+		<ucDefineUCharVal>100</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>EXPENDITURE_BY_LAND_FORCE_OUTSIDE_COLONIES</DefineName>
+		<ucDefineUCharVal>200</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>EXPENDITURE_BY_UNEMPLOYED</DefineName>
+		<ucDefineUCharVal>25</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>EXPENDITURE_BY_SCOUT</DefineName>
+		<ucDefineUCharVal>75</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>EXPENDITURE_BY_AGRONOMIST</DefineName>
+		<ucDefineUCharVal>50</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>EXPENDITURE_BY_PIONEER</DefineName>
+		<ucDefineUCharVal>50</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>EXPENDITURE_BY_MERCHANT_SHIP</DefineName>
+		<ucDefineUCharVal>25</ucDefineUCharVal>
+	</Define>
+	<Define>
+		<DefineName>EXPENDITURE_BY_MILITARY_SHIP</DefineName>
+		<ucDefineUCharVal>100</ucDefineUCharVal>
+	</Define>
+</Civ4Defines>

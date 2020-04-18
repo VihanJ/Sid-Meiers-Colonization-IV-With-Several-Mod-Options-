@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY</Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_CANCEL</Tag>
+		<English>Cancel</English>
+		<French>Cancel</French>
+		<German>Cancel</German>
+		<Italian>Cancel</Italian>
+		<Spanish>Cancel</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_YES</Tag>
+		<English>Yes</English>
+		<French>Yes</French>
+		<German>Yes</German>
+		<Italian>Yes</Italian>
+		<Spanish>Yes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_NO</Tag>
+		<English>No</English>
+		<French>No</French>
+		<German>No</German>
+		<Italian>No</Italian>
+		<Spanish>No</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_NAME</Tag>
+		<English>Name</English>
+		<French>Name</French>
+		<German>Name</German>
+		<Italian>Name</Italian>
+		<Spanish>Name</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_KEEP</Tag>
+		<English>Keep</English>
+		<French>Keep</French>
+		<German>Keep</German>
+		<Italian>Keep</Italian>
+		<Spanish>Keep</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_ASSIGNED</Tag>
+		<English>Assigned</English>
+		<French>Assigned</French>
+		<German>Assigned</German>
+		<Italian>Assigned</Italian>
+		<Spanish>Assigned</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRANSPORT_NAME</Tag>
+		<English>Transport Name</English>
+		<French>Transport Name</French>
+		<German>Transport Name</German>
+		<Italian>Transport Name</Italian>
+		<Spanish>Transport Name</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRANSPORT_DOMAIN</Tag>
+		<English>Unit Domain: %s1_DomainDesc</English>
+		<French>Unit Domain: %s1_DomainDesc</French>
+		<German>Unit Domain: %s1_DomainDesc</German>
+		<Italian>Unit Domain: %s1_DomainDesc</Italian>
+		<Spanish>Unit Domain: %s1_DomainDesc</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRANSPORT_CARGO_SPACE</Tag>
+		<English>Cargo Space: %d1_CargoSpace</English>
+		<French>Cargo Space: %d1_CargoSpace</French>
+		<German>Cargo Space: %d1_CargoSpace</German>
+		<Italian>Cargo Space: %d1_CargoSpace</Italian>
+		<Spanish>Cargo Space: %d1_CargoSpace</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTES</Tag>
+		<English>Trade Routes</English>
+		<French>Trade Routes</French>
+		<German>Trade Routes</German>
+		<Italian>Trade Routes</Italian>
+		<Spanish>Trade Routes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_NAME</Tag>
+		<English>Name (Optional)</English>
+		<French>Name (Optional)</French>
+		<German>Name (Optional)</German>
+		<Italian>Name (Optional)</Italian>
+		<Spanish>Name (Optional)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_SOURCE_MAINTAIN</Tag>
+		<English>Source City Maintain Level (Optional)</English>
+		<French>Source City Maintain Level (Optional)</French>
+		<German>Source City Maintain Level (Optional)</German>
+		<Italian>Source City Maintain Level (Optional)</Italian>
+		<Spanish>Source City Maintain Level (Optional)</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_NO_DISTANCE</Tag>
+		<English>Route Distance: N/A</English>
+		<French>Route Distance: N/A</French>
+		<German>Route Distance: N/A</German>
+		<Italian>Route Distance: N/A</Italian>
+		<Spanish>Route Distance: N/A</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_DISTANCE</Tag>
+		<English>Route Distance: %d1_NumTiles Tiles</English>
+		<French>Route Distance: %d1_NumTiles Tiles</French>
+		<German>Route Distance: %d1_NumTiles Tiles</German>
+		<Italian>Route Distance: %d1_NumTiles Tiles</Italian>
+		<Spanish>Route Distance: %d1_NumTiles Tiles</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_YIELD</Tag>
+		<English>Cargo: %s1_YieldDesc</English>
+		<French>Cargo: %s1_YieldDesc</French>
+		<German>Cargo: %s1_YieldDesc</German>
+		<Italian>Cargo: %s1_YieldDesc</Italian>
+		<Spanish>Cargo: %s1_YieldDesc</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_DOMAIN</Tag>
+		<English>Route Domain: %s1_Domain</English>
+		<French>Route Domain: %s1_Domain</French>
+		<German>Route Domain: %s1_Domain</German>
+		<Italian>Route Domain: %s1_Domain</Italian>
+		<Spanish>Route Domain: %s1_Domain</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_SOURCE_CITY</Tag>
+		<English>Source City: %s1_CityName</English>
+		<French>Source City: %s1_CityName</French>
+		<German>Source City: %s1_CityName</German>
+		<Italian>Source City: %s1_CityName</Italian>
+		<Spanish>Source City: %s1_CityName</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_DESTINATION_CITY</Tag>
+		<English>Destination City: %s1_CityName</English>
+		<French>Destination City: %s1_CityName</French>
+		<German>Destination City: %s1_CityName</German>
+		<Italian>Destination City: %s1_CityName</Italian>
+		<Spanish>Destination City: %s1_CityName</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_YIELD_RATE</Tag>
+		<English>Yield Rate: %d1_YieldRate</English>
+		<French>Yield Rate: %d1_YieldRate</French>
+		<German>Yield Rate: %d1_YieldRate</German>
+		<Italian>Yield Rate: %d1_YieldRate</Italian>
+		<Spanish>Yield Rate: %d1_YieldRate</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_YIELD_NO_RATE</Tag>
+		<English>Yield Rate: N/A</English>
+		<French>Yield Rate: N/A</French>
+		<German>Yield Rate: N/A</German>
+		<Italian>Yield Rate: N/A</Italian>
+		<Spanish>Yield Rate: N/A</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_YIELD_STORED</Tag>
+		<English>Yield Stored: %s1_YieldStored</English>
+		<French>Yield Stored: %s1_YieldStored</French>
+		<German>Yield Stored: %s1_YieldStored</German>
+		<Italian>Yield Stored: %s1_YieldStored</Italian>
+		<Spanish>Yield Stored: %s1_YieldStored</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_POPUP_TRADE_ROUTE_YIELD_NO_STORED</Tag>
+		<English>Yield Stored: N/A</English>
+		<French>Yield Stored: N/A</French>
+		<German>Yield Stored: N/A</German>
+		<Italian>Yield Stored: N/A</Italian>
+		<Spanish>Yield Stored: N/A</Spanish>
+	</TEXT>
+</Civ4GameText>

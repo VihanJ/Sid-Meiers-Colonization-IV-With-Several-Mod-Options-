@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Cutscene Infos -->
+<Civ4CutsceneInfos xmlns="x-schema:CIV4CutsceneInfosSchema.xml">
+	<CutsceneInfo>
+		<Type>CUTSCENE_FOY</Type>
+		<Description>TXT_KEY_CUTSCENE_FOY</Description>
+		<PictureFileName>Art/Cutscenes/foy.dds</PictureFileName>
+		<iPictureX>572</iPictureX>
+		<iPictureY>380</iPictureY>
+	</CutsceneInfo>
+	<CutsceneInfo>
+		<Type>CUTSCENE_KINGDOW</Type>
+		<Description>TXT_KEY_CUTSCENE_KINGDOW</Description>
+		<PictureFileName>Art/Cutscenes/kingdow.dds</PictureFileName>
+		<iPictureX>572</iPictureX>
+		<iPictureY>380</iPictureY>
+	</CutsceneInfo>
+</Civ4CutsceneInfos>

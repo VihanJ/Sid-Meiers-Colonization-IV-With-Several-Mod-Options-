@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY</Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_DOMAIN_LAND</Tag>
+		<English>Land</English>
+		<French>Land</French>
+		<German>Land</German>
+		<Italian>Land</Italian>
+		<Spanish>Land</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_DOMAIN_SEA</Tag>
+		<English>Sea</English>
+		<French>Sea</French>
+		<German>Sea</German>
+		<Italian>Sea</Italian>
+		<Spanish>Sea</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_DOMAIN_LAND_AND_SEA</Tag>
+		<English>%s1_DomainLand/%s2_DomainSea</English>
+		<French>>%s1_DomainLand/%s2_DomainSea</French>
+		<German>>%s1_DomainLand/%s2_DomainSea</German>
+		<Italian>>%s1_DomainLand/%s2_DomainSea</Italian>
+		<Spanish>>%s1_DomainLand/%s2_DomainSea</Spanish>
+	</TEXT>
+
+
+
+
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_TRADE_ROUTES_TITLE</Tag>
+		<English>TRADE ROUTES</English>
+		<French>TRADE ROUTES</French>
+		<German>TRADE ROUTES</German>
+		<Italian>TRADE ROUTES</Italian>
+		<Spanish>TRADE ROUTES</Spanish>
+	</TEXT>
+
+
+
+
+	<TEXT>
+		<Tag>TXT_KEY_COMMODITIES_CITY_NAME</Tag>
+		<English>City Name</English>
+		<French>City Name</French>
+		<German>City Name</German>
+		<Italian>City Name</Italian>
+		<Spanish>City Name</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_NAME</Tag>
+		<English>Route Name</English>
+		<French>Route Name</French>
+		<German>Route Name</German>
+		<Italian>Route Name</Italian>
+		<Spanish>Route Name</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_DOMAIN</Tag>
+		<English>Route Domain</English>
+		<French>Route Domain</French>
+		<German>Route Domain</German>
+		<Italian>Route Domain</Italian>
+		<Spanish>Route Domain</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_SOURCE_STORAGE</Tag>
+		<English>Source Storage</English>
+		<French>Source Storage</French>
+		<German>Source Storage</German>
+		<Italian>Source Storage</Italian>
+		<Spanish>Source Storage</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_TRADE_ROUTE_DESTINATION_STORAGE</Tag>
+		<English>Destination Storage</English>
+		<French>Destination Storage</French>
+		<German>Destination Storage</German>
+		<Italian>Destination Storage</Italian>
+		<Spanish>Destination Storage</Spanish>
+	</TEXT>
+
+
+
+
+
+
+
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_BUTTON_CREATE_TRADE_ROUTE</Tag>
+		<English>Create Trade Route</English>
+		<French>Create Trade Route</French>
+		<German>Create Trade Route</German>
+		<Italian>Create Trade Route</Italian>
+		<Spanish>Create Trade Route</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_BUTTON_EDIT_TRADE_ROUTE</Tag>
+		<English>Edit Trade Route</English>
+		<French>Edit Trade Route</French>
+		<German>Edit Trade Route</German>
+		<Italian>Edit Trade Route</Italian>
+		<Spanish>Edit Trade Route</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_BUTTON_DELETE_TRADE_ROUTE</Tag>
+		<English>Delete Trade Route</English>
+		<French>Delete Trade Route</French>
+		<German>Delete Trade Route</German>
+		<Italian>Delete Trade Route</Italian>
+		<Spanish>Delete Trade Route</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_BUTTON_ASSIGN_UNITS_TO_TRADE_ROUTE</Tag>
+		<English>Assign Units To Trade Route</English>
+		<French>Assign Units To Trade Route</French>
+		<German>Assign Units To Trade Route</German>
+		<Italian>Assign Units To Trade Route</Italian>
+		<Spanish>Assign Units To Trade Route</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_BUTTON_ASSIGN_TRADE_ROUTES_TO_LAND_UNIT</Tag>
+		<English>Assign Land Trade Routes</English>
+		<French>Assign Land Trade Routes</French>
+		<German>Assign Land Trade Routes</German>
+		<Italian>Assign Land Trade Routes</Italian>
+		<Spanish>Assign Land Trade Routes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_BUTTON_ASSIGN_UNITS_TRADE_ROUTES_TO_SEA_UNIT</Tag>
+		<English>Assign Sea Trade Routes</English>
+		<French>Assign Sea Trade Routes</French>
+		<German>Assign Sea Trade Routes</German>
+		<Italian>Assign Sea Trade Routes</Italian>
+		<Spanish>Assign Sea Trade Routes</Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_CITY_NAMES</Tag>
+		<English>City Names</English>
+		<French>City Names</French>
+		<German>City Names</German>
+		<Italian>City Names</Italian>
+		<Spanish>City Names</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_CITY_TOTALS</Tag>
+		<English>City Totals</English>
+		<French>City Totals</French>
+		<German>City Totals</German>
+		<Italian>City Totals</Italian>
+		<Spanish>City Totals</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_UNIT_NAMES</Tag>
+		<English>Unit Names</English>
+		<French>Unit Names</French>
+		<German>Unit Names</German>
+		<Italian>Unit Names</Italian>
+		<Spanish>Unit Names</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_UNIT_CARGO_SPACE</Tag>
+		<English>Cargo Space</English>
+		<French>Cargo Space</French>
+		<German>Cargo Space</German>
+		<Italian>Cargo Space</Italian>
+		<Spanish>Cargo Space</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_UNIT_CURRENT_CARGO</Tag>
+		<English>Current Cargo</English>
+		<French>Current Cargo</French>
+		<German>Current Cargo</German>
+		<Italian>Current Cargo</Italian>
+		<Spanish>Current Cargo</Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_NA</Tag>
+		<English>N/A</English>
+		<French>N/A</French>
+		<German>N/A</German>
+		<Italian>N/A</Italian>
+		<Spanish>N/A</Spanish>
+	</TEXT>
+</Civ4GameText>

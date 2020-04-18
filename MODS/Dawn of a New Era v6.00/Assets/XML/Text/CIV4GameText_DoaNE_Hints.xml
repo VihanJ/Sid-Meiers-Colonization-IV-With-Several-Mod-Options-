@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_1</Tag>
+    <English>Use your mouse wheel to zoom</English>
+    <French>Utilisez la molette de la souris pour zoomer.</French>
+    <German>Drehen Sie das Mausrad, um zu zoomen.</German>
+    <Italian>Usa la rotellina del mouse per zoomare.</Italian>
+    <Spanish>Usad la rueda del rat&#xF3;n para hacer zoom.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_2</Tag>
+    <English>Press [CTRL + I] to play with a minimized interface. Press [ALT+I] to play with no interface.</English>
+    <French>Appuyez sur [CTRL + I] pour jouer avec une interface r&#xE9;duite. Appuyez sur [ALT + I] pour jouer sans interface.</French>
+    <German>Dr&#xFC;cken Sie [STRG + I], wenn Sie mit minimiertem Men&#xFC; spielen m&#xF6;chten. Mit [ALT-I] k&#xF6;nnen Sie das Men&#xFC; ausblenden.</German>
+    <Italian>Premi [CTRL + I] per giocare con l'interfaccia minimizzata. Premi [ALT-I] per giocare senza interfaccia.</Italian>
+    <Spanish>Pulsar [CTRL + I] para jugar con una interfaz minimizada. Pulsar [ALT + I] para jugar sin interfaz.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_3</Tag>
+    <English>You can use the mouse wheel or [PAGE UP] and [PAGE DOWN] to zoom the camera in and out.</English>
+    <French>Vous pouvez utiliser la molette de la souris ou les touches [PAGE HAUT] et [PAGE BAS] pour zoomer en avant ou en arri&#xE8;re.</French>
+    <German>Drehen Sie das Mausrad oder dr&#xFC;cken Sie [BILD AUF]/[BILD AB], um den Zoomfaktor der Kamera zu &#xE4;ndern.</German>
+    <Italian>Puoi usare i tasti [PAG SU] e [PAG GI&#xF9;] per zoomare la visuale avanti e indietro.</Italian>
+    <Spanish>Se puede usar la rueda del rat&#xF3;n o [RE P&#xE1;G] y [AV P&#xE1;G] para acercar y alejar la c&#xE1;mara.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_4</Tag>
+    <English>Press [CTRL + S] to Save the Game and [CTRL + L] to Load a saved game.</English>
+    <French>Appuyez sur [CTRL + S] pour sauvegarder la partie, sur [CTRL + L] pour charger une sauvegarde.</French>
+    <German>Dr&#xFC;cken Sie [STRG + S], um das Spiel zu speichern. Mit [STRG + L] k&#xF6;nnen Sie ein gespeichertes Spiel laden.</German>
+    <Italian>Premi [CTRL + S] per salvare la partita e [CTRL + L] per caricare una partita salvata.</Italian>
+    <Spanish>Pulsar [CTRL + S] para guardar la partida y [CTRL + L] para cargar una guardada.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_5</Tag>
+    <English>Press [CTRL + (LEFT ARROW)] or [CTRL + (RIGHT ARROW)] to rotate and set the camera by 45 degrees.</English>
+    <French>Appuyez sur [CTRL + (FLECHE GAUCHE)] ou [CTRL + (FLECHE DROITE)] pour faire pivoter la cam&#xE9;ra de 45 degr&#xE9;s.</French>
+    <German>Dr&#xFC;cken Sie [STRG + PFEIL LINKS] oder [STRG + PFEIL RECHTS], um die Kamera in 45-Grad-Schritten zu drehen.</German>
+    <Italian>Premi [CTRL + (FRECCIA SINISTRA)] o [CTRL + (FRECCIA DESTRA)] per ruotare la visuale e impostarla a 45 gradi.</Italian>
+    <Spanish>Pulsar [CTRL + (FLECHA IZQ.)] o [CTRL + (FLECHA DER.)] para girar la c&#xE1;mara 45 grados.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_6</Tag>
+    <English>Double clicking on a stack of units will group them together.</English>
+    <French>Double-cliquez sur des unit&#xE9;s empil&#xE9;es pour les regrouper. Fonction non active sur les unit&#xE9;s empil&#xE9;es dans les colonies.</French>
+    <German>Double clicking on a stack of units will group them together.</German>
+    <Italian>Double clicking on a stack of units will group them together.</Italian>
+    <Spanish>Double clicking on a stack of units will group them together.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_7</Tag>
+    <English>Hold down ALT and click on a stack to select all units.</English>
+    <French>Pour s&#xE9;lectionner toutes les unit&#xE9;s, maintenez la touche ALT enfonc&#xE9;e et cliquez sur une pile.</French>
+    <German>Halten Sie ALT gedr&#xFC;ckt und klicken Sie auf einen Stapel, um alle Einheiten auszuw&#xE4;hlen.</German>
+    <Italian>Tieni premuto ALT e clicca su una pila per selezionare tutte le unit&#xE0;.</Italian>
+    <Spanish>Mantener pulsado ALT y hacer clic en un apilamiento selecciona a todas las unidades.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_8</Tag>
+    <English>Hold down CTRL and click on a stack to select all units of the same type.</English>
+    <French>Pour s&#xE9;lectionner toutes les unit&#xE9;s de m&#xEA;me type, maintenez la touche CTRL enfonc&#xE9;e et cliquez sur une pile.</French>
+    <German>Halten Sie STRG gedr&#xFC;ckt und klicken Sie auf einen Stapel, um alle Einheiten eines Typs auszuw&#xE4;hlen.</German>
+    <Italian>Tieni premuto CTRL e clicca su una pila per selezionare tutte le unit&#xE0; dello stesso tipo.</Italian>
+    <Spanish>Mantener pulsado CTRL y hacer clic en un apilamiento selecciona a todas las unidades del mismo tipo.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_9</Tag>
+    <English>With multiple units selected, you can give the group orders that they will conduct together.</English>
+    <French>Si vous avez s&#xE9;lectionn&#xE9; plusieurs unit&#xE9;s, vous pouvez leur donner des ordres de groupe.</French>
+    <German>Haben Sie mehrere Einheiten ausgew&#xE4;hlt, k&#xF6;nnen Sie der gesamten Gruppe Befehle erteilen.</German>
+    <Italian>Quando pi&#xF9; unit&#xE0; sono selezionate, puoi impartire ordini a tutto il gruppo.</Italian>
+    <Spanish>Con varias unidades seleccionadas, se pueden dar &#xF3;rdenes de grupo que &#xE9;stas llevar&#xE1;n a cabo a la vez.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_10</Tag>
+    <English>Right clicking on a transport will automatically load the units onto it.</English>
+    <French>Cliquez avec le bouton droit sur un transport pour charger automatiquement les unit&#xE9;s s&#xE9;lectionn&#xE9;es &#xE0; bord.</French>
+    <German>Nach einem Rechtsklick auf ein Transportschiff gehen die Einheiten automatisch an Bord.</German>
+    <Italian>Clicca con il pulsante destro su un mezzo di trasporto per caricare automaticamente le unit&#xE0; a bordo.</Italian>
+    <Spanish>Hacer clic derecho en un transporte embarcar&#xE1; directamente las unidades en &#xE9;l.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_11</Tag>
+    <English>With a transport selected, right clicking on an adjacent land square will automatically unload the units.</English>
+    <French>Pour d&#xE9;charger des unit&#xE9;s d'un transport, s&#xE9;lectionnez-le et cliquez avec le bouton droit sur une case de terrain adjacente.</French>
+    <German>Haben Sie ein Transportschiff ausgew&#xE4;hlt, gehen alle Einheiten nach einem Rechtsklick auf ein angrenzendes Gel&#xE4;ndefeld automatisch von Bord.</German>
+    <Italian>Quando hai selezionato un mezzo di trasporto, clicca con il pulsante destro del mouse su una casella adiacente per sbarcare automaticamente le unit&#xE0; a bordo.</Italian>
+    <Spanish>Con un transporte seleccionado, hacer clic derecho en una casilla de tierra adyacente desembarcar&#xE1; autom&#xE1;ticamente a las unidades.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_12</Tag>
+    <English>Press [F12] to access the Civilopedia.</English>
+    <French>Appuyez sur [F12] pour ouvrir la Civilop&#xE9;dia.</French>
+    <German>Dr&#xFC;cken Sie [F12], wenn Sie die Zivilop&#xE4;die &#xF6;ffnen m&#xF6;chten.</German>
+    <Italian>Premi [F12] per accedere alla Civilopedia.</Italian>
+    <Spanish>Pulsar [F12] para acceder a la Civilopedia.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_13</Tag>
+    <English>Press [PRINT SCREEN] to take a screenshot (It will be saved in your Colonization\Screenshots folder).</English>
+    <French>Appuyez sur [Fn] &amp; [IMPR ECRAN] pour faire une capture d'&#xE9;cran (sauvegard&#xE9;e dans le r&#xE9;pertoire Colonization\Screenshots).</French>
+    <German>Dr&#xFC;cken Sie [DRUCK], um einen Screenshot zu machen und unter "Colonization\Screenshots" zu speichern.</German>
+    <Italian>Premi [STAMP] per scattare una foto che verr&#xE0; salvata in Colonization\Screenshots...</Italian>
+    <Spanish>Pulsar [PRINT SCREEN] para hacer una captura de pantalla (se guardar&#xE1; en la carpeta Colonization\Screenshots).</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_14</Tag>
+    <English>Press [ESC] to bring up the in-game Options Menu.</English>
+    <French>Appuyez sur [ECHAP] pour ouvrir le menu Options de jeu.</French>
+    <German>Dr&#xFC;cken Sie [ESC], um das Pausemen&#xFC; zu &#xF6;ffnen.</German>
+    <Italian>Premi [ESC] per richiamare il menu di opzioni mentre stai giocando.</Italian>
+    <Spanish>Pulsar [ESC] para que aparezca el men&#xFA; Opciones durante la partida.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_15</Tag>
+    <English>Press [CTRL + O] to bring up the Options Menu.</English>
+    <French>Appuyez sur [CTRL + O] pour ouvrir le menu Options.</French>
+    <German>Dr&#xFC;cken sie [STRG + O], um das Optionen-Men&#xFC; zu &#xF6;ffnen.</German>
+    <Italian>Premi [CTRL + O] per richiamare il menu di opzioni.</Italian>
+    <Spanish>Pulsar [CTRL + O] para que aparezca el men&#xFA; Opciones.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_16</Tag>
+    <English>Press the middle mouse button to center the camera on the active unit.</English>
+    <French>Appuyez sur le bouton central de la souris pour centrer la cam&#xE9;ra sur l'unit&#xE9; active.</French>
+    <German>Dr&#xFC;cken Sie die mittlere Maustaste, um die Kamera &#xFC;ber der aktiven Einheit zu zentrieren.</German>
+    <Italian>Premi il pulsante centrale del mouse per centrare la visuale sull'unit&#xE0; attiva.</Italian>
+    <Spanish>Pulsar el bot&#xF3;n central del rat&#xF3;n para centrar la c&#xE1;mara en la unidad activa.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_17</Tag>
+    <English>Press [SHIFT + F5] (Single Player Only) to Quick Save.</English>
+    <French>Appuyez sur [MAJ + F5] (Solo uniquement) pour une sauvegarde rapide.</French>
+    <German>Dr&#xFC;cken Sie (nur im Einzelspieler-Modus) [UMSCHALTEN + F5], um das Spiel schnell zu speichern.</German>
+    <Italian>Premi [MAIUSC + F5] (solo Giocatore Singolo) per effettuare un salvataggio rapido.</Italian>
+    <Spanish>Pulsar [MAY&#xFA;S + F5] (solo en partidas de un jugador) para hacer un guardado r&#xE1;pido.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_18</Tag>
+    <English>Press [SHIFT + F8] (Single Player Only) to Quick Load.</English>
+    <French>Appuyez sur [MAJ + F8] (Solo uniquement) pour un chargement rapide.</French>
+    <German>Dr&#xFC;cken Sie (nur im Einzelspieler-Modus) [UMSCHALTEN + F8], um ein Spiel schnell zu laden.</German>
+    <Italian>Premi [MAIUSC + F8] (solo Giocatore Singolo) per effettuare un caricamento rapido.</Italian>
+    <Spanish>Pulsar [MAY&#xFA;S + F8] (solo en partidas de un jugador) para hacer una carga r&#xE1;pida.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_19</Tag>
+    <English>Press [CTRL + P] to ping the map and provide info to teammates.</English>
+    <French>Appuyez sur [CTRL + P] pour marquer la carte et fournir des infos &#xE0; vos co&#xE9;quipiers.</French>
+    <German>Dr&#xFC;cken Sie [STRG + P], um die Karte anzupingen und Ihren Teammitgliedern Informationen zu senden.</German>
+    <Italian>Premi [CTRL + P] per segnare un punto sulla mappa e fornire informazioni ai tuoi compagni di squadra.</Italian>
+    <Spanish>Pulsar [CTRL + P] para hacer una se&#xF1;al en el mapa y dar informaci&#xF3;n a los compa&#xF1;eros de equipo.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_20</Tag>
+    <English>Press [CTRL + # key] to bind the selected unit to that # key. For example: [CTRL + 3] would make it so anytime 3 is pressed, that unit is automatically selected.</English>
+    <French>Appuyez sur [CTRL + touche num&#xE9;rique] pour affecter l'unit&#xE9; s&#xE9;lectionn&#xE9;e &#xE0; cette touche. Par exemple, avec [CTRL + 3], l'unit&#xE9; sera automatiquement s&#xE9;lectionn&#xE9;e &#xE0; chaque fois que vous appuierez sur la touche 3.</French>
+    <German>Dr&#xFC;cken Sie [STRG + Zahl], um der gew&#xE4;hlten Einheit die Zahl zuzuweisen. Beispiel: Dr&#xFC;cken Sie [STRG + 3] wird die entsprechende Einheit ausgew&#xE4;hlt, sobald Sie die 3 dr&#xFC;cken.</German>
+    <Italian>Premi [CTRL + #] per assegnare l'unit&#xE0; selezionata al tasto #. Per esempio, premendo [CTRL + 3], ogni volta che si premer&#xE0; il tasto 3 quell'unit&#xE0; verr&#xE0; automaticamente selezionata.</Italian>
+    <Spanish>Pulsar [CTRL + n&#xFA;mero] para vincular la unidad seleccionada a ese n&#xFA;mero. Por ejemplo: [CTRL + 3] har&#xE1; que la unidad quede seleccionada autom&#xE1;ticamente cada vez que se pulse el 3.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_21</Tag>
+    <English>Press [F11] to quickly switch in and out of Globe View.</English>
+    <French>Appuyez sur [F11] pour passer rapidement &#xE0; la vue du Globe.</French>
+    <German>Dr&#xFC;cken Sie [F11], um zur Welt-Ansicht zu wechseln.</German>
+    <Italian>Premi [F11] per attivare/disattivare la visuale globale.</Italian>
+    <Spanish>Pulsar [F11] para entrar y salir de la Vista global.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_22</Tag>
+    <English>Promotions points of artillery units are related to damage points they inflict. Choose an elevated position to the flat terrain, it will be more effective.</English>
+    <French>Les points de promotions des unit&#xE9;s d'artillerie sont li&#xE9;s aux points de d&#xE9;gats qu'elles infligent. Pr&#xE9;f&#xE9;rez une position de tir sur&#xE9;lev&#xE9;e vers les terrains plats, elle ne sera que plus efficace.</French>
+    <German>Promotions points of artillery units are related to damage points they inflict. Choose an elevated position to the flat terrain, it will be more effective.</German>
+    <Italian>Promotions points of artillery units are related to damage points they inflict. Choose an elevated position to the flat terrain, it will be more effective.</Italian>
+    <Spanish>Promotions points of artillery units are related to damage points they inflict. Choose an elevated position to the flat terrain, it will be more effective.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_23</Tag>
+    <English>Latitudes are fundamental to locate you on the map: The equator is at 0 &#xB0; and the other values &#x200B;&#x200B;indicate the northern hemisphere (0&#xB0; to 90&#xB0; upward) and the southern hemisphere (0&#xB0; to 90&#xB0; down).</English>
+    <French>Les latitudes sont fondamentales pour vous rep&#xE9;rer sur la carte : L'&#xE9;quateur est &#xE0; 0&#xB0; et les autres valeurs indiquent l'h&#xE9;misph&#xE8;re nord (de 0&#xB0; &#xE0; 90&#xB0; vers le haut) et l'h&#xE9;misph&#xE8;re sud (de 0&#xB0; &#xE0; 90&#xB0; vers le bas).</French>
+    <German>Latitudes are fundamental to locate you on the map: The equator is at 0 &#xB0; and the other values &#x200B;&#x200B;indicate the northern hemisphere (0&#xB0; to 90&#xB0; upward) and the southern hemisphere (0&#xB0; to 90&#xB0; down).</German>
+    <Italian>Latitudes are fundamental to locate you on the map: The equator is at 0 &#xB0; and the other values &#x200B;&#x200B;indicate the northern hemisphere (0&#xB0; to 90&#xB0; upward) and the southern hemisphere (0&#xB0; to 90&#xB0; down).</Italian>
+    <Spanish>Latitudes are fundamental to locate you on the map: The equator is at 0 &#xB0; and the other values &#x200B;&#x200B;indicate the northern hemisphere (0&#xB0; to 90&#xB0; upward) and the southern hemisphere (0&#xB0; to 90&#xB0; down).</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_24</Tag>
+    <English>Press [CTRL + B] to toggle Bare Map view.</English>
+    <French>Appuyez sur [CTRL + B] pour afficher ou masquer la carte vierge.</French>
+    <German>Dr&#xFC;cken Sie [STRG + B], um die Kartenansicht zu aktivieren.</German>
+    <Italian>Premi [CTRL + B] per attivare/disattivare la visuale mappa semplificata.</Italian>
+    <Spanish>Pulsar [CTRL + B] para activar la vista del mapa limpio.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_25</Tag>
+    <English>Press [CTRL + R] to toggle Flag Resources view.</English>
+    <French>Appuyez sur [CTRL + R] pour afficher ou masquer les ressources.</French>
+    <German>Dr&#xFC;cken Sie [STRG + R], um in die Ressourcen-Ansicht zu wechseln.</German>
+    <Italian>Premi [CTRL + R] per visualizzare/nascondere la segnalazione risorse.</Italian>
+    <Spanish>Pulsar [CTRL + R] para activar las marcas de recursos.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_26</Tag>
+    <English>Your ships that suffered damage during battles can be repaired and resupplied in Europe.</English>
+    <French>Vos navires qui ont subi des d&#xE9;gats durant des combats peuvent &#xEA;tre r&#xE9;par&#xE9;s et ravitaill&#xE9;s en Europe.</French>
+    <German>Your ships that suffered damage during battles can be repaired and resupplied in Europe.</German>
+    <Italian>Your ships that suffered damage during battles can be repaired and resupplied in Europe.</Italian>
+    <Spanish>Your ships that suffered damage during battles can be repaired and resupplied in Europe.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_27</Tag>
+    <English>You can form maritime convoys in the "Captaincy" screen in Europe. Consider adding one or two warships to protect against pirates attacks.</English>
+    <French>Vous pouvez constituez des convois maritimes dans le screen de la "Capitainerie" en Europe. Pensez &#xE0; y ajouter un ou deux navires de guerre pour les prot&#xE9;ger contre les attaques des pirates.</French>
+    <German>You can form maritime convoys in the "Captaincy" screen in Europe. Consider adding one or two warships to protect against pirates attacks.</German>
+    <Italian>You can form maritime convoys in the "Captaincy" screen in Europe. Consider adding one or two warships to protect against pirates attacks.</Italian>
+    <Spanish>You can form maritime convoys in the "Captaincy" screen in Europe. Consider adding one or two warships to protect against pirates attacks.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_28</Tag>
+    <English>Press [CTRL + T] to toggle the Tile Grid</English>
+    <French>Appuyez sur [CTRL + T] pour afficher ou masquer la grille.</French>
+    <German>Blenden Sie das Gel&#xE4;nderaster mit [STRG + T] ein/aus.</German>
+    <Italian>Premi [CTRL + T] per attivare la griglia delle caselle.</Italian>
+    <Spanish>Pulsar [CTRL + T] para activar la cuadr&#xED;cula.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_29</Tag>
+    <English>Press [ALT + Q] to retire from the game. In multiplayer this automatically gives control of your Colonies to an AI.</English>
+    <French>Appuyez sur [ALT] + [Q] pour abandonner le jeu. En mode multijoueur, cette action conf&#xE8;re automatiquement le contr&#xF4;le de vos colonies &#xE0; une IA.</French>
+    <German>Dr&#xFC;cken Sie [ALT + Q], um das Spiel zu verlassen. Im Multiplayer-Modus &#xFC;bernimmt nun die KI die Kontrolle &#xFC;ber Ihre Kolonien.</German>
+    <Italian>Premi [ALT + Q] per ritirarti dalla partita. Nella modalit&#xE3;&#xA0; multigiocatore, il controllo della tua colonia viene automaticamente assegnato alla IA.</Italian>
+    <Spanish>Pulsar [ALT + Q] para retirarse de la partida. En el modo para varios jugadores esto le dar&#xE1; el control de las colonias a la IA.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_30</Tag>
+    <English>Press [PAUSE] to interrupt the Turn Timer.</English>
+    <French>Appuyez sur [PAUSE] pour interrompre le chronom&#xE8;tre de tour.</French>
+    <German>Dr&#xFC;cken Sie [PAUSE], um den Runden-Timer anzuhalten.</German>
+    <Italian>Premi [PAUSA] per interrompere il timer del turno.</Italian>
+    <Spanish>Pulsar [PAUSA] para interrumpir el contador del turno.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_31</Tag>
+    <English>Press [SHIFT + TAB] to chat to All in multiplayer.</English>
+    <French>Appuyez sur [MAJ + TAB] en mode Multijoueur pour parler &#xE0; tous les autres joueurs.</French>
+    <German>Dr&#xFC;cken Sie im Multiplayer-Modus [UMSCHALTEN + TAB], um mit allen Anwesenden zu chatten.</German>
+    <Italian>Premi [MAIUSC + TAB] per comunicare via chat con tutti in Multigiocatore.</Italian>
+    <Spanish>Pulsad [MAY&#xFA;S + TAB] para charlar con todos en el modo multijugador.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_32</Tag>
+    <English>Press [ TAB ] to chat to teammates in Multiplayer.</English>
+    <French>Appuyez sur [ TAB ] en mode Multijoueur pour parler &#xE0; vos co&#xE9;quipiers.</French>
+    <German>Dr&#xFC;cken Sie im Multiplayer-Modus [ TAB ], um mit den Mitgliedern Ihres Teams zu chatten.</German>
+    <Italian>Premi [ TAB ] per comunicare via chat con gli alleati in Multigiocatore.</Italian>
+    <Spanish>Pulsad [ TAB ] para charlar con los compa&#xF1;eros de equipo en el modo multijugador.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_33</Tag>
+    <English>Press [CTRL + W] to access the Worldbuilder.</English>
+    <French>Appuyez sur [CTRL + Z] pour ouvrir l'&#xE9;diteur de mondes.</French>
+    <German>Rufen Sie mit [CTRL + W] den Weltenbauer auf.</German>
+    <Italian>Premi [CTRL + W] per accedere all'editor.</Italian>
+    <Spanish>Pulsar [CTRL + W] para acceder al creador de mundos.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_34</Tag>
+    <English>Press [W] or [ENTER] to cycle through your active units.</English>
+    <French>Appuyez sur [Z] ou [ENTREE] pour parcourir les unit&#xE9;s actives.</French>
+    <German>Dr&#xFC;cken Sie [W] oder [EINGABETASTE], um durch Ihre aktiven Einheiten zu schalten.</German>
+    <Italian>Premi [W] o [INVIO] per scorrere le unit&#xE0; attive.</Italian>
+    <Spanish>Pulsar [W] o [INTRO] para pasar de una unidad activa a otra.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_35</Tag>
+    <English>By passing the mouse on the "Colonial attraction" parchment of the Immigration tab in Europe, you will have a detailed information of your colonies notoriety. Pay any attention to it, if you want to have a good immigration rate.</English>
+    <French>En passant la souris sur le parchemin "Attrait Colonial" de l'onglet Immigration en Europe, vous aurez une information d&#xE9;taill&#xE9;e de la notori&#xE9;t&#xE9; de vos colonies. Faites-y attention si vous souhaitez avoir un taux d'immigration satisfaisant.</French>
+    <German>By passing the mouse on the "Colonial attraction" parchment of the Immigration tab in Europe, you will have a detailed information of your colonies notoriety. Pay any attention to it, if you want to have a good immigration rate.</German>
+    <Italian>By passing the mouse on the "Colonial attraction" parchment of the Immigration tab in Europe, you will have a detailed information of your colonies notoriety. Pay any attention to it, if you want to have a good immigration rate.</Italian>
+    <Spanish>By passing the mouse on the "Colonial attraction" parchment of the Immigration tab in Europe, you will have a detailed information of your colonies notoriety. Pay any attention to it, if you want to have a good immigration rate.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_36</Tag>
+    <English>Press [COMMA] and [PERIOD] to scroll though units on the same square.</English>
+    <French>Appuyez sur [POINT-VIRGULE] et [DEUX POINTS] pour parcourir les unit&#xE9;s sur la m&#xEA;me case.</French>
+    <German>Dr&#xFC;cken Sie [KOMMA] und [PUNKT], um durch die Einheiten auf einem Gel&#xE4;ndefeld zu schalten.</German>
+    <Italian>Premi [,] e [.] per scorrere tra le unit&#xE0; che si trovano nella stessa casella.</Italian>
+    <Spanish>Pulsar [,] (coma) y [.] (punto) para desplazarse por las unidades que est&#xE9;n en la misma casilla.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_37</Tag>
+    <English>Press [SHIFT + ENTER] to force the turn to end.</English>
+    <French>Appuyez sur [MAJ + ENTREE] pour forcer la fin du tour.</French>
+    <German>Dr&#xFC;cken Sie [UMSCHALTEN + EINGABETASTE], um die aktuelle Runde zu beenden.</German>
+    <Italian>Premi [MAIUSC + INVIO] per forzare la fine del turno.</Italian>
+    <Spanish>Pulsar [MAY&#xFA;S + INTRO] para forzar el final del turno.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_38</Tag>
+    <English>Hold down the ALT key while mousing-over a plot to view the combat odds for an attack.</English>
+    <French>Maintenez la touche ALT enfonc&#xE9;e quand le curseur est sur une case pour conna&#xEE;tre les chances de r&#xE9;ussite en cas d'attaque.</French>
+    <German>Halten Sie ALT gedr&#xFC;ckt und bewegen Sie die Maus &#xFC;ber eine Position, um Ihre Chancen im Falle eines Angriffs zu betrachten.</German>
+    <Italian>Tieni premuto [ALT] e punta con il mouse una casella per visualizzare le probabilit&#xE0; di vittoria in caso di attacco.</Italian>
+    <Spanish>Mantener pulsada la tecla ALT mientras se se&#xF1;ala una casilla con el cursor para ver las probabilidades de un ataque.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_39</Tag>
+    <English>To view combat odds, hold down the right mouse button on the target tile.</English>
+    <French>Pour conna&#xEE;tre vos chances en cas de combat, maintenez le bouton droit de la souris enfonc&#xE9; sur la case vis&#xE9;e.</French>
+    <German>M&#xF6;chten Sie Ihre Kampfchancen betrachten, halten Sie die rechte Maustaste &#xFC;ber dem gew&#xFC;nschten Gel&#xE4;ndefeld gedr&#xFC;ckt.</German>
+    <Italian>Per visualizzare le probabilit&#xE0; di vittoria di uno scontro, tieni premuto il pulsante destro del mouse su una casella bersaglio.</Italian>
+    <Spanish>Mantener el cursor encima de la casilla objetivo para ver las probabilidades del combate.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_40</Tag>
+    <English>Press [HOME] and [END] to cycle through your settlements.</English>
+    <French>Appuyez sur [ORIGINE]et [FIN] pour faire d&#xE9;filer vos colonies.</French>
+    <German>Dr&#xFC;cken Sie [POS1] und [ENDE], um durch Ihre Siedlungen zu schalten.</German>
+    <Italian>Premi [HOME] e [FINE] per scorrere i tuoi insediamenti...</Italian>
+    <Spanish>Pulsar [INICIO] y [FIN] para pasar de un asentamiento a otro.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_41</Tag>
+    <English>Press [INSERT] to open up the nearest friendly settlement.</English>
+    <French>Appuyez sur [INSERT] pour afficher le territoire ami le plus proche.</French>
+    <German>Dr&#xFC;cken Sie [EINFG], um einen Blick auf die n&#xE4;chstgelegene verb&#xFC;ndete Siedlung zu werfen.</German>
+    <Italian>Premi [INS] per aprire la schermata dell'insediamento alleato pi&#xF9; vicino.</Italian>
+    <Spanish>Pulsar [INSERT] para abrir el asentamiento amistoso m&#xE1;s cercano.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_42</Tag>
+    <English>Hold down the [SHIFT] key to add items to the end of your settlement's build queue.</English>
+    <French>Maintenez la touche [MAJ] enfonc&#xE9;e pour ajouter des &#xE9;l&#xE9;ments &#xE0; la fin de la file d'attente des b&#xE2;timents &#xE0; construire dans votre colonie.</French>
+    <German>Halten Sie [UMSCHALTEN] gedr&#xFC;ckt, um Objekte dem Ende der Bauliste Ihrer Siedlung hinzuzuf&#xFC;gen.</German>
+    <Italian>Tieni premuto [MAIUSC] per aggiungere degli oggetti in fondo alla coda di costruzione del tuo insediamento.</Italian>
+    <Spanish>Mantener pulsada la tecla [MAY&#xFA;S] para a&#xF1;adir elementos al final de la cola de construcci&#xF3;n del asentamiento.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_43</Tag>
+    <English>Hold down the [CTRL] key to insert items at the beginning of your settlement's build queue.</English>
+    <French>Maintenez la touche [CTRL] enfonc&#xE9;e pour ins&#xE9;rer des &#xE9;l&#xE9;ments au d&#xE9;but de la file d'attente des b&#xE2;timents &#xE0; construire dans votre colonie.</French>
+    <German>Halten Sie [STRG] gedr&#xFC;ckt, um Objekte dem Anfang der Bauliste Ihrer Siedlung hinzuzuf&#xFC;gen.</German>
+    <Italian>Tieni premuto [CTRL] per aggiungere degli oggetti all'inizio della coda di costruzione del tuo insediamento.</Italian>
+    <Spanish>Mantener pulsada la tecla [CTRL] para insertar elementos al principio de la cola de construcci&#xF3;n del asentamiento.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_44</Tag>
+    <English>Hold down the [ALT] key to have a Settlement build an item indefinitely.</English>
+    <French>Maintenez la touche [ALT] enfonc&#xE9;e pour que la colonie construise ind&#xE9;finiment l'&#xE9;l&#xE9;ment choisi.</French>
+    <German>Halten Sie [ALT] gedr&#xFC;ckt, um das gew&#xFC;nschte Objekt unbegrenzt zu bauen.</German>
+    <Italian>Tieni premuto [ALT] per fare in modo che un insediamento costruisca un oggetto all'infinito...</Italian>
+    <Spanish>Mantener pulsada la tecla [ALT] para hacer que el asentamiento construya un elemento indefinidamente.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_45</Tag>
+    <English>Press the forward and back buttons on your mouse to cycle through units on the same plot.</English>
+    <French>Appuyez sur le bouton Suivant et Pr&#xE9;c&#xE9;dent de votre souris pour faire d&#xE9;filer les unit&#xE9;s stationn&#xE9;es sur la m&#xEA;me case.</French>
+    <German>Dr&#xFC;cken Sie die Vorw&#xE4;rts-/R&#xFC;ckw&#xE4;rts-Tasten Ihrer Maus, um durch alle Einheiten auf einem Gel&#xE4;ndefeld zu schalten.</German>
+    <Italian>Premi i pulsanti su e gi&#xF9; sul mouse per scorrere le unit&#xE0; sulla stessa casella.</Italian>
+    <Spanish>Pulsad los botones de adelante y atr&#xE1;s del rat&#xF3;n para pasar de una unidad a otra en la misma casilla.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_46</Tag>
+    <English>Hold down the [CTRL] key and spin the mouse-wheel to cycle through units on the same plot.</English>
+    <French>Maintenez la touche [CTRL] enfonc&#xE9;e et utilisez la molette de la souris pour parcourir les unit&#xE9;s sur la m&#xEA;me case.</French>
+    <German>Halten Sie [STRG] gedr&#xFC;ckt und schalten Sie mit dem Mausrad durch alle Einheiten auf dem gew&#xFC;nschten Gel&#xE4;ndefeld.</German>
+    <Italian>Tieni premuto il tasto [CTRL] e usa la rotellina del mouse per scorrere tra le unit&#xE0; sulla stessa casella.</Italian>
+    <Spanish>Mantener pulsada la tecla [CTRL] y girar la rueda del rat&#xF3;n para pasar de una unidad a otra en la misma casilla.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_47</Tag>
+    <English>Press [CTRL + M] to toggle the music on and off.</English>
+    <French>Appuyez sur [CTRL + VIRGULE] pour activer ou d&#xE9;sactiver la musique.</French>
+    <German>Dr&#xFC;cken Sie [STRG + M], um die Musik ein- oder auszublenden.</German>
+    <Italian>Premi [CTRL + M] per attivare e disattivare la musica.</Italian>
+    <Spanish>Pulsar [CTRL + M] para encender o apagar la m&#xFA;sica.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_48</Tag>
+    <English>Move units to a distant tile by right-clicking on it.</English>
+    <French>Pour d&#xE9;placer les unit&#xE9;s vers un endroit &#xE9;loign&#xE9;, cliquez dessus avec le bouton droit.</French>
+    <German>Per Rechtsklick schicken Sie Ihre Einheiten auf das gew&#xFC;nschte Gel&#xE4;ndefeld.</German>
+    <Italian>Muovi le unit&#xE0; su una casella lontana cliccandoci sopra con il pulsante destro.</Italian>
+    <Spanish>Se pueden mover unidades a una casilla lejana haciendo clic derecho en ella.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_49</Tag>
+    <English>You can group move all units of the same type by a [CTRL + RIGHT-CLICK] on the destination.</English>
+    <French>Pour regrouper et d&#xE9;placer toutes les unit&#xE9;s du m&#xEA;me type, appuyez sur [CTRL] et faites un [CLIC DROIT] sur la destination.</French>
+    <German>Mit [STRG + RECHTSKLICK] schicken Sie alle Einheiten eines Typs zum gew&#xFC;nschten Gel&#xE4;ndefeld.</German>
+    <Italian>Puoi muovere un gruppo di unit&#xE0; dello stesso tipo con [CTRL + PULSANTE DESTRO] sulla destinazione.</Italian>
+    <Spanish>Se pueden mover en grupo todas las unidades del mismo tipo pulsando [CTRL + CLIC DERECHO] en el lugar de destino.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_50</Tag>
+    <English>You can group move all units on the same tile by a [ALT + RIGHT-CLICK] on the destination.</English>
+    <French>Pour regrouper et d&#xE9;placer toutes les unit&#xE9;s sur la m&#xEA;me case, appuyez sur touche [ALT]  et faites un [CLIC DROIT] sur la destination.</French>
+    <German>Sie k&#xF6;nnen alle Einheiten eines Feldes mit [ALT + RECHTSKLICK] auf die gew&#xFC;nschte Position bewegen.</German>
+    <Italian>Puoi muovere un gruppo di unit&#xE0; sulla stessa casella con [ALT + PULSANTE DESTRO] sulla destinazione.</Italian>
+    <Spanish>Se pueden mover en grupo todas las unidades de la misma casilla pulsando [ALT + CLIC DERECHO] en el lugar de destino.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_51</Tag>
+    <English>Enter "Go-To" Mode by pressing [G].</English>
+    <French>Pour activer le mode "Aller vers", appuyez sur [G].</French>
+    <German>Dr&#xFC;cken Sie [G], um den "Gehe zu"-Modus zu aktivieren.</German>
+    <Italian>Passa alla modalit&#xE0; "Vai a" premendo [G].</Italian>
+    <Spanish>Pulsar [G] para entrar en el modo "Ir a".</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_52</Tag>
+    <English>Enter "Go-To (Same Unit Type)" Mode by pressing [CTRL + G].</English>
+    <French>Pour activer le mode "Aller vers (m&#xEA;me type d'unit&#xE9;)", appuyez sur [CTRL + G].</French>
+    <German>Dr&#xFC;cken Sie [STRG + G], um den "Gehe zu"-Modus f&#xFC;r alle Einheiten eines Typs zu aktivieren.</German>
+    <Italian>Passa alla modalit&#xE0; "Vai a (unit&#xE0; dello stesso tipo)" premendo [CTRL + G].</Italian>
+    <Spanish>Pulsar [CTRL + G] para entrar en el modo "Ir a (mismo tipo de unidad)".</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_53</Tag>
+    <English>Enter "Go-To (All Units)" Mode by pressing [ALT + G].</English>
+    <French>Pour activer le mode "Aller vers (toutes unit&#xE9;s)", appuyez sur [ALT + G].</French>
+    <German>Dr&#xFC;cken Sie [ALT + G], um den "Gehe zu"-Modus f&#xFC;r alle Einheiten zu aktivieren.</German>
+    <Italian>Passa alla modalit&#xE0; "Vai a (tutte le unit&#xE0;)" premendo [ALT + G].</Italian>
+    <Spanish>Pulsar [ALT + G] para entrar en el modo "Ir a (todas las unidades)" .</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_54</Tag>
+    <English>Press [C] to center the camera on the active unit.</English>
+    <French>Appuyez sur [C] pour centrer la cam&#xE9;ra sur l'unit&#xE9; active.</French>
+    <German>Dr&#xFC;cken Sie [C], um die Kamera auf die aktive Einheit zu zentrieren.</German>
+    <Italian>Premi [C] per centrare la visuale sull'unit&#xE0; attiva.</Italian>
+    <Spanish>Pulsar [C] para centrar la c&#xE1;mara en la unidad activa.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_55</Tag>
+    <English>Cannons are used to weaken the enemy units. However, performance will depend on the nature of the terrain.</English>
+    <French>Les canons permettent d'affaiblir les unit&#xE9;s ennemies. Les performances d&#xE9;pendront toutefois de la nature du terrain.</French>
+    <German>Cannons are used to weaken the enemy units. However, performance will depend on the nature of the terrain.</German>
+    <Italian>Cannons are used to weaken the enemy units. However, performance will depend on the nature of the terrain.</Italian>
+    <Spanish>Cannons are used to weaken the enemy units. However, performance will depend on the nature of the terrain.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_56</Tag>
+    <English>Press [ALT + C] to select all units on the same tile as the active unit.</English>
+    <French>Appuyez sur [ALT + C] pour s&#xE9;lectionner toutes les unit&#xE9;s sur la m&#xEA;me case que l'unit&#xE9; active.</French>
+    <German>Dr&#xFC;cken Sie [ALT + C], um die aktive Einheit und alle Einheiten auf demselben Feld auszuw&#xE4;hlen.</German>
+    <Italian>Premi [ALT + C] per selezionare tutte le unit&#xE0; sulla stessa casella di quella attiva.</Italian>
+    <Spanish>Pulsar [ALT + C] para seleccionar todas las unidades de la misma casilla que la unidad activa.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_57</Tag>
+    <English>If you hold down the [SHIFT] key while clicking on the Settlement Bar, you can "select" multiple settlements. You can also [SHIFT + RIGHT-CLICK] to set a rally point.</English>
+    <French>Maintenez la touche [MAJ] enfonc&#xE9;e et cliquez sur la barre des colonies pour "s&#xE9;lectionner" plusieurs colonies. Vous pouvez aussi d&#xE9;finir un point de ralliement sur la carte en utilisant [MAJ] + [CLIC DROIT].</French>
+    <German>Halten Sie [UMSCHALTEN] gedr&#xE3;&#xBC;ckt und klicken Sie auf die Siedlungsleiste, wenn Sie mehrere Siedlungen ausw&#xE3;&#xA4;hlen m&#xE3;&#xB6;chten. Mit [UMSCHALTEN + RECHTSKLICK] k&#xE3;&#xB6;nnen Sie Sammelpunkte bestimmen.</German>
+    <Italian>Se tieni premuto il tasto [MAIUSC] mentre clicchi sulla barra degli insediamenti, puoi "selezionare" pi&#xE3;&#xB9; insediamenti. Puoi anche usare [MAIUSC + PULSANTE DESTRO] per impostare un punto di raduno...</Italian>
+    <Spanish>Si se mantiene pulsada la tecla [SHIFT] mientras se hace clic en la barra del asentamiento, se pueden "seleccionar" varios asentamientos. Tambi&#xE3;&#xA9;n se puede usar [SHIFT + RIGHT-CLICK] para establecer un punto de concentraci&#xE3;&#xB3;n.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_58</Tag>
+    <English>If you hold down the [CTRL] key while clicking on the Settlement Bar, you will "select" all of your Settlements on that continent.</English>
+    <French>Maintenez la touche [CTRL] enfonc&#xE9;e et cliquez sur la barre des villes pour s&#xE9;lectionner toutes vos colonies sur le m&#xEA;me continent.</French>
+    <German>Halten Sie [STRG] gedr&#xFC;ckt und klicken Sie auf die Siedlungsleiste, um alle Ihre Siedlungen auf diesem Kontinent auszuw&#xE4;hlen.</German>
+    <Italian>Se tieni premuto il tasto [CTRL] mentre clicchi sulla barra dell'insediamento, puoi "selezionare" tutti gli insediamenti di quel continente...</Italian>
+    <Spanish>Si se mantiene pulsada la tecla [CTRL] mientras se hace clic en la barra del asentamiento, se "seleccionan" todos los asentamientos propios en ese continente.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_59</Tag>
+    <English>If you hold down the [ALT] key while clicking on the Settlement Bar, you will "select" all of your Settlements.</English>
+    <French>Maintenez la touche [ALT] enfonc&#xE9;e et cliquez sur la barre des colonies pour s&#xE9;lectionner toutes vos colonies.</French>
+    <German>Halten Sie [ALT] gedr&#xFC;ckt und klicken Sie auf die Siedlungsleiste, um alle Ihre Siedlungen auszuw&#xE4;hlen.</German>
+    <Italian>Se tieni premuto il tasto [ALT] mentre clicchi sulla barra dell'insediamento, puoi "selezionare" tutti i tuoi insediamenti...</Italian>
+    <Spanish>Si se mantiene pulsada la tecla [ALT] mientras se hace clic en la barra del asentamiento, se "seleccionan" todos los asentamientos propios en el mundo.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_60</Tag>
+    <English>You can unload goods one of two ways - by selecting the good you would like to unload from the unit stack and pressing "Unload" from the orders display or by activating the transport unit and clicking "Unload All." You can only unload goods in settlements (or in Europe).</English>
+    <French>Il existe deux mani&#xE8;res de d&#xE9;charger des marchandises : en s&#xE9;lectionnant la marchandise &#xE0; d&#xE9;charger dans la pile d'unit&#xE9;s puis en appuyant sur D&#xE9;charger dans la bo&#xEE;te d'ordre, ou en activant l'unit&#xE9; de transport puis en cliquant sur D&#xE9;charger tout. Vous ne pouvez d&#xE9;charger des marchandises que dans les colonies et en Europe.</French>
+    <German>Sie k&#xF6;nnen G&#xFC;ter auf zwei verschiedene Arten entladen - indem Sie das gew&#xFC;nschte Gut aus den Einheiten ausw&#xE4;hlen und in der Befehlsanzeige "Entladen" anklicken oder indem Sie die Transporteinheit aktivieren und "Alle entladen" anklicken. Sie k&#xF6;nnen G&#xFC;ter nur in Siedlungen (oder in Europa) entladen.</German>
+    <Italian>Puoi scaricare i beni in due modi: selezionando il bene che vuoi scaricare dal gruppo e scegliendo "Scarica" nella finestra degli ordini, oppure attivando l'unit&#xE0; di trasporto e cliccando su "Scarica tutto". Puoi scaricare i beni solo negli insediamenti (o in Europa).</Italian>
+    <Spanish>Hay dos maneras de descargar mercanc&#xED;as: seleccionando la mercanc&#xED;a que os gustar&#xED;a descargar y pulsando "Desembarcar" en el visor de &#xF3;rdenes; o activando la unidad de transporte y haciendo clic en "Desembarcar todas". Solo pod&#xE9;is descargar mercanc&#xED;as en los asentamientos (o en Europa).</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_61</Tag>
+    <English>You can give a unit consecutive orders by pressing the [SHIFT] key. For example, you could tell a Pioneer to build a road and then a mine by clicking on both buttons while holding down [SHIFT].</English>
+    <French>Vous pouvez donner des ordres cons&#xE9;cutifs &#xE0; une unit&#xE9; en appuyant sur la touche MAJ. Ainsi, vous pouvez ordonner &#xE0; un pionnier de construire une route suivie d'une mine en cliquant sur les deux boutons correspondants tout en maintenant la touche MAJ enfonc&#xE9;e.</French>
+    <German>Dr&#xFC;cken Sie die UMSCHALT-Taste, um einer Einheit aufeinander folgende Befehle zu erteilen. So k&#xF6;nnen Sie beispielsweise einem Pionier befehlen, zun&#xE4;chst eine Stra&#xDF;e und anschlie&#xDF;end eine Mine zu bauen, indem Sie bei gedr&#xFC;ckter UMSCHALT-Taste beide Buttons anklicken.</German>
+    <Italian>Puoi dare a un'unit&#xE0; ordini consecutivi premendo il tasto [MAIUSC]. Per esempio puoi ordinare a un pioniere di costruire prima una strada e poi una miniera cliccando sui rispettivi pulsanti mentre tieni premuto [MAIUSC].</Italian>
+    <Spanish>Es posible darle &#xF3;rdenes consecutivas a una unidad si se pulsa la tecla [MAY&#xFA;S]. Por ejemplo, se le puede decir a un Pionero que construya primero una carretera y luego una mina haciendo clic en esos dos botones mientras se mantiene pulsada la tecla [MAY&#xFA;S].</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_62</Tag>
+    <English>Hold down SHIFT and click on a tile to open a context menu.</English>
+    <French>Maintenez la touche MAJ enfonc&#xE9;e et cliquez sur une case pour ouvrir un menu contextuel.</French>
+    <German>Halten Sie die UMSCHALT-Taste gedr&#xE3;&#xBC;ckt und klicken Sie auf ein Gel&#xE3;&#xA4;ndefeld, um ein Kontextmen&#xE3;&#xBC; zu &#xE3;&#xB6;ffnen .</German>
+    <Italian>Tieni premuto il tasto MAIUSC e clicca su una casella per aprire un menu contestuale.</Italian>
+    <Spanish>Mantener pulsada la tecla MAY&#xE3;&#x9A;S y hacer clic en una casilla para abrir un men&#xE3;&#xBA; contextual.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_63</Tag>
+    <English>The NUMPAD arrow keys can be used to jump between Settlements when the Settlement Screen is up.</English>
+    <French>Utilisez les fl&#xE8;ches du PAVE NUMERIQUE pour passer d'une colonie &#xE0; l'autre lorsque l'&#xE9;cran de colonie est affich&#xE9;.</French>
+    <German>Nutzen Sie die Pfeiltasten im ZIFFERNBLOCK, um bei ge&#xF6;ffnetem Siedlungsbildschirm zwischen den einzelnen Siedlungen zu wechseln</German>
+    <Italian>Quando sei nella schermata dell'insediamento puoi usare i tasti freccia del tastierino numerico per passare da un insediamento all'altro.</Italian>
+    <Spanish>Las flechas del TECLADO NUM&#xE9;RICO se pueden usar para pasar de un asentamiento a otro en la pantalla del asentamiento.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_64</Tag>
+    <English>Press [\] to jump back to the last selected unit.</English>
+    <French>Appuyez sur [\] pour revenir &#xE0; la derni&#xE8;re unit&#xE9; s&#xE9;lectionn&#xE9;e.</French>
+    <German>Dr&#xE3;&#xBC;cken Sie [#], um zur letzten gew&#xE3;&#xA4;hlten Einheit zu springen .</German>
+    <Italian>Premi [\] per tornare all'ultima unit&#xE3;&#xA0; selezionata.</Italian>
+    <Spanish>Pulsar [\] para volver a la anterior unidad seleccionada.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_65</Tag>
+    <English>Press [CTRL + TAB] to view the turn event log.</English>
+    <French>Appuyez sur [CTRL + TAB] pour afficher le journal des &#xE9;v&#xE9;nements du tour.</French>
+    <German>Dr&#xE3;&#xBC;cken Sie [STRG + TAB], um das Rundenereignis-Log aufzurufen .</German>
+    <Italian>Premi [CTRL + TAB] per vedere il registro degli eventi.</Italian>
+    <Spanish>Pulsar [CTRL + TAB] para ver el historial de sucesos del turno.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_66</Tag>
+    <English>Press [ALT + S] to add a sign to the map that you and your teammates can see.</English>
+    <French>Appuyez sur [ALT + S] pour ajouter un panneau sur la carte pour vous et vos co&#xE9;quipiers...</French>
+    <German>Dr&#xFC;cken Sie [ALT + S], um ein Zeichen auf der Karte zu platzieren, das nur Sie und Ihre Teammitglieder sehen k&#xF6;nnen.</German>
+    <Italian>Premi [ALT + S] per aggiungere sulla mappa un segnale visibile soltanto a te e ai tuoi alleati.</Italian>
+    <Spanish>Pulsa [ALT + S] para a&#xF1;adir al mapa un letrero que pod&#xE1;is ver tus compa&#xF1;eros y t&#xFA;.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_67</Tag>
+    <English>Press [CTRL + H] to select all wounded units in a tile.</English>
+    <French>Appuyez sur [CTRL + H] pour s&#xE9;lectionner toutes les unit&#xE9;s bless&#xE9;es dans une case.</French>
+    <German>Dr&#xE3;&#xBC;cken Sie [STRG + H], um alle verwundeten Einheiten auf einem Gel&#xE3;&#xA4;ndefeld zu markieren.</German>
+    <Italian>Premi [CTRL + H] per selezionare tutte le unit&#xE3;&#xA0; ferite sulla casella.</Italian>
+    <Spanish>Pulsa [CTRL + H] para seleccionar todas las unidades heridas en una casilla.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_68</Tag>
+    <English>A ship with a "Builder Pack" lets start a "coastal" colony with the help of a settler on the coast. You just have to disembark a land unit to the place of your choice, adjacent to the ship and click on the icon "Found colony" in the background.</English>
+    <French>Un navire muni d'un "Pack B&#xE2;tisseur" permet de fonder une colonie "c&#xF4;ti&#xE8;re" avec l'aide d'un colon d&#xE9;barquer sur la c&#xF4;te. Il vous suffit de d&#xE9;barquer une unit&#xE9; &#xE0; l'endroit de votre choix contigu&#xEB; au navire et de cliquer sur le pictogramme "Fonder colonie" dans le background.</French>
+    <German>A ship with a "Builder Pack" lets start a "coastal" colony with the help of a settler on the coast. You just have to disembark a land unit to the place of your choice, adjacent to the ship and click on the icon "Found colony" in the background.</German>
+    <Italian>A ship with a "Builder Pack" lets start a "coastal" colony with the help of a settler on the coast. You just have to disembark a land unit to the place of your choice, adjacent to the ship and click on the icon "Found colony" in the background.</Italian>
+    <Spanish>A ship with a "Builder Pack" lets start a "coastal" colony with the help of a settler on the coast. You just have to disembark a land unit to the place of your choice, adjacent to the ship and click on the icon "Found colony" in the background.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_69</Tag>
+    <English>You cannot build a settlement directly next to another European settlement. You can, however, build directly next to a native settlement. You will have to pay for any of their land you claim, or risk incurring their wrath.</English>
+    <French>Il est impossible d'accoler une nouvelle colonie &#xE0; une autre colonie europ&#xE9;enne. Vous pouvez, en revanche, l'accoler &#xE0; une colonie indig&#xE8;ne. Vous devrez alors leur acheter toute case de terre que vous d&#xE9;sirez saisir, ou risquer de subir leur courroux.</French>
+    <German>Sie k&#xF6;nnen nicht direkt neben einer anderen europ&#xE4;ischen Siedlung eine Siedlung errichten. Direkt neben einer Ureinwohner-Siedlung ist dies zwar m&#xF6;glich, Sie m&#xFC;ssen jedoch entweder f&#xFC;r das Land, das Sie beanspruchen, bezahlen oder das Risiko eingehen, sich den Zorn der Ureinwohner zuzuziehen.</German>
+    <Italian>Non puoi costruire un insediamento adiacente a un altro insediamento europeo. Per&#xF2; puoi costruirlo direttamente adiacente a un insediamento nativo. Dovrai pagare per la terra che occupi, oppure rischiare di scatenare le loro ire.</Italian>
+    <Spanish>No pod&#xE9;is construir un asentamiento justo al lado de otro asentamiento europeo. No obstante, pod&#xE9;is construirlo al lado de un asentamiento ind&#xED;gena. Tendr&#xE9;is que pagar por cada tierra que les quit&#xE9;is u os arriesg&#xE1;is a despertar su ira.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_70</Tag>
+    <English>You can assign immigrant units waiting on the Europe Screen to come to the New World to the Missionary, Pioneer, Soldier, Dragoon, Scout, or Colonist profession before they get on the boat. [Double-clicking] a unit on the docks will cause the "Choose Profession" menu appear, from which you can select the desired profession for your immigrant. Be aware that it may cost some gold to provide your unit with the horses, tools, or weapons needed to take up this new profession.</English>
+    <French>Vous pouvez faire adopter aux immigrants sur les docks europ&#xE9;en la profession de pionnier, de militaire, de marin ou d'explorateur avant m&#xEA;me qu'ils ne mettent un pied sur le bateau. En faisant un [double clic] sur une unit&#xE9; pr&#xE9;sente sur les docks, vous ferez appara&#xEE;tre un menu "Choix de la profession", &#xE0; partir duquel vous pouvez s&#xE9;lectionner une profession. Toutefois, il faut que vous poss&#xE9;diez, dans votre entrep&#xF4;t, le mat&#xE9;riel n&#xE9;cessaire pour l'&#xE9;quipement.</French>
+    <German>Sie k&#xF6;nnen Immigranten-Einheiten, die auf dem Europa-Bildschirm darauf warten, in die Neue Welt zu kommen, die Berufe Missionar, Pionier, Soldat, Dragoner, Sp&#xE4;her oder Kolonist zuweisen. Mit einem [Doppelklick] auf eine Einheit in den Docks k&#xF6;nnen Sie das Berufswahl-Men&#xFC; aufrufen, in dem Sie den gew&#xFC;nschten Beruf f&#xFC;r Ihre Immigranten ausw&#xE4;hlen k&#xF6;nnen. Bedenken Sie, dass es Sie etwas Gold kosten kann, Ihre Einheit mit Pferden, Werkzeugen oder Waffen auszustatten, die unter Umst&#xE4;nden ben&#xF6;tigt werden, um einen Beruf anzunehmen.</German>
+    <Italian>Alle unit&#xE0; di immigranti nella schermata dell'Europa e in attesa di venire nel Nuovo Mondo puoi assegnare le professioni di missionario, pioniere, soldato, dragone, scout o colono ancor prima che salgano sulla nave. [Cliccando due volte] su un'unit&#xE0; sui moli farai apparire il menu "Scegli professione", da cui potrai selezionare la professione che desideri assegnare all'immigrante. Ricorda che potrebbe costare dell'oro, procurare all'unit&#xE0; i cavalli, gli attrezzi o le armi necessarie per adottare la nuova professione.</Italian>
+    <Spanish>Puedes asignar las profesiones de Misionero, Pionero, Soldado, Drag&#xF3;n, Batidor o Colono a las unidades de inmigrantes que esperan en la pantalla de Europa la hora de embarcar hacia el Nuevo Mundo. Haciendo [DOBLE CLIC] en una unidad en el muelle aparecer&#xE1; el men&#xFA; de elecci&#xF3;n de profesi&#xF3;n, desde el cual pod&#xE9;is seleccionar la profesi&#xF3;n deseada para el inmigrante. Tened en cuenta que costar&#xE1; cierta cantidad de Oro proveer a la unidad de los Caballos, Herramientas o Armas necesarios para emprender esta nueva profesi&#xF3;n.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_71</Tag>
+    <English>To found a colony in the interior lands, you have to make a "Wagon Builder" from one of your colonies. The manufacture of this specific truck will claim 25 food, 100 wood, 50 tools and a colon.</English>
+    <French>Pour fonder une colonie &#xE0; l'int&#xE9;rieur des terres, vous devrez fabriquer un "Chariot B&#xE2;tisseur" depuis une de vos colonies. La fabrication de ce chariot sp&#xE9;cifique r&#xE9;clamera 25 nourriture, 100 bois, 50 outils et un colon.</French>
+    <German>To found a colony in the interior lands, you have to make a "Wagon Builder" from one of your colonies. The manufacture of this specific truck will claim 25 food, 100 wood, 50 tools and a colon.</German>
+    <Italian>To found a colony in the interior lands, you have to make a "Wagon Builder" from one of your colonies. The manufacture of this specific truck will claim 25 food, 100 wood, 50 tools and a colon.</Italian>
+    <Spanish>To found a colony in the interior lands, you have to make a "Wagon Builder" from one of your colonies. The manufacture of this specific truck will claim 25 food, 100 wood, 50 tools and a colon.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_72</Tag>
+    <English>To capture a settlement or stack of non-combat units, you will have to defeat all combat units present and one of the non-combat units. After that, the remaining colonists are all yours!</English>
+    <French>Pour vous emparer d'une colonie ou d'une pile d'unit&#xE9;s non-combattantes, il vous faudra vaincre toutes les unit&#xE9;s de combat pr&#xE9;sentes, plus l'une des unit&#xE9;s non-combattantes. Si vous y parvenez, les colons restants sont &#xE0; vous !</French>
+    <German>Um eine Siedlung oder einen Verband nicht k&#xE4;mpferischer Einheiten zu erobern, m&#xFC;ssen Sie alle anwesenden Kampfeinheiten sowie eine nicht k&#xE4;mpferische Einheit besiegen. Danach geh&#xF6;ren die &#xFC;brigen Kolonisten ganz Ihnen!</German>
+    <Italian>Per conquistare un insediamento o un gruppo di unit&#xE0; non combattenti devi sconfiggere tutte le unit&#xE0; combattenti presenti, pi&#xF9; una di quelle non combattenti. Dopodich&#xE9; i rimanenti coloni saranno tutti tuoi!</Italian>
+    <Spanish>Para capturar un asentamiento y un apilamiento de unidades no combatientes, tendr&#xE9;is que derrotar a todas las unidades de combate presentes y a una de las civiles. Tras ello, los Colonos restantes ser&#xE1;n vuestros.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_73</Tag>
+    <English>Silver doesn't need to be processed, so it can be sold immediately for a high price. Silver can only be mined from Peaks or from tiles with the Silver resource.</English>
+    <French>L'argent n'a pas besoin d'&#xEA;tre retravaill&#xE9;, vous pouvez le vendre imm&#xE9;diatement &#xE0; un prix &#xE9;lev&#xE9;. L'argent ne peut &#xEA;tre excav&#xE9; que des pitons rocheux et des cases affichant l'ic&#xF4;ne de la ressource.</French>
+    <German>Silber muss nicht weiterverarbeitet, sondern kann sofort teuer verkauft werden. Silber kann nur von Gipfeln oder von Gel&#xE4;ndefeldern mit der Ressource Silber abgebaut werden.</German>
+    <Italian>L'argento non va lavorato, quindi pu&#xF2; essere venduto fin da subito a un prezzo molto alto. Pu&#xF2; essere estratto solo dalle montagne, o dalle caselle con la risorsa argento.</Italian>
+    <Spanish>La Plata no tiene que procesarse, por lo que se puede vender de inmediato a un buen precio. La Plata solo puede extraerse de picos o de casillas con el recurso de Plata.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_74</Tag>
+    <English>To assign a colonist in your settlement to a profession, [double-click] the colonist on the Settlement Screen.</English>
+    <French>Pour attribuer une profession &#xE0; l'un des colons de votre colonie, effectuez un [double-clic] sur le colon dans l'&#xE9;cran de colonie.</French>
+    <German>Um einem Kolonisten in Ihrer Siedlung einen Beruf zuzuweisen, klicken Sie im Siedlungsbildschirm doppelt auf den Kolonisten.</German>
+    <Italian>Per assegnare a un colono in un insediamento una professione, [clicca due volte] sul colono nella schermata dell'insediamento.</Italian>
+    <Spanish>Para asignar una profesi&#xF3;n a un Colono del asentamiento, haced doble clic en &#xE9;l en la pantalla del asentamiento.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_75</Tag>
+    <English>On the Settlement Screen, you can drag and drop your citizens to assign them to new professions. [Left-click] on the citizen you wish to assign and drag them to the desired tile or building and they will immediately begin working.</English>
+    <French>Dans l'&#xE9;cran de colonie, vous pouvez glisser/d&#xE9;poser vos citoyens afin de leur attribuer de nouvelles professions. Effectuez un [clic gauche] sur le citoyen auquel vous d&#xE9;sirez attribuer une profession et faites-le glisser sur la case ou le b&#xE2;timent voulu. Il commencera imm&#xE9;diatement son travail.</French>
+    <German>Auf dem Siedlungsbildschirm k&#xF6;nnen Sie Ihre B&#xFC;rger per Drag &amp; Drop neuen Berufen zuweisen. Wenn Sie den gew&#xFC;nschten B&#xFC;rger per gedr&#xFC;ckter linker Maustaste auf das entsprechende Gel&#xE4;ndefeld oder Geb&#xE4;ude ziehen, beginnt er sofort dort zu arbeiten.</German>
+    <Italian>Nella schermata dell'insediamento puoi trascinare i coloni per assegnare loro nuove professioni. [Clicca col pulsante sinistro] sul cittadino a cui vuoi assegnare una professione, quindi trascinalo sulla casella o sull'edificio che desideri e comincer&#xE0; immediatamente a lavorare.</Italian>
+    <Spanish>En la pantalla del asentamiento pod&#xE9;is arrastrar y soltar ciudadanos para asignarles nuevas profesiones. Haced clic con el bot&#xFC;n izquierdo en el ciudadano que quer&#xE1;is y arrastradlo al edificio o casilla deseados e inmediatamente se pondr&#xE1; a trabajar.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_76</Tag>
+    <English>You have in Europe, four specific management screens: Captaincy, Ships, Trade and Immigration.</English>
+    <French>Vous trouvez en Europe, 4 &#xE9;crans sp&#xE9;cifiques de gestion : Capitainerie, Navires, Commerce et Immigration.</French>
+    <German>You have in Europe, four specific management screens: Captaincy, Ships, Trade and Immigration.</German>
+    <Italian>You have in Europe, four specific management screens: Captaincy, Ships, Trade and Immigration.</Italian>
+    <Spanish>You have in Europe, four specific management screens: Captaincy, Ships, Trade and Immigration.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_77</Tag>
+    <English>To sell off a Treasure unit, you must first move it to one of your coastal cities. Once it is there you may choose to have your King ship it on his Galleons (and also take a chunk of the profits) or ship it back to Europe on a Galleon of your own.</English>
+    <French>Pour vendre un tr&#xE9;sor, vous devez d'abord le d&#xE9;placer jusque dans l'une de vos villes c&#xF4;ti&#xE8;res. Une fois qu'il s'y trouve, vous pouvez choisir de le faire rapatrier par les galions du roi (qui prendront une part des profits) ou de l'acheminer vous-m&#xEA;me vers l'Europe &#xE0; bord de l'un de vos propres galions.</French>
+    <German>Um eine Schatzeinheit zu verkaufen, m&#xFC;ssen Sie sie zuerst zu einer Ihrer K&#xFC;stenst&#xE4;dte bewegen. Bei ihrer Ankunft k&#xF6;nnen Sie ausw&#xE4;hlen, ob Ihr K&#xF6;nig den Schatz auf seinen Galeonen transportiert (und einen ordentlich Anteil des Gewinns einstreicht) oder ob er auf einer Ihrer eigenen Galeonen nach Europa transportiert werden soll.</German>
+    <Italian>Per vendere un tesoro devi prima farlo arrivare in uno dei tuoi insediamenti costieri. Una volta l&#xE0;, puoi decidere se farlo trasportare sui galeoni del re (che si prender&#xE0; parte dei profitti), oppure inviarlo in Europa con un tuo galeone.</Italian>
+    <Spanish>Para vender una unidad de Tesoro, primero deb&#xE9;is llevarla a una de vuestras ciudades costeras. Una vez que est&#xE9; all&#xED;, pod&#xE9;is optar entre que vuestro rey la embarque en uno de sus Galeones (y tambi&#xE9;n saque tajada de los beneficios) o enviarla a Europa en uno de vuestros propios Galeones.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_78</Tag>
+    <English>Ore is an invaluable resource, as it can be processed into Tools (necessary to create Pioneer units and select buildings and units). Tools can also be processed into Guns.</English>
+    <French>Le fer est une ressource inestimable : il vous permet de fabriquer des outils (n&#xE9;cessaires pour cr&#xE9;er les pionniers et s&#xE9;lectionner de nouveaux  b&#xE2;timents et unit&#xE9;s). Les outils peuvent ensuite &#xEA;tre transform&#xE9;s en armes &#xE0; feu.</French>
+    <German>Eisenerz ist ein extrem wertvoller Rohstoff, da es zu Werkzeugen weiterverarbeitet wird, die f&#xFC;r die Erstellung von Pionier-Einheiten und bestimmten Geb&#xE4;uden und Einheiten notwendig sind. Werkzeuge k&#xF6;nnen auch zu Schusswaffen weiterverarbeitet werden.</German>
+    <Italian>Il minerale &#xE8; una risorsa preziosa, dato che pu&#xF2; essere trasformato in attrezzi (necessari per creare pionieri e determinati edifici e unit&#xE0;). Gli attrezzi possono anche essere trasformati in armi.</Italian>
+    <Spanish>El Mineral es un recurso valioso, ya que se procesa y convierte en Herramientas (necesarias para crear Pioneros y ciertas unidades y edificios). Las Herramientas tambi&#xE9;n se pueden convertir en Armas.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_79</Tag>
+    <English>Exploring the New World can be a profitable venture. By delving into ancient ruins and making contact with the chiefs of native settlements, you can receive gifts of gold, experience points and even Treasure units.</English>
+    <French>Explorer le Nouveau monde peut s'av&#xE9;rer particuli&#xE8;rement profitable. En fouillant des ruines et en entrant en contact avec les chefs de villages indig&#xE8;nes, vous pouvez r&#xE9;cup&#xE9;rer de l'or, voire des tr&#xE9;sors.</French>
+    <German>Exploring the New World can be a profitable venture. By delving into ancient ruins and making contact with the chiefs of native settlements, you can receive gifts of gold, experience points and even Treasure units.</German>
+    <Italian>Exploring the New World can be a profitable venture. By delving into ancient ruins and making contact with the chiefs of native settlements, you can receive gifts of gold, experience points and even Treasure units.</Italian>
+    <Spanish>Exploring the New World can be a profitable venture. By delving into ancient ruins and making contact with the chiefs of native settlements, you can receive gifts of gold, experience points and even Treasure units.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_80</Tag>
+    <English>Cannons are the ultimate siege weapons. If you intend to take an enemy settlement, having a cannon on your side will make its conquest significantly easier.</English>
+    <French>Le canon est l'arme de si&#xE8;ge ultime. Si vous avez l'intention de vous emparer d'une colonie ennemie, poss&#xE9;der un canon simplifiera grandement votre belliqueuse entreprise.</French>
+    <German>Kanonen sind die ultimativen Belagerungswaffen. Wenn Sie planen, eine gegnerische Siedlung zu erobern, wird Ihnen eine Kanone die Eroberung deutlich erleichtern.</German>
+    <Italian>I cannoni sono l'arma da assedio definitiva. Se decidi di conquistare un insediamento nemico avere un cannone render&#xE0; l'impresa molto pi&#xF9; facile.</Italian>
+    <Spanish>Los Ca&#xF1;ones son las armas de asedio definitivas. Si pretend&#xE9;is tomar un asentamiento enemigo, tener un Ca&#xF1;&#xF3;n a vuestro lado os facilitar&#xE1; mucho la conquista.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_81</Tag>
+    <English>To build an economy, you need to assign your units to professions, which you can only do on the Settlement Screen.</English>
+    <French>Pour mettre en place une &#xE9;conomie forte, vous devez attribuer des professions &#xE0; vos unit&#xE9;s. Ceci n'est possible qu'&#xE0; partir de l'&#xE9;cran de colonie.</French>
+    <German>Um eine Wirtschaft aufzubauen, m&#xFC;ssen Sie Ihren Einheiten Berufe zuweisen. Das ist nur &#xFC;ber den Siedlungsbildschirm m&#xF6;glich.</German>
+    <Italian>Per costruire un'economia devi assegnare delle professioni alle tue unit&#xE0;, cosa che puoi fare solo nella schermata dell'insediamento.</Italian>
+    <Spanish>Para levantar vuestra econom&#xED;a necesit&#xE1;is asignar profesiones a las unidades, lo cual puede hacerse en la pantalla del asentamiento.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_82</Tag>
+    <English>Any human unit can adopt any profession (with a few exceptions), given the appropriate tiles, resources, or buildings are available. Specialists, however, are better at select professions than other citizens. </English>
+    <French>N'importe quelle unit&#xE9; humaine peut adopter n'importe quelle profession (&#xE0; quelques exceptions pr&#xE8;s). Les possibilit&#xE9;s d&#xE9;pendent en fait des cases, des ressources et des b&#xE2;timents disponibles. Cependant, pour une profession donn&#xE9;e, les sp&#xE9;cialistes sont plus efficaces que les autres citoyens.</French>
+    <German>Jede menschliche Einheit kann - mit wenigen Ausnahmen - einen beliebigen Beruf annehmen, vorausgesetzt die daf&#xFC;r notwendigen Gel&#xE4;ndefelder, Ressourcen beziehungsweise Geb&#xE4;ude sind verf&#xFC;gbar. Spezialisten haben jedoch bei ausgew&#xE4;hlten Berufen Vorteile gegen&#xFC;ber anderen B&#xFC;rgern.</German>
+    <Italian>Un'unit&#xE0; umana pu&#xF2; intraprendere qualsiasi professione (con qualche eccezione), a patto di avere a disposizione caselle, risorse o edifici adatti. Gli specialisti, comunque, sono pi&#xF9; bravi dei cittadini comuni in determinate professioni. </Italian>
+    <Spanish>Cualquier unidad humana puede adoptar cualquier profesi&#xF3;n (con algunas excepciones), siempre que est&#xE9;n disponibles las casillas, los recursos o los edificios necesarios. No obstante, los especialistas son mejores en sus profesiones que los dem&#xE1;s ciudadanos. </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_83</Tag>
+    <English>Having a high Rebel Sentiment in your settlement will increase your settlement's production of goods and raw materials and the defensive strength of your units.</English>
+    <French>Un fort sentiment de r&#xE9;bellion dans votre colonie augmentera son taux de production de mati&#xE8;res premi&#xE8;res et de produits manufactur&#xE9;s, ainsi que la puissance d&#xE9;fensive de vos unit&#xE9;s. </French>
+    <German>Starke rebellische Stimmung in Ihrer Siedlung steigert die Produktion von G&#xFC;tern und Rohstoffen sowie die Verteidigungsst&#xE4;rke Ihrer Einheiten.</German>
+    <Italian>Avere un sentimento di ribellione alto, nell'insediamento, aumenter&#xE0; la produzione di beni e materie prime e la forza difensiva delle tue unit&#xE0;.</Italian>
+    <Spanish>Tener un sentimiento de rebeli&#xF3;n alto en el asentamiento aumentar&#xE1; en &#xE9;ste la producci&#xF3;n de mercanc&#xED;as, materias primas y la fuerza defensiva de vuestras unidades.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_84</Tag>
+    <English>Be sure to adequately prepare yourself before declaring independence. You can view the forces that you will have to face by visiting the Revolution Screen [F3].</English>
+    <French>Avant de d&#xE9;clarer votre ind&#xE9;pendance, assurez-vous que votre colonie est assez solide pour franchir le pas ! Vous pouvez visualiser les unit&#xE9;s auxquelles vous aurez &#xE0; faire face dans l'&#xE9;cran de R&#xE9;volution [F3].</French>
+    <German>Seien Sie bei der Erkl&#xE3;&#xA4;rung der Unabh&#xE3;&#xA4;ngigkeit gut vorbereitet. Sie k&#xE3;&#xB6;nnen die Streitkr&#xE3;&#xA4;fte, gegen die Sie k&#xE3;&#xA4;mpfen m&#xE3;&#xBC;ssen, im Revolutionsbildschirm [F3] sehen.</German>
+    <Italian>Assicurati di essere pronto, prima di dichiarare l'indipendenza. Puoi dare un'occhiata alle forze che dovrai affrontare visitando la schermata della rivoluzione [F3].</Italian>
+    <Spanish>Aseguraos de prepararos adecuadamente para proclamar vuestra independencia. Ver&#xE3;&#xA9;is las fuerzas a las que deber&#xE3;&#xA9;is enfrentaros si visit&#xE3;&#xA1;is la pantalla Revoluci&#xE3;&#xB3;n [F3].</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_85</Tag>
+    <English>The "Seaways", which allow you to choose your destination very clearly from Europe, are data points that you set yourself. You can define as many as you want.</English>
+    <French>Les "Seaways", qui vous permettent de choisir votre cap tr&#xE8;s souplement &#xE0; partir de l'Europe, sont des points de rep&#xE8;re que vous d&#xE9;finissez vous m&#xEA;me afin de pouvoir les choisir comme destination lorsque vous parter pour le nouveau continent. Vous pouvez en d&#xE9;finir autant que vous le souhaitez.</French>
+    <German>The "Seaways", which allow you to choose your destination very clearly from Europe, are data points that you set yourself. You can define as many as you want.</German>
+    <Italian>The "Seaways", which allow you to choose your destination very clearly from Europe, are data points that you set yourself. You can define as many as you want.</Italian>
+    <Spanish>The "Seaways", which allow you to choose your destination very clearly from Europe, are data points that you set yourself. You can define as many as you want.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_86</Tag>
+    <English>As gourverneur of the New World colonies, it is your responsibility to choose the regions you wish to dominate. From the second era of the game, be sure to check your influence in the territories. The symbol "Territorial Influence" allows you to control and limit this influence in order not to create unnecessary conflict.</English>
+    <French>En tant que gourverneur des colonies du nouveau continent, il vous appartient de choisir les territoires que vous souhaiter dominer. A partir de la deuxi&#xE8;me &#xE8;re du jeu, veillez &#xE0; contr&#xF4;ler votre influence sur les territoires. Le pictogramme "Influence Territoriale" vous permet de ma&#xEE;triser et limiter cette influence afin de ne pas cr&#xE9;er de conflits inutiles.</French>
+    <German>As gourverneur of the New World colonies, it is your responsibility to choose the regions you wish to dominate. From the second era of the game, be sure to check your influence in the territories. The symbol "Territorial Influence" allows you to control and limit this influence in order not to create unnecessary conflict.</German>
+    <Italian>As gourverneur of the New World colonies, it is your responsibility to choose the regions you wish to dominate. From the second era of the game, be sure to check your influence in the territories. The symbol "Territorial Influence" allows you to control and limit this influence in order not to create unnecessary conflict.</Italian>
+    <Spanish>As gourverneur of the New World colonies, it is your responsibility to choose the regions you wish to dominate. From the second era of the game, be sure to check your influence in the territories. The symbol "Territorial Influence" allows you to control and limit this influence in order not to create unnecessary conflict.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_87</Tag>
+    <English>All ships have independent crews that will become the elite of your fleet. More you sail, more you will get promotions related to navigation that will be automatically obtained. Military promotions acquired in fights, will also allow you to develop skills particularly important for the warships crews.</English>
+    <French>Tous les navires disposent d'&#xE9;quipages ind&#xE9;pendants qui deviendront les &#xE9;lites de votre flotte. Au fur et &#xE0; mesure de vos travers&#xE9;es, vous obtiendrez des promotions li&#xE9;es &#xE0; la navigation qui seront automatiquement obtenues. Les promotions militaires acquises par les combats vous permettront aussi de d&#xE9;velopper des aptitudes particuli&#xE8;rement importantes pour les &#xE9;quipages de navires militaires.</French>
+    <German>All ships have independent crews that will become the elite of your fleet. More you sail, more you will get promotions related to navigation that will be automatically obtained. Military promotions acquired in fights, will also allow you to develop skills particularly important for the warships crews.</German>
+    <Italian>All ships have independent crews that will become the elite of your fleet. More you sail, more you will get promotions related to navigation that will be automatically obtained. Military promotions acquired in fights, will also allow you to develop skills particularly important for the warships crews.</Italian>
+    <Spanish>All ships have independent crews that will become the elite of your fleet. More you sail, more you will get promotions related to navigation that will be automatically obtained. Military promotions acquired in fights, will also allow you to develop skills particularly important for the warships crews.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_88</Tag>
+    <English>Europe is particularly fond of raw materials produced on the new continent. Devote your efforts to establish the most important production of agricultural resources to meet European demands.</English>
+    <French>L'Europe est particuli&#xE8;rement friandes des mati&#xE8;res premi&#xE8;res produites sur le nouveau continent. Consacrez vos efforts &#xE0; mettre sur pied la plus importante production de ressources agricoles afin de satisfaire les demandes europ&#xE9;ennes.</French>
+    <German>Europe is particularly fond of raw materials produced on the new continent. Devote your efforts to establish the most important production of agricultural resources to meet European demands.</German>
+    <Italian>Europe is particularly fond of raw materials produced on the new continent. Devote your efforts to establish the most important production of agricultural resources to meet European demands.</Italian>
+    <Spanish>Europe is particularly fond of raw materials produced on the new continent. Devote your efforts to establish the most important production of agricultural resources to meet European demands.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_89</Tag>
+    <English>On arrival on the new continent, the land is bare of all harvestable crops or plants. You need to discover new species of plants and seedlings you can get through indigenous or others in Europe. But all the lands are not equal in quality and do not always produce what you would like... Make the right choice!</English>
+    <French>A votre arriv&#xE9;e sur ce nouveau continent, les terres sont nues de toutes cultures ou plantes exploitables. Vous devez d&#xE9;couvrir de nouvelles esp&#xE8;ces de plantes et obtenir des semis gr&#xE2;ce aux indig&#xE8;nes ou d'autres en Europe afin de les planter chez vous. Mais toutes les terres ne sont pas pas &#xE9;quivalentes et ne produisent pas toujours ce que l'on souhaiterait ... Faites les bons choix !</French>
+    <German>On arrival on the new continent, the land is bare of all harvestable crops or plants. You need to discover new species of plants and seedlings you can get through indigenous or others in Europe. But all the lands are not equal in quality and do not always produce what you would like... Make the right choice!</German>
+    <Italian>On arrival on the new continent, the land is bare of all harvestable crops or plants. You need to discover new species of plants and seedlings you can get through indigenous or others in Europe. But all the lands are not equal in quality and do not always produce what you would like... Make the right choice!</Italian>
+    <Spanish>On arrival on the new continent, the land is bare of all harvestable crops or plants. You need to discover new species of plants and seedlings you can get through indigenous or others in Europe. But all the lands are not equal in quality and do not always produce what you would like... Make the right choice!</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_90</Tag>
+    <English>Agriculture plays a major role in the economy. When possible, your pioneers will have to build your farms and your agronomists will have to sow your better seeds.</English>
+    <French>L'agriculture tient une place pr&#xE9;pond&#xE9;rante dans l'&#xE9;conomie. Quand ce sera possible, vos pionniers devront b&#xE2;tir des fermes et vos agronomes &#xE9;tablir les cultures afin de tirer profit des terres de vos colonies.</French>
+    <German>Agriculture plays a major role in the economy. When possible, your pioneers will have to build your farms and your agronomists will have to sow your better seeds.</German>
+    <Italian>Agriculture plays a major role in the economy. When possible, your pioneers will have to build your farms and your agronomists will have to sow your better seeds.</Italian>
+    <Spanish>Agriculture plays a major role in the economy. When possible, your pioneers will have to build your farms and your agronomists will have to sow your better seeds.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_91</Tag>
+    <English>The winning trio: The pioneer, agronomist and farmer. After the pioneer built a farm, the agronomist will allow you to plant the seed that will allow a specialist (farmer, various planters) to collect the produce of the land. If you want to produce more, increase the farm level through the agronomist.</English>
+    <French>Le trio gagnant : Le pionnier, l'agronome et le fermier. Apr&#xE8;s avoir laisser le pionnier faire une ferme, l'agronome vous permettra de planter les semis qui autorisera un sp&#xE9;cialiste (fermier, planteurs divers) &#xE0; r&#xE9;colter le produit de la terre. Si vous souhaitez produire plus, augmenter le niveau des fermes gr&#xE2;ce &#xE0; l'agronome.</French>
+    <German>The winning trio: The pioneer, agronomist and farmer. After the pioneer built a farm, the agronomist will allow you to plant the seed that will allow a specialist (farmer, various planters) to collect the produce of the land. If you want to produce more, increase the farm level through the agronomist.</German>
+    <Italian>The winning trio: The pioneer, agronomist and farmer. After the pioneer built a farm, the agronomist will allow you to plant the seed that will allow a specialist (farmer, various planters) to collect the produce of the land. If you want to produce more, increase the farm level through the agronomist.</Italian>
+    <Spanish>The winning trio: The pioneer, agronomist and farmer. After the pioneer built a farm, the agronomist will allow you to plant the seed that will allow a specialist (farmer, various planters) to collect the produce of the land. If you want to produce more, increase the farm level through the agronomist.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_92</Tag>
+    <English>Taverns, more when they are associated with a supply of rum, attract settlers, criminals or sailors in your colonies.</English>
+    <French>Les tavernes, plus encore quand elles sont associ&#xE9;es avec un approvisionnement de rhum, attirent des colons, des d&#xE9;linquants ou des marins dans vos colonies.</French>
+    <German>Taverns, more when they are associated with a supply of rum, attract settlers, criminals or sailors in your colonies.</German>
+    <Italian>Taverns, more when they are associated with a supply of rum, attract settlers, criminals or sailors in your colonies.</Italian>
+    <Spanish>Taverns, more when they are associated with a supply of rum, attract settlers, criminals or sailors in your colonies.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_93</Tag>
+    <English>When one of your explorers travels to an indigenous village, be sure to talk to his chief. It may have a gift to offer.</English>
+    <French>Lorsque l'un de vos explorateurs se rend dans une colonie indig&#xE8;ne, pensez bien &#xE0; parler &#xE0; son chef. Il aura peut-&#xEA;tre un pr&#xE9;sent &#xE0; vous offrir.</French>
+    <German>When one of your explorers travels to an indigenous village, be sure to talk to his chief. It may have a gift to offer.</German>
+    <Italian>When one of your explorers travels to an indigenous village, be sure to talk to his chief. It may have a gift to offer.</Italian>
+    <Spanish>When one of your explorers travels to an indigenous village, be sure to talk to his chief. It may have a gift to offer.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_94</Tag>
+    <English>By entering the settlement screen and selecting the "Governor" tab and then clicking either "Import" or "Export" you can request that a certain good be shipped to or from your settlement automatically. By setting one settlement to Export a good, another to Import it and a Transport to the "Automate" order, your unit will automatically transport the selected good between settlements.</English>
+    <French>En acc&#xE9;dant &#xE0; l'&#xE9;cran de colonie et en cliquant sur l'onglet Gouverneur puis sur Importer ou Exporter, vous pouvez ordonner &#xE0; votre colonie l'importation ou l'exportation d'une certaine marchandise. Apr&#xE8;s avoir ordonn&#xE9; &#xE0; une colonie d'exporter une marchandise et &#xE0; une autre de l'importer, utilisez l'ordre Automatiser relatif &#xE0; l'une de vos unit&#xE9;s de transport afin qu'elle la fasse transiter de l'une &#xE0; l'autre.</French>
+    <German>Wenn Sie vom Siedlungsbildschirm aus auf die Registerkarte "Gouverneur" und dann auf "Import" oder "Export" klicken, k&#xE3;&#xB6;nnen Sie f&#xE3;&#xBC;r Ihre Siedlung ein bestimmtes Gut zum Import bzw. Export ausw&#xE3;&#xA4;hlen. Wenn Sie f&#xE3;&#xBC;r eine Siedlung ein Gut f&#xE3;&#xBC;r den Export ausw&#xE3;&#xA4;hlen, f&#xE3;&#xBC;r eine andere dasselbe Gut f&#xE3;&#xBC;r den Import, und einem Transportmittel die Anweisung "Transport automatisieren" geben, dann wird das ausgew&#xE3;&#xA4;hlte Gut automatisch zwischen den Siedlungen transportiert.</German>
+    <Italian>Accedendo alla schermata dell'insediamento, selezionando la sezione "Governatore" e quindi cliccando su "Importazione" o "Esportazione" puoi richiedere che un certo bene venga spedito automaticamente da o al tuo insediamento. Dando l'ordine a un insediamento di esportare un bene, a un altro di importarlo e a un trasporto l'ordine "Automatizza", la tua unit&#xE3;&#xA0; trasporter&#xE3;&#xA0; automaticamente il bene selezionato tra gli insediamenti.</Italian>
+    <Spanish>Si entr&#xE3;&#xA1;is en la pantalla del asentamiento, seleccion&#xE3;&#xA1;is la pesta&#xE3;&#xB1;a "Gobernante" y hac&#xE3;&#xA9;is clic en "Importar" o "Exportar", podr&#xE3;&#xA9;is solicitar que una mercanc&#xE3;&#xAD;a determinada se env&#xE3;&#xAD;e autom&#xE3;&#xA1;ticamente a vuestro asentamiento o desde &#xE3;&#xA9;ste. Al poner un asentamiento en la exportaci&#xE3;&#xB3;n de una mercanc&#xE3;&#xAD;a, a otro en la importaci&#xE3;&#xB3;n de &#xE3;&#xA9;sta y a un transporte con la orden "Automatizar", la unidad transportar&#xE3;&#xA1; autom&#xE3;&#xA1;ticamente la mercanc&#xE3;&#xAD;a seleccionada entre ambos asentamientos.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_95</Tag>
+    <English>Schoolhouses, Colleges and Universities allow you to turn your Free Colonists, Indentured Servants, Petty Criminals, and Converted Natives into Masters and Experts. Constructing one of these buildings allows you to assign units to the "Student" profession. After a certain amount of time spent in training, this student will become a specialist, like an Expert Farmer or Elder Statesman, based on the specialists present in your settlement.</English>
+    <French>Les &#xE9;coles, coll&#xE8;ges et universit&#xE9;s vous permettent de transformer colons libres, engag&#xE9;s, d&#xE9;linquants et indig&#xE8;nes convertis en ma&#xEE;tres et en experts. Construire l'un de ces b&#xE2;timents vous permet d'attribuer &#xE0; vos unit&#xE9;s la profession d'&#xE9;tudiant. Au bout d'un certain temps pass&#xE9; &#xE0; apprendre, cet &#xE9;tudiant deviendra un sp&#xE9;cialiste (un fermier professionnel ou un homme d'&#xE9;tat aguerri, par exemple). La nature de sa sp&#xE9;cialit&#xE9; d&#xE9;pendra des sp&#xE9;cialistes pr&#xE9;sents dans votre colonie.</French>
+    <German>In Schulen, Hochschulen und Universit&#xE4;ten k&#xF6;nnen Sie Freie Kolonisten, Schuldknechte, Kleinkriminelle und Konvertierte Ureinwohner zu Meistern und Erfahrenen Arbeitskr&#xE4;ften ausbilden. Wenn Sie eines dieser Geb&#xE4;ude errichtet haben, k&#xF6;nnen Sie Einheiten dem Beruf "Student" zuweisen. Nach einer bestimmten Ausbildungsdauer wird diese Einheit zu einem Spezialisten, wie etwa Erfahrener Bauer oder Weiser Staatsmann, basierend auf den in Ihrer Siedlung vorhandenen Spezialisten.</German>
+    <Italian>Scuole, college e universit&#xE0; ti permettono di trasformare liberi coloni, servi per contratto, piccoli criminali e nativi convertiti in mastri ed esperti. Costruendo uno di questi edifici potrai assegnare unit&#xE0; alla professione di "studente". Dopo un certo periodo di tempo passato in addestramento, lo studente diventer&#xE0; uno specialista, come un contadino esperto o uno statista anziano, a seconda degli specialisti presenti nel tuo insediamento.</Italian>
+    <Spanish>Las Escuelas, los Colegios universitarios y las Universidades permiten que convirt&#xE1;is a los Colonos libres, Siervos por deudas, Convictos y Nativos conversos en Maestros y expertos. Construir uno de esos edificios os permite asignar unidades a la profesi&#xF3;n de "Estudiante". Tras dedicar cierto tiempo a la formaci&#xF3;n, este estudiante se convertir&#xE1; en un especialista, como un Agricultor experto o un Estadista mayor, seg&#xFA;n los especialistas que haya en vuestro asentamiento.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_96</Tag>
+    <English>To complete construction in your settlements with haste, you must assign one of your Colonists to the Carpenter profession. Carpenters transform raw lumber - which can be transported into the settlement or generated by a Lumberjack - into production!</English>
+    <French>Pour achever plus rapidement les constructions de vos colonies, vous devez attribuer la profession de menuiser &#xE0; l'un de vos colons. Les menuisiers transforment le bois brut, qu'il ait &#xE9;t&#xE9; import&#xE9; dans la colonie ou produit par un b&#xFB;cheron, en production !</French>
+    <German>Um den Bau von Geb&#xE3;&#xA4;uden in Ihren Siedlungen zu beschleunigen, m&#xE3;&#xBC;ssen Sie einem Ihrer Kolonisten den Zimmermannsberuf zuweisen. Zimmerleute verwandeln unbearbeitete Holzst&#xE3;&#xA4;mme - die von einem Holzf&#xE3;&#xA4;ller in die Siedlung gebracht bzw. erzeugt werden k&#xE3;&#xB6;nnen - zu Produktion!</German>
+    <Italian>Per completare rapidamente le costruzioni nei tuoi insediamenti devi assegnare a uno dei tuoi coloni la professione di carpentiere. I carpentieri trasformano il legname (che pu&#xE3;&#xB2; essere trasportato nell'insediamento, oppure prodotto da un boscaiolo) in produzione!</Italian>
+    <Spanish>Para completar la construcci&#xE3;&#xB3;n en vuestros asentamientos aceleradamente, deb&#xE3;&#xA9;is asignarle a un Colono la profesi&#xE3;&#xB3;n de Carpintero. Los carpinteros convierten la Madera en bruto ?que puede ser generada o llevada al asentamiento por un Le&#xE3;&#xB1;ador? en producci&#xE3;&#xB3;n.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_97</Tag>
+    <English>If your food stores reach 400, that 400 food will immediately be transformed into a new Free Colonist.</English>
+    <French>Si vos r&#xE9;serves de nourriture atteignent 400 unit&#xE9;s, ces derni&#xE8;res seront imm&#xE9;diatement consum&#xE9;es et vous obtiendrez un nouveau colon libre.</French>
+    <German>Wenn Ihre Nahrungsvorr&#xE4;te 400 erreicht haben, werden diese 400 Nahrungseinheiten sofort in einen neuen Freien Kolonisten verwandelt.</German>
+    <Italian>Se le tue riserve di cibo arrivano a quota 400, quelle 400 unit&#xE0; di cibo verranno immediatamente trasformate in un nuovo libero colono.</Italian>
+    <Spanish>Si vuestros almacenes llegan a los 400 Alimentos, esa cantidad se transformar&#xE1; de inmediato en un Colono libre.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_98</Tag>
+    <English>You can arrange your ships in convoy. The convoy speed is always stall to that of the slowest ship.</English>
+    <French>Vous pourrez organiser vos navires en convoi. La vitesse du convoi se calera toujours &#xE0; celle du navire le moins rapide.</French>
+    <German>You can arrange your ships in convoy. The convoy speed is always stall to that of the slowest ship.</German>
+    <Italian>You can arrange your ships in convoy. The convoy speed is always stall to that of the slowest ship.</Italian>
+    <Spanish>You can arrange your ships in convoy. The convoy speed is always stall to that of the slowest ship.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_99</Tag>
+    <English>Experts and Masters can be brought into your colony in one of four ways - lifted from the docks of Europe and brought as an immigrant, recruited from the Europe Screen (at a hefty cost), educated through the use of a Schoolhouse, College or University or trained by the natives.</English>
+    <French>Il existe quatre moyens d'obtenir des experts et des ma&#xEE;tres. Vous pouvez en r&#xE9;cup&#xE9;rer dans un port d'Europe puis le faire venir dans le Nouveau monde comme immigrant, en recruter depuis l'&#xE9;cran de l'Europe (mais leur prix est &#xE9;lev&#xE9;), en former au sein de vos &#xE9;coles, lyc&#xE9;es et universit&#xE9;s, ou parfois demander aux indig&#xE8;nes d'en former.</French>
+    <German>Erfahrene Arbeitskr&#xE4;fte und Meister k&#xF6;nnen auf vier Arten in Ihre Kolonie gelangen - von den Docks in Europa als Immigrant &#xFC;berf&#xFC;hrt, &#xFC;ber den Europa-Bildschirm rekrutiert (zu einem stolzen Preis), in Schule, Hochschule oder Universit&#xE4;t ausgebildet oder von Ureinwohnern unterrichtet.</German>
+    <Italian>Puoi portare esperti e mastri nella tua colonia in quattro modi diversi: prendendoli sui moli europei e facendoli arrivare come immigranti, reclutandoli nella schermata dell'Europa (spendendo molto), educandoli tramite la costruzione di una scuola, un college o un'universit&#xE0;, oppure facendoli addestrare dai nativi.</Italian>
+    <Spanish>Pod&#xE9;is llevar a vuestras colonias expertos y maestros de cuatro maneras: recogi&#xE9;ndolos en los muelles de Europa y tray&#xE9;ndolos como inmigrantes, reclut&#xE1;ndolos en la pantalla de Europa (a un coste considerable), form&#xE1;ndolos mediante una Escuela, Colegio universitario o Universidad o entren&#xE1;ndolos con los Nativos.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_100</Tag>
+    <English>The diagonal lines on the edge of the map represent the passage to Europe. By sailing a ship into this area and giving it the "Sail to Europe" order, your ship will leave the game map and appear on the Europe screen several turns later. If you give a ship the "Sail to Europe" order when it is not resting on a Europe tile, that ship will automatically head for the closest Europe tile.</English>
+    <French>Les diagonales situ&#xE9;es aux bords des cartes repr&#xE9;sentent les voies d'acc&#xE8;s &#xE0; l'Europe. En y d&#xE9;pla&#xE7;ant un navire et en lui donnant l'ordre Naviguer vers l'Europe, il quittera la carte du jeu et appara&#xEE;tra, apr&#xE8;s plusieurs tours, sur l'&#xE9;cran de l'Europe. </French>
+    <German>Die diagonalen Linien am Rand der Karte stehen f&#xFC;r die &#xFC;berfahrt nach Europa. Wenn Sie ein Schiff in diesen Bereich man&#xF6;vrieren und ihm die Anweisung "Nach Europa segeln" geben, verl&#xE4;sst Ihr Schiff die Spielkarte und taucht einige Runden sp&#xE4;ter auf dem Europa-Bildschirm auf. Wenn Sie einem Schiff, das nicht auf einem europ&#xE4;ischen Gel&#xE4;ndefeld liegt, die Anweisung "Nach Europa segeln" geben, f&#xE4;hrt dieses Schiff automatisch zum n&#xE4;chstgelegenen europ&#xE4;ischen Gel&#xE4;ndefeld.</German>
+    <Italian>Le linee diagonali al limite della mappa rappresentano le rotte per l'Europa. Facendo navigare una nave in questa zona e dandole l'ordine "Fai vela per l'Europa", la tua nave scomparir&#xE0; dalla mappa di gioco e apparir&#xE0; nella schermata dell'Europa diversi turni pi&#xF9; tardi. Se impartisci a una nave l'ordine "Fai vela per l'Europa" quando non &#xE8; su una casella delle rotte verso l'Europa, la nave si diriger&#xE0; automaticamente alla pi&#xF9; vicina.</Italian>
+    <Spanish>Las l&#xED;neas diagonales del borde del mapa representan el tr&#xE1;nsito a Europa. Al enviar un barco a esa zona y darle la orden de "Navegar a Europa", la nave saldr&#xE1; del mapa de juego y aparecer&#xE1; en la pantalla de Europa varios turnos m&#xE1;s tarde. Si dais a un barco la orden "Navegar a Europa" cuando &#xE9;ste no se encuentre en una casilla europea, el barco se dirigir&#xE1; autom&#xE1;ticamente a la casilla de Europa m&#xE1;s cercana.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_101</Tag>
+    <English>Every citizen in your settlement requires two food each turn. If sufficient food is not available, your citizens will exit to the main game map until there is enough food for the remaining population.</English>
+    <French>Chaque citoyen de votre colonie a besoin de deux unit&#xE9;s de nourriture par tour pour subsister. Si vous ne disposez pas de suffisamment de nourriture, vos citoyens quitteront la colonie, et ce jusqu'&#xE0; ce qu'il reste assez de nourriture pour la population.</French>
+    <German>Jeder B&#xFC;rger in Ihrer Siedlung ben&#xF6;tigt pro Runde zwei Nahrungseinheiten. Wenn nicht gen&#xFC;gend Nahrung verf&#xFC;gbar ist, verschwinden Ihre B&#xFC;rger zur Karte des Hauptspiels, bis gen&#xFC;gend Nahrung f&#xFC;r die &#xFC;brige Bev&#xF6;lkerung vorhanden ist.</German>
+    <Italian>Ogni cittadino in un insediamento ha bisogno di due unit&#xE0; di cibo a turno. Se non &#xE8; disponibile cibo a sufficienza, i cittadini usciranno sulla mappa principale di gioco fino a quando non ci sar&#xE0; abbastanza cibo per la popolazione che rimane.</Italian>
+    <Spanish>Cada ciudadano del asentamiento precisa 2 Alimentos por turno. Si no ten&#xE9;is bastantes Alimentos disponibles, los ciudadanos saldr&#xE1;n al mapa principal del juego hasta que haya Alimentos suficientes para mantener a la poblaci&#xF3;n.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_102</Tag>
+    <English>You can load or unload your transport units from the Settlement Screen. In the "Transport" section of the Settlement Screen, all the transport units currently located in the same tile as your settlement are displayed. From here, you can click and drag any goods your transports are carrying onto the Goods display to add them to the settlement's stores. You can also click and drag any of the goods from the settlement onto the transport.</English>
+    <French>Vous pouvez charger ou d&#xE9;charger vos unit&#xE9;s de transport depuis l'&#xE9;cran de colonie. Dans la section "Transport", toutes les unit&#xE9;s de transport actuellement pr&#xE9;sentes dans votre colonie sont affich&#xE9;es. Vous pouvez ensuite faire glisser et d&#xE9;poser n'importe quelle marchandise transport&#xE9;e par vos unit&#xE9;s dans la fen&#xEA;tre des marchandises afin de l'ajouter aux r&#xE9;serves de votre colonie. Vous pouvez &#xE9;galement faire glisser et d&#xE9;poser n'importe quelle marchandise depuis votre colonie jusqu'&#xE0; l'une de vos unit&#xE9;s de transport.</French>
+    <German>Auf dem Siedlungsbildschirm k&#xE3;&#xB6;nnen Sie Ihre Transporteinheiten be- oder entladen. Im Transport-Bereich werden alle Transporteinheiten angezeigt, die sich aktuell auf demselben Gel&#xE3;&#xA4;ndefeld wie Ihre Siedlung befinden. Hier k&#xE3;&#xB6;nnen Sie alle G&#xE3;&#xBC;ter, die sich auf Transportmitteln befinden, per Mausklick in die G&#xE3;&#xBC;teranzeige ziehen und sie zu den Vorr&#xE3;&#xA4;ten Ihrer Siedlung hinzuf&#xE3;&#xBC;gen. Sie k&#xE3;&#xB6;nnen auch jedes Gut aus der Siedlung auf das Transportmittel ziehen.</German>
+    <Italian>Puoi caricare e scaricare le unit&#xE3;&#xA0; di trasporto dalla schermata dell'insediamento. Nella sezione "trasporti" della schermata dell'insediamento vengono visualizzate tutte le unit&#xE3;&#xA0; di trasporto attualmente nella stessa casella del tuo insediamento. Da qui puoi cliccare e trascinare i beni sui tuoi trasporti nella finestra dei beni, per aggiungerli alle riserve dell'insediamento. Puoi anche cliccare su qualsiasi bene e trascinarlo dall'insediamento su un trasporto.</Italian>
+    <Spanish>Pod&#xE3;&#xA9;is cargar y descargar las unidades de transporte desde la pantalla del asentamiento. En la secci&#xE3;&#xB3;n "Transporte" de la pantalla del asentamiento, se muestran todas las unidades de transporte ubicadas en la misma casilla que vuestro asentamiento. Ah&#xE3;&#xAD;, pod&#xE3;&#xA9;is hacer clic y arrastrar cualquier mercanc&#xE3;&#xAD;a que est&#xE3;&#xA9;n llevando vuestros transportes al visor de mercanc&#xE3;&#xAD;as para a&#xE3;&#xB1;adirla a los almacenes del asentamiento. Tambi&#xE3;&#xA9;n pod&#xE3;&#xA9;is hacer clic y arrastrar cualquiera de las mercanc&#xE3;&#xAD;as del asentamiento al transporte.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_103</Tag>
+    <English>To assign a citizen to the Scout, Soldier, or Dragoon combat profession you must have Horses or Weapons available. Scouts require 5 horses; Soldiers require 50 weapons; Dragoons require 50 of each.</English>
+    <French>Pour attribuer les professions militaires de soldat ou de dragon &#xE0; un citoyen, vous devez disposer de chevaux et d'armes. Les explorateurs requi&#xE8;rent 5 chevaux, les soldats 50 armes, et les dragons 50 de chaque.</French>
+    <German>Um einem B&#xFC;rger den Sp&#xE4;her-, Soldaten- oder Dragonerberuf zuzuweisen, m&#xFC;ssen Ihnen Pferde oder Waffen zur Verf&#xFC;gung stehen. Sp&#xE4;her erfordern 5 Pferde; Soldaten erfordern 50 Waffen; Dragoner erfordern 50 Pferde und 50 Waffen.</German>
+    <Italian>Per assegnare un cittadino alle professioni militari di scout, soldato o dragone devi avere a disposizione armi o cavalli. Per gli scout servono 5 cavalli, per i soldati 50 armi, per i dragoni 50 di entrambi.</Italian>
+    <Spanish>Para asignarle la profesi&#xF3;n de combate Batidor, Soldado o Drag&#xF3;n a una unidad deb&#xE9;is tener disponibles Caballos o Mosquetes. Los Batidores necesitan 5 Caballos; los Soldados, 50 Mosquetes; y los Dragones, 50 de cada.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_104</Tag>
+    <English>The Colonization Civilopedia is rife with gameplay and historical information and should be your first stop should you have any questions. You can visit it by pressing [F12], clicking the "Civilopedia" icon, or by selecting it on the Main Menu.</English>
+    <French>La Civilop&#xE9;dia de Colonization est truff&#xE9;e d'informations historiques et de conseils de jeu. N'h&#xE9;sitez pas &#xE0; la consulter d&#xE8;s que vous vous posez des questions. Pour ce faire, appuyez sur [F12], cliquez sur l'ic&#xF4;ne Civilop&#xE9;dia ou s&#xE9;lectionnez-la dans le menu principal.</French>
+    <German>The Colonization Civilopedia is rife with gameplay and historical information and should be your first stop should you have any questions. You can visit it by pressing [F12], clicking the "Civilopedia" icon, or by selecting it on the Main Menu.</German>
+    <Italian>The Colonization Civilopedia is rife with gameplay and historical information and should be your first stop should you have any questions. You can visit it by pressing [F12], clicking the "Civilopedia" icon, or by selecting it on the Main Menu.</Italian>
+    <Spanish>The Colonization Civilopedia is rife with gameplay and historical information and should be your first stop should you have any questions. You can visit it by pressing [F12], clicking the "Civilopedia" icon, or by selecting it on the Main Menu.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_105</Tag>
+    <English>If you produce more goods than you are able to store, then the remaining goods will begin to spoil and disappear. Be sure to build Warehouses and make regular shipments so that your colonists' hard work will not be wasted.</English>
+    <French>Si vous produisez davantage de marchandises que vous n'&#xEA;tes capable d'en stocker, la marchandise exc&#xE9;dentaire commencera &#xE0; se d&#xE9;t&#xE9;riorer et finira par dispara&#xEE;tre. Assurez-vous de construire des entrep&#xF4;ts et d'organiser des transports de fret r&#xE9;guliers afin que vos fid&#xE8;les colons n'aient pas travaill&#xE9; pour rien.</French>
+    <German>Wenn Sie mehr G&#xFC;ter produzieren, als Sie lagern k&#xF6;nnen, verderben die &#xFC;brigen G&#xFC;ter und verschwinden. Achten Sie darauf, Lagergeb&#xE4;ude zu errichten und G&#xFC;ter regelm&#xE4;&#xDF;ig zu verschiffen, damit die harte Arbeit Ihrer Kolonisten nicht umsonst ist.</German>
+    <Italian>Se produci pi&#xF9; beni di quelli che puoi immagazzinare, quelli in pi&#xF9; cominceranno a rovinarsi e scompariranno. Assicurati di costruire magazzini e di fare spedizioni regolari, in modo da non sprecare il risultato del duro lavoro dei tuoi coloni.</Italian>
+    <Spanish>Si produc&#xED;s m&#xE1;s mercanc&#xED;as de las que pod&#xE1;is almacenar, las restantes empezar&#xE1;n a echarse a perder y desaparecer poco a poco. No dej&#xE9;is de construir Almacenes y hacer env&#xED;os regulares, para que no se eche a perder el duro trabajo de los Colonos.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_106</Tag>
+    <English>Native units have no regard for your silly "borders" and will freely enter your territory and your settlements.</English>
+    <French>Les unit&#xE9;s indig&#xE8;nes n'ont que faire de ces stupides histoires de fronti&#xE8;res. Ils entreront librement dans votre territoire et dans vos colonies.</French>
+    <German>Ureinwohner-Einheiten k&#xFC;mmern sich nicht um Ihre albernen "Grenzen" und bewegen sich frei durch Ihr Territorium und Ihre Siedlungen.</German>
+    <Italian>Le unit&#xE0; dei nativi non badano a cose ridicole come i tuoi "confini" ed entreranno liberamente nei tuoi territori e insediamenti.</Italian>
+    <Spanish>A las unidades nativas les importan un comino las tontas fronteras, y entrar&#xE1;n libremente en vuestro territorio y asentamiento.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_107</Tag>
+    <English>If during the first era, your borders will not evolve, from the second you need to manage your influence to avoid possible conflicts. Click on the icon "Territorial Influence."</English>
+    <French>Si durant la premi&#xE8;re &#xE8;re, vos fronti&#xE8;res n'&#xE9;volueront pas, &#xE0; partir de la deuxi&#xE8;me vous devrez g&#xE9;rer votre influence afin d'&#xE9;viter d'&#xE9;ventuels conflits. Cliquez sur le pictogramme "Influence Territoriale".</French>
+    <German>If during the first era, your borders will not evolve, from the second you need to manage your influence to avoid possible conflicts. Click on the icon "Territorial Influence."</German>
+    <Italian>If during the first era, your borders will not evolve, from the second you need to manage your influence to avoid possible conflicts. Click on the icon "Territorial Influence."</Italian>
+    <Spanish>If during the first era, your borders will not evolve, from the second you need to manage your influence to avoid possible conflicts. Click on the icon "Territorial Influence."</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_108</Tag>
+    <English>If you try to build a colony too close to a native settlement, the local chief may require you to purchase the land you are claiming. You can refuse to pay, of course, but this will certainly worsen relations between you and the natives.</English>
+    <French>Si vous tentez de fonder une ville trop pr&#xE8;s d'une colonie indig&#xE8;ne, il se peut que le chef local vous demande d'acheter les terres que vous tentez de r&#xE9;cup&#xE9;rer. Vous pouvez refuser de payer, bien entendu, mais cela entachera vos relations avec les indig&#xE8;nes concern&#xE9;s.</French>
+    <German>Wenn Sie versuchen, eine Kolonie zu nahe an einer Ureinwohner-Siedlung zu errichten, bietet Ihnen der einheimische H&#xE4;uptling vielleicht das Land, das Sie beanspruchen, zum Kauf an. Wenn Sie sich weigern zu zahlen, so hat das eindeutig negative Auswirkungen auf Ihre Beziehung zu den Ureinwohnern.</German>
+    <Italian>Se provi a costruire una colonia troppo vicino a un insediamento di nativi, il capo potrebbe chiederti di acquistare la terra che rivendichi. Puoi naturalmente rifiutarti di pagare, ma ci&#xF2; peggiorer&#xE0; le relazioni con i nativi.</Italian>
+    <Spanish>Si intent&#xE1;is construir una colonia demasiado cerca de un asentamiento ind&#xED;gena, el jefe del lugar puede que os exija comprar la tierra de las que os est&#xE1;is apoderando. Obviamente, os pod&#xE9;is negar a pagar, pero seguro que ello empeorar&#xE1; vuestra relaci&#xF3;n con los Nativos.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_109</Tag>
+    <English>Without a Warehouse, your settlement can only store 100 of any given type of good except Food. A Warehouse increases capacity to 300. A Warehouse Expansion ups your settlement's storage to 500. </English>
+    <French>Sans entrep&#xF4;t, une colonie ne peut stocker que 100 unit&#xE9;s d'une marchandise, except&#xE9; pour la nourriture. Un entrep&#xF4;t fait passer cette limite &#xE0; 250 et une extension d'entrep&#xF4;t &#xE0; 500.</French>
+    <German>Ohne Lagerhaus kann Ihre Siedlung nur 100 Einheiten eines bestimmten Guts, mit Ausnahme von Nahrung, lagern. Ein Lagerhaus erh&#xF6;ht die Lagerkapazit&#xE4;t Ihrer Siedlung auf 300, eine Lagerhauserweiterung auf 500.</German>
+    <Italian>Senza un magazzino, il tuo insediamento pu&#xF2; mettere da parte solo 100 unit&#xE0; di qualsiasi bene, a parte il cibo. Un magazzino aumenta la capacit&#xE0; a 300. L'espansione del magazzino porta la capacit&#xE0; del tuo insediamento a 500. </Italian>
+    <Spanish>Sin un Almac&#xE9;n, vuestro asentamiento solo puede guardar 100 de cualquier tipo de mercanc&#xED;as, excepto Alimentos. Un Almac&#xE9;n aumenta la capacidad a 300. El Almac&#xE9;n ampliado sube la capacidad de almacenamiento del asentamiento a 500. </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_110</Tag>
+    <English>The cannons are powerful weapons that can weaken enemy units. However, they are very vulnerable and can not defend themselves. Be sure to always protect your artillery units.</English>
+    <French>Les canons sont de puissantes armes qui permettent d'affaiblir des unit&#xE9;s adverses. Cependant, ils sont tr&#xE8;s vuln&#xE9;rables et ne peuvent se d&#xE9;fendre seuls. Veillez &#xE0; prot&#xE9;ger syst&#xE9;matiquement vos unit&#xE9;s d'artillerie.</French>
+    <German>The cannons are powerful weapons that can weaken enemy units. However, they are very vulnerable and can not defend themselves. Be sure to always protect your artillery units.</German>
+    <Italian>The cannons are powerful weapons that can weaken enemy units. However, they are very vulnerable and can not defend themselves. Be sure to always protect your artillery units.</Italian>
+    <Spanish>The cannons are powerful weapons that can weaken enemy units. However, they are very vulnerable and can not defend themselves. Be sure to always protect your artillery units.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_111</Tag>
+    <English>As the ships that need a crew, the cannons need artillery men and ammunition to be functional. Any colon can become artillery man but professional units can be recruited in Europe.</English>
+    <French>Comme les navires qui ont besoin d'un &#xE9;quipage, les canons ont besoin d'artilleurs et de munitions pour &#xEA;tre fonctionnels. N'importe quel colon peut devenir artilleur mais des unit&#xE9;s professionnelles peuvent &#xEA;tre enr&#xF4;l&#xE9;es en Europe.</French>
+    <German>As the ships that need a crew, the cannons need artillery men and ammunition to be functional. Any colon can become artillery man but professional units can be recruited in Europe.</German>
+    <Italian>As the ships that need a crew, the cannons need artillery men and ammunition to be functional. Any colon can become artillery man but professional units can be recruited in Europe.</Italian>
+    <Spanish>As the ships that need a crew, the cannons need artillery men and ammunition to be functional. Any colon can become artillery man but professional units can be recruited in Europe.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_112</Tag>
+    <English>Beware of pirates. Unattached nor nation, the pirates are common enemies to all nations. If you do not protect your merchant ships with warships organized in convoy, your wealth will be in great danger.</English>
+    <French>Attention aux pirates. Sans attache, ni nation, les pirates sont les ennemis communs &#xE0; toutes les nations. Si vous ne prot&#xE9;gez pas vos navires marchands avec des vaisseaux de guerre et en vous organisant en convoi, vos richesses seront en grand danger.</French>
+    <German>Beware of pirates. Unattached nor nation, the pirates are common enemies to all nations. If you do not protect your merchant ships with warships organized in convoy, your wealth will be in great danger.</German>
+    <Italian>Beware of pirates. Unattached nor nation, the pirates are common enemies to all nations. If you do not protect your merchant ships with warships organized in convoy, your wealth will be in great danger.</Italian>
+    <Spanish>Beware of pirates. Unattached nor nation, the pirates are common enemies to all nations. If you do not protect your merchant ships with warships organized in convoy, your wealth will be in great danger.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_113</Tag>
+    <English>Galleons are the finest transport ships available and the only ships capable of transporting Treasure units to Europe.</English>
+    <French>Les galions sont les navires de transport disponibles les plus performants. Ils sont notamment les seuls &#xE0; pouvoir transporter les tr&#xE9;sors en Europe.</French>
+    <German>Galeonen sind die besten verf&#xFC;gbaren Transportschiffe und die einzigen, die Schatzeinheiten nach Europa bringen k&#xF6;nnen.</German>
+    <Italian>I galeoni sono le migliori navi da trasporto disponibili e sono le uniche in grado di trasportare i tesori in Europa.</Italian>
+    <Spanish>Los Galeones son los mejores barcos de transporte y los &#xFA;nicos capaces de llevar unidades de Tesoro a Europa.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_114</Tag>
+    <English>The Drydock and the Shipyard allow you to build ships in your settlement. The Drydock allows the Caravel, Merchantman, Galleon, and Privateer to be constructed, while the Shipyard allows for the Frigate and Ship of the Line to be built. </English>
+    <French>Les cales s&#xE8;ches et les chantiers navals vous permettent de fabriquer des navires. Les cales s&#xE8;ches donnent acc&#xE8;s &#xE0; la caravelle, au navire marchand, au galion au navire d'escorte, tandis que le chantier naval vous permet d'ordonner la construction de fr&#xE9;gates.</French>
+    <German>Das Trockendock und die Schiffswerft erm&#xF6;glichen Ihnen den Bau von Schiffen in Ihrer Siedlung. Das Trockendock erm&#xF6;glicht den Bau von Karavelle, Kauffahrer, Galeone und Freibeuter, w&#xE4;hrend die Schiffswerft den Bau von Fregatte und Linienschiff erm&#xF6;glicht.</German>
+    <Italian>Il bacino di carenaggio e il cantiere navale ti permettono di costruire navi nell'insediamento. Con il bacino di carenaggio puoi costruire caravelle, mercantili, galeoni e navi corsare, mentre il cantiere navale permette la costruzione di fregate e navi da prima linea. </Italian>
+    <Spanish>El Dique seco y el Astillero os permiten construir barcos en vuestro asentamiento. El Dique seco permite construir la Carabela, el Mercante, el Gale&#xF3;n y el Corsario; mientras que el Astillero da acceso a la Fragata y a la Corbeta. </Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_115</Tag>
+    <English>To load goods onto a transport, you must move the transport unit into the same tile as the goods and press the "Load Goods" icon. You can also do it from the "Transport" section of the Settlement screen.</English>
+    <French>Pour charger des marchandises dans une unit&#xE9; de transport, vous devez d&#xE9;placer cette derni&#xE8;re sur la m&#xEA;me case que les marchandises puis cliquer sur l'ic&#xF4;ne Charger des marchandises. Vous pouvez &#xE9;galement le faire depuis l'espace Transport de l'&#xE9;cran de colonie.</French>
+    <German>Um G&#xFC;ter auf ein Transportmittel zu laden, m&#xFC;ssen Sie die Transporteinheit auf dasselbe Gel&#xE4;ndefeld wie die G&#xFC;ter bewegen und auf "Beladen" klicken. Dies ist ebenfalls im Men&#xFC; "Transport" im Siedlungsbildschirm m&#xF6;glich.</German>
+    <Italian>Per caricare dei beni su un trasporto devi prima spostare l'unit&#xE0; da trasporto nella stessa casella in cui si trovano i beni, per poi cliccare sull'icona "Carica beni". Puoi anche farlo dalla sezione "Trasporti" nella schermata dell'insediamento.</Italian>
+    <Spanish>Para cargar mercanc&#xED;as en un transporte, deb&#xE9;is llevar la unidad de transporte a la misma casilla en la que est&#xE9;n las mercanc&#xED;as y pulsar en el icono "Cargar mercanc&#xED;as". Tambi&#xE9;n pod&#xE9;is hacerlo en la secci&#xF3;n de "Transporte", en la pantalla del asentamiento.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_116</Tag>
+    <English>The DoaNE Mod gives pride to the production of raw materials. The Europeans are not interested in the manufactured products. Those products will only serve for domestic consumption and trade with Native American tribes.</English>
+    <French>Le Mod DoaNE fait la part belle &#xE0; la production de mati&#xE8;res premi&#xE8;res. Les europ&#xE9;ens ne sont pas int&#xE9;ress&#xE9;s par les produits transform&#xE9;s. La production des produits finis ne servira qu'&#xE0; la consommation int&#xE9;rieure et au commerce avec les tribus am&#xE9;rindiennes.</French>
+    <German>The DoaNE Mod gives pride to the production of raw materials. The Europeans are not interested in the manufactured products. Those products will only serve for domestic consumption and trade with Native American tribes.</German>
+    <Italian>The DoaNE Mod gives pride to the production of raw materials. The Europeans are not interested in the manufactured products. Those products will only serve for domestic consumption and trade with Native American tribes.</Italian>
+    <Spanish>The DoaNE Mod gives pride to the production of raw materials. The Europeans are not interested in the manufactured products. Those products will only serve for domestic consumption and trade with Native American tribes.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_117</Tag>
+    <English>Farms are created by the pioneer, but agronomists will evolve farm levels. Their work is neither free nor necessarily fast.</English>
+    <French>Les fermes sont cr&#xE9;ees par le pionnier, mais c'est l'agronome qui vous fera &#xE9;voluer les niveaux de production. Son travail n'est ni gratuit, ni forc&#xE9;ment rapide.</French>
+    <German>Farms are created by the pioneer, but agronomists will evolve farm levels. Their work is neither free nor necessarily fast.</German>
+    <Italian>Farms are created by the pioneer, but agronomists will evolve farm levels. Their work is neither free nor necessarily fast.</Italian>
+    <Spanish>Farms are created by the pioneer, but agronomists will evolve farm levels. Their work is neither free nor necessarily fast.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_118</Tag>
+    <English>DoaNE integrates latitudes. They are essential to the research of ideal land for certain crops. Don't plant them any-where and try to find the best location for an optimal production.</English>
+    <French>DoaNE int&#xE8;gre les latitudes. Elles sont essentielles &#xE0; la recherche des terres id&#xE9;ales pour certaines cultures. Alors ne plantez pas n'importe-o&#xF9; et recherchez le meilleur emplacement pour une production optimale.</French>
+    <German>DoaNE integrates latitudes. They are essential to the research of ideal land for certain crops. Don't plant them any-where and try to find the best location for an optimal production.</German>
+    <Italian>DoaNE integrates latitudes. They are essential to the research of ideal land for certain crops. Don't plant them any-where and try to find the best location for an optimal production.</Italian>
+    <Spanish>DoaNE integrates latitudes. They are essential to the research of ideal land for certain crops. Don't plant them any-where and try to find the best location for an optimal production.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_119</Tag>
+    <English>The medical office is used to treat wounded soldiers. If you have clothes, do not forget to build one.</English>
+    <French>L'office m&#xE9;dical permet de soigner les soldats bl&#xE9;ss&#xE9;s. Si vous disposez de tissus, n'oubliez pas d'en construire un.</French>
+    <German>The medical office is used to treat wounded soldiers. If you have clothes, do not forget to build one.</German>
+    <Italian>The medical office is used to treat wounded soldiers. If you have clothes, do not forget to build one.</Italian>
+    <Spanish>The medical office is used to treat wounded soldiers. If you have clothes, do not forget to build one.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_120</Tag>
+    <English>You can choose immigrants you need in Europe. A practical system allow you to a specific number of units (1, 2, 3 or infinity) you want. You can suspend your demands when you want.</English>
+    <French>Vous pouvez choisir les immigrants dont vous avez besoin en Europe. Un syst&#xE8;me pratique permet de fixer la recherche d'unit&#xE9;s en pr&#xE9;cisant la quantit&#xE9; (1, 2 ou 3 &amp; infini) que vous souhaitez puis de suspendre vos demandes quand vous le souhaitez.</French>
+    <German>You can choose immigrants you need in Europe. A practical system allow you to a specific number of units (1, 2, 3 or infinity) you want. You can suspend your demands when you want.</German>
+    <Italian>You can choose immigrants you need in Europe. A practical system allow you to a specific number of units (1, 2, 3 or infinity) you want. You can suspend your demands when you want.</Italian>
+    <Spanish>You can choose immigrants you need in Europe. A practical system allow you to a specific number of units (1, 2, 3 or infinity) you want. You can suspend your demands when you want.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_121</Tag>
+    <English>The commercial part in Europe allows to have the current price (sale &amp; purchase), but also the quantity available. Just click on the "Gold" or "weight" to see this information.</English>
+    <French>La partie commerciale en Europe permet d'avoir, non seulement les prix en cours (vente &amp; achat), mais aussi les quantit&#xE9;s disponibles. Il suffit de cliquer sur "Or" ou "Poids" pour voir ces informations.</French>
+    <German>The commercial part in Europe allows to have the current price (sale &amp; purchase), but also the quantity available. Just click on the "Gold" or "weight" to see this information.</German>
+    <Italian>The commercial part in Europe allows to have the current price (sale &amp; purchase), but also the quantity available. Just click on the "Gold" or "weight" to see this information.</Italian>
+    <Spanish>The commercial part in Europe allows to have the current price (sale &amp; purchase), but also the quantity available. Just click on the "Gold" or "weight" to see this information.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_122</Tag>
+    <English>A practical system categorizes units waiting in the colony garnison. Five columns exist: Settlers, Military, Wagon, Ships and Automatic trade.</English>
+    <French>Un syst&#xE8;me pratique classe par cat&#xE9;gorie les unit&#xE9;s en attente dans la "zone de transit" de la colonie. Cinq colonnes les s&#xE9;parent : Colons, Militaires, Chariots, Navires &amp; Commerce Automatique.</French>
+    <German>A practical system categorizes units waiting in the colony garnison. Five columns exist: Settlers, Military, Wagon, Ships and Automatic trade.</German>
+    <Italian>A practical system categorizes units waiting in the colony garnison. Five columns exist: Settlers, Military, Wagon, Ships and Automatic trade.</Italian>
+    <Spanish>A practical system categorizes units waiting in the colony garnison. Five columns exist: Settlers, Military, Wagon, Ships and Automatic trade.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_123</Tag>
+    <English>Maintain good relations with the Indians is essential to secure a sustainable life on their land. Give them tools or goods regularly. Do not hesitate to propose exchanges of resources that will help you achieve substentiels profits and to sign some lucrative commercial contracts.</English>
+    <French>Entretenir de bons rapports avec les indiens est essentiel pour se fixer durablement sur leur terre. Offrez-leur des outils ou marchandises r&#xE9;guli&#xE8;rement. N'h&#xE9;sitez pas &#xE0; proposer des &#xE9;changes de ressources qui vous permettront de r&#xE9;aliser de substentiels profits et de signer des contrats commerciaux souvent tr&#xE8;s lucratifs.</French>
+    <German>Maintain good relations with the Indians is essential to secure a sustainable life on their land. Give them tools or goods regularly. Do not hesitate to propose exchanges of resources that will help you achieve substentiels profits and to sign some lucrative commercial contracts.</German>
+    <Italian>Maintain good relations with the Indians is essential to secure a sustainable life on their land. Give them tools or goods regularly. Do not hesitate to propose exchanges of resources that will help you achieve substentiels profits and to sign some lucrative commercial contracts.</Italian>
+    <Spanish>Maintain good relations with the Indians is essential to secure a sustainable life on their land. Give them tools or goods regularly. Do not hesitate to propose exchanges of resources that will help you achieve substentiels profits and to sign some lucrative commercial contracts.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_124</Tag>
+    <English>The Indians are not interested in gold. Bring their some goods, tools, fabrics, and all manufactured products.</English>
+    <French>Les indiens ne sont pas int&#xE9;ress&#xE9;s par de l'or. Apportez-leur des marchandises, outils, tissus, et tout produits manufactur&#xE9;s.</French>
+    <German>The Indians are not interested in gold. Bring their some goods, tools, fabrics, and all manufactured products.</German>
+    <Italian>The Indians are not interested in gold. Bring their some goods, tools, fabrics, and all manufactured products.</Italian>
+    <Spanish>The Indians are not interested in gold. Bring their some goods, tools, fabrics, and all manufactured products.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_125</Tag>
+    <English>There are four eras in DoaNE. Evolution of weapons, ships, buildings. Use the maximum of each.</English>
+    <French>Il y a quatre &#xE8;res dans DoaNE. Evolution des armes, des navires, des b&#xE2;timents. Exploitez au maximum chacune d'elles.</French>
+    <German>There are four eras in DoaNE. Evolution of weapons, ships, buildings. Use the maximum of each.</German>
+    <Italian>There are four eras in DoaNE. Evolution of weapons, ships, buildings. Use the maximum of each.</Italian>
+    <Spanish>There are four eras in DoaNE. Evolution of weapons, ships, buildings. Use the maximum of each.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_126</Tag>
+    <English>If you have only ordinary soldiers to defend your colonies, do not play reckless with Amerindian natives. At the first era, they are much more numerous and powerful than you.</English>
+    <French>Si vous ne poss&#xE9;dez que de simples soldats pour d&#xE9;fendre vos colonies, ne jouez pas les t&#xE9;m&#xE9;raires avec les natifs am&#xE9;rindiens. A l'&#xE8;re 1, ils sont bien plus nombreux et puissants que vous.</French>
+    <German>If you have only ordinary soldiers to defend your colonies, do not play reckless with Amerindian natives. At the first era, they are much more numerous and powerful than you.</German>
+    <Italian>If you have only ordinary soldiers to defend your colonies, do not play reckless with Amerindian natives. At the first era, they are much more numerous and powerful than you.</Italian>
+    <Spanish>If you have only ordinary soldiers to defend your colonies, do not play reckless with Amerindian natives. At the first era, they are much more numerous and powerful than you.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_127</Tag>
+    <English>The explorer who discovered new lands must transmit its findings to your civilization if you want to benefit. Bring it in one of your colonies to update your maps.</English>
+    <French>L'explorateur qui d&#xE9;couvre de nouvelles terres doit imp&#xE9;rativement transmettre ses d&#xE9;couvertes &#xE0; votre civilisation si vous souhaitez en b&#xE9;n&#xE9;ficier. Ramenez-le dans une de vos colonies pour mettre &#xE0; jour vos cartes. </French>
+    <German>The explorer who discovered new lands must transmit its findings to your civilization if you want to benefit. Bring it in one of your colonies to update your maps.</German>
+    <Italian>The explorer who discovered new lands must transmit its findings to your civilization if you want to benefit. Bring it in one of your colonies to update your maps.</Italian>
+    <Spanish>The explorer who discovered new lands must transmit its findings to your civilization if you want to benefit. Bring it in one of your colonies to update your maps.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_128</Tag>
+    <English>Explorers and ships can give maps. Feel free to use it to send your discoveries faster.</English>
+    <French>Les explorateurs et les navires peuvent se transmettre les cartes. N'h&#xE9;sitez pas &#xE0; en user pour faire parvenir plus rapidement vos d&#xE9;couvertes. </French>
+    <German>Explorers and ships can give maps. Feel free to use it to send your discoveries faster.</German>
+    <Italian>Explorers and ships can give maps. Feel free to use it to send your discoveries faster.</Italian>
+    <Spanish>Explorers and ships can give maps. Feel free to use it to send your discoveries faster.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_129</Tag>
+    <English>Explorers know how to get seedlings from the native Indians. When you will have it, those seedlings will be directly available for your civilization.</English>
+    <French>Les explorateurs pourront obtenir des plants en visitant les villages des natifs. Lorsque vous en d&#xE9;tiendrez, ces plants seront imm&#xE9;diatement disponibles pour votre civilisation.</French>
+    <German>Explorers know how to get seedlings from the native Indians. When you will have it, those seedlings will be directly available for your civilization.</German>
+    <Italian>Explorers know how to get seedlings from the native Indians. When you will have it, those seedlings will be directly available for your civilization.</Italian>
+    <Spanish>Explorers know how to get seedlings from the native Indians. When you will have it, those seedlings will be directly available for your civilization.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_130</Tag>
+    <English>When an immigrant arrives at the staging area, you must make a decision. Either you accept the price, or you negotiate. If you are agree, it goes on the docks and is awaiting departure. Do not wait too long, it may get impatient and leave.</English>
+    <French>Lorsqu'un immigrant arrive sur la zone de transit, vous devez prendre une d&#xE9;cision. Soit vous acceptez son prix, soit vous n&#xE9;gociez. Si vous vous mettez d'accord, il passe sur les docks et attend son d&#xE9;part. N'attendez pas trop longtemps, il pourrait s'impatienter et repartir. </French>
+    <German>When an immigrant arrives at the staging area, you must make a decision. Either you accept the price, or you negotiate. If you are agree, it goes on the docks and is awaiting departure. Do not wait too long, it may get impatient and leave.</German>
+    <Italian>When an immigrant arrives at the staging area, you must make a decision. Either you accept the price, or you negotiate. If you are agree, it goes on the docks and is awaiting departure. Do not wait too long, it may get impatient and leave.</Italian>
+    <Spanish>When an immigrant arrives at the staging area, you must make a decision. Either you accept the price, or you negotiate. If you are agree, it goes on the docks and is awaiting departure. Do not wait too long, it may get impatient and leave.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_131</Tag>
+    <English>During a successful fight on the seas, you have to specify whether you want to keep the cargo, corrupt passengers and / or crew and keep the ship.</English>
+    <French>Lors d'un combat victorieux sur les mers, vous aurez &#xE0; d&#xE9;finir si vous souhaitez garder la cargaison, corrompre les passagers et/ou l'&#xE9;quipage et conserver le navire.</French>
+    <German>During a successful fight on the seas, you have to specify whether you want to keep the cargo, corrupt passengers and / or crew and keep the ship.</German>
+    <Italian>During a successful fight on the seas, you have to specify whether you want to keep the cargo, corrupt passengers and / or crew and keep the ship.</Italian>
+    <Spanish>During a successful fight on the seas, you have to specify whether you want to keep the cargo, corrupt passengers and / or crew and keep the ship.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_132</Tag>
+    <English>Pirates are good hunters. They know your trade routes. Keep an eye on the horizon!</English>
+    <French>Les pirates sont de bons chasseurs. Ils connaissent parfaitement vos routes commerciales. Surveillez bien l'horizon !</French>
+    <German>Pirates are good hunters. They know your trade routes. Keep an eye on the horizon!</German>
+    <Italian>Pirates are good hunters. They know your trade routes. Keep an eye on the horizon!</Italian>
+    <Spanish>Pirates are good hunters. They know your trade routes. Keep an eye on the horizon!</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_133</Tag>
+    <English>By passing the mouse on the "Colonial attraction" parchment of the Immigration tab in Europe, you will have a detailed information of your colonies notoriety. Pay any attention to it, if you want to have a good immigration rate.</English>
+    <French>En passant la souris sur le parchemin "Attrait Colonial" de l'onglet Immigration en Europe, vous aurez une information d&#xE9;taill&#xE9;e de la notori&#xE9;t&#xE9; de vos colonies. Faites-y attention si vous souhaitez avoir un taux d'immigration satisfaisant.</French>
+    <German>By passing the mouse on the "Colonial attraction" parchment of the Immigration tab in Europe, you will have a detailed information of your colonies notoriety. Pay any attention to it, if you want to have a good immigration rate.</German>
+    <Italian>By passing the mouse on the "Colonial attraction" parchment of the Immigration tab in Europe, you will have a detailed information of your colonies notoriety. Pay any attention to it, if you want to have a good immigration rate.</Italian>
+    <Spanish>By passing the mouse on the "Colonial attraction" parchment of the Immigration tab in Europe, you will have a detailed information of your colonies notoriety. Pay any attention to it, if you want to have a good immigration rate.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_134</Tag>
+    <English>Visit the Amerindian villages with your scout and ask them to give you their corn, tobacco, cotton, cocoa and groundnuts plants.</English>
+    <French>Visitez les villages am&#xE9;rindiens avec votre explorateur et demandez-leurs de vous remettre des plants de ma&#xEF;s, tabac, coton, cacao et d'arachide.</French>
+    <German>Visit the Amerindian villages with your scout and ask them to give you their corn, tobacco, cotton, cocoa and groundnuts plants.</German>
+    <Italian>Visit the Amerindian villages with your scout and ask them to give you their corn, tobacco, cotton, cocoa and groundnuts plants.</Italian>
+    <Spanish>Visit the Amerindian villages with your scout and ask them to give you their corn, tobacco, cotton, cocoa and groundnuts plants.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_135</Tag>
+    <English>You can ask, your maritime convoys, to automatically transport the resources you want to sell in Europe. They will do round trips as convoy.</English>
+    <French>Confiez &#xE0; vos convois maritimes la charge de transporter automatiquement les ressources que vous souhaitez vendre en Europe. Ils r&#xE9;aliseront des allers-retours en groupe.</French>
+    <German>You can ask, your maritime convoys, to automatically transport the resources you want to sell in Europe. They will do round trips as convoy.</German>
+    <Italian>You can ask, your maritime convoys, to automatically transport the resources you want to sell in Europe. They will do round trips as convoy.</Italian>
+    <Spanish>You can ask, your maritime convoys, to automatically transport the resources you want to sell in Europe. They will do round trips as convoy.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_HINT_INTERFACE_136</Tag>
+    <English>Int the "Ship" tab in Europe, several crew  categories may wish to join your ranks. When one of them is present, the price that you will claim is a good indicator of his skills.</English>
+    <French>Dans l'onglet "Navire" en Europe, plusieurs cat&#xE9;gories d'&#xE9;quipage peuvent souhaiter rejoindre vos rangs. Lorsque l'un deux se pr&#xE9;sentera, le prix qu'il vous r&#xE9;clamera sera un bon indicateur de ses comp&#xE9;tences.</French>
+    <German>Int the "Ship" tab in Europe, several crew  categories may wish to join your ranks. When one of them is present, the price that you will claim is a good indicator of his skills.</German>
+    <Italian>Int the "Ship" tab in Europe, several crew  categories may wish to join your ranks. When one of them is present, the price that you will claim is a good indicator of his skills.</Italian>
+    <Spanish>Int the "Ship" tab in Europe, several crew  categories may wish to join your ranks. When one of them is present, the price that you will claim is a good indicator of his skills.</Spanish>
+  </TEXT>
+</Civ4GameText>

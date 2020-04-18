@@ -1,0 +1,33 @@
+* PiMan's New Australia & Australia Civs
+* NeverMind's New Russia & Russia Civs
+* Younflancy's New China & China Civs
+* Other changes
+	* Tax Trade Theshold doubled (can trade more before a tax rise)
+	* All units now single graphics on map
+	* No Pirates till after turn 30 (if AI controlled)
+	* Added new tag: bFromWest to indicate Civ begins on the west of the map
+* Rebel Sentiment changes
+	* Each colonist has their own RS on a percentage scale
+	* Each colony's CRS is based on each colonist's RS in the colony
+	* Global GRS is based on the RS of all units except those on the docks in Europe
+	* Producing bells has an upward effect on all colonist's RS, the more bells the more upwards movement
+	* Statemen in colonies raise the RS of units on the colony's plot on the map (eg: soldiers)
+	* RS generation takes into account gameSpeed & handicap
+	* Colonist's RS is now shown on the scale in the Revolution Advisor screen
+	* What affects colonist RS:
+		- City bell production (raises)
+		- Accepting tax rises (lowers)
+		- Not accepting tax rises (raises)
+		- Kissing pinky (lowers)
+		- Refusing to kiss pinky (raises)
+* Fixes (from 1.07)
+	* Fixed Europe screen new profession crash
+	* Doubled unit freedom times
+	* Doubled unit upskilling time
+	* Halved school fees
+	* Upgraded to official patch 1.01f
+	* Ozzy's map header fixed to allow for customising game
+	* Fixed Buy Shortfall bug where amount of yield to purchase wasn't reset if you chose not to pay
+	* "Examine City" changed to "Nevermind" on education popup to allow cancelling of education
+	* Governor won't place automated citizens in education if human player
+	* Doubled trade victory threshold

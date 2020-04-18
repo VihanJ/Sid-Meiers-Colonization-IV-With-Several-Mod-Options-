@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_DOMINATION</Tag>
+    <English>Domination</English>
+    <French>Domination</French>
+    <German>Vorherrschaft</German>
+    <Italian>Domination</Italian>
+    <Spanish>Domination</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_DOMINATION_PEDIA</Tag>
+    <English>In Colonial Times, European Powers struggled for supremacy in New World. This mod will allow you to feel a bit of that aspect of Colonization history. You will struggle against natives and European Colonies to establish the largest new nation world has ever seen.</English>
+    <French>In Colonial Times, European Powers struggled for supremacy in New World. This mod will allow you to feel a bit of that aspect of Colonization history. You will struggle against natives and European Colonies to establish the largest new nation world has ever seen.</French>
+    <German>In den Zeiten der Kolonialisierung k&#xE4;mpften die Europ&#xE4;ischen M&#xE4;chte um die Seeherrschaft in der Neuen Welt. Diese M&#xF6;glichkeiten habt Ihr auch. K&#xE4;mpft gegen die Ureinwohner und die anderen Kolonialm&#xE4;chte, um die gr&#xF6;&#xDF;te Nation in der Neuen Welt zu werden.</German>
+    <Italian>In Colonial Times, European Powers struggled for supremacy in New World. This mod will allow you to feel a bit of that aspect of Colonization history. You will struggle against natives and European Colonies to establish the largest new nation world has ever seen.</Italian>
+    <Spanish>In Colonial Times, European Powers struggled for supremacy in New World. This mod will allow you to feel a bit of that aspect of Colonization history. You will struggle against natives and European Colonies to establish the largest new nation world has ever seen.</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_CONQUEST</Tag>
+    <English>Conquest</English>
+    <French>Conquest</French>
+    <German>Eroberung</German>
+    <Italian>Conquest</Italian>
+    <Spanish>Conquest</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_CONQUEST_PEDIA</Tag>
+    <English>Eliminate all rivals</English>
+    <French>Eliminate all rivals</French>
+    <German>Vernichte alle Rivalen ...</German>
+    <Italian>Eliminate all rivals</Italian>
+    <Spanish>Eliminate all rivals</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_TRADE</Tag>
+    <English>Economic</English>
+    <French>Economic</French>
+    <German>Economic</German>
+    <Italian>Economic</Italian>
+    <Spanish>Economic</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_TRADE_PEDIA</Tag>
+    <English>Become a trading super power (total goods traded)</English>
+    <French>Become a trading super power (total goods traded)</French>
+    <German>Become a trading super power (total goods traded)</German>
+    <Italian>Become a trading super power (total goods traded)</Italian>
+    <Spanish>Become a trading super power (total goods traded)</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_TRADE_LOTS_GOODS</Tag>
+    <English>Become a trading super power (total goods traded)</English>
+    <French>Become a trading super power (total goods traded)</French>
+    <German>Become a trading super power (total goods traded)</German>
+    <Italian>Become a trading super power (total goods traded)</Italian>
+    <Spanish>Become a trading super power (total goods traded)</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_TOTAL_GOODS</Tag>
+    <English>Total goods traded:</English>
+    <French>Total goods traded:</French>
+    <German>Total goods traded:</German>
+    <Italian>Total goods traded:</Italian>
+    <Spanish>Total goods traded:</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_TRADE_OF</Tag>
+    <English>Target amount:</English>
+    <French>Target amount:</French>
+    <German>Target amount:</German>
+    <Italian>Target amount:</Italian>
+    <Spanish>Target amount:</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_PRODUCTION</Tag>
+    <English>Industrialisation</English>
+    <French>Industrialisation</French>
+    <German>Industrialisation</German>
+    <Italian>Industrialisation</Italian>
+    <Spanish>Industrialisation</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_PRODUCTION_PEDIA</Tag>
+    <English>Start the Industrial Revolution (production rate per turn)</English>
+    <French>Start the Industrial Revolution (production rate per turn)</French>
+    <German>Start the Industrial Revolution (production rate per turn)</German>
+    <Italian>Start the Industrial Revolution (production rate per turn)</Italian>
+    <Spanish>Start the Industrial Revolution (production rate per turn)</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_PRODUCTION_RATE</Tag>
+    <English>Start the Industrial Revolution (production rate per turn)</English>
+    <French>Start the Industrial Revolution (production rate per turn)</French>
+    <German>Start the Industrial Revolution (production rate per turn)</German>
+    <Italian>Start the Industrial Revolution (production rate per turn)</Italian>
+    <Spanish>Start the Industrial Revolution (production rate per turn)</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_TOTAL_PROD_RATE</Tag>
+    <English>Total production rate:</English>
+    <French>Total production rate:</French>
+    <German>Total production rate:</German>
+    <Italian>Total production rate:</Italian>
+    <Spanish>Total production rate:</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_PLUNDER</Tag>
+    <English>Pirate Plunder</English>
+    <French>Pirate Plunder</French>
+    <German>Pirate Plunder</German>
+    <Italian>Pirate Plunder</Italian>
+    <Spanish>Pirate Plunder</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_PLUNDER_PEDIA</Tag>
+    <English>Plunder ships and towns</English>
+    <French>Plunder ships and towns</French>
+    <German>Plunder ships and towns</German>
+    <Italian>Plunder ships and towns</Italian>
+    <Spanish>Plunder ships and towns</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_PLUNDER_AMOUNT</Tag>
+    <English>Plunder ships and towns</English>
+    <French>Plunder ships and towns</French>
+    <German>Plunder ships and towns</German>
+    <Italian>Plunder ships and towns</Italian>
+    <Spanish>Plunder ships and towns</Spanish>
+  </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_VICTORY_TOTAL_PLUNDER</Tag>
+    <English>Total pirate plunder:</English>
+    <French>Total pirate plunder:</French>
+    <German>Total pirate plunder:</German>
+    <Italian>Total pirate plunder:</Italian>
+    <Spanish>Total pirate plunder:</Spanish>
+  </TEXT>
+</Civ4GameText>

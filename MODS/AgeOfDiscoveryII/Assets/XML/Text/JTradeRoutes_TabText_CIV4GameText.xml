@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY</Tag>
+		<English></English>
+		<French></French>
+		<German></German>
+		<Italian></Italian>
+		<Spanish></Spanish>
+	</TEXT>
+
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_TAB_DOMESTIC_TRADE_ROUTES</Tag>
+		<English>Domestic Routes</English>
+		<French>Domestic Routes</French>
+		<German>Domestic Routes</German>
+		<Italian>Domestic Routes</Italian>
+		<Spanish>Domestic Routes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_TAB_FOREIGN_TRADE_ROUTES</Tag>
+		<English>Foreign Routes</English>
+		<French>Foreign Routes</French>
+		<German>Foreign Routes</German>
+		<Italian>Foreign Routes</Italian>
+		<Spanish>Foreign Routes</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_TAB_TRANSPORTS</Tag>
+		<English>Transports</English>
+		<French>Transports</French>
+		<German>Transports</German>
+		<Italian>Transports</Italian>
+		<Spanish>Transports</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_TAB_COMMODITIES</Tag>
+		<English>Commodities</English>
+		<French>Commodities</French>
+		<German>Commodities</German>
+		<Italian>Commodities</Italian>
+		<Spanish>Commodities</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_SCREEN_TAB_GRAPHS</Tag>
+		<English>Graphs</English>
+		<French>Graphs</French>
+		<German>Graphs</German>
+		<Italian>Graphs</Italian>
+		<Spanish>Graphs</Spanish>
+	</TEXT>
+</Civ4GameText>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Speed -->
+<!-- NOTE: If you remove any of these you need to update GameInfo/CultureLevelInfos.xml. Also you will need to update the GlobalDefines.xml if you remove GAMESPEED_STANDARD -->
+<Civ4GameSpeedInfo xmlns="x-schema:CIV4GameInfoSchema.xml">
+	<GameSpeedInfos>
+		<GameSpeedInfo>
+			<Type>GAMESPEED_NORMAL</Type>
+			<Description>TXT_KEY_GAMESPEED_NORMAL</Description>
+			<Help>TXT_KEY_GAMESPEED_NORMAL_HELP</Help>
+			<iGrowthPercent>100</iGrowthPercent>
+			<iStoragePercent>100</iStoragePercent>
+			<iTrainPercent>100</iTrainPercent>
+			<iConstructPercent>100</iConstructPercent>
+			<iGreatGeneralPercent>100</iGreatGeneralPercent>
+			<iRevolutionTurns>100</iRevolutionTurns>
+			<GameTurnInfos>
+				<GameTurnInfo>
+					<iMonthIncrement>6</iMonthIncrement>
+					<iTurnsPerIncrement>600</iTurnsPerIncrement>
+				</GameTurnInfo>
+			</GameTurnInfos>
+		</GameSpeedInfo>
+	</GameSpeedInfos>
+</Civ4GameSpeedInfo>

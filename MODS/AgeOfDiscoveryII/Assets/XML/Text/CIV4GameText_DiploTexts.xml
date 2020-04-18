@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by lcollins (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Game Text - New -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_HENRY_1</Tag>
+		<English>Hello, friend. My name is [OUR_NAME] the Navigator. Why don't we sit down with my cartographers and compare charts?</English>
+		<French>Hello, friend. My name is [OUR_NAME] the Navigator. Why don't we sit down with my cartographers and compare charts?</French>
+		<German>Hello, friend. My name is [OUR_NAME] the Navigator. Why don't we sit down with my cartographers and compare charts?</German>
+		<Italian>Hello, friend. My name is [OUR_NAME] the Navigator. Why don't we sit down with my cartographers and compare charts?</Italian>
+		<Spanish>Hello, friend. My name is [OUR_NAME] the Navigator. Why don't we sit down with my cartographers and compare charts?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_HENRY_1</Tag>
+		<English>I will now use my cunning knowledge of tactics to ignore you. </English>
+		<French>Je vais maintenant vous d&#233;montrer mes talents de strat&#232;ge en vous ignorant totalement.</French>
+		<German>Ich werde jetzt mein &#252;berragendes taktisches Wissen verwenden und Euch ignorieren.</German>
+		<Italian>Ora user&#242; la mia incredibile conoscenza della tattica per ignorarti. </Italian>
+		<Spanish>Ahora utilizar&#233; mi astuto conocimiento de la t&#225;ctica para hacer caso omiso de vos. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_NO_PEACE_LEADER_HENRY_1</Tag>
+		<English>I knew you would beg for peace eventually, but there will be no peace until you surrender.</English>
+		<French>Je savais que vous finiriez par me supplier de faire la paix, mais il n'y aura aucune paix avant votre capitulation.</French>
+		<German>Ich wusste, dass Ihr irgendwann um Frieden betteln w&#252;rdet, aber es wird erst Frieden geben, wenn Ihr Euch ergebt.</German>
+		<Italian>Sapevo che mi avresti pregato di stipulare una pace, alla fine, ma non ci sar&#224; pace fino alla tua resa.</Italian>
+		<Spanish>Sab&#237;a que, tarde o temprano, suplicar&#237;ais la paz. Pero no habr&#225; paz hasta que os rind&#225;is.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_HENRY_1</Tag>
+		<English>Finally I get to talk to a worthy adversary. What can the [OUR_EMPIRE] do for you?</English>
+		<French>Enfin un adversaire &#224; ma mesure ! Que peut faire l'[OUR_EMPIRE] pour vous ?</French>
+		<German>Endlich kann ich mich mit einem w&#252;rdigen Gegner unterhalten. Was kann das [OUR_EMPIRE:2] f&#252;r Euch tun?</German>
+		<Italian>Finalmente parlo con un degno avversario. Cosa pu&#242; fare [OUR_EMPIRE] per te?</Italian>
+		<Spanish>Por fin consigo hablar con un adversario digno. &#191;Qu&#233; puede hacer el [OUR_EMPIRE] por vos?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_HENRY_1</Tag>
+		<English>You lack the guile to trick me. Be warned I will not react well to deceit. </English>
+		<French>Vous n'&#234;tes pas assez rus&#233; pour me duper. Soyez s&#251;r que je r&#233;agirai tr&#232;s mal &#224; toute trahison.</French>
+		<German>Ihr seid nicht listig genug, um mich hereinzulegen. Ich warne Euch, ich reagiere nicht besonders erfreut auf Betrug.</German>
+		<Italian>Non sei abbastanza furbo per fregarmi. Attento: non reagisco bene agli inganni. </Italian>
+		<Spanish>Os falta astucia para enga&#241;arme. Os lo advierto: las triqui&#241;uelas no son de mi agrado. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_HENRY_1</Tag>
+		<English>The simplest strategy is for me to ask you for what we need and hope your good will wins out. </English>
+		<French>Le plus simple serait de vous demander de nous aider en esp&#233;rant que votre bonne volont&#233; fera le reste.</French>
+		<German>Es ist f&#252;r mich die einfachste Strategie, Euch um das zu bitten, was wir ben&#246;tigen, und darauf zu hoffen, dass Euer guter Wille siegt.</German>
+		<Italian>La strategia pi&#249; semplice per me &#232; chiederti quello che ci serve e sperare nella tua buona volont&#224;. </Italian>
+		<Spanish>La estrategia m&#225;s sencilla para m&#237; es pediros lo que necesitamos y rezar porque vuestra buena voluntad se imponga. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_HENRY_1</Tag>
+		<English>Our armies are evenly matched, but I believe in a battle I would win out. So that this does not occur I ask you to meet our demands.</English>
+		<French>Nos arm&#233;es sont de force &#233;gale, mais je crois que nous gagnerions en cas de guerre. Si vous voulez &#233;viter cela, veuillez acc&#233;der &#224; nos demandes.</French>
+		<German>Unsere Armeen sind ebenb&#252;rtig, aber ich denke, ich w&#252;rde einen Kampf gewinnen. Damit das nicht geschieht, solltet Ihr unseren Forderungen nachkommen.</German>
+		<Italian>I nostri eserciti si equivalgono, ma sono sicuro che in una battaglia vincerei io. Affinch&#233; ci&#242; non accada, ti chiedo di soddisfare le nostre richieste.</Italian>
+		<Spanish>Nuestros ej&#233;rcitos est&#225;n a la par, aunque creo que yo ganar&#237;a si lucharan. As&#237; que, para que esto no ocurra, os pido que satisfag&#225;is mis exigencias.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_HENRY_1</Tag>
+		<English>You are outgunned and outclassed. I suggest you give me what I demand.</English>
+		<French>Vous &#234;tes inf&#233;rieurs en nombre et en armes. Je vous sugg&#232;re de me donner ce que je veux.</French>
+		<German>Ihr seid uns in jeder Hinsicht unterlegen. Ich schlage vor, Ihr gebt mir, was ich verlange.</German>
+		<Italian>Ti supero in classe ed equipaggiamento. Ti suggerisco di darmi quello che voglio.</Italian>
+		<Spanish>Os superamos en armas y en hombres. Os sugiero que nos deis lo que exijo.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_SOUSA_1</Tag>
+		<English>Hello, friend. My name is [OUR_NAME], great commander of the [OUR_EMPIRE] expedition of the New World.</English>
+		<French>Hello, friend. My name is [OUR_NAME], great commander of the [OUR_EMPIRE] expedition of the New World.</French>
+		<German>Hello, friend. My name is [OUR_NAME], great commander of the [OUR_EMPIRE] expedition of the New World.</German>
+		<Italian>Hello, friend. My name is [OUR_NAME], great commander of the [OUR_EMPIRE] expedition of the New World.</Italian>
+		<Spanish>Hello, friend. My name is [OUR_NAME], great commander of the [OUR_EMPIRE] expedition of the New World.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_SOUSA_1</Tag>
+		<English>I will now use my cunning knowledge of tactics to ignore you. </English>
+		<French>Je vais maintenant vous d&#233;montrer mes talents de strat&#232;ge en vous ignorant totalement.</French>
+		<German>Ich werde jetzt mein &#252;berragendes taktisches Wissen verwenden und Euch ignorieren.</German>
+		<Italian>Ora user&#242; la mia incredibile conoscenza della tattica per ignorarti. </Italian>
+		<Spanish>Ahora utilizar&#233; mi astuto conocimiento de la t&#225;ctica para hacer caso omiso de vos. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_NO_PEACE_LEADER_SOUSA_1</Tag>
+		<English>I knew you would beg for peace eventually, but there will be no peace until you surrender.</English>
+		<French>Je savais que vous finiriez par me supplier de faire la paix, mais il n'y aura aucune paix avant votre capitulation.</French>
+		<German>Ich wusste, dass Ihr irgendwann um Frieden betteln w&#252;rdet, aber es wird erst Frieden geben, wenn Ihr Euch ergebt.</German>
+		<Italian>Sapevo che mi avresti pregato di stipulare una pace, alla fine, ma non ci sar&#224; pace fino alla tua resa.</Italian>
+		<Spanish>Sab&#237;a que, tarde o temprano, suplicar&#237;ais la paz. Pero no habr&#225; paz hasta que os rind&#225;is.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_SOUSA_1</Tag>
+		<English>Finally I get to talk to a worthy adversary. What can the [OUR_EMPIRE] do for you?</English>
+		<French>Enfin un adversaire &#224; ma mesure ! Que peut faire l'[OUR_EMPIRE] pour vous ?</French>
+		<German>Endlich kann ich mich mit einem w&#252;rdigen Gegner unterhalten. Was kann das [OUR_EMPIRE:2] f&#252;r Euch tun?</German>
+		<Italian>Finalmente parlo con un degno avversario. Cosa pu&#242; fare [OUR_EMPIRE] per te?</Italian>
+		<Spanish>Por fin consigo hablar con un adversario digno. &#191;Qu&#233; puede hacer el [OUR_EMPIRE] por vos?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_SOUSA_1</Tag>
+		<English>You lack the guile to trick me. Be warned I will not react well to deceit. </English>
+		<French>Vous n'&#234;tes pas assez rus&#233; pour me duper. Soyez s&#251;r que je r&#233;agirai tr&#232;s mal &#224; toute trahison.</French>
+		<German>Ihr seid nicht listig genug, um mich hereinzulegen. Ich warne Euch, ich reagiere nicht besonders erfreut auf Betrug.</German>
+		<Italian>Non sei abbastanza furbo per fregarmi. Attento: non reagisco bene agli inganni. </Italian>
+		<Spanish>Os falta astucia para enga&#241;arme. Os lo advierto: las triqui&#241;uelas no son de mi agrado. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_SOUSA_1</Tag>
+		<English>The simplest strategy is for me to ask you for what we need and hope your good will wins out. </English>
+		<French>Le plus simple serait de vous demander de nous aider en esp&#233;rant que votre bonne volont&#233; fera le reste.</French>
+		<German>Es ist f&#252;r mich die einfachste Strategie, Euch um das zu bitten, was wir ben&#246;tigen, und darauf zu hoffen, dass Euer guter Wille siegt.</German>
+		<Italian>La strategia pi&#249; semplice per me &#232; chiederti quello che ci serve e sperare nella tua buona volont&#224;. </Italian>
+		<Spanish>La estrategia m&#225;s sencilla para m&#237; es pediros lo que necesitamos y rezar porque vuestra buena voluntad se imponga. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_SOUSA_1</Tag>
+		<English>Our armies are evenly matched, but I believe in a battle I would win out. So that this does not occur I ask you to meet our demands.</English>
+		<French>Nos arm&#233;es sont de force &#233;gale, mais je crois que nous gagnerions en cas de guerre. Si vous voulez &#233;viter cela, veuillez acc&#233;der &#224; nos demandes.</French>
+		<German>Unsere Armeen sind ebenb&#252;rtig, aber ich denke, ich w&#252;rde einen Kampf gewinnen. Damit das nicht geschieht, solltet Ihr unseren Forderungen nachkommen.</German>
+		<Italian>I nostri eserciti si equivalgono, ma sono sicuro che in una battaglia vincerei io. Affinch&#233; ci&#242; non accada, ti chiedo di soddisfare le nostre richieste.</Italian>
+		<Spanish>Nuestros ej&#233;rcitos est&#225;n a la par, aunque creo que yo ganar&#237;a si lucharan. As&#237; que, para que esto no ocurra, os pido que satisfag&#225;is mis exigencias.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_SOUSA_1</Tag>
+		<English>You are outgunned and outclassed. I suggest you give me what I demand.</English>
+		<French>Vous &#234;tes inf&#233;rieurs en nombre et en armes. Je vous sugg&#232;re de me donner ce que je veux.</French>
+		<German>Ihr seid uns in jeder Hinsicht unterlegen. Ich schlage vor, Ihr gebt mir, was ich verlange.</German>
+		<Italian>Ti supero in classe ed equipaggiamento. Ti suggerisco di darmi quello che voglio.</Italian>
+		<Spanish>Os superamos en armas y en hombres. Os sugiero que nos deis lo que exijo.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_MORGAN_1</Tag>
+		<English>Welcome to [OUR_CIV_SHORT], I am Captain [OUR_NAME]. Life's pretty good, and why wouldn't it be? I'm a pirate, after all.</English>
+		<French>Welcome to [OUR_CIV_SHORT], I am Captain [OUR_NAME]. Life's pretty good, and why wouldn't it be? I'm a pirate, after all.</French>
+		<German>Welcome to [OUR_CIV_SHORT], I am Captain [OUR_NAME]. Life's pretty good, and why wouldn't it be? I'm a pirate, after all.</German>
+		<Italian>Welcome to [OUR_CIV_SHORT], I am Captain [OUR_NAME]. Life's pretty good, and why wouldn't it be? I'm a pirate, after all.</Italian>
+		<Spanish>Welcome to [OUR_CIV_SHORT], I am Captain [OUR_NAME]. Life's pretty good, and why wouldn't it be? I'm a pirate, after all.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_MORGAN_1</Tag>
+		<English>I will now use my cunning knowledge of tactics to ignore you. </English>
+		<French>Je vais maintenant vous d&#233;montrer mes talents de strat&#232;ge en vous ignorant totalement.</French>
+		<German>Ich werde jetzt mein &#252;berragendes taktisches Wissen verwenden und Euch ignorieren.</German>
+		<Italian>Ora user&#242; la mia incredibile conoscenza della tattica per ignorarti. </Italian>
+		<Spanish>Ahora utilizar&#233; mi astuto conocimiento de la t&#225;ctica para hacer caso omiso de vos. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_NO_PEACE_LEADER_MORGAN_1</Tag>
+		<English>I knew you would beg for peace eventually, but there will be no peace until you surrender.</English>
+		<French>Je savais que vous finiriez par me supplier de faire la paix, mais il n'y aura aucune paix avant votre capitulation.</French>
+		<German>Ich wusste, dass Ihr irgendwann um Frieden betteln w&#252;rdet, aber es wird erst Frieden geben, wenn Ihr Euch ergebt.</German>
+		<Italian>Sapevo che mi avresti pregato di stipulare una pace, alla fine, ma non ci sar&#224; pace fino alla tua resa.</Italian>
+		<Spanish>Sab&#237;a que, tarde o temprano, suplicar&#237;ais la paz. Pero no habr&#225; paz hasta que os rind&#225;is.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_MORGAN_1</Tag>
+		<English>Finally I get to talk to a worthy adversary. What can the [OUR_EMPIRE] do for you?</English>
+		<French>Enfin un adversaire &#224; ma mesure ! Que peut faire l'[OUR_EMPIRE] pour vous ?</French>
+		<German>Endlich kann ich mich mit einem w&#252;rdigen Gegner unterhalten. Was kann das [OUR_EMPIRE:2] f&#252;r Euch tun?</German>
+		<Italian>Finalmente parlo con un degno avversario. Cosa pu&#242; fare [OUR_EMPIRE] per te?</Italian>
+		<Spanish>Por fin consigo hablar con un adversario digno. &#191;Qu&#233; puede hacer el [OUR_EMPIRE] por vos?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_MORGAN_1</Tag>
+		<English>You lack the guile to trick me. Be warned I will not react well to deceit. </English>
+		<French>Vous n'&#234;tes pas assez rus&#233; pour me duper. Soyez s&#251;r que je r&#233;agirai tr&#232;s mal &#224; toute trahison.</French>
+		<German>Ihr seid nicht listig genug, um mich hereinzulegen. Ich warne Euch, ich reagiere nicht besonders erfreut auf Betrug.</German>
+		<Italian>Non sei abbastanza furbo per fregarmi. Attento: non reagisco bene agli inganni. </Italian>
+		<Spanish>Os falta astucia para enga&#241;arme. Os lo advierto: las triqui&#241;uelas no son de mi agrado. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_MORGAN_1</Tag>
+		<English>The simplest strategy is for me to ask you for what we need and hope your good will wins out. </English>
+		<French>Le plus simple serait de vous demander de nous aider en esp&#233;rant que votre bonne volont&#233; fera le reste.</French>
+		<German>Es ist f&#252;r mich die einfachste Strategie, Euch um das zu bitten, was wir ben&#246;tigen, und darauf zu hoffen, dass Euer guter Wille siegt.</German>
+		<Italian>La strategia pi&#249; semplice per me &#232; chiederti quello che ci serve e sperare nella tua buona volont&#224;. </Italian>
+		<Spanish>La estrategia m&#225;s sencilla para m&#237; es pediros lo que necesitamos y rezar porque vuestra buena voluntad se imponga. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_MORGAN_1</Tag>
+		<English>Our armies are evenly matched, but I believe in a battle I would win out. So that this does not occur I ask you to meet our demands.</English>
+		<French>Nos arm&#233;es sont de force &#233;gale, mais je crois que nous gagnerions en cas de guerre. Si vous voulez &#233;viter cela, veuillez acc&#233;der &#224; nos demandes.</French>
+		<German>Unsere Armeen sind ebenb&#252;rtig, aber ich denke, ich w&#252;rde einen Kampf gewinnen. Damit das nicht geschieht, solltet Ihr unseren Forderungen nachkommen.</German>
+		<Italian>I nostri eserciti si equivalgono, ma sono sicuro che in una battaglia vincerei io. Affinch&#233; ci&#242; non accada, ti chiedo di soddisfare le nostre richieste.</Italian>
+		<Spanish>Nuestros ej&#233;rcitos est&#225;n a la par, aunque creo que yo ganar&#237;a si lucharan. As&#237; que, para que esto no ocurra, os pido que satisfag&#225;is mis exigencias.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_MORGAN_1</Tag>
+		<English>You are outgunned and outclassed. I suggest you give me what I demand.</English>
+		<French>Vous &#234;tes inf&#233;rieurs en nombre et en armes. Je vous sugg&#232;re de me donner ce que je veux.</French>
+		<German>Ihr seid uns in jeder Hinsicht unterlegen. Ich schlage vor, Ihr gebt mir, was ich verlange.</German>
+		<Italian>Ti supero in classe ed equipaggiamento. Ti suggerisco di darmi quello che voglio.</Italian>
+		<Spanish>Os superamos en armas y en hombres. Os sugiero que nos deis lo que exijo.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_FIRST_CONTACT_LEADER_ROBERTS_1</Tag>
+		<English>Welcome to [OUR_CIV_SHORT], I am Captain [OUR_NAME]. Life's pretty good, and why wouldn't it be? I'm a pirate, after all.</English>
+		<French>Welcome to [OUR_CIV_SHORT], I am Captain [OUR_NAME]. Life's pretty good, and why wouldn't it be? I'm a pirate, after all.</French>
+		<German>Welcome to [OUR_CIV_SHORT], I am Captain [OUR_NAME]. Life's pretty good, and why wouldn't it be? I'm a pirate, after all.</German>
+		<Italian>Welcome to [OUR_CIV_SHORT], I am Captain [OUR_NAME]. Life's pretty good, and why wouldn't it be? I'm a pirate, after all.</Italian>
+		<Spanish>Welcome to [OUR_CIV_SHORT], I am Captain [OUR_NAME]. Life's pretty good, and why wouldn't it be? I'm a pirate, after all.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_REFUSE_TO_TALK_LEADER_ROBERTS_1</Tag>
+		<English>I will now use my cunning knowledge of tactics to ignore you. </English>
+		<French>Je vais maintenant vous d&#233;montrer mes talents de strat&#232;ge en vous ignorant totalement.</French>
+		<German>Ich werde jetzt mein &#252;berragendes taktisches Wissen verwenden und Euch ignorieren.</German>
+		<Italian>Ora user&#242; la mia incredibile conoscenza della tattica per ignorarti. </Italian>
+		<Spanish>Ahora utilizar&#233; mi astuto conocimiento de la t&#225;ctica para hacer caso omiso de vos. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_NO_PEACE_LEADER_ROBERTS_1</Tag>
+		<English>I knew you would beg for peace eventually, but there will be no peace until you surrender.</English>
+		<French>Je savais que vous finiriez par me supplier de faire la paix, mais il n'y aura aucune paix avant votre capitulation.</French>
+		<German>Ich wusste, dass Ihr irgendwann um Frieden betteln w&#252;rdet, aber es wird erst Frieden geben, wenn Ihr Euch ergebt.</German>
+		<Italian>Sapevo che mi avresti pregato di stipulare una pace, alla fine, ma non ci sar&#224; pace fino alla tua resa.</Italian>
+		<Spanish>Sab&#237;a que, tarde o temprano, suplicar&#237;ais la paz. Pero no habr&#225; paz hasta que os rind&#225;is.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FR_LEADER_ROBERTS_1</Tag>
+		<English>Finally I get to talk to a worthy adversary. What can the [OUR_EMPIRE] do for you?</English>
+		<French>Enfin un adversaire &#224; ma mesure ! Que peut faire l'[OUR_EMPIRE] pour vous ?</French>
+		<German>Endlich kann ich mich mit einem w&#252;rdigen Gegner unterhalten. Was kann das [OUR_EMPIRE:2] f&#252;r Euch tun?</German>
+		<Italian>Finalmente parlo con un degno avversario. Cosa pu&#242; fare [OUR_EMPIRE] per te?</Italian>
+		<Spanish>Por fin consigo hablar con un adversario digno. &#191;Qu&#233; puede hacer el [OUR_EMPIRE] por vos?</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_GREETINGS_ATT_FUR_LEADER_ROBERTS_1</Tag>
+		<English>You lack the guile to trick me. Be warned I will not react well to deceit. </English>
+		<French>Vous n'&#234;tes pas assez rus&#233; pour me duper. Soyez s&#251;r que je r&#233;agirai tr&#232;s mal &#224; toute trahison.</French>
+		<German>Ihr seid nicht listig genug, um mich hereinzulegen. Ich warne Euch, ich reagiere nicht besonders erfreut auf Betrug.</German>
+		<Italian>Non sei abbastanza furbo per fregarmi. Attento: non reagisco bene agli inganni. </Italian>
+		<Spanish>Os falta astucia para enga&#241;arme. Os lo advierto: las triqui&#241;uelas no son de mi agrado. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_WEAKER_ROBERTS_1</Tag>
+		<English>The simplest strategy is for me to ask you for what we need and hope your good will wins out. </English>
+		<French>Le plus simple serait de vous demander de nous aider en esp&#233;rant que votre bonne volont&#233; fera le reste.</French>
+		<German>Es ist f&#252;r mich die einfachste Strategie, Euch um das zu bitten, was wir ben&#246;tigen, und darauf zu hoffen, dass Euer guter Wille siegt.</German>
+		<Italian>La strategia pi&#249; semplice per me &#232; chiederti quello che ci serve e sperare nella tua buona volont&#224;. </Italian>
+		<Spanish>La estrategia m&#225;s sencilla para m&#237; es pediros lo que necesitamos y rezar porque vuestra buena voluntad se imponga. </Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_EQUAL_ROBERTS_1</Tag>
+		<English>Our armies are evenly matched, but I believe in a battle I would win out. So that this does not occur I ask you to meet our demands.</English>
+		<French>Nos arm&#233;es sont de force &#233;gale, mais je crois que nous gagnerions en cas de guerre. Si vous voulez &#233;viter cela, veuillez acc&#233;der &#224; nos demandes.</French>
+		<German>Unsere Armeen sind ebenb&#252;rtig, aber ich denke, ich w&#252;rde einen Kampf gewinnen. Damit das nicht geschieht, solltet Ihr unseren Forderungen nachkommen.</German>
+		<Italian>I nostri eserciti si equivalgono, ma sono sicuro che in una battaglia vincerei io. Affinch&#233; ci&#242; non accada, ti chiedo di soddisfare le nostre richieste.</Italian>
+		<Spanish>Nuestros ej&#233;rcitos est&#225;n a la par, aunque creo que yo ganar&#237;a si lucharan. As&#237; que, para que esto no ocurra, os pido que satisfag&#225;is mis exigencias.</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>AI_DIPLO_DEMAND_TRIBUTE_POWER_STRONGER_ROBERTS_1</Tag>
+		<English>You are outgunned and outclassed. I suggest you give me what I demand.</English>
+		<French>Vous &#234;tes inf&#233;rieurs en nombre et en armes. Je vous sugg&#232;re de me donner ce que je veux.</French>
+		<German>Ihr seid uns in jeder Hinsicht unterlegen. Ich schlage vor, Ihr gebt mir, was ich verlange.</German>
+		<Italian>Ti supero in classe ed equipaggiamento. Ti suggerisco di darmi quello che voglio.</Italian>
+		<Spanish>Os superamos en armas y en hombres. Os sugiero que nos deis lo que exijo.</Spanish>
+	</TEXT>
+</Civ4GameText>
